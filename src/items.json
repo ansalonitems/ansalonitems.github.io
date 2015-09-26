@@ -353,5 +353,201 @@
         "weight": "1 lbs",
         "value": 2000,
         "level": 25
+    },
+    {
+        "id": 23,
+        "date": "2015-09-26T14:02:40+0000",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|    ######            ^##   | \n|    #....#            #.#   |      \n|    #.##.#            #.v   |    \n| ####.##.####      ####.####|    \n| #.....#....|      #.......#|    \n| ##########.#      ####.##.#|    \n|          #.####   ####.##.#|    \n|          #...*#   #....##..|    \n|          #.####   ####.####|    \n|          #.#         #.#   |    \n|          |.|         #.|   |    \n|          #.#         #.#   |    \n|          #.#####-#####.#   |    \n|          #.............#   |    \n|          #######.#######   |    \n| An office                  |\n+----------------------------+",
+        "description": "A nice looking letter opener is here.",
+        "materials": [
+            "steel",
+            "wood"
+        ],
+        "name": "a steel letter opener",
+        "slot": "wielded",
+        "keywords": [
+            "letter",
+            "opener"
+        ],
+        "type": "weapon",
+        "weaponType": "dagger",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 2095,
+        "level": 34,
+        "damage": 20,
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "date": "2015-09-26T14:03:50+0000",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n| ####.##.####               | \n| #.....#....|               |      \n| ##########.#               |    \n|          #.####            |    \n|          #....#            |    \n|          #.####            |    \n|          #.####            |    \n|          |...*#            |    \n|          #.##.#            |    \n|          #.##.#   ###      |    \n|          #..#.#   #.#      |    \n|          ####.#   #.#      |    \n|             #.#####.#      |    \n|             #.......#      |    \n|             ####-####      |    \n| A secret passage           |\n+----------------------------+",
+        "description": "There is a copper shoulderpads of Solamnian make is laying on the ground.",
+        "materials": [
+            "copper"
+        ],
+        "name": "a copper shoulder guards",
+        "slot": "shoulder",
+        "keywords": [
+            "randarmor",
+            "a",
+            "copper",
+            "shoulder",
+            "guards"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs",
+        "value": 165,
+        "level": 30,
+        "armor type": "light metal",
+        "armor class": "14 pierce, 14 bash, 15 slash, 14 magic",
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hp": 6
+            },
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "date": "2015-09-26T14:04:22+0000",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n| ####.##.####               | \n| #.....#....|               |      \n| ##########.#               |    \n|          #.####            |    \n|          #....#            |    \n|          #.####            |    \n|          #.####            |    \n|          |...*#            |    \n|          #.##.#            |    \n|          #.##.#   ###      |    \n|          #..#.#   #.#      |    \n|          ####.#   #.#      |    \n|             #.#####.#      |    \n|             #.......#      |    \n|             ####-####      |    \n| A secret passage           |\n+----------------------------+",
+        "description": "There is a wood band of Solamnian make is laying on the ground.",
+        "materials": [
+            "wood"
+        ],
+        "name": "a wood bracelet of elvish design",
+        "slot": "right wrist",
+        "keywords": [
+            "randarmor",
+            "a",
+            "wood",
+            "bracelet",
+            "of",
+            "elvish",
+            "design"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs",
+        "value": 78,
+        "level": 30,
+        "armor type": "leather",
+        "armor class": "15 pierce, 14 bash, 17 slash, 16 magic",
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "moves": 6
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "date": "2015-09-26T14:07:25+0000",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n| ###            ^##         | \n| ..#            #.#         |      \n| #.#            #.v         |    \n| #.#######   ####.####      |    \n| #....|..#   #.......#      |    \n| ####.##.#   ####.##.#      |    \n|    #.##.#   ####.##.#      |    \n|    #..#.#   #*#..##..      |    \n|    #.##.#   #.##.####      |    \n|    #.##.#####.##.#         |    \n|    |..#.......##.|         |    \n|    #.#####.#####.#         |    \n|    #.#####.#####.#         |    \n|    #.............#         |    \n|    #######.#######         |    \n| A secret passage           |\n+----------------------------+",
+        "description": "There is a iron emblem of Solamnian make is laying on the ground.",
+        "materials": [
+            "iron"
+        ],
+        "name": "a iron book",
+        "slot": "held",
+        "keywords": [
+            "randarmor",
+            "a",
+            "iron",
+            "book"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 247,
+        "level": 35,
+        "armor type": "metal",
+        "armor class": "18 pierce, 18 bash, 18 slash, 18 magic",
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "moves": 4
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "date": "2015-09-26T14:08:51+0000",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|          #.####      ^##   | \n|          #....#      #.#   |      \n|          #.####      #.v   |    \n|          #.####   ####.####|    \n|          |....#   #.......#|    \n|          #.##.#   ####.##.#|    \n|          #.##.#   ####.##.#|    \n|          #..#*#   #.#..##..|    \n|          ####.#   #.##.####|    \n|             #.#####.##.#   |    \n|             #.......##.|   |    \n|             ####.#####.#   |    \n|             ####.#####.#   |    \n|             ...........#   |    \n|             ####.#######   |    \n| Along the passage          |\n+----------------------------+",
+        "description": "There is a devout scale book of Solamnian make is laying on the ground.",
+        "materials": [
+            "scale"
+        ],
+        "name": "a devout scale emblem",
+        "slot": "held",
+        "keywords": [
+            "randarmor",
+            "a",
+            "devout",
+            "scale",
+            "emblem"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 3 oz",
+        "value": 85,
+        "level": 35,
+        "armor type": "light metal",
+        "armor class": "17 pierce, 16 bash, 17 slash, 18 magic",
+        "effects": [
+            {
+                "moves": 4
+            },
+            {
+                "mana": 6
+            },
+            {
+                "strength": 1
+            }
+        ]
     }
 ]
