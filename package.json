@@ -1,0 +1,42 @@
+{
+  "name": "ansalonitems.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "rm -rf public && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansalonitems/ansalonitems.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansalonitems/ansalonitems.github.io/issues"
+  },
+  "homepage": "https://github.com/ansalonitems/ansalonitems.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "6.0.3",
+    "babel": "5.8.23",
+    "babel-core": "5.8.25",
+    "babel-loader": "5.3.2",
+    "css-loader": "0.19.0",
+    "file-loader": "0.8.4",
+    "hjs-webpack": "2.13.1",
+    "json-loader": "0.5.3",
+    "postcss-loader": "0.6.0",
+    "react-hot-loader": "1.3.0",
+    "style-loader": "0.12.4",
+    "stylus-loader": "1.3.0",
+    "url-loader": "0.5.6",
+    "webpack": "1.12.2",
+    "webpack-dev-server": "1.12.0"
+  },
+  "dependencies": {
+    "ampersand-router": "3.0.2",
+    "react": "0.13.3",
+    "yeticss": "7.0.5"
+  }
+}
