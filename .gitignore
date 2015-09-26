@@ -1,0 +1,7 @@
+npm-debug*
+*~
+.DS_Store
+public
+.idea
+*.iml
+node_modules
