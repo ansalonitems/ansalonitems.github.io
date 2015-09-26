@@ -1,24 +1,27 @@
 require('./styles.styl')
-var React = require('react')
-var AmpRouter = require('ampersand-router')
-var HomePage = require('./home-page')
-var OtherPage = require('./other-page')
 
-var Router = AmpRouter.extend({
+import React from 'react'
+import AmpRouter from 'ampersand-router'
+import HomePage from './home-page.js'
+import ItemPage from './item-page.js'
+
+const Router = AmpRouter.extend({
   routes: {
     '': 'home',
-    'other': 'other'
+    'items/:id': 'item',
+    ':fallback': 'home'
   },
 
-  home: function () {
+  home() {
     React.render(<HomePage/>, document.body)
   },
 
-  other: function () {
-    React.render(<OtherPage/>, document.body)
-  }
+  item(id) {
+    React.render(<ItemPage id={parseInt(id, 10)}/>, document.body)
+  },
+
 })
 
-var router = new Router()
+const router = new Router()
 window.router = router
 router.history.start()

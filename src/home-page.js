@@ -1,23 +1,25 @@
-var React = require('react')
+'use strict'
 
-module.exports = React.createClass({
-    displayName: 'HomePage',
-    // quick and dirty internal nav handler
-    onClick: function (e) {
-      e.preventDefault()
-      window.router.history.navigate('/other')
-    },
-    render() {
+import React from 'react'
+import PageComponent from './page-component.js'
+import Link from './link.js'
+import items from './items.json'
+
+export default React.createClass({
+  displayName: 'HomePage',
+
+  render() {
+    const links = items.map( item => {
       return (
-        <div className='container'>
-          <header role='banner'>
-            <h1>Pre-rendering example</h1>
-          </header>
-          <a href='/other' onClick={this.onClick}>go to /other</a>
-          <p>Note that navigating between these two pages also works <em><strong>with JS off</strong></em></p>
-          <p>During dev things are handled by catchall/generated/live-reloaded dev-server</p>
-          <p>During <strong>build</strong> homepage and layout are pre-rendered.</p>
+        <div key={item.id}>
+          <Link href={`items/${item.id}`}>{item.name}</Link>
         </div>
-      )
-    }
+      )}
+    )
+    return (
+      <PageComponent>
+        {links}
+      </PageComponent>
+    )
+  }
 })
