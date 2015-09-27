@@ -1,7 +1,7 @@
 [
     {
         "id": 10,
-        "date": "2015-09-24T23:55:06+0000",
+        "date": "09/24/2015",
         "zone": "Palanthas",
         "map": "+----------------------------+\n| Palanthas                  |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#      ###      |\n|          ...      #.#      |\n|          #.#      #.#      |\n| ##########.########.#######|\n| .............*............#|\n| ###################-#####.#|\n|                         #.#|\n|                         #..|\n|                         #.#|\n|                   #######.#|\n|                   #.......#|\n|                   #######.#|\n| Diamond Way Northeast      |\n+----------------------------+",
         "description": "A small brown sack lays here. It has the letters SD stitched on the sides.",
@@ -26,7 +26,7 @@
     },
     {
         "id": 11,
-        "date": "2015-09-24T23:55:52+0000",
+        "date": "09/24/2015",
         "zone": "Palanthas",
         "map": "+----------------------------+\n| Palanthas                  |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#      ###            |\n|    ...      #.#            |\n|    #.#      #.#            |\n| ####.########.#######      |\n| .............*......#      |\n| #############-#####.#      |\n|                   #.##..   |\n|                   #.....   |\n|                   #.####   |\n|             #######.#      |\n|             #.......#      |\n|             #######.#      |\n| Diamond Way Northeast      |\n+----------------------------+",
         "description": "A long stick, with multiple rotating steel spikes on the end, lays here.",
@@ -41,7 +41,7 @@
             "trashpickerupper"
         ],
         "type": "weapon",
-        "weaponType": "exotic",
+        "weapon type": "exotic",
         "flags": [
             "none"
         ],
@@ -52,7 +52,7 @@
     },
     {
         "id": 12,
-        "date": "2015-09-25T03:47:39+0000",
+        "date": "09/24/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|       #.#   #.##.##.#      |\n|       #.#   #........      |\n|       #.#   #.##.##.#      |\n|       #.#   #.##.##.##.####|\n|       #.#   #.##.##.#.....#|\n|       #.#   ####.##.##.####|\n|       #.#   ####.##.##.####|\n|       #.#   #*............#|\n|       #.#   #.##-##.##.##.#|\n|    ####.#####.#   #.##.##.#|\n|    .........#.#   #.##.##.#|\n|    ####.v####.#   #.#####.#|\n|       #.#   #.#   #.#   #.#|\n|       #.#   #..   #.#   ..#|\n|       #.#   #.#   #.#   #.#|\n| Noble at Mansion Street    |\n+----------------------------+",
         "description": "A small jug sits here.\nIt's more than half-filled with a clear liquid.",
@@ -76,7 +76,7 @@
     },
     {
         "id": 13,
-        "date": "2015-09-25T03:47:53+0000",
+        "date": "09/24/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|       #.#   #.##.##.#      |\n|       #.#   #........      |\n|       #.#   #.##.##.#      |\n|       #.#   #.##.##.##.####|\n|       #.#   #.##.##.#.....#|\n|       #.#   ####.##.##.####|\n|       #.#   ####.##.##.####|\n|       #.#   #*............#|\n|       #.#   #.##-##.##.##.#|\n|    ####.#####.#   #.##.##.#|\n|    .........#.#   #.##.##.#|\n|    ####.v####.#   #.#####.#|\n|       #.#   #.#   #.#   #.#|\n|       #.#   #..   #.#   ..#|\n|       #.#   #.#   #.#   #.#|\n| Noble at Mansion Street    |\n+----------------------------+",
         "description": "A small golden ball is here.",
@@ -108,7 +108,7 @@
     },
     {
         "id": 14,
-        "date": "2015-09-25T23:50:15+0000",
+        "date": "09/25/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#   ####-##-##-####      |\n| #.#   #......*......#      |\n| #.#   #.##-##.##-##.#      |\n| #.#####.#   #.#   #.#      |\n| ......#.#   #.#   #.#      |\n| #.v####.#   #.#   #.#      |\n| #.#   #.#   #.#   #.#      |\n| #.#   #..   #.#   ..#      |\n| #.#   #.#   #.#   #.#      |\n| Montgomery at Mansion Str  |\n+----------------------------+",
         "description": "There is a leather buckler of Solamnian make is laying on the ground.",
@@ -132,7 +132,12 @@
         "value": 89,
         "level": 8,
         "armor type": "leather",
-        "armor class": "3 pierce, 4 bash, 3 slash, 3 magic",
+        "armor class": [
+            "3 pierce",
+            "4 bash",
+            "3 slash",
+            "3 magic"
+        ],
         "effects": [
             {
                 "intelligence": 1
@@ -141,7 +146,7 @@
     },
     {
         "id": 15,
-        "date": "2015-09-25T23:52:09+0000",
+        "date": "09/25/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#   ####-##-##-####      |\n| #.#   #.............#      |\n| #.#   #.##-##.##-##.#      |\n| #.#####.#   #.#   #.#      |\n| ......#.#   #*#   #.#      |\n| #.v####.#   #.#   #.#      |\n| #.#   #.#   #.#   #.#      |\n| #.#   #..   #.#   ..#      |\n| #.#   #.#   #.#   #.#      |\n| #.#####.##-##.##-##.#      |\n| #...................#      |\n| #.#####.##.########.#      |\n| Montgomery Street          |\n+----------------------------+",
         "description": "An expensive blue hat is here.",
@@ -163,7 +168,12 @@
         "value": 1000,
         "level": 22,
         "armor type": "magic",
-        "armor class": "1 pierce, 1 bash, 1 slash, 5 magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "5 magic"
+        ],
         "effects": [
             {
                 "mana": 20
@@ -178,7 +188,7 @@
     },
     {
         "id": 16,
-        "date": "2015-09-26T00:07:14+0000",
+        "date": "09/25/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|             ######         |\n|             #....#         |\n|             #.##.#         |\n|          ####.####         |\n|          #...*...#         |\n|          #########         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Administrative Assist  |\n+----------------------------+",
         "description": "A very long office report looks like a very boring read.",
@@ -212,7 +222,7 @@
     },
     {
         "id": 17,
-        "date": "2015-09-26T00:09:58+0000",
+        "date": "09/25/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|             ######         |\n|             #....#         |\n|             #.##.#         |\n|          ####.####         |\n|          #...*...#         |\n|          #########         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Administrative Assist  |\n+----------------------------+",
         "description": "A gold figure of a Rat sits here.",
@@ -237,7 +247,7 @@
     },
     {
         "id": 19,
-        "date": "2015-09-26T01:17:41+0000",
+        "date": "09/25/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n| #.#######   ####.####      |\n| #....||.#   #.......#      |\n| ####.##.#   ####.##.#      |\n|    #.##.#      #.##.#      |\n|    #..#.#      ..##..      |\n|    #.##.#      #.####      |\n|    #.##.#####.##.#         |\n|    |.|#......*##.|         |\n|    #.#####.#####.#         |\n|    #.#####.#####.#         |\n|    #.............#         |\n|    #######.#######         |\n|    ####.##.#               |\n|    #.....#.#               |\n|    ##v#.##.#               |\n| Along the passage          |\n+----------------------------+",
         "description": "A white sacramental robe catches your eye.",
@@ -245,7 +255,7 @@
             "cloth"
         ],
         "name": "sacramental robes",
-        "slot": "entire body",
+        "slot": "body",
         "keywords": [
             "sacramental",
             "robe"
@@ -258,7 +268,12 @@
         "value": 1000,
         "level": 35,
         "armor type": "magic",
-        "armor class": "10 pierce, 10 bash, 10 slash, 5 magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "5 magic"
+        ],
         "effects": [
             {
                 "damage roll": 2
@@ -270,7 +285,7 @@
     },
     {
         "id": 20,
-        "date": "2015-09-26T01:20:09+0000",
+        "date": "09/25/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|    ######            ^##   |\n|    #....#            #.#   |\n|    #.##.#            #.v   |\n|    #.##.#######   ####.####|\n|    |.|#....||.#   #.......#|\n|    #######.##.#   ####.##.#|\n|          #.##.#   ####.##.#|\n|          #..#*#   #.#..##..|\n|          #.##.#   #.##.####|\n|          #.##.#####.##.#   |\n|          |.|#.......##.|   |\n|          #.#####.#####.#   |\n|          #.#####.#####.#   |\n|          #.............#   |\n|          #######.#######   |\n| Along the passage          |\n+----------------------------+",
         "description": "This cloister neckpiece goes aroung the back of the neck and hangs down both sides of the chest.",
@@ -291,7 +306,12 @@
         "value": 1200,
         "level": 30,
         "armor type": "magic",
-        "armor class": "7 pierce, 7 bash, 7 slash, 4 magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "4 magic"
+        ],
         "effects": [
             {
                 "experience": 100
@@ -300,7 +320,7 @@
     },
     {
         "id": 21,
-        "date": "2015-09-26T01:24:57+0000",
+        "date": "09/25/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A storage loft             |\n+----------------------------+",
         "description": "A gold band awaits an owner to wear it.",
@@ -308,7 +328,7 @@
             "gold"
         ],
         "name": "a gold band",
-        "slot": "right wrist",
+        "slot": "wrist",
         "keywords": [
             "gold",
             "band"
@@ -321,7 +341,12 @@
         "value": 2300,
         "level": 31,
         "armor type": "magic",
-        "armor class": "8 pierce, 8 bash, 8 slash, 7 magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "7 magic"
+        ],
         "effects": [
             {
                 "strength": 1
@@ -333,7 +358,7 @@
     },
     {
         "id": 22,
-        "date": "2015-09-26T01:26:44+0000",
+        "date": "09/25/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n| ###            ^##         |\n| ..#            #.#         |\n| #.#            #.v         |\n| #.#######   ####.####      |\n| #....|..#   #*......#      |\n| ####.##.#   ####.##.#      |\n| ####.##.#   ####.##.#      |\n| ...#..#.#   #....##..      |\n| ####.##.#   ####.####      |\n| ####.##.#####.##.#####.#   |\n| ......#.......##.......#   |\n| ####.#####.#####.#####.v   |\n| An office                  |\n+----------------------------+",
         "description": "This is a small hollow tube with a glowing rock in it.  The light is\nfunneled by the tube making directional light source.",
@@ -356,7 +381,7 @@
     },
     {
         "id": 23,
-        "date": "2015-09-26T14:02:40+0000",
+        "date": "09/26/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|    ######            ^##   |\n|    #....#            #.#   |\n|    #.##.#            #.v   |\n| ####.##.####      ####.####|\n| #.....#....|      #.......#|\n| ##########.#      ####.##.#|\n|          #.####   ####.##.#|\n|          #...*#   #....##..|\n|          #.####   ####.####|\n|          #.#         #.#   |\n|          |.|         #.|   |\n|          #.#         #.#   |\n|          #.#####-#####.#   |\n|          #.............#   |\n|          #######.#######   |\n| An office                  |\n+----------------------------+",
         "description": "A nice looking letter opener is here.",
@@ -371,7 +396,7 @@
             "opener"
         ],
         "type": "weapon",
-        "weaponType": "dagger",
+        "weapon type": "dagger",
         "flags": [
             "none"
         ],
@@ -390,7 +415,7 @@
     },
     {
         "id": 24,
-        "date": "2015-09-26T14:03:50+0000",
+        "date": "09/26/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n| ####.##.####               |\n| #.....#....|               |\n| ##########.#               |\n|          #.####            |\n|          #....#            |\n|          #.####            |\n|          #.####            |\n|          |...*#            |\n|          #.##.#            |\n|          #.##.#   ###      |\n|          #..#.#   #.#      |\n|          ####.#   #.#      |\n|             #.#####.#      |\n|             #.......#      |\n|             ####-####      |\n| A secret passage           |\n+----------------------------+",
         "description": "There is a copper shoulderpads of Solamnian make is laying on the ground.",
@@ -415,7 +440,12 @@
         "value": 165,
         "level": 30,
         "armor type": "light metal",
-        "armor class": "14 pierce, 14 bash, 15 slash, 14 magic",
+        "armor class": [
+            "14 pierce",
+            "14 bash",
+            "15 slash",
+            "14 magic"
+        ],
         "effects": [
             {
                 "damage roll": 2
@@ -430,7 +460,7 @@
     },
     {
         "id": 25,
-        "date": "2015-09-26T14:04:22+0000",
+        "date": "09/26/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n| ####.##.####               |\n| #.....#....|               |\n| ##########.#               |\n|          #.####            |\n|          #....#            |\n|          #.####            |\n|          #.####            |\n|          |...*#            |\n|          #.##.#            |\n|          #.##.#   ###      |\n|          #..#.#   #.#      |\n|          ####.#   #.#      |\n|             #.#####.#      |\n|             #.......#      |\n|             ####-####      |\n| A secret passage           |\n+----------------------------+",
         "description": "There is a wood band of Solamnian make is laying on the ground.",
@@ -438,7 +468,7 @@
             "wood"
         ],
         "name": "a wood bracelet of elvish design",
-        "slot": "right wrist",
+        "slot": "wrist",
         "keywords": [
             "randarmor",
             "a",
@@ -457,7 +487,12 @@
         "value": 78,
         "level": 30,
         "armor type": "leather",
-        "armor class": "15 pierce, 14 bash, 17 slash, 16 magic",
+        "armor class": [
+            "15 pierce",
+            "14 bash",
+            "17 slash",
+            "16 magic"
+        ],
         "effects": [
             {
                 "hit roll": 1
@@ -472,7 +507,7 @@
     },
     {
         "id": 26,
-        "date": "2015-09-26T14:07:25+0000",
+        "date": "09/26/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n| ###            ^##         |\n| ..#            #.#         |\n| #.#            #.v         |\n| #.#######   ####.####      |\n| #....|..#   #.......#      |\n| ####.##.#   ####.##.#      |\n|    #.##.#   ####.##.#      |\n|    #..#.#   #*#..##..      |\n|    #.##.#   #.##.####      |\n|    #.##.#####.##.#         |\n|    |..#.......##.|         |\n|    #.#####.#####.#         |\n|    #.#####.#####.#         |\n|    #.............#         |\n|    #######.#######         |\n| A secret passage           |\n+----------------------------+",
         "description": "There is a iron emblem of Solamnian make is laying on the ground.",
@@ -496,7 +531,12 @@
         "value": 247,
         "level": 35,
         "armor type": "metal",
-        "armor class": "18 pierce, 18 bash, 18 slash, 18 magic",
+        "armor class": [
+            "18 pierce",
+            "18 bash",
+            "18 slash",
+            "18 magic"
+        ],
         "effects": [
             {
                 "damage roll": 1
@@ -511,7 +551,7 @@
     },
     {
         "id": 27,
-        "date": "2015-09-26T14:08:51+0000",
+        "date": "09/26/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|          #.####      ^##   |\n|          #....#      #.#   |\n|          #.####      #.v   |\n|          #.####   ####.####|\n|          |....#   #.......#|\n|          #.##.#   ####.##.#|\n|          #.##.#   ####.##.#|\n|          #..#*#   #.#..##..|\n|          ####.#   #.##.####|\n|             #.#####.##.#   |\n|             #.......##.|   |\n|             ####.#####.#   |\n|             ####.#####.#   |\n|             ...........#   |\n|             ####.#######   |\n| Along the passage          |\n+----------------------------+",
         "description": "There is a devout scale book of Solamnian make is laying on the ground.",
@@ -537,7 +577,12 @@
         "value": 85,
         "level": 35,
         "armor type": "light metal",
-        "armor class": "17 pierce, 16 bash, 17 slash, 18 magic",
+        "armor class": [
+            "17 pierce",
+            "16 bash",
+            "17 slash",
+            "18 magic"
+        ],
         "effects": [
             {
                 "moves": 4
