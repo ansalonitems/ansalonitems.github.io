@@ -622,10 +622,14 @@
             "0 slash",
             "0 magic"
         ],
-        "effects": {
-            "armor class": -15,
-            "constitution": 3
-        }
+        "effects": [
+            {
+                "armor class": -15
+            },
+            {
+                "constitution": 3
+            }
+        ]
     },
     {
         "id": 50001,
@@ -655,11 +659,17 @@
             "sharp",
             "notched"
         ],
-        "effects": {
-            "damage roll": 3,
-            "hit roll": 5,
-            "dexterity": 2
-        }
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "dexterity": 2
+            }
+        ]
     },
     {
         "id": 50002,
@@ -690,10 +700,14 @@
             "15 slash",
             "9 magic"
         ],
-        "effects": {
-            "damage roll": 4,
-            "hit roll": 4
-        }
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ]
     },
     {
         "id": 50003,
@@ -720,9 +734,9 @@
         "weapons flags": [
             "flaming"
         ],
-        "effects": {
+        "effects": [
             
-        }
+        ]
     },
     {
         "id": 50004,
@@ -751,13 +765,23 @@
             "11 slash",
             "11 magic"
         ],
-        "effects": {
-            "armor class": -5,
-            "dexterity": 1,
-            "damage roll": 3,
-            "hit roll": 3,
-            "hp": 10
-        }
+        "effects": [
+            {
+                "armor class": -5
+            },
+            {
+                "dexterity": 1
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "hp": 10
+            }
+        ]
     },
     {
         "id": 50005,
@@ -784,9 +808,9 @@
         "weapons flags": [
             
         ],
-        "effects": {
+        "effects": [
             
-        }
+        ]
     },
     {
         "id": 50006,
@@ -817,12 +841,20 @@
             "30 slash",
             "10 magic"
         ],
-        "effects": {
-            "saves": -2,
-            "dexterity": -1,
-            "hit roll": 4,
-            "damage roll": 4
-        }
+        "effects": [
+            {
+                "saves": -2
+            },
+            {
+                "dexterity": -1
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ]
     },
     {
         "id": 50007,
@@ -844,9 +876,9 @@
         "weight": "0 oz",
         "value": 20000,
         "level": 60,
-        "effects": {
+        "effects": [
             
-        }
+        ]
     },
     {
         "id": 50008,
@@ -877,11 +909,17 @@
             "15 slash",
             "6 magic"
         ],
-        "effects": {
-            "damage roll": 3,
-            "hit roll": 4,
-            "moves": 150
-        }
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "moves": 150
+            }
+        ]
     },
     {
         "id": 50009,
@@ -908,9 +946,9 @@
         "weapons flags": [
             "two-handed"
         ],
-        "effects": {
+        "effects": [
             
-        }
+        ]
     },
     {
         "id": 50010,
@@ -941,10 +979,16 @@
             "0 slash",
             "0 magic"
         ],
-        "effects": {
-            "hit roll": 2,
-            "damage roll": 2,
-            "armor class": -2
-        }
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "armor class": -2
+            }
+        ]
     }
 ]
