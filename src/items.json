@@ -594,5 +594,357 @@
                 "strength": 1
             }
         ]
+    },
+    {
+        "id": 50000,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "a Shinare's Perfect Diamond",
+        "slot": "held",
+        "keywords": [
+            "shinare",
+            "diamond"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 oz",
+        "value": 109,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "0 pierce",
+            "0 bash",
+            "0 slash",
+            "0 magic"
+        ],
+        "effects": {
+            "armor class": -15,
+            "constitution": 3
+        }
+    },
+    {
+        "id": 50001,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Magical) (Glowing) a huge notched sword",
+        "slot": "wielded",
+        "keywords": [
+            "wickedly",
+            "notched",
+            "sword"
+        ],
+        "type": "weapon",
+        "flags": [
+            "glow",
+            "magic"
+        ],
+        "weight": "0 oz",
+        "value": 14000,
+        "level": 55,
+        "damage": 33,
+        "weapon type": "sword",
+        "weapons flags": [
+            "sharp",
+            "notched"
+        ],
+        "effects": {
+            "damage roll": 3,
+            "hit roll": 5,
+            "dexterity": 2
+        }
+    },
+    {
+        "id": 50002,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Invis) (Glowing) girdle of the sprite master",
+        "slot": "waist",
+        "keywords": [
+            "girdle",
+            "sprite",
+            "master"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "invis"
+        ],
+        "weight": "0 oz",
+        "value": 9803,
+        "level": 7,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "9 magic"
+        ],
+        "effects": {
+            "damage roll": 4,
+            "hit roll": 4
+        }
+    },
+    {
+        "id": 50003,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Humming) a flaming trident",
+        "slot": "wielded",
+        "keywords": [
+            "Theodenes'",
+            "Trident"
+        ],
+        "type": "weapon",
+        "flags": [
+            "hum"
+        ],
+        "weight": "0 oz",
+        "value": 1000,
+        "level": 70,
+        "damage": 39,
+        "weapon type": "polearm",
+        "weapons flags": [
+            "flaming"
+        ],
+        "effects": {
+            
+        }
+    },
+    {
+        "id": 50004,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "a bracer etched with the \"Youngblood\" symbol",
+        "slot": "wrist",
+        "keywords": [
+            "youngblood",
+            "bracer"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 oz",
+        "value": 3000,
+        "level": 52,
+        "armor type": "magic",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "11 magic"
+        ],
+        "effects": {
+            "armor class": -5,
+            "dexterity": 1,
+            "damage roll": 3,
+            "hit roll": 3,
+            "hp": 10
+        }
+    },
+    {
+        "id": 50005,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Humming) a tiny sprite dagger",
+        "slot": "wielded",
+        "keywords": [
+            "sprite",
+            "dagger"
+        ],
+        "type": "weapon",
+        "flags": [
+            "hum"
+        ],
+        "weight": "0 oz",
+        "value": 50,
+        "level": 50,
+        "damage": 27,
+        "weapon type": "dagger",
+        "weapons flags": [
+            
+        ],
+        "effects": {
+            
+        }
+    },
+    {
+        "id": 50006,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Magical) (Glowing) (Humming) enchanted chain armor",
+        "slot": "chest",
+        "keywords": [
+            "chain",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "hum",
+            "magic"
+        ],
+        "weight": "0 oz",
+        "value": 5000,
+        "level": 70,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "30 slash",
+            "10 magic"
+        ],
+        "effects": {
+            "saves": -2,
+            "dexterity": -1,
+            "hit roll": 4,
+            "damage roll": 4
+        }
+    },
+    {
+        "id": 50007,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "some delicious looking candy",
+        "slot": "wielded",
+        "keywords": [
+            "bensoldi",
+            "candy"
+        ],
+        "type": "pill",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 oz",
+        "value": 20000,
+        "level": 60,
+        "effects": {
+            
+        }
+    },
+    {
+        "id": 50008,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Magical) (Glowing) (Humming) a ring of the wilds",
+        "slot": "finger",
+        "keywords": [
+            "ring",
+            "wilds"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "hum",
+            "magic"
+        ],
+        "weight": "0 oz",
+        "value": 10000,
+        "level": 70,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "6 magic"
+        ],
+        "effects": {
+            "damage roll": 3,
+            "hit roll": 4,
+            "moves": 150
+        }
+    },
+    {
+        "id": 50009,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "a brambled club",
+        "slot": "wielded",
+        "keywords": [
+            "brambled",
+            "club"
+        ],
+        "type": "weapon",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 oz",
+        "value": 3984,
+        "level": 52,
+        "damage": 30,
+        "weapon type": "mace",
+        "weapons flags": [
+            "two-handed"
+        ],
+        "effects": {
+            
+        }
+    },
+    {
+        "id": 50010,
+        "date": "09/27/2015",
+        "zone": null,
+        "map": null,
+        "description": null,
+        "materials": null,
+        "name": "(Glowing) (Humming) a wooden hoop earring",
+        "slot": "ear",
+        "keywords": [
+            "earring",
+            "hoop",
+            "ogmag"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "hum"
+        ],
+        "weight": "0 oz",
+        "value": 12,
+        "level": 50,
+        "armor type": "magic",
+        "armor class": [
+            "0 pierce",
+            "0 bash",
+            "0 slash",
+            "0 magic"
+        ],
+        "effects": {
+            "hit roll": 2,
+            "damage roll": 2,
+            "armor class": -2
+        }
     }
 ]
