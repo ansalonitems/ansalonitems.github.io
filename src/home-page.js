@@ -11,14 +11,37 @@ export default React.createClass({
   render() {
     const links = items.map( item => {
       return (
-        <div key={item.id}>
-          <Link href={`items/${item.id}`}>{item.name}</Link>
-        </div>
+        <tr key={item.id}>
+          <td>
+            <Link href={`items/${item.id}`}>{item.name}</Link>
+          </td>
+          <td>
+            {item.type === 'weapon' ? `${item.type}: ${item.weaponType}` : item.type}
+          </td>
+          <td className="right-aligned">
+            {item.level}
+          </td>
+          <td>
+            {item.zone}
+          </td>
+        </tr>
       )}
     )
     return (
       <PageComponent>
-        {links}
+        <table className="item-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Type</th>
+              <th>Level</th>
+              <th>Zone</th>
+            </tr>
+          </thead>
+          <tbody>
+            {links}
+          </tbody>
+        </table>
       </PageComponent>
     )
   }

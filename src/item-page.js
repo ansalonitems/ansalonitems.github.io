@@ -1,6 +1,7 @@
 'use strict'
 
 import React from 'react'
+import moment from 'moment'
 import PageComponent from './page-component.js'
 import Link from './link.js'
 import items from './items.json'
@@ -17,18 +18,24 @@ export default React.createClass({
     const date = new Date(item.date)
     return (
       <PageComponent>
-        <dl>
-          <dt>Name:</dt>
-          <dd>{item.name}</dd>
-          <dt>Description:</dt>
-          <dd>{item.description}</dd>
-          <dt>Date Captured:</dt>
-          <dd>{date.toString()}</dd>
-          <dt>Zone:</dt>
-          <dd>{item.zone}</dd>
-          <dt>Location:</dt>
-          <dd><pre>{item.map}</pre></dd>
-        </dl>
+        <div className="to-table">
+          <article className="item-block">
+            <div className="item-block-name">
+              <h2>{item.name}</h2>
+              <h5>{item.description}</h5>
+              <div>Added {moment(date).format('ll')}.</div>
+            </div>
+
+            <div className="item-block-stats">
+              <table class="item-block-table">
+              </table>
+            </div>
+          </article>
+          <aside className="item-map">
+            <span>It is from {item.zone}</span>
+            <pre>{item.map}</pre>
+          </aside>
+        </div>
       </PageComponent>
     )
   }

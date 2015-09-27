@@ -36,6 +36,8 @@
   },
   "dependencies": {
     "ampersand-router": "3.0.2",
+    "moment": "^2.10.6",
+    "nuclear-js": "^1.1.1",
     "react": "0.13.3",
     "yeticss": "7.0.5"
   }
