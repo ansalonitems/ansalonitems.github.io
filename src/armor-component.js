@@ -17,6 +17,15 @@ export default React.createClass({
   render() {
     let {...item} = this.props.item
 
+    if(item.type === 'drink' && item.slot === 'light') {
+      delete item.slot
+    }
+    item.affects = !item.effects ? ['none'] : item.effects.map(it => {
+      const key = Object.keys(it)[0]
+      return `${key} by ${it[key]}`
+    })
+
+    delete item.effects
     delete item.id
     delete item.map
     delete item.name
@@ -24,10 +33,6 @@ export default React.createClass({
     delete item.description
     delete item.type
     delete item.date
-    item.effects = !item.effects ? ['none'] : item.effects.map(it => {
-      const key = Object.keys(it)[0]
-      return `${key} by ${it[key]}`
-    })
 
     const toEntry = function(it) {
       let value = item[it]

@@ -27,7 +27,6 @@ export default React.createClass({
 
   render() {
     const item = items.filter(item => item.id === this.props.id)[0]
-    console.log('testy', item)
 
     const details = this.getDetails(item)
     let location = item.map

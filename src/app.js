@@ -2,23 +2,39 @@ require('./styles.styl')
 
 import React from 'react'
 import AmpRouter from 'ampersand-router'
+import qs from 'qs'
 import HomePage from './home-page.js'
+import ItemsPage from './items-page.js'
 import ItemPage from './item-page.js'
 
 const Router = AmpRouter.extend({
   routes: {
     '': 'home',
-    'items/:id': 'item',
-    ':fallback': 'home'
+    'items': 'items'
   },
 
   home() {
     React.render(<HomePage/>, document.body)
   },
 
-  item(id) {
-    React.render(<ItemPage id={parseInt(id, 10)}/>, document.body)
+  items() {
+    const params = this.getQueryParams()
+    console.log('items', params.id)
+    if(params.id) {
+      const id = parseInt(params.id, 10)
+      React.render(<ItemPage id={id} />, document.body)
+    } else {
+      React.render(<ItemsPage />, document.body)
+    }
   },
+
+  getQueryParams() {
+    let querystring = document.location.search
+    if(querystring && querystring.indexOf('?') !== -1) {
+      querystring = querystring.substring(querystring.indexOf('?') + 1)
+    }
+    return qs.parse(querystring)
+  }
 
 })
 
