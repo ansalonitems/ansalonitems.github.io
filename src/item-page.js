@@ -19,6 +19,10 @@ export default React.createClass({
       return <ArmorStats item={item}></ArmorStats>
     }
 
+    if(item.type === 'pill') {
+      return <ArmorStats item={item}></ArmorStats>
+    }
+
     switch(item.type) {
       case 'armor': return <ArmorStats item={item}></ArmorStats>
       default: return <div></div>
@@ -29,7 +33,7 @@ export default React.createClass({
     const item = items.filter(item => item.id === this.props.id)[0]
 
     const details = this.getDetails(item)
-    let location = item.map
+    let location = item.map || ''
     location = location.replace(/\-/g, '<span class="map-pipe">-</span>')
     location = location.replace(/#/g, '<span class="map-hash">#</span>')
     location = location.replace(/\+/g, '<span class="map-plus">+</span>')
@@ -54,7 +58,7 @@ export default React.createClass({
             </div>
           </article>
           <aside className="item-map">
-            <span>It is from {item.zone}.</span>
+            <span>It is from {item.zone || 'an unknown location'}.</span>
             <pre className="map"
                  dangerouslySetInnerHTML={{__html: location}}>
             </pre>

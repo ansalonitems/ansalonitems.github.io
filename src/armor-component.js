@@ -17,6 +17,8 @@ export default React.createClass({
   render() {
     let {...item} = this.props.item
 
+    console.log('testy', item)
+
     if(item.type === 'drink' && item.slot === 'light') {
       delete item.slot
     }
@@ -35,10 +37,10 @@ export default React.createClass({
     delete item.date
 
     const toEntry = function(it) {
-      let value = item[it]
+      let value = item[it] || ''
 
       return (
-        <span>
+        <span key={it}>
           <dt>{it}</dt>
           <dd>{value.push ? this.joinWithNewlines(value) : value}</dd>
         </span>

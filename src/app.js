@@ -19,7 +19,6 @@ const Router = AmpRouter.extend({
 
   items() {
     const params = this.getQueryParams()
-    console.log('items', params.id)
     if(params.id) {
       const id = parseInt(params.id, 10)
       React.render(<ItemPage id={id} />, document.body)
