@@ -34,7 +34,7 @@ export default React.createClass({
             <tr>
               <th>Name</th>
               <th>Type</th>
-              <th>Level</th>
+              <th className="right-aligned">Level</th>
               <th>Zone</th>
             </tr>
           </thead>
