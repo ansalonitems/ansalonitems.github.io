@@ -864,7 +864,7 @@
         "description": null,
         "materials": null,
         "name": "some delicious looking candy",
-        "slot": "wielded",
+        "slot": null,
         "keywords": [
             "bensoldi",
             "candy"
@@ -877,7 +877,14 @@
         "value": 20000,
         "level": 60,
         "effects": [
-            
+            {
+                "level 20": [
+                    "heal",
+                    "heal",
+                    "cure disease",
+                    "cure poison"
+                ]
+            }
         ]
     },
     {
