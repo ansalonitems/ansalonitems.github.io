@@ -17,8 +17,6 @@ export default React.createClass({
   render() {
     let {...item} = this.props.item
 
-    console.log('testy', item)
-
     if(item.type === 'drink' && item.slot === 'light') {
       delete item.slot
     }
@@ -33,7 +31,9 @@ export default React.createClass({
     delete item.name
     delete item.zone
     delete item.description
-    delete item.type
+    if(item.type !== 'potion' && item.type !== 'wand' && item.type !== 'staff' && item.type !== 'scroll') {
+      delete item.type
+    }
     delete item.date
 
     const toEntry = function(it) {

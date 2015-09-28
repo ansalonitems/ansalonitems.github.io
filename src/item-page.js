@@ -19,12 +19,10 @@ export default React.createClass({
       return <ArmorStats item={item}></ArmorStats>
     }
 
-    if(item.type === 'pill') {
-      return <ArmorStats item={item}></ArmorStats>
-    }
-
     switch(item.type) {
       case 'armor': return <ArmorStats item={item}></ArmorStats>
+      case 'furniture': return <ArmorStats item={item}></ArmorStats>
+      case 'pill': return <ArmorStats item={item}></ArmorStats>
       default: return <div></div>
     }
   },
