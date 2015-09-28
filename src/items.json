@@ -596,6 +596,609 @@
         ]
     },
     {
+        "id": 28,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|       #.#         #.#      |\n|       #.#         #.#      |\n|       #.#         #.#      |\n|    ####.####      #.#      |\n|    #.......#      #.#      |\n|    ####.####      #.#      |\n|       #.#   #######.#######|\n|       #.#   #*............#|\n|       #.#   #.............#|\n|                   ^.......#|\n|                   .........|\n|                   ####.####|\n|                            |\n|                            |\n|                            |\n| 8500-5000 PC (The Birth o  |\n+----------------------------+",
+        "description": "This lovely golden sash is a sign of high ranking Aesthetics.",
+        "materials": [
+            "silk",
+            "cloth"
+        ],
+        "name": "a golden sash of metallic silk",
+        "slot": "waist",
+        "keywords": [
+            "golden",
+            "sash",
+            "silk",
+            "metallic"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 8 oz",
+        "value": 50,
+        "level": 54,
+        "armor type": "magic",
+        "armor class": [
+            "20 pierce",
+            "20 bash",
+            "20 slash",
+            "19 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 6
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|       #.#         #.#      |\n|       #.#         #.#      |\n|       #.#         #.#      |\n|    ####.####      #.#      |\n|    #.......#      #.#      |\n|    ####.####      #.#      |\n|       #.#   #######.#######|\n|       #.#   #*............#|\n|       #.#   #.............#|\n|                   ^.......#|\n|                   .........|\n|                   ####.####|\n|                            |\n|                            |\n|                            |\n| 8500-5000 PC (The Birth o  |\n+----------------------------+",
+        "description": "This robe belongs to one of the famous Aesthetic's of Palanthus.",
+        "materials": [
+            "silk",
+            "cloth"
+        ],
+        "name": "an Aesthetic's red velvet robe",
+        "slot": "body",
+        "keywords": [
+            "aesthetic",
+            "robe"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 14 oz",
+        "value": 62,
+        "level": 58,
+        "armor type": "magic",
+        "armor class": [
+            "21 pierce",
+            "21 bash",
+            "21 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 7
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "strength": 1
+            },
+            {
+                "constitution": 1
+            },
+            {
+                "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|                   #######.#|\n|                   #........|\n|                   #........|\n|                ####..   ^..|\n|                ......   ...|\n|                #.####   ###|\n|             ####.#         |\n|             #*...#         |\n|             ####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                            |\n|                            |\n|                            |\n| The Apprentices' Cell      |\n+----------------------------+",
+        "description": "This pen is sharpened to a fine point.",
+        "materials": [
+            "silver",
+            "gold"
+        ],
+        "name": "a sharp pen",
+        "slot": "wielded",
+        "keywords": [
+            "sharp",
+            "pen"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "glow"
+        ],
+        "weight": "2 lbs, 1 oz",
+        "value": 1320,
+        "level": 20,
+        "damage": 10,
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|                   #######.#|\n|                   #........|\n|                   #........|\n|                ####..   ^..|\n|                ......   ...|\n|                #.####   ###|\n|             ####.#         |\n|             #*...#         |\n|             ####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                            |\n|                            |\n|                            |\n| The Apprentices' Cell      |\n+----------------------------+",
+        "description": "A small bottle of ink rests here.",
+        "materials": [
+            
+        ],
+        "name": "a bottle of black ink",
+        "slot": "held",
+        "keywords": [
+            "ink",
+            "bottle"
+        ],
+        "type": "potion",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 5,
+        "level": 12,
+        "spell level": "20",
+        "spells": "stone skin, pass door, curse"
+    },
+    {
+        "id": 32,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|          #######.#######   |\n|          #.............#   |\n|          #.............#   |\n|    #######.....^.......####|\n|    #.......................|\n|    ####.#####.#####.#####.#|\n|    ####.#   #.#            |\n|    #....#   .*#            |\n|    ####.#   ..#            |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|    ####.#                  |\n|    #....#                  |\n|    ######                  |\n| The Entrance to the Secon  |\n+----------------------------+",
+        "description": "This simple robe is used by all the apprentices.",
+        "materials": [
+            "silk",
+            "cloth"
+        ],
+        "name": "an apprentices robe",
+        "slot": "chest",
+        "keywords": [
+            "apprentice",
+            "robe"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 350,
+        "level": 10,
+        "armor type": "magic",
+        "armor class": [
+            "4 pierce",
+            "4 bash",
+            "4 slash",
+            "3 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 1
+            },
+            {
+                "intelligence": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|    #######.....^.......####|\n|    #.......................|\n|    ####.#####.#####.#####.#|\n|    ####.#   #.#            |\n|    #....#   ..#            |\n|    ####.#   ..#            |\n|       #.#   ..#            |\n|       #.#   .*#            |\n|       #.#   ..#            |\n|    ####.#                  |\n|    #....#                  |\n|    ######                  |\n|                            |\n|                            |\n|                            |\n| The Biology Section        |\n+----------------------------+",
+        "description": "There is a silk cloak of Solamnian make is laying on the ground.",
+        "materials": [
+            "silk"
+        ],
+        "name": "a silk cape",
+        "slot": "back",
+        "keywords": [
+            "randarmor",
+            "a",
+            "silk",
+            "cape"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 1 oz",
+        "value": 95,
+        "level": 42,
+        "armor type": "light metal",
+        "armor class": [
+            "20 pierce",
+            "22 bash",
+            "23 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "mana": 6
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|    #######.....^.......####|\n|    #.......................|\n|    ####.#####.#####.#####.#|\n|    ####.#   #.#            |\n|    #....#   ..#            |\n|    ####.#   ..#            |\n|       #.#   ..#            |\n|       #.#   .*#            |\n|       #.#   ..#            |\n|    ####.#                  |\n|    #....#                  |\n|    ######                  |\n|                            |\n|                            |\n|                            |\n| The Biology Section        |\n+----------------------------+",
+        "description": "There is a steel war axe of Solamnian make is laying on the ground.",
+        "materials": [
+            "steel"
+        ],
+        "name": "a steel axe of striking",
+        "slot": "wielded",
+        "keywords": [
+            "randweapon",
+            "a",
+            "steel",
+            "axe",
+            "of",
+            "striking"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "4 lbs, 9 oz",
+        "value": 338,
+        "level": 42,
+        "damage": 32,
+        "effects": [
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|       ####.#   #.#         |\n|       #....#   ..#         |\n|       ####.#   ..#         |\n|          #.##....#         |\n|          #.##....#         |\n|          #.##....#         |\n|       ####.##....##..      |\n|       #....##*.......      |\n|       #######....####      |\n|             #..^.#         |\n|             #....#         |\n|             #....#         |\n|             #....#         |\n|             #....#         |\n|             ######         |\n| The Botany Section         |\n+----------------------------+",
+        "description": "These pages are filled with your own writing.  Enjoy them.",
+        "materials": [
+            "leather",
+            "paper"
+        ],
+        "name": "a leather-bound journal",
+        "slot": "shield",
+        "keywords": [
+            "leather",
+            "journal"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 14 oz",
+        "value": 12,
+        "level": 8,
+        "armor type": "magic",
+        "armor class": [
+            "3 pierce",
+            "3 bash",
+            "3 slash",
+            "2 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#######                  |\n| ........#                  |\n| ........#                  |\n| ^.......##########         |\n| .............*...#         |\n| ####.#####.##....#         |\n| ####.#####.#   ..#         |\n| #..........#   ..#         |\n| #..........#   ..#         |\n| #..........#               |\n| #..........#               |\n| #..........#               |\n| The Children's Section     |\n+----------------------------+",
+        "description": "A colorful body pillow rests here.",
+        "materials": [
+            "cloth"
+        ],
+        "name": "a colorful body pillow",
+        "slot": null,
+        "keywords": [
+            "colorful",
+            "body",
+            "pillow"
+        ],
+        "type": "furniture",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 100,
+        "level": 20,
+        "furniture": "this furniture can hold 1 people, a total of 2000 pounds.",
+        "healing bonus": "10%",
+        "mana bonus": "10%"
+    },
+    {
+        "id": 38,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|       #######.....^.......#|\n|       #....................|\n|       ####.#####.#####.####|\n|       ####.#####.#####.####|\n|       #....##....##........|\n|       ####.##....##........|\n|          #.##....##........|\n|          #.##*...##........|\n|          #.##....##........|\n|       ####.##....##........|\n|       #....##..............|\n|       #######....##########|\n|             #..^.#         |\n|             #....#         |\n|             #....#         |\n| The Meteorology Section    |\n+----------------------------+",
+        "description": "Someone has carelessly left their glasses here.",
+        "materials": [
+            "glass"
+        ],
+        "name": "a pair of reading glasses",
+        "slot": "face",
+        "keywords": [
+            "reading",
+            "glasses"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 18,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "7 magic"
+        ],
+        "effects": [
+            {
+                "intelligence": 1
+            },
+            {
+                "wisdom": 2
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ..#            |\n|             .*#            |\n|             ..v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Top of the Secondary   |\n+----------------------------+",
+        "description": "There is a copper book of Solamnian make is laying on the ground.",
+        "materials": [
+            "copper"
+        ],
+        "name": "a copper book of red",
+        "slot": "held",
+        "keywords": [
+            "randarmor",
+            "a",
+            "copper",
+            "book",
+            "of",
+            "red"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 200,
+        "level": 24,
+        "armor type": "light metal",
+        "armor class": [
+            "13 pierce",
+            "14 bash",
+            "14 slash",
+            "12 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            },
+            {
+                "intelligence": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ..#            |\n|             .*#            |\n|             ..v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Top of the Secondary   |\n+----------------------------+",
+        "description": "There is a silk band of Solamnian make is laying on the ground.",
+        "materials": [
+            "silk"
+        ],
+        "name": "a silk wrist band of goblin make",
+        "slot": "wrist",
+        "keywords": [
+            "randarmor",
+            "a",
+            "silk",
+            "wrist",
+            "band",
+            "of",
+            "goblin",
+            "make"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 85,
+        "level": 24,
+        "armor type": "light metal",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "13 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| .....##########            |\n| ..............#            |\n| #.#####.##....#            |\n| #.#####.##....#            |\n| ........##....#            |\n| ........##....#            |\n| ........##....#            |\n| ........##...*#            |\n| ........##....#            |\n| ........##....#            |\n| ..............#            |\n| ##########....#            |\n|                            |\n|                            |\n|                            |\n| The Sewing/Weaving Sectio  |\n+----------------------------+",
+        "description": "There is a iron sheath of Solamnian make is laying on the ground.",
+        "materials": [
+            "iron"
+        ],
+        "name": "a iron sheath of dwarven make",
+        "slot": "back",
+        "keywords": [
+            "randarmor",
+            "a",
+            "iron",
+            "sheath",
+            "of",
+            "dwarven",
+            "make"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 3 oz",
+        "value": 261,
+        "level": 24,
+        "armor type": "metal",
+        "armor class": [
+            "14 pierce",
+            "14 bash",
+            "11 slash",
+            "12 magic"
+        ],
+        "effects": [
+            {
+                "hp": 5
+            },
+            {
+                "intelligence": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "date": "09/27/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|          #....#            |\n|          #....#            |\n|          #....#            |\n|          #....#            |\n|          #....#            |\n|          #....#            |\n|          #....#            |\n|          #...*#            |\n|          #....#            |\n|          ^..               |\n|          #..               |\n|          ##v               |\n|                            |\n|                            |\n|                            |\n| The Cooking Section        |\n+----------------------------+",
+        "description": "There is a defiled steel girdle of Solamnian make is laying on the ground.",
+        "materials": [
+            "steel"
+        ],
+        "name": "a defiled steel girdle",
+        "slot": null,
+        "keywords": [
+            "randarmor",
+            "a",
+            "defiled",
+            "steel",
+            "girdle"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-good",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs, 12 oz",
+        "value": 336,
+        "level": 24,
+        "armor type": "metal",
+        "armor class": [
+            "13 pierce",
+            "11 bash",
+            "11 slash",
+            "12 magic"
+        ],
+        "effects": [
+            {
+                "moves": 1
+            },
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "date": "09/27/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             |*|            |\n|             #.#            |\n|             ^.#            |\n|             #.#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n| Officers' Quarters         |\n+----------------------------+",
+        "description": "A small toothbrush is here waiting to be used.",
+        "materials": [
+            "bone"
+        ],
+        "name": "a small toothbrush",
+        "slot": "held",
+        "keywords": [
+            "tooth",
+            "brush"
+        ],
+        "type": "wand",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 200,
+        "level": 46,
+        "charges": "5",
+        "spell level": "46"
+    },
+    {
+        "id": 45,
+        "date": "09/27/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|       ######               |\n|       #....#               |\n|       ####.#               |\n|       ####.#      ###      |\n|       |....#      |.#      |\n|       #.##.#      #.#      |\n|       ^.##.####   #.#      |\n|       #.#|.|#*#   #.#      |\n|       ##v#.##.#   #.#      |\n|          #.##.#   #.#      |\n|          #....#   #.#      |\n|          ####.#   #.#      |\n|             #.#####.#      |\n|             #.......#      |\n|             #.#####-#      |\n| The Head Assistant's Quar  |\n+----------------------------+",
+        "description": "A well polished sword reflects light into your eyes.",
+        "materials": [
+            "iron"
+        ],
+        "name": "a polished sword",
+        "slot": "wielded",
+        "keywords": [
+            "polished",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs, 14 oz",
+        "value": 2970,
+        "level": 48,
+        "damage": 30,
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
         "id": 50000,
         "date": "09/27/2015",
         "zone": null,
