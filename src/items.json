@@ -910,7 +910,7 @@
             "cloth"
         ],
         "name": "a colorful body pillow",
-        "slot": null,
+        "slot": "light",
         "keywords": [
             "colorful",
             "body",
@@ -1195,6 +1195,1488 @@
             },
             {
                 "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "date": "09/28/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|             ############   |\n|             #.......#|.#   |\n|             ####.#####.#   |\n|             ####.#####.#   |\n|             #*.........#   |\n|             #######.##.#   |\n|                   ^.##.#   |\n|                   #.#|.|   |\n|                   ##v#-#   |\n|                            |\n|                            |\n|                            |\n| A DEAD end!                |\n+----------------------------+",
+        "description": "A pair of boot made from dragon skin are here.",
+        "materials": [
+            "unknown"
+        ],
+        "name": "a pair of dragon boots",
+        "slot": "feet",
+        "keywords": [
+            "dragon",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "9 lbs",
+        "value": 3499,
+        "level": 48,
+        "armor type": "magic",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "8 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "date": "09/28/2015",
+        "zone": "Meitol",
+        "map": "+----------------------------+\n| Meitol                     |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             .*#            |\n|             #.#            |\n|             #.#            |\n|             ..#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| In the streets             |\n+----------------------------+",
+        "description": "There is a steel vambrace of Mithan make is laying on the ground.",
+        "materials": [
+            "steel"
+        ],
+        "name": "a steel vambrace",
+        "slot": "arms",
+        "keywords": [
+            "randarmor",
+            "a",
+            "steel",
+            "vambrace"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "9 lbs, 6 oz",
+        "value": 320,
+        "level": 48,
+        "armor type": "metal",
+        "armor class": [
+            "24 pierce",
+            "26 bash",
+            "24 slash",
+            "26 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "mana": 12
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "date": "09/28/2015",
+        "zone": "Meitol",
+        "map": "+----------------------------+\n| Meitol                     |\n|                            |\n|                            |\n|                            |\n|             ###############|\n|             ...............|\n|             #....#####.##.#|\n|             #..      #.##.#|\n|             #*.      #.##.#|\n|             #..      ####.#|\n|                         #.#|\n|                         #.#|\n|                         #.#|\n|                         #.#|\n|                         ...|\n|                         #.#|\n| On the docks of Meitol     |\n+----------------------------+",
+        "description": "There is a cloth wrist band of Mithan make is laying on the ground.",
+        "materials": [
+            "cloth"
+        ],
+        "name": "a cloth bracelet",
+        "slot": "wrist",
+        "keywords": [
+            "randarmor",
+            "a",
+            "cloth",
+            "bracelet"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 11 oz",
+        "value": 100,
+        "level": 38,
+        "armor type": "light metal",
+        "armor class": [
+            "21 pierce",
+            "20 bash",
+            "18 slash",
+            "21 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "moves": 2
+            },
+            {
+                "strength": 2
+            }
+        ],
+        "[exits": "north south west]"
+    },
+    {
+        "id": 53,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^^^            |\n|             ^*^            |\n|             #^#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.####         |\n|             #....#         |\n|             ####.#         |\n| Scrapper's Arena           |\n+----------------------------+",
+        "description": "A pile of cockroaches lies here.",
+        "materials": [
+            "hair",
+            "flesh"
+        ],
+        "name": "a necklace of strung cockroaches",
+        "slot": "neck",
+        "keywords": [
+            "bead",
+            "necklace",
+            "cockroach"
+        ],
+        "type": "armor",
+        "flags": [
+            "meltdrop"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 100,
+        "level": 1,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "1 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 1
+            },
+            {
+                "constitution": 1
+            }
+        ],
+        "zivilyn oocs 'life/wife time all, ziv out baby": ")'"
+    },
+    {
+        "id": 54,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^^^^^^         |\n|             ^*^^^^         |\n|             ####^#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.####      |\n|                #....#      |\n|                ####.#      |\n| Scrapper's Arena           |\n+----------------------------+",
+        "description": "The pot looks to be a symbol of status, but you're not sure.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a rusty pot",
+        "slot": "head",
+        "keywords": [
+            "pot",
+            "rusty"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 200,
+        "level": 1,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "8 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 2
+            },
+            {
+                "intelligence": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^^^^^^         |\n|             ^*^^^^         |\n|             ^^^^^^         |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n|          #^##########      |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| Scrapper's Arena           |\n+----------------------------+",
+        "description": "A pair of sleeves from some long dead dwarf lie here.",
+        "materials": [
+            "cloth",
+            "slime"
+        ],
+        "name": "a pair of rotting sleeves",
+        "slot": "arms",
+        "keywords": [
+            "rotting",
+            "sleeves"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 100,
+        "level": 1,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "1 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "wisdom": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^^^^^^         |\n|             ^*^^^^         |\n|             ^^^^^^         |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n|          #^##########      |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| Scrapper's Arena           |\n+----------------------------+",
+        "description": "A puke-stained shirt lies here reeking horribly.",
+        "materials": [
+            "cloth",
+            "slime"
+        ],
+        "name": "a vomit stained shirt",
+        "slot": "chest",
+        "keywords": [
+            "shirt",
+            "puke",
+            "vomit",
+            "stained"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 100,
+        "level": 1,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 1
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ######            |\n|          ^^^^*^            |\n|          ^^^^^^            |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n|          ^^^^^^^^^^^^      |\n| Scrapper's Arena           |\n+----------------------------+",
+        "description": "A hot spatula dripping with grease is smoldering here.",
+        "materials": [
+            "steel",
+            "fire"
+        ],
+        "name": "a hot spatula",
+        "slot": "wielded",
+        "keywords": [
+            "hot",
+            "spatula",
+            "grease"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 400,
+        "level": 21,
+        "damage": 19,
+        "effects": [
+            {
+                "strength": 4
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             ^*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Scrapper's Mound           |\n+----------------------------+",
+        "description": "A pair of rotting, tattered, leather boots sit here stinking up the place.",
+        "materials": [
+            "leather",
+            "slime"
+        ],
+        "name": "a pair of tattered boots",
+        "slot": "feet",
+        "keywords": [
+            "rotting",
+            "tattered",
+            "leather",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 100,
+        "level": 1,
+        "armor type": "magic",
+        "armor class": [
+            "2 pierce",
+            "2 bash",
+            "2 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "moves": 75
+            },
+            {
+                "intelligence": 1
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "date": "09/29/2015",
+        "zone": "Gully, uhhh, Roma",
+        "map": "+----------------------------+\n| Gully, uhhh, Roma          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ######         |\n|             #*^^^#         |\n|             ##v##v         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Scrapper's Mound           |\n+----------------------------+",
+        "description": "You notice upon closer inspection, the rat has a small leather bag tied\nto it's neck.  The bag appears to have spices inside it...\nIt's a gully mojo rat!",
+        "materials": [
+            "flesh",
+            "hair"
+        ],
+        "name": "a mojo rat",
+        "slot": "held",
+        "keywords": [
+            "mojo",
+            "rat",
+            "dead"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 10000,
+        "level": 0,
+        "armor type": "magic",
+        "armor class": [
+            "2 pierce",
+            "2 bash",
+            "2 slash",
+            "40 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "mana": 20
+            },
+            {
+                "hp": 20
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A ring with the symbol of the high clerist lies here.",
+        "materials": [
+            "steel"
+        ],
+        "name": "a tower guard's ring",
+        "slot": "finger",
+        "keywords": [
+            "tower",
+            "guard",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs",
+        "value": 2500,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 61,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A tower guard's pendant is here takeing up space.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a tower guard's pendant",
+        "slot": "neck",
+        "keywords": [
+            "pendant",
+            "tower",
+            "guard"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "4 lbs",
+        "value": 0,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "-1 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -10
+            },
+            {
+                "constitution": 2
+            },
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A very well polished helmet lies here.",
+        "materials": [
+            "steel",
+            "cloth"
+        ],
+        "name": "a tower guard's helmet",
+        "slot": "head",
+        "keywords": [
+            "tower",
+            "guard",
+            "helmet"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 3100,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 64,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "Some gleaming leggings have carelessly been left here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a tower guard's leggings",
+        "slot": "legs",
+        "keywords": [
+            "tower",
+            "guard",
+            "leggings"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs",
+        "value": 3050,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 65,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "Someone left a perfectly good pair of boots here!",
+        "materials": [
+            "leather",
+            "steel"
+        ],
+        "name": "a tower guard's boots",
+        "slot": "feet",
+        "keywords": [
+            "tower",
+            "guard",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 1000,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "4 pierce",
+            "4 bash",
+            "4 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 66,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "Some really shiny gauntlets are here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a tower guard's gauntlets",
+        "slot": "hands",
+        "keywords": [
+            "tower",
+            "guard",
+            "gauntlets"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 1600,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 67,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A shield with the symbol of the high clerist!",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a tower guard's shield",
+        "slot": null,
+        "keywords": [
+            "tower",
+            "guard",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 2500,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 68,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A cloak embossed with the symbol of the high clerist!",
+        "materials": [
+            "cloth",
+            "silver"
+        ],
+        "name": "a tower guard's cloak",
+        "slot": "body",
+        "keywords": [
+            "tower",
+            "guard",
+            "cloak"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 3000,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 69,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A belt with a shiny buckle reflects light into your eyes.",
+        "materials": [
+            "leather",
+            "silver"
+        ],
+        "name": "a tower guard's belt",
+        "slot": null,
+        "keywords": [
+            "tower",
+            "guard",
+            "belt"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 2000,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 70,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A very shiny steel bracer lies here collecting dust.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a tower guard's bracer",
+        "slot": null,
+        "keywords": [
+            "tower",
+            "guard",
+            "bracer"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 1800,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "1 magic"
+        ]
+    },
+    {
+        "id": 72,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 1",
+        "map": "+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ######^##      ######|\n|       #......*#      .....#|\n|       ####.####      ####.#|\n| ####.#####.#####.####^###.#|\n| ...........................|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #.......#|\n|          #.#      ####-####|\n| The staircase shaft        |\n+----------------------------+",
+        "description": "A large broadsword reflects light into your eyes.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a tower guard's broadsword",
+        "slot": "wielded",
+        "keywords": [
+            "tower",
+            "guard",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs",
+        "value": 3200,
+        "level": 22,
+        "damage": 17,
+        "effects": [
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|    ###   ###               |\n|    #.#   #.#               |\n|    #.#   #.#               |\n|    #.#####.####   ###      |\n|    #..........#   #.#      |\n|    #.#####.####   #.#      |\n|    #.#   ^.####^###.#      |\n|    #.#   #.##*#.....#      |\n|    ###   #.##.##.####      |\n|          #.##.#..#         |\n|          #.......#         |\n|          #########         |\n|                            |\n|                            |\n|                            |\n| Dining Butler              |\n+----------------------------+",
+        "description": "A steel spoon is here.",
+        "materials": [
+            "steel"
+        ],
+        "name": "a steel spoon",
+        "slot": null,
+        "keywords": [
+            "spoon",
+            "steel"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 11 oz",
+        "value": 3475,
+        "level": 56,
+        "damage": 36,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "date": "09/29/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.####         |\n|             .*...#         |\n|             ####.#         |\n|                ^.#         |\n|                #.#         |\n|                ##v         |\n|                            |\n|                            |\n|                            |\n| Guards Quarters            |\n+----------------------------+",
+        "description": "A polished steel bracer reflects light into your eyes.",
+        "materials": [
+            "iron"
+        ],
+        "name": "a polished steel bracer",
+        "slot": "wrist",
+        "keywords": [
+            "polished",
+            "steel",
+            "bracer"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil"
+        ],
+        "weight": "8 lbs",
+        "value": 550,
+        "level": 58,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "intelligence": 1
+            },
+            {
+                "hp": 13
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "date": "09/29/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| #############.#######   ###|\n| .....................   ...|\n| #####################   ###|\n|                            |\n|                            |\n|                            |\n|             ^##      ######|\n|             #*#      #.....|\n|             #.#      ######|\n|             #.#^##         |\n|             #....#         |\n|             #.####         |\n|       #.#####.####      ###|\n|       #.##.......|      #.#|\n|       #.##.......#      #.#|\n| The Great Dome             |\n+----------------------------+",
+        "description": "A large tortoise shell lies here.",
+        "materials": [
+            "scale"
+        ],
+        "name": "a huge tortoise shell",
+        "slot": "shield",
+        "keywords": [
+            "large",
+            "tortoise",
+            "shell"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 7900,
+        "level": 75,
+        "armor type": "light metal",
+        "armor class": [
+            "27 pierce",
+            "27 bash",
+            "27 slash",
+            "13 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 6
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "strength": 2
+            },
+            {
+                "saves": -2
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "date": "09/29/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| #############.#######   ###|\n| .....................   ...|\n| #####################   ###|\n|                            |\n|                            |\n|                            |\n|             ^##      ######|\n|             #*#      #.....|\n|             #.#      ######|\n|             #.#^##         |\n|             #....#         |\n|             #.####         |\n|       #.#####.####      ###|\n|       #.##.......|      #.#|\n|       #.##.......#      #.#|\n| The Great Dome             |\n+----------------------------+",
+        "description": "A beautifully-carved spear made of vallenwood lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a vallenwood spear",
+        "slot": "wielded",
+        "keywords": [
+            "vallenwood",
+            "spear"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 4400,
+        "level": 70,
+        "damage": 44,
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ^#####            |\n|          #.##*#            |\n|          #.##.#            |\n|       #.##.##.#            |\n|       #.......#            |\n|       #-##.##.#            |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| Servant's Bedroom in Hous  |\n+----------------------------+",
+        "description": "the mark of the head servant is here.",
+        "materials": [
+            "gold",
+            "unknown material"
+        ],
+        "name": "the mark of the head servant",
+        "slot": "arms",
+        "keywords": [
+            "mark",
+            "head",
+            "servant"
+        ],
+        "type": "jewelry",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 50,
+        "level": 23,
+        "effects": [
+            {
+                "strength": 4
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #-##.##.#      |\n|                #.##.#      |\n|                #.##.#      |\n|                #.####      |\n| Kitchen of House Dairness  |\n+----------------------------+",
+        "description": "the cook's apron is here, no stains!",
+        "materials": [
+            "cloth",
+            "silk"
+        ],
+        "name": "the cook's apron",
+        "slot": "body",
+        "keywords": [
+            "apron",
+            "cooks",
+            "cook"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 10,
+        "level": 30,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "1 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 2
+            },
+            {
+                "constitution": 2
+            },
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #-##.##.#      |\n|                #.##.#      |\n|                #.##.#      |\n|                #.####      |\n| Kitchen of House Dairness  |\n+----------------------------+",
+        "description": "a cook's hat is here, no stains!",
+        "materials": [
+            "cloth",
+            "silk"
+        ],
+        "name": "a cook's hat",
+        "slot": "head",
+        "keywords": [
+            "hat",
+            "cooks",
+            "cook"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 10,
+        "level": 30,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "1 magic"
+        ],
+        "effects": [
+            {
+                "mana": 15
+            },
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                #.#         |\n|                #.v         |\n|             ####.#         |\n|             #*....         |\n|             ####.#         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Master Bedroom of House T  |\n+----------------------------+",
+        "description": "a pair of pure-white sleeves is here.",
+        "materials": [
+            "bone",
+            "adamantite"
+        ],
+        "name": "a pair of albino sleeves",
+        "slot": "arms",
+        "keywords": [
+            "albino",
+            "sleeves",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic",
+            "bless"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 10000,
+        "level": 35,
+        "armor type": "magic",
+        "armor class": [
+            "5 pierce",
+            "5 bash",
+            "5 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "dexterity": 2
+            },
+            {
+                "mana": 50
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                #.#         |\n|                #.v         |\n|             ####.#         |\n|             #*....         |\n|             ####.#         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Master Bedroom of House T  |\n+----------------------------+",
+        "description": "a pair of pure-white gloves are here.",
+        "materials": [
+            "adamantite",
+            "bone"
+        ],
+        "name": "a pair of albino light gloves",
+        "slot": "hands",
+        "keywords": [
+            "albino",
+            "gloves",
+            "light",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic",
+            "bless"
+        ],
+        "weight": "5 lbs, 1 oz",
+        "value": 1000,
+        "level": 25,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "35 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "mana": 10
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|          ####.#            |\n|          #....|            |\n|          ####.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| Kitchen of House Dretnon   |\n+----------------------------+",
+        "description": "a spatula is here, ready to flip some burgers.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a spatula",
+        "slot": "wielded",
+        "keywords": [
+            "cook",
+            "spatula"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 9 oz",
+        "value": 100,
+        "level": 25,
+        "damage": 17
+    },
+    {
+        "id": 86,
+        "date": "09/30/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #.#            |\n|             #.#            |\n|          ####.####         |\n|          #...*...#         |\n|          ####.####         |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.####         |\n|          #.......#         |\n|          ####.####         |\n| Hallway of House Dretnon   |\n+----------------------------+",
+        "description": "there is one wine you notice that is aged well enough.",
+        "materials": [
+            "glass",
+            "water"
+        ],
+        "name": "aged wine",
+        "slot": "light",
+        "keywords": [
+            "potion",
+            "wine",
+            "sweet",
+            "aged"
+        ],
+        "type": "potion",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 100,
+        "level": 5,
+        "spell level": "30",
+        "spells": "sanctuary"
+    },
+    {
+        "id": 87,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Executive Officer's Quart  |\n+----------------------------+",
+        "description": "a pair of very nicely polished gauntlets glint light into your eyes.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a pair of polished battle gauntlets",
+        "slot": "hands",
+        "keywords": [
+            "polished",
+            "battle",
+            "gauntlets"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil"
+        ],
+        "weight": "6 lbs",
+        "value": 2600,
+        "level": 58,
+        "armor type": "magic",
+        "armor class": [
+            "16 pierce",
+            "16 bash",
+            "16 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 5
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Executive Officer's Quart  |\n+----------------------------+",
+        "description": "a pair of polished vambrances are here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a pair of polished steel vambrances",
+        "slot": "arms",
+        "keywords": [
+            "polished",
+            "steel",
+            "vambrances"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil"
+        ],
+        "weight": "9 lbs",
+        "value": 2600,
+        "level": 58,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "30 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "strength": 1
+            },
+            {
+                "hp": 13
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|       #-#   #.#            |\n|       |.#   #.#            |\n|       #.#   #.#            |\n|       #.#####.#            |\n|       #.......#            |\n|       #.#####.#            |\n| #-#####.#   #.#            |\n| ..|#....|   #*#            |\n| #.##.####   ###            |\n| ^.##.#^###-#               |\n| #.##.......#               |\n| #.#####.####               |\n| #.##.#..#                  |\n| #.......#                  |\n| #########                  |\n| Executive Officer's Quart  |\n+----------------------------+",
+        "description": "a pair of polished steel greaves are here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a pair of polished steel greaves",
+        "slot": "legs",
+        "keywords": [
+            "polished",
+            "greaves"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil"
+        ],
+        "weight": "9 lbs",
+        "value": 2600,
+        "level": 58,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "30 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": -2
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "hit roll": 5
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|       #-#   #.#            |\n|       |.#   #.#            |\n|       #.#   #.#            |\n|       #.#####.#            |\n|       #.......#            |\n|       #.#####.#            |\n| #-#####.#   #.#            |\n| ..|#....|   #*#            |\n| #.##.####   ###            |\n| ^.##.#^###-#               |\n| #.##.......#               |\n| #.#####.####               |\n| #.##.#..#                  |\n| #.......#                  |\n| #########                  |\n| Executive Officer's Quart  |\n+----------------------------+",
+        "description": "a suit of heavy polished body armor is here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a suit of polished body armor",
+        "slot": "chest",
+        "keywords": [
+            "polished",
+            "body",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil"
+        ],
+        "weight": "0 lbs",
+        "value": 4200,
+        "level": 58,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "30 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "constitution": 1
+            },
+            {
+                "mana": 13
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|             ############   |\n|             #.......#..#   |\n|             ####.#####.#   |\n|             ####.#####.#   |\n|             #*.........#   |\n|             #######.##.#   |\n|                   ^.##.####|\n|                   #.#.....#|\n|                   ##v#.##.#|\n|                      #.##.#|\n|                      #....#|\n|                      ####.#|\n| A DEAD end!                |\n+----------------------------+",
+        "description": "a pair of boot made from dragon skin are here.",
+        "materials": [
+            "unknown material",
+            "unknown material"
+        ],
+        "name": "a pair of dragon boots",
+        "slot": "feet",
+        "keywords": [
+            "dragon",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "9 lbs",
+        "value": 3499,
+        "level": 48,
+        "armor type": "magic",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "8 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                ...         |\n|                ...         |\n|             ####.####      |\n|             #*......#      |\n|             #######.#      |\n|                   ^.#      |\n|                   #.#      |\n|                   ##v      |\n|                            |\n|                            |\n|                            |\n| A Latrine                  |\n+----------------------------+",
+        "description": "a nicely sharpened glaive polearm has been left here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a very sharp glaive polearm",
+        "slot": "wielded",
+        "keywords": [
+            "glaive",
+            "polearm"
+        ],
+        "type": "weapon",
+        "weapon type": "polearm",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs, 1 oz",
+        "value": 3700,
+        "level": 60,
+        "damage": 45,
+        "weapon flags": "sharp two-handed",
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "date": "09/30/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|    #.#######   #.#         |\n|    #.......#   #.#         |\n|    #.##.####   #.#         |\n|    #.#^.#      #.#         |\n|    #.##.#      #.#         |\n|    #.##.#      #.#         |\n|    #.##.#   ######         |\n|    #..#.#   #*....         |\n|    #.##.#   ####.#         |\n|    #..#.########..#.#      |\n|    #................#      |\n|    ##################      |\n|                            |\n|                            |\n|                            |\n| Servant Quarters           |\n+----------------------------+",
+        "description": "you instantly notice a flickering red light hovering in the room.",
+        "materials": [
+            "fire",
+            "unknown material"
+        ],
+        "name": "a flickering red light",
+        "slot": "floating",
+        "keywords": [
+            "flickering",
+            "red",
+            "light"
+        ],
+        "type": "treasure",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 4563,
+        "level": 70,
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
             }
         ]
     },
