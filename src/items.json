@@ -1107,7 +1107,7 @@
             "steel"
         ],
         "name": "a defiled steel girdle",
-        "slot": null,
+        "slot": "waist",
         "keywords": [
             "randarmor",
             "a",
@@ -1823,7 +1823,7 @@
             "leather"
         ],
         "name": "a tower guard's shield",
-        "slot": null,
+        "slot": "shield",
         "keywords": [
             "tower",
             "guard",
@@ -1887,7 +1887,7 @@
             "silver"
         ],
         "name": "a tower guard's belt",
-        "slot": null,
+        "slot": "waist",
         "keywords": [
             "tower",
             "guard",
@@ -1919,7 +1919,7 @@
             "leather"
         ],
         "name": "a tower guard's bracer",
-        "slot": null,
+        "slot": "wrist",
         "keywords": [
             "tower",
             "guard",
@@ -1982,7 +1982,7 @@
             "steel"
         ],
         "name": "a steel spoon",
-        "slot": null,
+        "slot": "wielded",
         "keywords": [
             "spoon",
             "steel"
@@ -2134,7 +2134,7 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ^#####            |\n|          #.##*#            |\n|          #.##.#            |\n|       #.##.##.#            |\n|       #.......#            |\n|       #-##.##.#            |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| Servant's Bedroom in Hous  |\n+----------------------------+",
-        "description": "the mark of the head servant is here.",
+        "description": "The mark of the head servant is here.",
         "materials": [
             "gold",
             "unknown material"
@@ -2164,7 +2164,7 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #-##.##.#      |\n|                #.##.#      |\n|                #.##.#      |\n|                #.####      |\n| Kitchen of House Dairness  |\n+----------------------------+",
-        "description": "the cook's apron is here, no stains!",
+        "description": "The cook's apron is here, no stains!",
         "materials": [
             "cloth",
             "silk"
@@ -2207,7 +2207,7 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #-##.##.#      |\n|                #.##.#      |\n|                #.##.#      |\n|                #.####      |\n| Kitchen of House Dairness  |\n+----------------------------+",
-        "description": "a cook's hat is here, no stains!",
+        "description": "A cook's hat is here, no stains!",
         "materials": [
             "cloth",
             "silk"
@@ -2253,12 +2253,12 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                #.#         |\n|                #.v         |\n|             ####.#         |\n|             #*....         |\n|             ####.#         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Master Bedroom of House T  |\n+----------------------------+",
-        "description": "a pair of pure-white sleeves is here.",
+        "description": "A pair of pure-white sleeves is here.",
         "materials": [
             "bone",
             "adamantite"
         ],
-        "name": "a pair of albino sleeves",
+        "name": "a pair of Albino Sleeves",
         "slot": "arms",
         "keywords": [
             "albino",
@@ -2301,12 +2301,12 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                #.#         |\n|                #.v         |\n|             ####.#         |\n|             #*....         |\n|             ####.#         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Master Bedroom of House T  |\n+----------------------------+",
-        "description": "a pair of pure-white gloves are here.",
+        "description": "A pair of pure-white gloves are here.",
         "materials": [
             "adamantite",
             "bone"
         ],
-        "name": "a pair of albino light gloves",
+        "name": "a pair of Albino Light Gloves",
         "slot": "hands",
         "keywords": [
             "albino",
@@ -2347,7 +2347,7 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|          ####.#            |\n|          #....|            |\n|          ####.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| Kitchen of House Dretnon   |\n+----------------------------+",
-        "description": "a spatula is here, ready to flip some burgers.",
+        "description": "A spatula is here, ready to flip some burgers.",
         "materials": [
             "wood",
             "steel"
@@ -2373,12 +2373,12 @@
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #.#            |\n|             #.#            |\n|          ####.####         |\n|          #...*...#         |\n|          ####.####         |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.####         |\n|          #.......#         |\n|          ####.####         |\n| Hallway of House Dretnon   |\n+----------------------------+",
-        "description": "there is one wine you notice that is aged well enough.",
+        "description": "There is one wine you notice that is aged well enough.",
         "materials": [
             "glass",
             "water"
         ],
-        "name": "aged wine",
+        "name": "aged Wine",
         "slot": "light",
         "keywords": [
             "potion",
@@ -2401,7 +2401,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Executive Officer's Quart  |\n+----------------------------+",
-        "description": "a pair of very nicely polished gauntlets glint light into your eyes.",
+        "description": "A pair of very nicely polished gauntlets glint light into your eyes.",
         "materials": [
             "iron",
             "unknown material"
@@ -2441,7 +2441,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Executive Officer's Quart  |\n+----------------------------+",
-        "description": "a pair of polished vambrances are here.",
+        "description": "A pair of polished vambrances are here.",
         "materials": [
             "iron",
             "unknown material"
@@ -2487,7 +2487,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|       #-#   #.#            |\n|       |.#   #.#            |\n|       #.#   #.#            |\n|       #.#####.#            |\n|       #.......#            |\n|       #.#####.#            |\n| #-#####.#   #.#            |\n| ..|#....|   #*#            |\n| #.##.####   ###            |\n| ^.##.#^###-#               |\n| #.##.......#               |\n| #.#####.####               |\n| #.##.#..#                  |\n| #.......#                  |\n| #########                  |\n| Executive Officer's Quart  |\n+----------------------------+",
-        "description": "a pair of polished steel greaves are here.",
+        "description": "A pair of polished steel greaves are here.",
         "materials": [
             "iron",
             "unknown material"
@@ -2529,7 +2529,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|       #-#   #.#            |\n|       |.#   #.#            |\n|       #.#   #.#            |\n|       #.#####.#            |\n|       #.......#            |\n|       #.#####.#            |\n| #-#####.#   #.#            |\n| ..|#....|   #*#            |\n| #.##.####   ###            |\n| ^.##.#^###-#               |\n| #.##.......#               |\n| #.#####.####               |\n| #.##.#..#                  |\n| #.......#                  |\n| #########                  |\n| Executive Officer's Quart  |\n+----------------------------+",
-        "description": "a suit of heavy polished body armor is here.",
+        "description": "A suit of heavy polished body armor is here.",
         "materials": [
             "iron",
             "unknown material"
@@ -2575,7 +2575,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|             ############   |\n|             #.......#..#   |\n|             ####.#####.#   |\n|             ####.#####.#   |\n|             #*.........#   |\n|             #######.##.#   |\n|                   ^.##.####|\n|                   #.#.....#|\n|                   ##v#.##.#|\n|                      #.##.#|\n|                      #....#|\n|                      ####.#|\n| A DEAD end!                |\n+----------------------------+",
-        "description": "a pair of boot made from dragon skin are here.",
+        "description": "A pair of boot made from dragon skin are here.",
         "materials": [
             "unknown material",
             "unknown material"
@@ -2617,7 +2617,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                ...         |\n|                ...         |\n|             ####.####      |\n|             #*......#      |\n|             #######.#      |\n|                   ^.#      |\n|                   #.#      |\n|                   ##v      |\n|                            |\n|                            |\n|                            |\n| A Latrine                  |\n+----------------------------+",
-        "description": "a nicely sharpened glaive polearm has been left here.",
+        "description": "A nicely sharpened glaive polearm has been left here.",
         "materials": [
             "steel",
             "unknown material"
@@ -2652,7 +2652,7 @@
         "date": "09/30/2015",
         "zone": "High Clerist Tower 2",
         "map": "+----------------------------+\n| High Clerist Tower 2       |\n|    #.#######   #.#         |\n|    #.......#   #.#         |\n|    #.##.####   #.#         |\n|    #.#^.#      #.#         |\n|    #.##.#      #.#         |\n|    #.##.#      #.#         |\n|    #.##.#   ######         |\n|    #..#.#   #*....         |\n|    #.##.#   ####.#         |\n|    #..#.########..#.#      |\n|    #................#      |\n|    ##################      |\n|                            |\n|                            |\n|                            |\n| Servant Quarters           |\n+----------------------------+",
-        "description": "you instantly notice a flickering red light hovering in the room.",
+        "description": "You instantly notice a flickering red light hovering in the room.",
         "materials": [
             "fire",
             "unknown material"
@@ -2678,6 +2678,475 @@
             {
                 "hit roll": 2
             }
+        ]
+    },
+    {
+        "id": 96,
+        "date": "10/01/2015",
+        "zone": "Vingaard Keep",
+        "map": "+----------------------------+\n| Vingaard Keep              |\n| #.####                     |\n| #....#                     |      Rather abruptly the hallway comes to an\n| #.####                     |    end and the room widens into a rather large\n| #.#                        |    circular room with a tiled floor and a grand\n| #.#                        |    marble staircase leading to the top floor. \n| #.#                        |    Two doors, one north and one south, lead to\n| #.#####.####^-#            |    more guard quarters.  Light enters this large\n| .............*#            |    room from windows on the second story although\n| #.#####.#####-#            |    torches are still mounted upon the walls you\n|       #.#                  |    can tell they haven't aren't used except for\n|       #.#                  |    at night.  The smell of unwashed guards leaves\n|       ###                  |    the room as only the smell of cigar smoke can\n|                            |    be distinguished.  \n|                            |\n|                            |\n| The Grand Staircase        |\n+----------------------------+",
+        "description": "A longbow used by the watchguards lies here.",
+        "materials": [
+            "wood",
+            "leather"
+        ],
+        "name": "a solamnic longbow",
+        "slot": "wielded",
+        "keywords": [
+            "solamnic",
+            "longbow"
+        ],
+        "type": "bow",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 200,
+        "level": 65,
+        "dam bonus": 5,
+        "range bonus": 1,
+        "min str": 18,
+        "fire rate": 2
+    },
+    {
+        "id": 97,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A steel helm lays here in the dirt",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "(Steel) a Solanthus city guard helm",
+        "slot": "head",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "helm"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "3 lbs",
+        "value": 2900,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A small ring, with a city seal engraved on it, lays in the dust",
+        "materials": [
+            "copper",
+            "bronze"
+        ],
+        "name": "a Solanthus signet ring",
+        "slot": "finger",
+        "keywords": [
+            "solanthus",
+            "signet",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 2640,
+        "level": 15,
+        "armor type": "magic",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -3
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A pair of steel sleeves rests here",
+        "materials": [
+            "steel",
+            "cloth"
+        ],
+        "name": "(Steel) a pair of Solanthus guard sleeves",
+        "slot": "arms",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "sleeves"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 2082,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 101,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A set of steel greaves lay here",
+        "materials": [
+            "steel",
+            "cloth"
+        ],
+        "name": "(Steel) a pair of Solanthus guard greaves",
+        "slot": "legs",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "greaves"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 2851,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 102,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A steel shield, with the crest of Solanthus, sits here",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "(Steel) a Solanthus guard shield",
+        "slot": "shield",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 2082,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 103,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A steel breast plate, with the Solanthus seal, sits here",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "(Steel) a solanthus city guard breast plate",
+        "slot": "chest",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "breast",
+            "plate"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 2085,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 104,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A cape, with the crest of Solanthus embroidered on it, sits here",
+        "materials": [
+            "cloth",
+            "gold"
+        ],
+        "name": "(Flowing) a Solanthus guard cape",
+        "slot": "body",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "cape"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 2000,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 105,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A cloak with a golden clasp sits folded here",
+        "materials": [
+            "cloth",
+            "gold"
+        ],
+        "name": "(Clasped) a solanthus guard cloak",
+        "slot": "neck",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "cloak"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 0,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "-1 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 2
+            },
+            {
+                "armor class": -10
+            },
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A pair of steel gauntlets have been abandoned by its owner",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "(Steel) a pair of Solanthus guard gauntlets",
+        "slot": "hands",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "gauntlets"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 1400,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 107,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A steel belt with the insignia of Solanthus lays here",
+        "materials": [
+            "leather",
+            "steel"
+        ],
+        "name": "(Steel) a Solanthus guard belt",
+        "slot": "waist",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "belt"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 1200,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 108,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A steel bracer has been discarded here",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "(Steel) a Solanthus guard bracer",
+        "slot": "wrist",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "bracer"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 1400,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ]
+    },
+    {
+        "id": 109,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A long sword with a silver hilt and gold hilt wrap glints in the light",
+        "materials": [
+            "steel",
+            "silver"
+        ],
+        "name": "(Silver hilted) A steel longsword with gold hilt wrap",
+        "slot": "wielded",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "longsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "anti-evil"
+        ],
+        "weight": "8 lbs",
+        "value": 3000,
+        "level": 25,
+        "damage": 20,
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 3
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "date": "10/01/2015",
+        "zone": "Solanthus",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "description": "A pair of steel boots have been left here",
+        "materials": [
+            "steel",
+            "rubber"
+        ],
+        "name": "(Steel) a pair of Solanthus guard boots",
+        "slot": "feet",
+        "keywords": [
+            "solanthus",
+            "guard",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 10,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "3 pierce",
+            "3 bash",
+            "3 slash",
+            "0 magic"
         ]
     },
     {
