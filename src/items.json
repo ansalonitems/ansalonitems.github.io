@@ -22,7 +22,10 @@
         "value": 500,
         "level": 4,
         "capacity": "200 items",
-        "max item": "20 lbs"
+        "max item": "20 lbs",
+        "effects": [
+            
+        ]
     },
     {
         "id": 11,
@@ -48,7 +51,10 @@
         "weight": "5 lbs",
         "value": 300,
         "level": 21,
-        "damage": 21
+        "damage": 21,
+        "effects": [
+            
+        ]
     },
     {
         "id": 12,
@@ -71,7 +77,10 @@
         ],
         "weight": "0 lbs, 6 oz",
         "value": 280,
-        "level": 0
+        "level": 0,
+        "effects": [
+            
+        ]
     },
     {
         "id": 13,
@@ -242,7 +251,10 @@
         ],
         "weight": "1 lbs",
         "value": 10860,
-        "level": 0
+        "level": 0,
+        "effects": [
+            
+        ]
     },
     {
         "id": 19,
@@ -376,7 +388,10 @@
         ],
         "weight": "1 lbs",
         "value": 2000,
-        "level": 25
+        "level": 25,
+        "effects": [
+            
+        ]
     },
     {
         "id": 23,
@@ -743,7 +758,10 @@
         "value": 5,
         "level": 12,
         "spell level": "20",
-        "spells": "stone skin, pass door, curse"
+        "spells": "stone skin, pass door, curse",
+        "effects": [
+            
+        ]
     },
     {
         "id": 32,
@@ -923,7 +941,10 @@
         "level": 20,
         "furniture": "this furniture can hold 1 people, a total of 2000 pounds.",
         "healing bonus": "10%",
-        "mana bonus": "10%"
+        "mana bonus": "10%",
+        "effects": [
+            
+        ]
     },
     {
         "id": 38,
@@ -1161,7 +1182,10 @@
         "value": 200,
         "level": 46,
         "charges": "5",
-        "spell level": "46"
+        "spell level": "46",
+        "effects": [
+            
+        ]
     },
     {
         "id": 45,
@@ -1635,6 +1659,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1710,6 +1737,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1742,6 +1772,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1774,6 +1807,9 @@
             "4 bash",
             "4 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1806,6 +1842,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1838,6 +1877,9 @@
             "8 bash",
             "8 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1870,6 +1912,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1902,6 +1947,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -1934,6 +1982,9 @@
             "8 bash",
             "8 slash",
             "1 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -2362,7 +2413,10 @@
         "weight": "0 lbs, 9 oz",
         "value": 100,
         "level": 25,
-        "damage": 17
+        "damage": 17,
+        "effects": [
+            
+        ]
     },
     {
         "id": 86,
@@ -2389,7 +2443,10 @@
         "value": 100,
         "level": 5,
         "spell level": "30",
-        "spells": "sanctuary"
+        "spells": "sanctuary",
+        "effects": [
+            
+        ]
     },
     {
         "id": 87,
@@ -2702,7 +2759,10 @@
         "dam bonus": 5,
         "range bonus": 1,
         "min str": 18,
-        "fire rate": 2
+        "fire rate": 2,
+        "effects": [
+            
+        ]
     },
     {
         "id": 97,
@@ -2808,6 +2868,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -2840,6 +2903,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -2872,6 +2938,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -2905,6 +2974,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -2937,6 +3009,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -3012,6 +3087,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -3044,6 +3122,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -3076,6 +3157,9 @@
             "7 bash",
             "7 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -3143,6 +3227,9 @@
             "3 bash",
             "3 slash",
             "0 magic"
+        ],
+        "effects": [
+            
         ]
     },
     {
@@ -3271,7 +3358,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "a Shinare's Perfect Diamond",
         "slot": "held",
         "keywords": [
@@ -3307,7 +3396,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Magical) (Glowing) a huge notched sword",
         "slot": "wielded",
         "keywords": [
@@ -3347,7 +3438,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Invis) (Glowing) girdle of the sprite master",
         "slot": "waist",
         "keywords": [
@@ -3385,7 +3478,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Humming) a flaming trident",
         "slot": "wielded",
         "keywords": [
@@ -3414,7 +3509,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "a bracer etched with the \"Youngblood\" symbol",
         "slot": "wrist",
         "keywords": [
@@ -3459,7 +3556,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Humming) a tiny sprite dagger",
         "slot": "wielded",
         "keywords": [
@@ -3488,7 +3587,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Magical) (Glowing) (Humming) enchanted chain armor",
         "slot": "chest",
         "keywords": [
@@ -3532,7 +3633,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "some delicious looking candy",
         "slot": null,
         "keywords": [
@@ -3563,7 +3666,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Magical) (Glowing) (Humming) a ring of the wilds",
         "slot": "finger",
         "keywords": [
@@ -3604,7 +3709,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "a brambled club",
         "slot": "wielded",
         "keywords": [
@@ -3633,7 +3740,9 @@
         "zone": null,
         "map": null,
         "description": null,
-        "materials": null,
+        "materials": [
+            
+        ],
         "name": "(Glowing) (Humming) a wooden hoop earring",
         "slot": "ear",
         "keywords": [
