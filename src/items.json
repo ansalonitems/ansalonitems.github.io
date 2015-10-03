@@ -2696,7 +2696,8 @@
             "solamnic",
             "longbow"
         ],
-        "type": "bow",
+        "type": "weapon",
+        "weapon type": "bow",
         "flags": [
             "none"
         ],
