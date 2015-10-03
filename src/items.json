@@ -54,6 +54,9 @@
         "damage": 21,
         "effects": [
             
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -425,6 +428,9 @@
             {
                 "damage roll": 2
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -733,6 +739,9 @@
             {
                 "damage roll": 1
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -876,6 +885,9 @@
             {
                 "damage roll": 2
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -1218,6 +1230,9 @@
             {
                 "damage roll": 3
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -1538,6 +1553,9 @@
             {
                 "strength": 4
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -2017,6 +2035,9 @@
             {
                 "damage roll": 1
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -2050,6 +2071,9 @@
             {
                 "damage roll": 4
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -2174,6 +2198,9 @@
             {
                 "damage roll": 5
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -2415,6 +2442,9 @@
         "level": 25,
         "damage": 17,
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
@@ -2689,7 +2719,10 @@
         "value": 3700,
         "level": 60,
         "damage": 45,
-        "weapon flags": "sharp two-handed",
+        "weapon flags": [
+            "sharp",
+            "two-handed"
+        ],
         "effects": [
             {
                 "hit roll": 5
@@ -2761,6 +2794,9 @@
         "min str": 18,
         "fire rate": 2,
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
@@ -3195,6 +3231,9 @@
             {
                 "hit roll": 3
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -3305,7 +3344,9 @@
         "value": 2770,
         "level": 55,
         "damage": 30,
-        "weapon flags": "throwable",
+        "weapon flags": [
+            "throwable"
+        ],
         "effects": [
             {
                 "damage roll": 4
@@ -3342,7 +3383,9 @@
         "value": 25000,
         "level": 104,
         "damage": 63,
-        "weapon flags": "vampiric",
+        "weapon flags": [
+            "vampiric"
+        ],
         "effects": [
             {
                 "hit roll": 11
@@ -3430,6 +3473,9 @@
             {
                 "dexterity": 2
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -3500,6 +3546,9 @@
             "flaming"
         ],
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
@@ -3578,6 +3627,9 @@
             
         ],
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
@@ -3731,6 +3783,9 @@
             "two-handed"
         ],
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
