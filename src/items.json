@@ -2684,7 +2684,7 @@
         "id": 96,
         "date": "10/01/2015",
         "zone": "Vingaard Keep",
-        "map": "+----------------------------+\n| Vingaard Keep              |\n| #.####                     |\n| #....#                     |      Rather abruptly the hallway comes to an\n| #.####                     |    end and the room widens into a rather large\n| #.#                        |    circular room with a tiled floor and a grand\n| #.#                        |    marble staircase leading to the top floor. \n| #.#                        |    Two doors, one north and one south, lead to\n| #.#####.####^-#            |    more guard quarters.  Light enters this large\n| .............*#            |    room from windows on the second story although\n| #.#####.#####-#            |    torches are still mounted upon the walls you\n|       #.#                  |    can tell they haven't aren't used except for\n|       #.#                  |    at night.  The smell of unwashed guards leaves\n|       ###                  |    the room as only the smell of cigar smoke can\n|                            |    be distinguished.  \n|                            |\n|                            |\n| The Grand Staircase        |\n+----------------------------+",
+        "map": "+----------------------------+\n| Vingaard Keep              |\n| #.####                     |\n| #....#                     |\n| #.####                     |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#####.####^-#            |\n| .............*#            |\n| #.#####.#####-#            |\n|       #.#                  |\n|       #.#                  |\n|       ###                  |\n|                            |\n|                            |\n|                            |\n| The Grand Staircase        |\n+----------------------------+",
         "description": "A longbow used by the watchguards lies here.",
         "materials": [
             "wood",
@@ -2712,7 +2712,7 @@
         "id": 97,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A steel helm lays here in the dirt",
         "materials": [
             "steel",
@@ -2749,7 +2749,7 @@
         "id": 98,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A small ring, with a city seal engraved on it, lays in the dust",
         "materials": [
             "copper",
@@ -2786,7 +2786,7 @@
         "id": 99,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A pair of steel sleeves rests here",
         "materials": [
             "steel",
@@ -2818,7 +2818,7 @@
         "id": 101,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A set of steel greaves lay here",
         "materials": [
             "steel",
@@ -2850,7 +2850,7 @@
         "id": 102,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A steel shield, with the crest of Solanthus, sits here",
         "materials": [
             "steel",
@@ -2882,7 +2882,7 @@
         "id": 103,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A steel breast plate, with the Solanthus seal, sits here",
         "materials": [
             "steel",
@@ -2915,7 +2915,7 @@
         "id": 104,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A cape, with the crest of Solanthus embroidered on it, sits here",
         "materials": [
             "cloth",
@@ -2947,7 +2947,7 @@
         "id": 105,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A cloak with a golden clasp sits folded here",
         "materials": [
             "cloth",
@@ -2990,7 +2990,7 @@
         "id": 106,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A pair of steel gauntlets have been abandoned by its owner",
         "materials": [
             "steel",
@@ -3022,7 +3022,7 @@
         "id": 107,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A steel belt with the insignia of Solanthus lays here",
         "materials": [
             "leather",
@@ -3054,7 +3054,7 @@
         "id": 108,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A steel bracer has been discarded here",
         "materials": [
             "steel",
@@ -3086,7 +3086,7 @@
         "id": 109,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A long sword with a silver hilt and gold hilt wrap glints in the light",
         "materials": [
             "steel",
@@ -3121,7 +3121,7 @@
         "id": 110,
         "date": "10/01/2015",
         "zone": "Solanthus",
-        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |      You are walking down a well cobble stoned\n|                   \"\"\"      |    road that runs east and west along the city\n|                   \"\"\"      |    wall.  To the north you see the massive city\n|                   \"\"\"      |    wall.  To the south you can see the sides of\n|                   \"\"\"      |    many buildings.  \n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
+        "map": "+----------------------------+\n| Solanthus                  |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|          ##########.####\"\"\"|\n|          ....*...##..^^^\"\"\"|\n|          #.#####.##.####\"\"\"|\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.#\"\"\"      |\n|                #.##^#      |\n|                #..^^#      |\n|                #.####      |\n| Paladine road              |\n+----------------------------+",
         "description": "A pair of steel boots have been left here",
         "materials": [
             "steel",
@@ -3147,6 +3147,126 @@
             "3 bash",
             "3 slash",
             "0 magic"
+        ]
+    },
+    {
+        "id": 111,
+        "date": "10/01/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          #########         |\n|          |...*...#         |\n|          #.######v         |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| The palace armory          |\n+----------------------------+",
+        "description": "This heavy looking signet ring belongs to the governor of Stone Rose.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a heavy silver signet ring",
+        "slot": "finger",
+        "keywords": [
+            "heavy",
+            "silver",
+            "signet",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 0,
+        "level": 82,
+        "armor type": "magic",
+        "armor class": [
+            "-9 pierce",
+            "0 bash",
+            "0 slash",
+            "-8 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "hp": 20
+            },
+            {
+                "moves": 100
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "date": "10/01/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n| ##########.##.#            |\n| ..............#            |\n| #############.#            |\n|             #.#            |\n|             ...            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             #-#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Southern end of River Run  |\n+----------------------------+",
+        "description": "This dagger is of a very reflective steel that seems to shimmer with a slight greenish hue.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a sharpened steel dagger",
+        "slot": "wielded",
+        "keywords": [
+            "shapened",
+            "steel",
+            "dagger"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "anti-good"
+        ],
+        "weight": "1 lbs",
+        "value": 2770,
+        "level": 55,
+        "damage": 30,
+        "weapon flags": "throwable",
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "date": "10/01/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                   ####.#   |\n|                   #.##.#   |\n|                   #.##.#   |\n|                   #.##.#   |\n|                   #....#   |\n|                   #.####   |\n|             #######.#      |\n|             #*......#      |\n|             #########      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Market Master's Offic  |\n+----------------------------+",
+        "description": "A long, sharp poniard lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a long, sharp poniard",
+        "slot": "wielded",
+        "keywords": [
+            "long",
+            "sharp",
+            "poniard"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "magic",
+            "anti-good"
+        ],
+        "weight": "12 lbs",
+        "value": 25000,
+        "level": 104,
+        "damage": 63,
+        "weapon flags": "vampiric",
+        "effects": [
+            {
+                "hit roll": 11
+            },
+            {
+                "damage roll": 10
+            }
         ]
     },
     {
