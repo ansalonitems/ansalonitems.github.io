@@ -10,7 +10,7 @@ import ItemPage from './item-page.js'
 const Router = AmpRouter.extend({
   routes: {
     '': 'home',
-    'items': 'items'
+    'items/': 'items'
   },
 
   home() {
@@ -23,7 +23,7 @@ const Router = AmpRouter.extend({
       const id = parseInt(params.id, 10)
       React.render(<ItemPage id={id} />, document.body)
     } else {
-      React.render(<ItemsPage />, document.body)
+      React.render(<ItemsPage filter={params} />, document.body)
     }
   },
 

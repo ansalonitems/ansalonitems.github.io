@@ -56,7 +56,11 @@ export default React.createClass({
             </div>
           </article>
           <aside className="item-map">
-            <span>It is from {item.zone || 'an unknown location'}.</span>
+            <span>It is from {
+              item.zone
+                ? <Link href={`items/?zone=${item.zone}`}>{item.zone}</Link>
+                : 'an unknown location'
+            }.</span>
             <pre className="map"
                  dangerouslySetInnerHTML={{__html: location}}>
             </pre>

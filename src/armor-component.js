@@ -37,7 +37,7 @@ export default React.createClass({
     delete item.date
 
     const toEntry = function(it) {
-      let value = item[it] || ''
+      let value = item[it] === null ? '' : item[it]
 
       return (
         <span key={it}>

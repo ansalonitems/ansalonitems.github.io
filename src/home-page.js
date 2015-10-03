@@ -3,7 +3,6 @@
 import React from 'react'
 import PageComponent from './page-component.js'
 import Link from './link.js'
-import items from './items.json'
 
 export default React.createClass({
   displayName: 'HomePage',
@@ -23,39 +22,16 @@ export default React.createClass({
   },
 
   render() {
-    const links = items.map( item => {
-      return (
-        <tr key={item.id}>
-          <td>
-            <Link href={`items?id=${item.id}`}>{item.name}</Link>
-          </td>
-          <td>
-            {this.itemTypeEntry(item)}
-          </td>
-          <td className="right-aligned">
-            {item.level}
-          </td>
-          <td>
-            {item.zone}
-          </td>
-        </tr>
-      )}
-    )
     return (
       <PageComponent>
-        <table className="item-table">
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Type</th>
-              <th className="right-aligned">Level</th>
-              <th>Zone</th>
-            </tr>
-          </thead>
-          <tbody>
-            {links}
-          </tbody>
-        </table>
+        <Link href={`items/?slot=wielded`}
+              className="button button-outlined big-button">
+          Weapons
+        </Link>
+        <Link href={`items/?slot=armor`}
+              className="button button-outlined big-button">
+          Armor
+        </Link>
       </PageComponent>
     )
   }
