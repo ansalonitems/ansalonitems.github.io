@@ -32,6 +32,34 @@ export default React.createClass({
               className="button button-outlined big-button">
           Armor
         </Link>
+        <Link href={`items/?type=furniture`}
+              className="button button-outlined big-button">
+          Furniture
+        </Link>
+        <Link href={`items/?type=container`}
+              className="button button-outlined big-button">
+          Containers
+        </Link>
+        <Link href={`items/?type=drink`}
+              className="button button-outlined big-button">
+          Drinks
+        </Link>
+        <Link href={`items/?type=treasure`}
+              className="button button-outlined big-button">
+          Treasure
+        </Link>
+        <Link href={`items/?type=jewelry`}
+              className="button button-outlined big-button">
+          Jewelry
+        </Link>
+        <Link href={`items/?type=potion`}
+              className="button button-outlined big-button">
+          Potions
+        </Link>
+        <Link href={`items/?type=pill`}
+              className="button button-outlined big-button">
+          Pills
+        </Link>
       </PageComponent>
     )
   }

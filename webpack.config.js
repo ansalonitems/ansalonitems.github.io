@@ -22,12 +22,6 @@ module.exports = getConfig({
     return {
       'index.html': data.defaultTemplate({html: homePageHtmlString}),
       'items/index.html': data.defaultTemplate({html: itemsPageHtmlString})
-
-      // here we might also create an app manifest.json
-      // app-manifest.json: JSON.stringify(something)
-
-      // or perhaps an appcache manifest
-      // cache.manifest: buildSomeString()
     }
   }
 })

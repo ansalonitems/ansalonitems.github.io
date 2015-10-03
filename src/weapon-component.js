@@ -6,7 +6,7 @@ import GenericMetadataComponent from './generic-item-metadata-component.js'
 import Link from './link.js'
 
 export default React.createClass({
-  displayName: 'ArmorComponent',
+  displayName: 'WeaponComponent',
 
   propTypes: {
     item: React.PropTypes.object.isRequired
@@ -34,27 +34,32 @@ export default React.createClass({
       }
     }
 
+    delete item['weapon type']
+    delete item.damage
+
     return (
       <GenericMetadataComponent item={item}>
         <table>
           <thead>
           <tr>
             <th>Name</th>
-            <th>Slot</th>
+            <th>Type</th>
             <th>Level</th>
             <th>Hit</th>
             <th>Dam</th>
+            <th>Damage</th>
           </tr>
           </thead>
           <tbody>
           <tr>
             <td>{this.props.item.name}</td>
             <td>
-              <Link href={`/items/?slot=${this.props.item.slot}`}>{this.props.item.slot}</Link>
+              <Link href={`/items/?weapon type=${this.props.item['weapon type']}`}>{this.props.item['weapon type']}</Link>
             </td>
             <td>{this.props.item.level}</td>
             <td>{hit}</td>
             <td>{dam}</td>
+            <td>{this.props.item.damage}</td>
           </tr>
           </tbody>
         </table>

@@ -3,7 +3,9 @@
 import React from 'react'
 import moment from 'moment'
 import PageComponent from './page-component.js'
-import ArmorStats from './armor-component.js'
+import ArmorComponent from './armor-component.js'
+import WeaponComponent from './weapon-component.js'
+import ItemComponent from './item-component.js'
 import Link from './link.js'
 import items from './items.json'
 
@@ -15,16 +17,16 @@ export default React.createClass({
   },
 
   getDetails(item) {
-    if(item.slot) {
-      return <ArmorStats item={item}></ArmorStats>
+    switch(item.type) {
+      case 'armor': return <ArmorComponent item={item}></ArmorComponent>
+      case 'weapon': return <WeaponComponent item={item}></WeaponComponent>
     }
 
-    switch(item.type) {
-      case 'armor': return <ArmorStats item={item}></ArmorStats>
-      case 'furniture': return <ArmorStats item={item}></ArmorStats>
-      case 'pill': return <ArmorStats item={item}></ArmorStats>
-      default: return <div></div>
+    if(item.slot) {
+      return <ArmorComponent item={item}></ArmorComponent>
     }
+
+    return <ItemComponent item={item}></ItemComponent>
   },
 
   render() {
