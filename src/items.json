@@ -60,7 +60,6 @@
             "clay"
         ],
         "name": "a small jug",
-        "slot": "light",
         "keywords": [
             "drinkcont",
             "small",
@@ -910,7 +909,6 @@
             "cloth"
         ],
         "name": "a colorful body pillow",
-        "slot": "light",
         "keywords": [
             "colorful",
             "body",
@@ -2379,7 +2377,6 @@
             "water"
         ],
         "name": "aged Wine",
-        "slot": "light",
         "keywords": [
             "potion",
             "wine",
