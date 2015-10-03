@@ -64,7 +64,7 @@
         "date": "09/24/2015",
         "zone": "Southwest Palanthas",
         "map": "+----------------------------+\n| Southwest Palanthas        |\n|       #.#   #.##.##.#      |\n|       #.#   #........      |\n|       #.#   #.##.##.#      |\n|       #.#   #.##.##.##.####|\n|       #.#   #.##.##.#.....#|\n|       #.#   ####.##.##.####|\n|       #.#   ####.##.##.####|\n|       #.#   #*............#|\n|       #.#   #.##-##.##.##.#|\n|    ####.#####.#   #.##.##.#|\n|    .........#.#   #.##.##.#|\n|    ####.v####.#   #.#####.#|\n|       #.#   #.#   #.#   #.#|\n|       #.#   #..   #.#   ..#|\n|       #.#   #.#   #.#   #.#|\n| Noble at Mansion Street    |\n+----------------------------+",
-        "description": "A small jug sits here.\nIt's more than half-filled with a clear liquid.",
+        "description": "A small jug sits here.",
         "materials": [
             "clay"
         ],
@@ -767,7 +767,11 @@
         "value": 5,
         "level": 12,
         "spell level": "20",
-        "spells": "stone skin, pass door, curse",
+        "spells": [
+            "stone skin",
+            "pass door",
+            "curse"
+        ],
         "effects": [
             
         ]
@@ -2473,7 +2477,9 @@
         "value": 100,
         "level": 5,
         "spell level": "30",
-        "spells": "sanctuary",
+        "spells": [
+            "sanctuary"
+        ],
         "effects": [
             
         ]
