@@ -3402,6 +3402,3783 @@
         ]
     },
     {
+        "id": 115,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n| ####-##-##-####            |\n| #.............#            |\n| #.##-##.##-##.#            |\n| #.#         #.#            |\n| #.#         #*#            |\n| #.#         #.#            |\n| #.#   #.#   #.#            |\n| #..   #.#   ..#            |\n| #.#   #.#   #.#            |\n| #.##-##.##-##.#            |\n| ..............#            |\n| #.##.########.#            |\n| Priest Street              |\n+----------------------------+",
+        "description": "A blunt club is here.",
+        "materials": [
+            "wood",
+            "rock"
+        ],
+        "name": "a blunt club",
+        "slot": "wielded",
+        "keywords": [
+            "club",
+            "blunt"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 15,
+        "level": 25,
+        "damage": 18,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 116,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|       #.#####.##-##.##-##.#|\n|       #...................#|\n|       #.#####.##.########.#|\n|       #.#   #.##.#      #.#|\n|       #.#   #.#|.|      #.#|\n|       #.#   #.####      ###|\n|       #.#   #.#            |\n|       #.#   #*#            |\n|       #.#   #-#            |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#####-##########   |\n|       #................#   |\n|       #.###########.####   |\n| a Gate on Noble Street     |\n+----------------------------+",
+        "description": "A silver necklace is here.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a silver necklace",
+        "slot": "neck",
+        "keywords": [
+            "neck",
+            "lace",
+            "necklace",
+            "silver"
+        ],
+        "type": "treasure",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 5000,
+        "level": 25,
+        "effects": [
+            {
+                "hp": 11
+            },
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "date": "10/03/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                #.......##.#|\n|                #.......##.#|\n|                ##v####.##.#|\n|          ###         #.##.#|\n|          #.#         #....#|\n|          #.#         #.##.#|\n|    #######.####      #.##.#|\n|    |.........*.      #.##.#|\n|    #######.####      #.##.#|\n|          #.#####.#####.##.#|\n|          #.#...........#..#|\n|          #.#####.##########|\n|       ####.#               |\n|       ......               |\n|       ####.#               |\n| A maze of sorts            |\n+----------------------------+",
+        "description": "There is a copper cuirass of Solamnian make is laying on the ground.",
+        "materials": [
+            "copper",
+            "unknown material"
+        ],
+        "name": "a copper hauberk",
+        "slot": "chest",
+        "keywords": [
+            "randarmor",
+            "a",
+            "copper",
+            "hauberk"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "9 lbs, 4 oz",
+        "value": 181,
+        "level": 88,
+        "armor type": "light metal",
+        "armor class": [
+            "44 pierce",
+            "43 bash",
+            "43 slash",
+            "45 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "moves": 13
+            },
+            {
+                "mana": 6
+            },
+            {
+                "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "date": "10/03/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ###############         |\n|    #.........*...#         |\n|    #.#####.#####.#         |\n| ####.#####.#####.#         |\n| #..#.#.........#.#         |\n| #.##.#####.#####.#         |\n| #.##.#####.##.##.#         |\n| #..#.......##....#         |\n| #.##.########.##.#         |\n| A long curving hallway     |\n+----------------------------+",
+        "description": "There is a brilliant white aura flooding the room with light.",
+        "materials": [
+            "air",
+            "unknown material"
+        ],
+        "name": "a brilliant white aura",
+        "slot": "light",
+        "keywords": [
+            "brilliant",
+            "white",
+            "aura"
+        ],
+        "type": "light",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 6000,
+        "level": 80,
+        "effects": [
+            {
+                "mana": 100
+            },
+            {
+                "armor class": -25
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "date": "10/03/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|                   #########|\n|                   #.......#|\n|                   #.#...#.#|\n|             #######.##.####|\n|             #.......#.....#|\n|             ####.##.#####.#|\n|             ####.##.#   ^.#|\n|             #*...##.#   #.#|\n|             ####.##.#   ##v|\n|             ####.##.#      |\n|             #....|#.#      |\n|             #######.#      |\n|                   #.#      |\n|                   |.#      |\n|                   #.#      |\n| Potables Storage           |\n+----------------------------+",
+        "description": "A bottle of 'Kingfisher Champagne' is here in one of the racks.",
+        "materials": [
+            "glass",
+            "unknown material"
+        ],
+        "name": "a bottle of 'Kingfisher Champagne'",
+        "slot": "held",
+        "keywords": [
+            "kingfisher",
+            "champagne",
+            "bottle"
+        ],
+        "type": "drink",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs",
+        "value": 0,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 120,
+        "date": "10/03/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|             #.#      ###   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#   ####.####|\n|             #.#   #.......#|\n|             #.#   ####.####|\n|             #.########.#   |\n|             #*......##.#   |\n|             #-########.#   |\n|                      #.#   |\n|                      #.#   |\n|                      ###   |\n|                            |\n|                            |\n|                            |\n| A T-intersection           |\n+----------------------------+",
+        "description": "There is a steel gauntlets of Solamnian make is laying on the ground.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel gloves of power",
+        "slot": "hands",
+        "keywords": [
+            "randarmor",
+            "a",
+            "steel",
+            "gloves",
+            "of",
+            "power"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "4 lbs",
+        "value": 340,
+        "level": 80,
+        "armor type": "metal",
+        "armor class": [
+            "42 pierce",
+            "42 bash",
+            "41 slash",
+            "39 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 6
+            },
+            {
+                "damage roll": 1
+            },
+            {
+                "moves": 12
+            },
+            {
+                "mana": 18
+            },
+            {
+                "hp": 18
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "date": "10/03/2015",
+        "zone": "High Clerist Tower 2",
+        "map": "+----------------------------+\n| High Clerist Tower 2       |\n|             #.#            |\n|             |.|            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             |*|            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             |.|            |\n|             #.#            |\n| Maze of Doors              |\n+----------------------------+",
+        "description": "There is a iron axe of Solamnian make is laying on the ground.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a iron axe",
+        "slot": "wielded",
+        "keywords": [
+            "randweapon",
+            "a",
+            "iron",
+            "axe"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "4 lbs, 14 oz",
+        "value": 295,
+        "level": 80,
+        "damage": 52,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "moves": 1
+            },
+            {
+                "mana": 24
+            },
+            {
+                "hp": 23
+            },
+            {
+                "dexterity": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 123,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#   ####-##-##-####   |\n|    #.#   #...*.........#   |\n|    #.#   #.##-##.##-##.#   |\n| ####.#####.#   #.#   #.#   |\n| .........#.#   #.#   #.#   |\n| ####.v####.#   #.#   #.#   |\n|    #.#   #.#   #.#   #.#   |\n|    #.#   #..   #.#   ..#   |\n|    #.#   #.#   #.#   #.#   |\n| Mansion Street             |\n+----------------------------+",
+        "description": "A reddish bracelet is here.",
+        "materials": [
+            "cloth",
+            "emerald"
+        ],
+        "name": "a reddish bracelet",
+        "slot": "wrist",
+        "keywords": [
+            "bracelet",
+            "reddish"
+        ],
+        "type": "treasure",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 550,
+        "level": 3,
+        "effects": [
+            {
+                "wisdom": 2
+            },
+            {
+                "intelligence": 1
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#   ####-##-##-####      |\n| #.#   #......*......#      |\n| #.#   #.##-##.##-##.#      |\n| #.#####.#   #.#   #.#      |\n| ......#.#   #.#   #.#      |\n| #.v####.#   #.#   #.#      |\n| #.#   #.#   #.#   #.#      |\n| #.#   #..   #.#   ..#      |\n| #.#   #.#   #.#   #.#      |\n| Montgomery at Mansion Str  |\n+----------------------------+",
+        "description": "A water skin lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a water skin",
+        "keywords": [
+            "drinkcont",
+            "water",
+            "skin"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "0 lbs, 9 oz",
+        "value": 450,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 125,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n| ####-##-##-####            |\n| #.............#            |\n| #.##-##.##-##.#            |\n| #.#         #.#            |\n| #.#         #*#            |\n| #.#         #.#            |\n| #.#   #.#   #.#            |\n| #..   #.#   ..#            |\n| #.#   #.#   #.#            |\n| #.##-##.##-##.#            |\n| ..............#            |\n| #.##.########.#            |\n| Priest Street              |\n+----------------------------+",
+        "description": "A small flask is here.",
+        "materials": [
+            "leather",
+            "bronze"
+        ],
+        "name": "a small flask",
+        "keywords": [
+            "drinkcont",
+            "small",
+            "flask"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "0 lbs, 3 oz",
+        "value": 107,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 126,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n| ####.#   #.#   #.#         |\n| ...#.#   #.#   #.#         |\n| ####.#   #.#   #.#         |\n|    #.#   #.#   #.#         |\n|    #..   #.#   ..#         |\n|    #.#   #.#   #.#         |\n| ####.##-##.##-##.#         |\n| .............*...#         |\n| ####.##.########.#         |\n|    #.##.#      #.#         |\n|    #.#|.|      #.#         |\n|    #.####      ###         |\n|    #.#                     |\n|    #.#                     |\n|    #-#                     |\n| Main Street                |\n+----------------------------+",
+        "description": "A wood figurine of an Eagle sits here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a tiny wood figurine of an Eagle",
+        "slot": "held",
+        "keywords": [
+            "eagle",
+            "wood",
+            "figurine",
+            "rfig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 325,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 127,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n| #.#   #.#                  |\n| #.#   #.#                  |\n| #.#   #.#                  |\n| #.#####.##########         |\n| #................#         |\n| #.###########.####         |\n| #.#      ####.####         |\n| #.#      #.##*...#         |\n| #.#      #.##.####         |\n| #.#   ####.##.####         |\n| #.#   #..........#         |\n| #.#   ####.##.####         |\n| #.#      #.##.#            |\n| #.#      #.##.#            |\n| #.#      ######            |\n| Inside the Carnival        |\n+----------------------------+",
+        "description": "There is a silk belt of Solamnian make is laying on the ground.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a silk chain",
+        "slot": "waist",
+        "keywords": [
+            "randarmor",
+            "a",
+            "silk",
+            "chain"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 14 oz",
+        "value": 77,
+        "level": 5,
+        "armor type": "light metal",
+        "armor class": [
+            "1 pierce",
+            "2 bash",
+            "3 slash",
+            "2 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 128,
+        "date": "10/03/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n| #.#   #.#                  |\n| #.#   #.#                  |\n| #.#   #.#                  |\n| #.#####.##########         |\n| #................#         |\n| #.###########.####         |\n| #.#      ####.####         |\n| #.#      #.##*...#         |\n| #.#      #.##.####         |\n| #.#   ####.##.####         |\n| #.#   #..........#         |\n| #.#   ####.##.####         |\n| #.#      #.##.#            |\n| #.#      #.##.#            |\n| #.#      ######            |\n| Inside the Carnival        |\n+----------------------------+",
+        "description": "There is a leather ring of Solamnian make is laying on the ground.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a leather band of power",
+        "slot": "finger",
+        "keywords": [
+            "randarmor",
+            "a",
+            "leather",
+            "band",
+            "of",
+            "power"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs, 4 oz",
+        "value": 86,
+        "level": 5,
+        "armor type": "leather",
+        "armor class": [
+            "3 pierce",
+            "2 bash",
+            "1 slash",
+            "2 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 129,
+        "date": "10/03/2015",
+        "zone": "Palanthas Sewers",
+        "map": "+----------------------------+\n| Palanthas Sewers           |\n|          #.#            #.#|\n|          #.#            #..|\n|          #.#            ###|\n|       ####.#               |\n|       #....#               |\n|       #.####               |\n|       #.#####.#            |\n|       #......*.            |\n|       #.#####.#            |\n|       #.####               |\n|       #....#               |\n|       ####.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| In the sewers              |\n+----------------------------+",
+        "description": "The beak of a dreaded stirge lies here.",
+        "materials": [
+            "bone",
+            "blood"
+        ],
+        "name": "the stirges bite",
+        "slot": "wielded",
+        "keywords": [
+            "stirge",
+            "beak",
+            "bite"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs, 1 oz",
+        "value": 20,
+        "level": 21,
+        "damage": 12,
+        "weapon flags": [
+            "vampiric"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "date": "10/03/2015",
+        "zone": "Palanthas Sewers",
+        "map": "+----------------------------+\n| Palanthas Sewers           |\n|          #.#            #.#|\n|          #.#            #..|\n|          #.#            ###|\n|       ####.#               |\n|       #....#               |\n|       #.####               |\n|       #.#####.#            |\n|       #......*.            |\n|       #.#####.#            |\n|       #.####               |\n|       #....#               |\n|       ####.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| In the sewers              |\n+----------------------------+",
+        "description": "A small torch lies here.",
+        "materials": [
+            "wood",
+            "fire"
+        ],
+        "name": "a torch",
+        "slot": "light",
+        "keywords": [
+            "torch"
+        ],
+        "type": "light",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 5,
+        "level": 1,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 131,
+        "date": "10/03/2015",
+        "zone": "Palanthas Sewers",
+        "map": "+----------------------------+\n| Palanthas Sewers           |\n|          #.#            #.#|\n|          #.#            #..|\n|          #.#            ###|\n|       ####.#               |\n|       #....#               |\n|       #.####               |\n|       #.#####.#            |\n|       #......*.            |\n|       #.#####.#            |\n|       #.####               |\n|       #....#               |\n|       ####.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| In the sewers              |\n+----------------------------+",
+        "description": "A small grey sack lies here collecting grime.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a small grey sack",
+        "slot": "held",
+        "keywords": [
+            "grey",
+            "sack"
+        ],
+        "type": "container",
+        "flags": [
+            "closable"
+        ],
+        "weight": "5 lbs",
+        "value": 25,
+        "level": 8,
+        "capacity": "50 items",
+        "max item": "40 lbs",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 132,
+        "date": "10/03/2015",
+        "zone": "Palanthas Sewers",
+        "map": "+----------------------------+\n| Palanthas Sewers           |\n|       ####.#         #.####|\n|       #....#         #....#|\n|       #.####         ####.#|\n|    ####.#         ###   #.#|\n|    #....#         ..#   #..|\n|    #.####         #.#   ###|\n|    #.#   ####.#   #.####   |\n|    #.#   #...*#   #....#   |\n|    #.#   #.####   ####.#   |\n| ####.#####.#         #.####|\n| #....##....#         #....#|\n| #.#####.####         ####.#|\n| #.#####.#               #.#|\n| #........               ...|\n| #.#####.#               #.#|\n| In the sewers              |\n+----------------------------+",
+        "description": "A very sharp dagger is sticking in the dirt here.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a sharp dagger",
+        "slot": "wielded",
+        "keywords": [
+            "dagger",
+            "sharp"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 10,
+        "level": 5,
+        "damage": 10,
+        "weapon flags": [
+            "throwable"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 133,
+        "date": "10/03/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|    #.#   ####.#            |\n|    #.#   |.....            |\n|    ###   ####.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| #.##.##.##-##.##.#####.##.#|\n| .............*.............|\n| ####.##.##..#.v#..#.#######|\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| Pearl and Garnet Square    |\n+----------------------------+",
+        "description": "A glowing long sword is here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a glowing long sword",
+        "slot": "wielded",
+        "keywords": [
+            "glowing",
+            "long",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "5 lbs",
+        "value": 3100,
+        "level": 26,
+        "damage": 20,
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 3
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 134,
+        "date": "10/03/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| #.##.##.##-##.##.#####.##.#|\n| ...........................|\n| ####.##.##..#.v#..#.#######|\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|          ####.##.#         |\n|          #.......#         |\n|          ####.####         |\n| #############..#.##########|\n| ...........................|\n| #############.#############|\n| Pearl Street               |\n+----------------------------+",
+        "description": "A leather jerkin is lying on the ground.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a leather jerkin",
+        "slot": "chest",
+        "keywords": [
+            "jerkin",
+            "leather"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 270,
+        "level": 0,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "2 bash",
+            "2 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 135,
+        "date": "10/03/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| #.##.##.##-##.##.#####.##.#|\n| ...........................|\n| ####.##.##..#.v#..#.#######|\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|          ####.##.#         |\n|          #.......#         |\n|          ####.####         |\n| #############..#.##########|\n| ...........................|\n| #############.#############|\n| Pearl Street               |\n+----------------------------+",
+        "description": "A small sword lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a small sword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "small"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 250,
+        "level": 21,
+        "damage": 10,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 136,
+        "date": "10/03/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n| ^##      #######.#         |\n| #.#      #.......#         |\n| #.#      #######.#         |\n| #.#^##         #.####      |\n| #....#         #.##.#      |\n| #.####         #.##.#      |\n| #.####      ####.##.#######|\n| .....|      #*##.##.##.#..#|\n| .....#      #.##.##.##.##.v|\n| .....########.##.##.##.#..#|\n| ...........................|\n| .....#####.#####.##.#######|\n| .....#####.#####.##.#      |\n| .....##.##.##.##.##.#      |\n| ..#####.##.##.v#.####      |\n| General Store              |\n+----------------------------+",
+        "description": "A wooden lance with a silver tip lies here.",
+        "materials": [
+            "silver",
+            "wood"
+        ],
+        "name": "a silver-tipped lance",
+        "slot": "wielded",
+        "keywords": [
+            "wooden",
+            "silver-tipped",
+            "lance"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs",
+        "value": 111,
+        "level": 21,
+        "damage": 13,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 137,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          #.####            |\n|          #....#            |\n|          #.####            |\n|          #.#      ####-####|\n|          #.#      #.......#|\n|          #.#      #.......#|\n|          #.########.......#|\n|          |...*.............|\n|          ####.#####.......#|\n|             #.#   #.......#|\n|             #.#   #.......#|\n|             #.#   ####.##.#|\n|             #.#      #.##.#|\n|             #.#      #.##.#|\n|             #.#      #.####|\n| Along Bazaar Road          |\n+----------------------------+",
+        "description": "A drinking gourd sits here.",
+        "materials": [
+            "plant",
+            "unknown material"
+        ],
+        "name": "a drinking gourd",
+        "keywords": [
+            "drinkcont",
+            "drinking",
+            "gourd"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs, 3 oz",
+        "value": 660,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 138,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          #.####            |\n|          #....#            |\n|          #.####            |\n|          #.#      ####-####|\n|          #.#      #.......#|\n|          #.#      #.......#|\n|          #.########.......#|\n|          |...*.............|\n|          ####.#####.......#|\n|             #.#   #.......#|\n|             #.#   #.......#|\n|             #.#   ####.##.#|\n|             #.#      #.##.#|\n|             #.#      #.##.#|\n|             #.#      #.####|\n| Along Bazaar Road          |\n+----------------------------+",
+        "description": "There is a scale shield of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "scale",
+            "unknown material"
+        ],
+        "name": "a scale buckler",
+        "slot": "shield",
+        "keywords": [
+            "randarmor",
+            "a",
+            "scale",
+            "buckler"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 14 oz",
+        "value": 82,
+        "level": 88,
+        "armor type": "light metal",
+        "armor class": [
+            "45 pierce",
+            "45 bash",
+            "43 slash",
+            "45 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "moves": 4
+            },
+            {
+                "mana": 6
+            },
+            {
+                "hp": 18
+            },
+            {
+                "wisdom": 1
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             .*|            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The entrance to the arena  |\n+----------------------------+",
+        "description": "A long, sharp poleaxe lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a sharp poleaxe",
+        "slot": "wielded",
+        "keywords": [
+            "long",
+            "sharp",
+            "poleaxe"
+        ],
+        "type": "weapon",
+        "weapon type": "polearm",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs, 1 oz",
+        "value": 4445,
+        "level": 90,
+        "damage": 56,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            {
+                "hit roll": 6
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             .*|            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The entrance to the arena  |\n+----------------------------+",
+        "description": "This blackened mail is issued to those who guard the arena in the port city of Stone Rose.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "Blackened chainmail armor",
+        "slot": "chest",
+        "keywords": [
+            "blackened",
+            "chain",
+            "mail",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "burn_proof"
+        ],
+        "weight": "3 lbs, 14 oz",
+        "value": 3400,
+        "level": 68,
+        "armor type": "light metal",
+        "armor class": [
+            "14 pierce",
+            "14 bash",
+            "14 slash",
+            "13 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hp": 20
+            },
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|       ####.##..            |\n|       #......*.            |\n|       #########            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The arena sands            |\n+----------------------------+",
+        "description": "This massive golden sword has a large curved blade, a popular style in the Plains of Dust.",
+        "materials": [
+            "gold",
+            "steel"
+        ],
+        "name": "A golden scimitar",
+        "slot": "wielded",
+        "keywords": [
+            "golden",
+            "scimitar"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow"
+        ],
+        "weight": "8 lbs, 1 oz",
+        "value": 4740,
+        "level": 80,
+        "damage": 58,
+        "weapon flags": [
+            "sharp",
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "damage roll": 7
+            },
+            {
+                "hit roll": 7
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          #.#   #.......#   |\n|          #.#   #.......#   |\n|          #.#   ####.##.#   |\n|          #.#      #.##.#   |\n|          #.#      #.##.#   |\n|          #.#      #.####   |\n|          #.####   #.#      |\n|          #.##*.   #.#      |\n|          #.##..   #.#      |\n|       ####.##..   #.#      |\n|       #........   #.#      |\n|       #########   #.#      |\n|                   #.#^##   |\n|                   #....#   |\n|                   #-####   |\n| The arena sands            |\n+----------------------------+",
+        "description": "This sword belonged to a gladiator before it was lost in a melee.",
+        "materials": [
+            "steel",
+            "wood"
+        ],
+        "name": "a gladiator's short sword",
+        "slot": "wielded",
+        "keywords": [
+            "gladiator",
+            "short",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow"
+        ],
+        "weight": "2 lbs, 11 oz",
+        "value": 1740,
+        "level": 26,
+        "damage": 15,
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "dexterity": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 143,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#######            |\n|       #.##....#            |\n|       #.##....#            |\n|    ####.##....#            |\n|    #.........*#            |\n|    ############            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The arena sands            |\n+----------------------------+",
+        "description": "This weathered and beaten pad is used to protect the shoulders of gladiators",
+        "materials": [
+            "leather",
+            "cloth"
+        ],
+        "name": "a gladiator shoulder pad",
+        "slot": "shoulder",
+        "keywords": [
+            "gladiator",
+            "shoulder",
+            "pad"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "2 lbs",
+        "value": 690,
+        "level": 65,
+        "armor type": "leather",
+        "armor class": [
+            "24 pierce",
+            "24 bash",
+            "24 slash",
+            "23 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "saves": -2
+            },
+            {
+                "hp": 35
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|             #.####         |\n|             #....#         |\n|             #.####         |\n|             #.#      ####-#|\n|             #.#      #.....|\n|             #.#      #.....|\n|             #.########.....|\n|             |*.............|\n|             ####.#####.....|\n|                #.#   #.....|\n|                #.#   #.....|\n|                #.#   ####.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n| A bend in Bazaar Road      |\n+----------------------------+",
+        "description": "There is a silk earring of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a silk stud",
+        "slot": "ear",
+        "keywords": [
+            "randarmor",
+            "a",
+            "silk",
+            "stud"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 89,
+        "level": 97,
+        "armor type": "light metal",
+        "armor class": [
+            "48 pierce",
+            "48 bash",
+            "49 slash",
+            "50 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 8
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "moves": 8
+            },
+            {
+                "mana": 21
+            },
+            {
+                "hp": 24
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#######         |\n|          #.##....#         |\n|          #.##....#         |\n|       ####.##....#         |\n|       #......*...#         |\n|       ############         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The arena sands            |\n+----------------------------+",
+        "description": "There is a steel ring of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel band",
+        "slot": "finger",
+        "keywords": [
+            "randarmor",
+            "a",
+            "steel",
+            "band"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 14 oz",
+        "value": 320,
+        "level": 94,
+        "armor type": "metal",
+        "armor class": [
+            "47 pierce",
+            "47 bash",
+            "47 slash",
+            "48 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 8
+            },
+            {
+                "moves": 10
+            },
+            {
+                "mana": 8
+            },
+            {
+                "hp": 8
+            },
+            {
+                "strength": 3
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|          #.#######         |\n|          #.##....#         |\n|          #.##....#         |\n|       ####.##....#         |\n|       #......*...#         |\n|       ############         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The arena sands            |\n+----------------------------+",
+        "description": "There is a steel band of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel ring of elvish design",
+        "slot": "finger",
+        "keywords": [
+            "randarmor",
+            "a",
+            "steel",
+            "ring",
+            "of",
+            "elvish",
+            "design"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 6 oz",
+        "value": 378,
+        "level": 95,
+        "armor type": "metal",
+        "armor class": [
+            "47 pierce",
+            "49 bash",
+            "48 slash",
+            "46 magic"
+        ],
+        "effects": [
+            {
+                "moves": 30
+            },
+            {
+                "mana": 36
+            },
+            {
+                "hp": 32
+            },
+            {
+                "constitution": 4
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|       #.####               |\n|       #....#               |\n|       #.####               |\n|       #.#      ####-####   |\n|       #.#      #.......#   |\n|       #.#      #.......#   |\n|       #.########.......####|\n|       |......*.............|\n|       ####.#####.......####|\n|          #.#   #.......#   |\n|          #.#   #.......#   |\n|          #.#   ####.##.#   |\n|          #.#      #.##.#   |\n|          #.#      #.##.#   |\n|          #.#      #.####   |\n| Bazaar Road                |\n+----------------------------+",
+        "description": "This pack was crafted in Stone Rose for travel through the scorching deserts of the Plains of Dust.",
+        "materials": [
+            "leather",
+            "cloth"
+        ],
+        "name": "a leather desert travel pack",
+        "slot": "back",
+        "keywords": [
+            "desert",
+            "travel",
+            "pack"
+        ],
+        "type": "container",
+        "flags": [
+            "closable"
+        ],
+        "weight": "1 lbs",
+        "value": 6000,
+        "level": 50,
+        "capacity": "250 items",
+        "max item": "200 lbs",
+        "weighs": "85% of actual weight",
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.#            |\n|          #...*|            |\n|          ######            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The entrance to the arena  |\n+----------------------------+",
+        "description": "A canteen sits here.",
+        "materials": [
+            "bronze",
+            "leather"
+        ],
+        "name": "a canteen",
+        "keywords": [
+            "drinkcont",
+            "canteen"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs, 6 oz",
+        "value": 1029,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 149,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|    ####-########-#         |\n|    #..........##.#         |\n|    #-########.##.#         |\n|             #.##.####      |\n|             #*##....#      |\n|             #.##.####      |\n| #############.##.#         |\n| .................#         |\n| ################.#         |\n|             ####.####      |\n|             #.......#      |\n|             ####.####      |\n| A Shady Alleyway           |\n+----------------------------+",
+        "description": "There is a leather arm guards of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a leather vambrace of hope",
+        "slot": "arms",
+        "keywords": [
+            "randarmor",
+            "a",
+            "leather",
+            "vambrace",
+            "of",
+            "hope"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 89,
+        "level": 95,
+        "armor type": "leather",
+        "armor class": [
+            "47 pierce",
+            "49 bash",
+            "49 slash",
+            "47 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "moves": 13
+            },
+            {
+                "mana": 18
+            },
+            {
+                "hp": 44
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ####-########-#         |\n|    #.........*##.#         |\n|    #-########.##.#         |\n|             #.##.####      |\n|             #.##....#      |\n|             #.##.####      |\n| #############.##.#         |\n| .................#         |\n| ################.#         |\n| A Shady Alleyway           |\n+----------------------------+",
+        "description": "This flask seems to have belonged to a man who loved his ale.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a drunkard's flask",
+        "slot": "held",
+        "keywords": [
+            "drunkard",
+            "flask"
+        ],
+        "type": "drink",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 3 oz",
+        "value": 1000,
+        "level": 5,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 151,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ###   ####-########-#      |\n| ..#   #......*...##.#      |\n| ###   #-########.##.#      |\n| ###            #.##.####   |\n| ..#            #.##....#   |\n| ..#            #.##.####   |\n| ..##############.##.#      |\n| ....................#      |\n| ..#################.#      |\n| A Shady Alleyway           |\n+----------------------------+",
+        "description": "There is a copper aura of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "copper",
+            "unknown material"
+        ],
+        "name": "a copper essence",
+        "slot": "floating",
+        "keywords": [
+            "randarmor",
+            "a",
+            "copper",
+            "essence"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 198,
+        "level": 89,
+        "armor type": "light metal",
+        "armor class": [
+            "43 pierce",
+            "44 bash",
+            "44 slash",
+            "46 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 7
+            },
+            {
+                "moves": 8
+            },
+            {
+                "mana": 1
+            },
+            {
+                "hp": 12
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "date": "10/03/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|    ###                     |\n|    #.#                     |\n|    #.#                     |\n|    #.####   ####-########-#|\n|    #....#   #*.........##.#|\n|    #.####   #.########.##.#|\n| ####.####   #.#      #.##.#|\n| #.......#   #.#      #.##..|\n| #.......#   ###      #.##.#|\n| #.......##############.##.#|\n| ..........................#|\n| #.......#################.#|\n| A Shady Alleyway           |\n+----------------------------+",
+        "description": "There is a silk earring of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a silk stud of red",
+        "slot": "ear",
+        "keywords": [
+            "randarmor",
+            "a",
+            "silk",
+            "stud",
+            "of",
+            "red"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 6 oz",
+        "value": 89,
+        "level": 89,
+        "armor type": "light metal",
+        "armor class": [
+            "45 pierce",
+            "43 bash",
+            "44 slash",
+            "43 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 7
+            },
+            {
+                "damage roll": 7
+            },
+            {
+                "moves": 12
+            },
+            {
+                "hp": 18
+            },
+            {
+                "intelligence": 3
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "date": "10/04/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|       #.#...#.#            |\n|       #.#...#.#            |\n|       #.#...#.#            |\n|       #....##.#######      |\n|       #......*......#      |\n|       #....##.#######      |\n|       #.....#.#            |\n|       ......#.#            |\n|       ......#.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| The central courtyard      |\n+----------------------------+",
+        "description": "There is a copper essence of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "copper",
+            "unknown material"
+        ],
+        "name": "a copper guardian",
+        "slot": "floating",
+        "keywords": [
+            "randarmor",
+            "a",
+            "copper",
+            "guardian"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs, 3 oz",
+        "value": 160,
+        "level": 93,
+        "armor type": "light metal",
+        "armor class": [
+            "48 pierce",
+            "46 bash",
+            "46 slash",
+            "45 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "moves": 8
+            },
+            {
+                "mana": 9
+            },
+            {
+                "hp": 22
+            },
+            {
+                "constitution": 3
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "date": "10/04/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#^##         |\n|             |*...#         |\n|             #-v###         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the prison          |\n+----------------------------+",
+        "description": "An electric eel skin lies on the ground here.",
+        "materials": [
+            "scale",
+            "unknown material"
+        ],
+        "name": "an electric eel skin",
+        "slot": "held",
+        "keywords": [
+            "electric",
+            "eel",
+            "skin",
+            "component"
+        ],
+        "type": "component",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 4500,
+        "level": 1,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 155,
+        "date": "10/04/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#^##         |\n|             |*...#         |\n|             #-v###         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the prison          |\n+----------------------------+",
+        "description": "A water skin lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a water skin",
+        "keywords": [
+            "drinkcont",
+            "water",
+            "skin"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "0 lbs, 9 oz",
+        "value": 408,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 156,
+        "date": "10/04/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|          ####.####         |\n|          #.......#         |\n|          ####.####         |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          #-##.#            |\n|          #...*#            |\n|          #.####            |\n|       ####.#               |\n|       |....#               |\n|       ######               |\n|                            |\n|                            |\n|                            |\n| Inside the Black Market    |\n+----------------------------+",
+        "description": "There is a scale visor of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "scale",
+            "unknown material"
+        ],
+        "name": "a scale mask",
+        "slot": "face",
+        "keywords": [
+            "randarmor",
+            "a",
+            "scale",
+            "mask"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 6 oz",
+        "value": 87,
+        "level": 88,
+        "armor type": "light metal",
+        "armor class": [
+            "43 pierce",
+            "46 bash",
+            "44 slash",
+            "43 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "moves": 1
+            },
+            {
+                "mana": 12
+            },
+            {
+                "hp": 24
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "date": "10/04/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                ####.#      |\n|                #.##.#      |\n|                #.##.#      |\n|                #.##.#      |\n|                #....#      |\n|                #.####      |\n|             ####.#         |\n|             |*...#         |\n|             ######         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The black market           |\n+----------------------------+",
+        "description": "There is a iron necklace of the Plains of Dust make is laying on the ground.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a iron gorget",
+        "slot": "neck",
+        "keywords": [
+            "randarmor",
+            "a",
+            "iron",
+            "gorget"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "4 lbs, 12 oz",
+        "value": 288,
+        "level": 97,
+        "armor type": "metal",
+        "armor class": [
+            "48 pierce",
+            "48 bash",
+            "48 slash",
+            "49 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "moves": 9
+            },
+            {
+                "mana": 12
+            },
+            {
+                "hp": 2
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "date": "10/04/2015",
+        "zone": "Stone Rose",
+        "map": "+----------------------------+\n| Stone Rose                 |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ############   |\n|             #*.........#   |\n|             ####.######v   |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          #.#...#.#         |\n|          #.#...#.#         |\n|          #.#...#.#         |\n| The palace chapel          |\n+----------------------------+",
+        "description": "This long red robe is worn by priests.",
+        "materials": [
+            "cloth",
+            "silver"
+        ],
+        "name": "A long priestly robe",
+        "slot": "body",
+        "keywords": [
+            "long",
+            "priest",
+            "robe"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "2 lbs",
+        "value": 4400,
+        "level": 40,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 3
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "date": "10/04/2015",
+        "zone": "Vingaard Keep",
+        "map": "+----------------------------+\n| Vingaard Keep              |\n|          #.####            |\n|          #....#            |\n|          #.####            |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| #.########.#####-####^-#   |\n| .............*.........#   |\n| #.########.#####-#####-#   |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| ..#      |.#               |\n| #.#      #.#               |\n| Inside the Gates           |\n+----------------------------+",
+        "description": "A burnished platinum shield lies here.",
+        "materials": [
+            "platinum",
+            "leather"
+        ],
+        "name": "the Shield of Truth",
+        "slot": null,
+        "keywords": [
+            "shield",
+            "truth"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "3 lbs",
+        "value": 5000,
+        "level": 85,
+        "armor type": "metal",
+        "armor class": [
+            "23 pierce",
+            "24 bash",
+            "22 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": -1
+            },
+            {
+                "intelligence": -1
+            },
+            {
+                "saves": -1
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "date": "10/04/2015",
+        "zone": "Vingaard Keep",
+        "map": "+----------------------------+\n| Vingaard Keep              |\n|          #.####            |\n|          #....#            |\n|          #.####            |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n| #.########.#####-####^-#   |\n| .............*.........#   |\n| #.########.#####-#####-#   |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| ..#      |.#               |\n| #.#      #.#               |\n| Inside the Gates           |\n+----------------------------+",
+        "description": "A long handled mace lies here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a steel Solamnic war mace",
+        "slot": "wielded",
+        "keywords": [
+            "solamnic",
+            "war",
+            "mace"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "magic"
+        ],
+        "weight": "20 lbs",
+        "value": 100,
+        "level": 70,
+        "damage": 44,
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 5
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 162,
+        "date": "10/04/2015",
+        "zone": "Vingaard Keep",
+        "map": "+----------------------------+\n| Vingaard Keep              |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ######            |\n|          ....*#            |\n|          ##v###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Solamnic Meeting Room  |\n+----------------------------+",
+        "description": "A pair of ceremonial gauntlets lies here.",
+        "materials": [
+            "platinum",
+            "sapphire"
+        ],
+        "name": "(Platinum Plated) An ornate pair of ceremonial gauntlets",
+        "slot": "hands",
+        "keywords": [
+            "ceremonial",
+            "gauntlets"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic"
+        ],
+        "weight": "2 lbs",
+        "value": 200,
+        "level": 100,
+        "armor type": "magic",
+        "armor class": [
+            "23 pierce",
+            "23 bash",
+            "23 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "mana": 20
+            },
+            {
+                "hp": 40
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "hit roll": 6
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "date": "10/04/2015",
+        "zone": "City of Vingaard",
+        "map": "+----------------------------+\n| City of Vingaard           |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|             #.#            |\n|             #.|            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n| Along the West Wall        |\n+----------------------------+",
+        "description": "A belt designed to carry a sheathed sword lies here.",
+        "materials": [
+            "leather",
+            "brass"
+        ],
+        "name": "a solamnic swordsmans belt",
+        "slot": "waist",
+        "keywords": [
+            "swordsman",
+            "belt",
+            "solamnic"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 4000,
+        "level": 84,
+        "armor type": "magic",
+        "armor class": [
+            "25 pierce",
+            "25 bash",
+            "25 slash",
+            "22 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            },
+            {
+                "damage roll": 7
+            },
+            {
+                "hit roll": 7
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "date": "10/04/2015",
+        "zone": "City of Vingaard",
+        "map": "+----------------------------+\n| City of Vingaard           |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.|                        |\n| #.#                        |\n| #.##-#############         |\n| #.....^^^^^^^*^^^^         |\n| ##################         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Along the South Wall       |\n+----------------------------+",
+        "description": "There is a iron hammer of Solamnian make is laying on the ground.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a iron club",
+        "slot": "wielded",
+        "keywords": [
+            "randweapon",
+            "a",
+            "iron",
+            "club"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "5 lbs, 11 oz",
+        "value": 249,
+        "level": 45,
+        "damage": 32,
+        "weapon flags": [
+            "notched"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "mana": 8
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "date": "10/04/2015",
+        "zone": "Vingaard Keep",
+        "map": "+----------------------------+\n| Vingaard Keep              |\n|                            |\n|                            |\n|                            |\n|             \"n\"            |\n|             |n\"            |\n|             \"n\"            |\n|             \"n\"            |\n|             \"*\"            |\n|             \"n\"            |\n|             \"n\"            |\n|             \"n\"            |\n|             \"n\"            |\n|             \"n\"            |\n|             \"n\"            |\n|             \"n\"            |\n| Along the East Wall        |\n+----------------------------+",
+        "description": "There is a wood aventail of Solamnian make is laying on the ground.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a wood pendant",
+        "slot": "neck",
+        "keywords": [
+            "randarmor",
+            "a",
+            "wood",
+            "pendant"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 11 oz",
+        "value": 91,
+        "level": 40,
+        "armor type": "leather",
+        "armor class": [
+            "22 pierce",
+            "19 bash",
+            "19 slash",
+            "19 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "moves": 4
+            },
+            {
+                "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "date": "10/04/2015",
+        "zone": "City of Vingaard",
+        "map": "+----------------------------+\n| City of Vingaard           |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ^###.########.#|\n|             |*.............|\n|             #.##.########.#|\n|             #.##.#      #.#|\n|             #.##.#      #.#|\n|             #-##.#      #.#|\n|                #.#   ####.#|\n|                #.#   #....#|\n|                #.#   ####.#|\n| Inside Vingaard's main ga  |\n+----------------------------+",
+        "description": "There is a scale guardian of Solamnian make is laying on the ground.",
+        "materials": [
+            "scale",
+            "unknown material"
+        ],
+        "name": "a scale guardian",
+        "slot": "floating",
+        "keywords": [
+            "randarmor",
+            "a",
+            "scale",
+            "guardian"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 11 oz",
+        "value": 99,
+        "level": 33,
+        "armor type": "light metal",
+        "armor class": [
+            "15 pierce",
+            "16 bash",
+            "17 slash",
+            "16 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "date": "10/04/2015",
+        "zone": "City of Vingaard",
+        "map": "+----------------------------+\n| City of Vingaard           |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ^###.########.#|\n|             |..............|\n|             #.##.########.#|\n|             #.##.#      #.#|\n|             #*##.#      #.#|\n|             #-##.#      #.#|\n|                #.#   ####.#|\n|                #.#   #....#|\n|                #.#   ####.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n| Guardhouse                 |\n+----------------------------+",
+        "description": "A large heavy flail lies here with the chains gleaming.",
+        "materials": [
+            "wood",
+            "iron"
+        ],
+        "name": "the blessed flail of Paladine",
+        "slot": "wielded",
+        "keywords": [
+            "blessed",
+            "flail",
+            "paladine"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "magic",
+            "anti-evil"
+        ],
+        "weight": "10 lbs",
+        "value": 8000,
+        "level": 115,
+        "damage": 78,
+        "effects": [
+            {
+                "hit roll": 12
+            },
+            {
+                "damage roll": 12
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 168,
+        "date": "10/04/2015",
+        "zone": "Central Thelgaard",
+        "map": "+----------------------------+\n| Central Thelgaard          |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             #.##.##-#      |\n|             .*.......      |\n|             #######-#      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A road through the villag  |\n+----------------------------+",
+        "description": "There is an absolute steel spear of Solamnian make is laying on the ground.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "an absolute steel spear",
+        "slot": "wielded",
+        "keywords": [
+            "randweapon",
+            "an",
+            "absolute",
+            "steel",
+            "spear"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "anti-evil",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "5 lbs, 3 oz",
+        "value": 354,
+        "level": 13,
+        "damage": 13,
+        "weapon flags": [
+            "two-handed",
+            "throwable"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "date": "10/04/2015",
+        "zone": "Central Thelgaard",
+        "map": "+----------------------------+\n| Central Thelgaard          |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             #.##.##-#      |\n|             .*.......      |\n|             #######-#      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A road through the villag  |\n+----------------------------+",
+        "description": "There is a bronze visor of Solamnian make is laying on the ground.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze faceguard of value",
+        "slot": "face",
+        "keywords": [
+            "randarmor",
+            "a",
+            "bronze",
+            "faceguard",
+            "of",
+            "value"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 166,
+        "level": 28,
+        "armor type": "light metal",
+        "armor class": [
+            "14 pierce",
+            "16 bash",
+            "13 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "mana": 8
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|             #.#            |\n|             ...            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             ^.#            |\n|             .*.            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Central Hall           |\n+----------------------------+",
+        "description": "A steel flail lies here.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a spiked steel flail",
+        "slot": "wielded",
+        "keywords": [
+            "spiked",
+            "steel",
+            "flail"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "none"
+        ],
+        "weight": "15 lbs",
+        "value": 120,
+        "level": 50,
+        "damage": 40,
+        "effects": [
+            {
+                "dexterity": -1
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 172,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|       #.#                  |\n|       ...                  |\n|       #.#                  |\n|       #.####               |\n|       #.##.#               |\n|       #.##.#               |\n|       ^.##.##..            |\n|       .......*.            |\n|       #.##.##..            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A road around the Keep     |\n+----------------------------+",
+        "description": "A large suit of chainmail gleams in the sunlight.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a suit of gleaming chainmail",
+        "slot": "chest",
+        "keywords": [
+            "large",
+            "suit",
+            "chainmail",
+            "gleaming"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "30 lbs",
+        "value": 809,
+        "level": 80,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            },
+            {
+                "constitution": 1
+            },
+            {
+                "strength": 2
+            },
+            {
+                "armor class": -10
+            },
+            {
+                "hit roll": 6
+            },
+            {
+                "damage roll": 6
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| #.#   ###^##               |\n| ...   .....#               |\n| #.#   #....#               |\n| #.#####....#               |\n| #.##.##....#               |\n| #.##.##....#               |\n| ^.##.##....####            |\n| .............*.            |\n| #.##.##....####            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the Eastern Gateho  |\n+----------------------------+",
+        "description": "A large suit of platemail armor lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a suit of platemail armor",
+        "slot": "chest",
+        "keywords": [
+            "suit",
+            "large",
+            "platemail"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "20 lbs",
+        "value": 100,
+        "level": 40,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "12 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "dexterity": -1
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| #.#   ###^##               |\n| ...   .....#               |\n| #.#   #....#               |\n| #.#####....#               |\n| #.##.##....#               |\n| #.##.##....#               |\n| ^.##.##....####            |\n| .............*.            |\n| #.##.##....####            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the Eastern Gateho  |\n+----------------------------+",
+        "description": "This huge notched sword gleams like silver, and looks perfect for disarming.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a wickedly notched silver sword",
+        "slot": "wielded",
+        "keywords": [
+            "wickedly",
+            "notched",
+            "silver",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow",
+            "magic",
+            "anti-good"
+        ],
+        "weight": "20 lbs",
+        "value": 12500,
+        "level": 70,
+        "damage": 40,
+        "weapon flags": [
+            "sharp",
+            "notched"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 175,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| #.#   ###^##               |\n| ...   .....#               |\n| #.#   #....#               |\n| #.#####....#               |\n| #.##.##....#               |\n| #.##.##....#               |\n| ^.##.##....####            |\n| .............*.            |\n| #.##.##....####            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the Eastern Gateho  |\n+----------------------------+",
+        "description": "A glowing steel longsword lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel longsword",
+        "slot": "wielded",
+        "keywords": [
+            "steel",
+            "longsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow"
+        ],
+        "weight": "8 lbs",
+        "value": 3500,
+        "level": 43,
+        "damage": 28,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 176,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|    ###^##                  |\n|    .....#                  |\n|    #....#                  |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| .............*.            |\n| #.##....#####.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In front of the East Gate  |\n+----------------------------+",
+        "description": "There is a bronze sigil of Solamnian make is laying on the ground.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze sigil",
+        "slot": "held",
+        "keywords": [
+            "randarmor",
+            "a",
+            "bronze",
+            "sigil"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 9 oz",
+        "value": 200,
+        "level": 32,
+        "armor type": "light metal",
+        "armor class": [
+            "18 pierce",
+            "17 bash",
+            "15 slash",
+            "17 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "wisdom": 1
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|    ###^##                  |\n|    .....#                  |\n|    #....#                  |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| .............*.            |\n| #.##....#####.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In front of the East Gate  |\n+----------------------------+",
+        "description": "A mace etched with the kingfisher symbol lies here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a Solamnic war mace",
+        "slot": "wielded",
+        "keywords": [
+            "solamnic",
+            "war",
+            "mace"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "bless"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 5000,
+        "level": 45,
+        "damage": 28,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 178,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|    ###^##                  |\n|    .....#                  |\n|    #....#                  |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| .............*.            |\n| #.##....#####.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In front of the East Gate  |\n+----------------------------+",
+        "description": "A suit of solamnic armor lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a suit of solamnic full plate armor",
+        "slot": "chest",
+        "keywords": [
+            "solamnic",
+            "full",
+            "plate",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "13 lbs",
+        "value": 600,
+        "level": 50,
+        "armor type": "magic",
+        "armor class": [
+            "13 pierce",
+            "13 bash",
+            "12 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -8
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| ...............            |\n| #.##....#####.#            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Near the wall of the Keep  |\n+----------------------------+",
+        "description": "A large ball and chain lies in the dust.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a large flail",
+        "slot": "wielded",
+        "keywords": [
+            "ball",
+            "chain",
+            "large",
+            "flail"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "none"
+        ],
+        "weight": "20 lbs",
+        "value": 800,
+        "level": 48,
+        "damage": 22,
+        "weapon flags": [
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| ...............            |\n| #.##....#####.#            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Near the wall of the Keep  |\n+----------------------------+",
+        "description": "A suit of solamnic armor lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a suit of solamnic full plate armor",
+        "slot": "chest",
+        "keywords": [
+            "solamnic",
+            "full",
+            "plate",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "13 lbs",
+        "value": 600,
+        "level": 50,
+        "armor type": "magic",
+        "armor class": [
+            "13 pierce",
+            "13 bash",
+            "12 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -8
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| ...............            |\n| #.##....#####.#            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Near the wall of the Keep  |\n+----------------------------+",
+        "description": "A large ball and chain lies in the dust.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a large flail",
+        "slot": "wielded",
+        "keywords": [
+            "ball",
+            "chain",
+            "large",
+            "flail"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "none"
+        ],
+        "weight": "20 lbs",
+        "value": 800,
+        "level": 48,
+        "damage": 22,
+        "weapon flags": [
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ###^##                     |\n| .....#                     |\n| #....#                     |\n| #....#                     |\n| #....#                     |\n| #....#                     |\n| #....#####.##.#            |\n| .............*.            |\n| #....#####.####            |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|                            |\n|                            |\n|                            |\n| A road through the burnin  |\n+----------------------------+",
+        "description": "A steel helmet with curved horns lies here.",
+        "materials": [
+            "steel",
+            "bone"
+        ],
+        "name": "a horned Solamnic helm",
+        "slot": "head",
+        "keywords": [
+            "curved",
+            "horned",
+            "solamnic",
+            "helm"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 8 oz",
+        "value": 8090,
+        "level": 64,
+        "armor type": "magic",
+        "armor class": [
+            "19 pierce",
+            "18 bash",
+            "22 slash",
+            "19 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ###^##                     |\n| .....#                     |\n| #....#                     |\n| #....#                     |\n| #....#                     |\n| #....#                     |\n| #....#####.##.#            |\n| .............*.            |\n| #....#####.####            |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|                            |\n|                            |\n|                            |\n| A road through the burnin  |\n+----------------------------+",
+        "description": "A long flowing cloak lies here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a flowing Solamnic cloak",
+        "slot": "neck",
+        "keywords": [
+            "flowing",
+            "solamnic",
+            "cloak"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "3 lbs",
+        "value": 4444,
+        "level": 54,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 2
+            },
+            {
+                "hp": 20
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "mana": 20
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n| ###^##                     |\n| .....#                     |\n| #....#                     |\n| #....#      ###            |\n| #....#      #*#            |\n| #....#      #.#            |\n| #....#####.##.##.#         |\n| ..................         |\n| #....#####.#####.#         |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n| Inside a burning hut       |\n+----------------------------+",
+        "description": "A long parrying dagger lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a parrying dagger",
+        "slot": "wielded",
+        "keywords": [
+            "parrying",
+            "dagger"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 2000,
+        "level": 41,
+        "damage": 22,
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 3
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 185,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#####.##.##.#            |\n| .............*.            |\n| ..#####.#####.#            |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|                            |\n|                            |\n|                            |\n| In the center of the burn  |\n+----------------------------+",
+        "description": "A uniform of the black dragonarmy lies here.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a black dragonarmy uniform",
+        "slot": "chest",
+        "keywords": [
+            "black",
+            "dragonarmy",
+            "uniform"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 655,
+        "level": 40,
+        "armor type": "magic",
+        "armor class": [
+            "11 pierce",
+            "12 bash",
+            "13 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#####.##.##.#            |\n| .............*.            |\n| ..#####.#####.#            |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|                            |\n|                            |\n|                            |\n| In the center of the burn  |\n+----------------------------+",
+        "description": "A battle axe made of a black steel lies on the ground.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a black steel battle axe",
+        "slot": "wielded",
+        "keywords": [
+            "black",
+            "steel",
+            "battle",
+            "axe"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 370,
+        "level": 53,
+        "damage": 39,
+        "weapon flags": [
+            "sharp"
+        ],
+        "effects": [
+            {
+                "dexterity": -1
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#####.##.##.#            |\n| .............*.            |\n| ..#####.#####.#            |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|                            |\n|                            |\n|                            |\n| In the center of the burn  |\n+----------------------------+",
+        "description": "There is an absolute iron faceguard of Solamnian make is laying on the ground.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "an absolute iron mask",
+        "slot": "face",
+        "keywords": [
+            "randarmor",
+            "an",
+            "absolute",
+            "iron",
+            "mask"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs, 3 oz",
+        "value": 240,
+        "level": 44,
+        "armor type": "metal",
+        "armor class": [
+            "23 pierce",
+            "21 bash",
+            "24 slash",
+            "24 magic"
+        ],
+        "effects": [
+            {
+                "moves": 3
+            },
+            {
+                "mana": 6
+            },
+            {
+                "hp": 6
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#####.##.##.#            |\n| .............*.            |\n| ..#####.#####.#            |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|                            |\n|                            |\n|                            |\n| In the center of the burn  |\n+----------------------------+",
+        "description": "A glowing steel longsword lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel longsword",
+        "slot": "wielded",
+        "keywords": [
+            "steel",
+            "longsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow"
+        ],
+        "weight": "8 lbs",
+        "value": 3500,
+        "level": 43,
+        "damage": 28,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 189,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#####.##.##.#            |\n| .............*.            |\n| ..#####.#####.#            |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|                            |\n|                            |\n|                            |\n| In the center of the burn  |\n+----------------------------+",
+        "description": "There is a wood warhammer of Solamnian make is laying on the ground.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a wood hammer",
+        "slot": "wielded",
+        "keywords": [
+            "randweapon",
+            "a",
+            "wood",
+            "hammer"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs",
+        "value": 93,
+        "level": 35,
+        "damage": 26,
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "moves": 1
+            },
+            {
+                "dexterity": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 190,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###\"\"\"            |\n| ..#      #.#\"*\"            |\n| ..#      #.#\"\"\"            |\n| ..#####.##.##.####         |\n| .................#         |\n| ..#####.#####.####         |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n| Near a burning building    |\n+----------------------------+",
+        "description": "A glowing pair of battle gauntlets lie here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a pair of Solamnic battle gauntlets",
+        "slot": null,
+        "keywords": [
+            "solamnic",
+            "battle",
+            "gauntlets"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil",
+            "burn_proof"
+        ],
+        "weight": "5 lbs",
+        "value": 1000,
+        "level": 65,
+        "armor type": "magic",
+        "armor class": [
+            "20 pierce",
+            "20 bash",
+            "20 slash",
+            "17 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "hp": 40
+            },
+            {
+                "mana": 40
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|       ###\"\"\"               |\n|       #.#\"\"\"               |\n|       #.#\"\"\"               |\n| ####.##.##.####            |\n| ..............#            |\n| ####.#####.####            |\n|    \"\"\"   \"\"\"\"\"\"            |\n|    \"\"\"   \"\"\"\"*\"            |\n|    \"\"\"   \"\"\"\"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| On the bloody battlefield  |\n+----------------------------+",
+        "description": "A shield made of blue steel lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a blue steel shield",
+        "slot": "shield",
+        "keywords": [
+            "blue",
+            "steel",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 100,
+        "level": 30,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "9 bash",
+            "8 slash",
+            "2 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -3
+            },
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|    ###\"\"\"                  |\n|    #.#\"\"\"                  |\n|    #.#\"\"\"                  |\n| #.##.##.####               |\n| ...........#               |\n| #.#####.####               |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"*\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In the burning village     |\n+----------------------------+",
+        "description": "A breastplate made of black steel lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a black dragonsteel breastplate",
+        "slot": "chest",
+        "keywords": [
+            "black",
+            "dragonsteel",
+            "breastplate"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless",
+            "burn_proof"
+        ],
+        "weight": "20 lbs",
+        "value": 600,
+        "level": 53,
+        "armor type": "magic",
+        "armor class": [
+            "17 pierce",
+            "17 bash",
+            "30 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "saves": -2
+            },
+            {
+                "dexterity": -1
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|    ###\"\"\"                  |\n|    #.#\"\"\"                  |\n|    #.#\"\"\"                  |\n| #.##.##.####               |\n| ...........#               |\n| #.#####.####               |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"*\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In the burning village     |\n+----------------------------+",
+        "description": "A solamnic broadsword lies here, it looks heavy...",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a solamnic broadsword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "broadsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "magic"
+        ],
+        "weight": "25 lbs",
+        "value": 900,
+        "level": 65,
+        "damage": 36,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|    ###\"\"\"                  |\n|    #.#\"\"\"                  |\n|    #.#\"\"\"                  |\n| #.##.##.####\"\"\"            |\n| ...........#\"*\"            |\n| #.#####.####\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n|                            |\n|                            |\n|                            |\n| Near the rear of the batt  |\n+----------------------------+",
+        "description": "A very long, very black robe lies on the ground.",
+        "materials": [
+            "cloth",
+            "silk"
+        ],
+        "name": "a full-length black robe",
+        "slot": "chest",
+        "keywords": [
+            "full",
+            "length",
+            "long",
+            "black",
+            "robe"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 3400,
+        "level": 60,
+        "armor type": "magic",
+        "armor class": [
+            "20 pierce",
+            "21 bash",
+            "23 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 6
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ###\"\"\"   \"\"\"            |\n|    #.#\"\"\"   \"*\"            |\n|    #.#\"\"\"   \"\"\"            |\n| #.##.##.####\"\"\"            |\n| ...........#\"\"\"            |\n| #.#####.####\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| Near a burning hut         |\n+----------------------------+",
+        "description": "A uniform with the symbol of the black dragonarmy lies here.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a uniform of the Black Watch",
+        "slot": "chest",
+        "keywords": [
+            "black",
+            "watch",
+            "uniform",
+            "dragonarmy"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 3000,
+        "level": 45,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "12 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ###\"\"\"   \"\"\"            |\n|    #.#\"\"\"   \"*\"            |\n|    #.#\"\"\"   \"\"\"            |\n| #.##.##.####\"\"\"            |\n| ...........#\"\"\"            |\n| #.#####.####\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| Near a burning hut         |\n+----------------------------+",
+        "description": "A scaley pair of black boots lies here.",
+        "materials": [
+            "leather",
+            "scale"
+        ],
+        "name": "a pair of black dragonscale boots",
+        "slot": "feet",
+        "keywords": [
+            "black",
+            "dragonscale",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 8500,
+        "level": 50,
+        "armor type": "magic",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "7 magic"
+        ],
+        "effects": [
+            {
+                "saves": -1
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ###\"\"\"   \"\"\"            |\n|    #.#\"\"\"   \"*\"            |\n|    #.#\"\"\"   \"\"\"            |\n| #.##.##.####\"\"\"            |\n| ...........#\"\"\"            |\n| #.#####.####\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| \"\"\"   \"\"\"\"\"\"\"\"\"            |\n| Near a burning hut         |\n+----------------------------+",
+        "description": "A black crystal orb radiates darkness.",
+        "materials": [
+            "glass",
+            "energy"
+        ],
+        "name": "a black orb of power",
+        "slot": "held",
+        "keywords": [
+            "dark",
+            "black",
+            "crystal",
+            "orb",
+            "power"
+        ],
+        "type": "wand",
+        "flags": [
+            "dark",
+            "evil",
+            "anti-good"
+        ],
+        "weight": "2 lbs",
+        "value": 3000,
+        "level": 80,
+        "charges": "10",
+        "spell level": "50",
+        "spell": "energy drain",
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "intelligence": 1
+            },
+            {
+                "wisdom": -1
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ####....#      ###\"\"\"\"\"\"\"\"\"|\n| #.##....#      #.#\"\"\"\"\"\"\"\"\"|\n| #.##....#      #.#\"\"\"\"\"\"\"\"\"|\n| #.##....#####.##.##.####\"\"\"|\n| .......................#\"\"\"|\n| #.##....#####.#####.####\"\"\"|\n|             \"\"\"   \"\"\"\"\"\"\"\"\"|\n|             \"*\"   \"\"\"\"\"\"\"\"\"|\n|             \"\"\"   \"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|                            |\n|                            |\n|                            |\n| Near the wall of the Keep  |\n+----------------------------+",
+        "description": "A steel bracer etched with a large dragon on it lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "an etched steel bracer",
+        "slot": "wrist",
+        "keywords": [
+            "etched",
+            "steel",
+            "bracer"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "1 lbs",
+        "value": 7000,
+        "level": 60,
+        "armor type": "magic",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "11 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hp": 20
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|    ^.##.##....#####.##.##.#|\n|    ........................|\n|    #.##.##....#####.#####.#|\n|             ..#   \"\"\"   \"\"\"|\n|             ..#   \"\"\"   \"\"\"|\n|             ..#   \"\"\"   \"\"\"|\n|             ^.#   \"\"\"\"\"\"\"\"\"|\n|             .*#   \"\"\"\"\"\"\"\"\"|\n|             ###   \"\"\"\"\"\"\"\"\"|\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Next to the walls of the   |\n+----------------------------+",
+        "description": "A large heavy helmet lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a Solamnic battle helmet",
+        "slot": "head",
+        "keywords": [
+            "solamnic",
+            "heavy",
+            "battle",
+            "helmet"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "10 lbs",
+        "value": 650,
+        "level": 52,
+        "armor type": "magic",
+        "armor class": [
+            "14 pierce",
+            "14 bash",
+            "14 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|          #.#   ###^##      |\n|          ...   .....#      |\n|          #.#   #....#      |\n|          #.#####....#      |\n|          #.##.##....#      |\n|          #.##.##....#      |\n|          ^.##.##....#####.#|\n|          ....*.............|\n|          #.##.##....#####.#|\n|                   ..#   \"\"\"|\n|                   ..#   \"\"\"|\n|                   ..#   \"\"\"|\n|             ####..^.#   \"\"\"|\n|             ........#   \"\"\"|\n|             #########   \"\"\"|\n| Entrance to the Keep       |\n+----------------------------+",
+        "description": "A golden crystal orb shines here.",
+        "materials": [
+            "glass",
+            "energy"
+        ],
+        "name": "a golden orb of power",
+        "slot": "held",
+        "keywords": [
+            "golden",
+            "crystal",
+            "orb",
+            "power"
+        ],
+        "type": "wand",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 4000,
+        "level": 80,
+        "charges": "10",
+        "spell level": "50",
+        "spell": "sanctuary",
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "wisdom": 1
+            },
+            {
+                "intelligence": -1
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          ^######.#######^##|\n|          #................#|\n|          #.#####.#####....#|\n|          #.#####.#####....#|\n|          #.##*##.##.##....#|\n|          #.##.##.##.##....#|\n|          #.##.#^.##.##....#|\n|          #.##..............|\n|          #.##.##.##.##....#|\n|          #.#      #.##....#|\n|          #.#      #.##....#|\n|          #.#      ####....#|\n| A chapel in the Keep       |\n+----------------------------+",
+        "description": "A long silver staff lies here.",
+        "materials": [
+            "steel",
+            "wood"
+        ],
+        "name": "the War Staff of Kiri-Jolith",
+        "slot": "wielded",
+        "keywords": [
+            "staff",
+            "war",
+            "cleric",
+            "silver"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "glow",
+            "magic",
+            "anti-evil"
+        ],
+        "weight": "6 lbs",
+        "value": 750,
+        "level": 70,
+        "damage": 36,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hp": 10
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 203,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          ^######.#######^##|\n|          #................#|\n|          #.#####.#####....#|\n|          #.#####.#####....#|\n|          #.##*##.##.##....#|\n|          #.##.##.##.##....#|\n|          #.##.#^.##.##....#|\n|          #.##..............|\n|          #.##.##.##.##....#|\n|          #.#      #.##....#|\n|          #.#      #.##....#|\n|          #.#      ####....#|\n| A chapel in the Keep       |\n+----------------------------+",
+        "description": "A solid shield made of steel lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a shining steel war shield",
+        "slot": "shield",
+        "keywords": [
+            "solid",
+            "steel",
+            "shining",
+            "war",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "anti-evil"
+        ],
+        "weight": "20 lbs",
+        "value": 8000,
+        "level": 54,
+        "armor type": "magic",
+        "armor class": [
+            "26 pierce",
+            "26 bash",
+            "26 slash",
+            "26 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          ^######.#######^##|\n|          #................#|\n|          #.#####.#####....#|\n|          #.#####.#####....#|\n|          #.##*##.##.##....#|\n|          #.##.##.##.##....#|\n|          #.##.#^.##.##....#|\n|          #.##..............|\n|          #.##.##.##.##....#|\n|          #.#      #.##....#|\n|          #.#      #.##....#|\n|          #.#      ####....#|\n| A chapel in the Keep       |\n+----------------------------+",
+        "description": "A suit of armor that has been embossed to a shining white lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a suit of shining white armor",
+        "slot": "chest",
+        "keywords": [
+            "shining",
+            "white",
+            "suit",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "20 lbs",
+        "value": 750,
+        "level": 55,
+        "armor type": "magic",
+        "armor class": [
+            "17 pierce",
+            "17 bash",
+            "17 slash",
+            "11 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "dexterity": -1
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|       ^######.#######^##   |\n|       #................#   |\n|       #.#####.#####....#   |\n|       #.#####.#####....#   |\n|       #.##.##.##.##....#   |\n|       #.##.##.##.##....#   |\n|       #.##.#^.##.##....####|\n|       #.##...*.............|\n|       #.##.##.##.##....####|\n|       #.##.##.##.##....#   |\n|       #.##.##.##.##....#   |\n|       #.###########....#   |\n|       ^.###########..^.#   |\n|       #................#   |\n|       ##################   |\n| The Central Hall           |\n+----------------------------+",
+        "description": "A steel shield shines in the sunlight.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a burnished steel shield",
+        "slot": "shield",
+        "keywords": [
+            "burnished",
+            "steel",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 470,
+        "level": 75,
+        "armor type": "metal",
+        "armor class": [
+            "24 pierce",
+            "26 bash",
+            "23 slash",
+            "26 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 6
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|       #.#####.#####....#   |\n|       #.##.##.##.##....#   |\n|       #.##.##.##.##....#   |\n|       #.##.#^.##.##....####|\n|       #.##.................|\n|       #.##.##.##.##....####|\n|       #.##.##.##.##....#   |\n|       #.##.##*##.##....#   |\n|       #.###########....#   |\n|       ^.###########..^.#   |\n|       #................#   |\n|       ##################   |\n|                            |\n|                            |\n|                            |\n| The throne room            |\n+----------------------------+",
+        "description": "A suit of armor etched with gold lies here.",
+        "materials": [
+            "steel",
+            "gold"
+        ],
+        "name": "a suit of gold-inlaid plate armor",
+        "slot": "chest",
+        "keywords": [
+            "gold",
+            "inlaid",
+            "plate",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "bless",
+            "anti-evil"
+        ],
+        "weight": "30 lbs",
+        "value": 880,
+        "level": 74,
+        "armor type": "magic",
+        "armor class": [
+            "17 pierce",
+            "17 bash",
+            "17 slash",
+            "12 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| Atop the walls of the Kee  |\n+----------------------------+",
+        "description": "A long powerful bow lies fallen here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "an vallenwood longbow",
+        "slot": "wielded",
+        "keywords": [
+            "long",
+            "bow",
+            "vallenwood"
+        ],
+        "type": "weapon",
+        "weapon type": "bow",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "5 lbs",
+        "value": 75,
+        "level": 30,
+        "dam bonus": 6,
+        "range bonus": 1,
+        "min str": 18,
+        "fire rate": 2,
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 210,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| Atop the walls of the Kee  |\n+----------------------------+",
+        "description": "An arrow made of an extremly hard wood lies here.",
+        "materials": [
+            "wood",
+            "iron"
+        ],
+        "name": "an ironwood arrow",
+        "slot": "held",
+        "keywords": [
+            "arrow",
+            "ironwood"
+        ],
+        "type": "arrow",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 50,
+        "level": 30,
+        "durability": "90%",
+        "damage": 13,
+        "effects": [
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ##################|\n|          ....*.......^^^^^#|\n|          ##########.v#####v|\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n| Atop the walls of the Kee  |\n+----------------------------+",
+        "description": "A uniform with the symbol of the blue dragonarmy lies here.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a uniform of the Blue Watch",
+        "slot": "chest",
+        "keywords": [
+            "blue",
+            "watch",
+            "uniform",
+            "dragonarmy"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 350,
+        "level": 55,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "13 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "date": "10/04/2015",
+        "zone": "Thelgaard Keep",
+        "map": "+----------------------------+\n| Thelgaard Keep             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ##################|\n|          ....*.......^^^^^#|\n|          ##########.v#####v|\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n| Atop the walls of the Kee  |\n+----------------------------+",
+        "description": "A large sharp halberd lies discarded.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a large halberd",
+        "slot": "wielded",
+        "keywords": [
+            "large",
+            "sharp",
+            "halberd"
+        ],
+        "type": "weapon",
+        "weapon type": "polearm",
+        "flags": [
+            "none"
+        ],
+        "weight": "12 lbs",
+        "value": 250,
+        "level": 51,
+        "damage": 42,
+        "weapon flags": [
+            "sharp"
+        ],
+        "effects": [
+            {
+                "dexterity": -1
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
         "id": 50000,
         "date": "09/27/2015",
         "zone": null,
