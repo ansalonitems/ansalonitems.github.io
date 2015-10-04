@@ -5883,92 +5883,6 @@
         ]
     },
     {
-        "id": 180,
-        "date": "10/04/2015",
-        "zone": "Thelgaard Keep",
-        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| ...............            |\n| #.##....#####.#            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Near the wall of the Keep  |\n+----------------------------+",
-        "description": "A suit of solamnic armor lies here.",
-        "materials": [
-            "steel",
-            "unknown material"
-        ],
-        "name": "a suit of solamnic full plate armor",
-        "slot": "chest",
-        "keywords": [
-            "solamnic",
-            "full",
-            "plate",
-            "armor"
-        ],
-        "type": "armor",
-        "flags": [
-            "glow"
-        ],
-        "weight": "13 lbs",
-        "value": 600,
-        "level": 50,
-        "armor type": "magic",
-        "armor class": [
-            "13 pierce",
-            "13 bash",
-            "12 slash",
-            "6 magic"
-        ],
-        "effects": [
-            {
-                "armor class": -8
-            },
-            {
-                "hit roll": 2
-            },
-            {
-                "damage roll": 2
-            }
-        ]
-    },
-    {
-        "id": 181,
-        "date": "10/04/2015",
-        "zone": "Thelgaard Keep",
-        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ####....#                  |\n| #.##....#                  |\n| #.##....#                  |\n| #.##....#####.#            |\n| ...............            |\n| #.##....#####.#            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Near the wall of the Keep  |\n+----------------------------+",
-        "description": "A large ball and chain lies in the dust.",
-        "materials": [
-            "iron",
-            "steel"
-        ],
-        "name": "a large flail",
-        "slot": "wielded",
-        "keywords": [
-            "ball",
-            "chain",
-            "large",
-            "flail"
-        ],
-        "type": "weapon",
-        "weapon type": "flail",
-        "flags": [
-            "none"
-        ],
-        "weight": "20 lbs",
-        "value": 800,
-        "level": 48,
-        "damage": 22,
-        "weapon flags": [
-            "two-handed"
-        ],
-        "effects": [
-            {
-                "damage roll": 3
-            },
-            {
-                "hit roll": 2
-            },
-            {
-                "damage roll": 4
-            }
-        ]
-    },
-    {
         "id": 182,
         "date": "10/04/2015",
         "zone": "Thelgaard Keep",
@@ -6231,43 +6145,6 @@
         ]
     },
     {
-        "id": 188,
-        "date": "10/04/2015",
-        "zone": "Thelgaard Keep",
-        "map": "+----------------------------+\n| Thelgaard Keep             |\n| ^##                        |\n| ..#                        |\n| ..#                        |\n| ..#      ###               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#####.##.##.#            |\n| .............*.            |\n| ..#####.#####.#            |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|                            |\n|                            |\n|                            |\n| In the center of the burn  |\n+----------------------------+",
-        "description": "A glowing steel longsword lies here.",
-        "materials": [
-            "steel",
-            "unknown material"
-        ],
-        "name": "a steel longsword",
-        "slot": "wielded",
-        "keywords": [
-            "steel",
-            "longsword"
-        ],
-        "type": "weapon",
-        "weapon type": "sword",
-        "flags": [
-            "glow"
-        ],
-        "weight": "8 lbs",
-        "value": 3500,
-        "level": 43,
-        "damage": 28,
-        "effects": [
-            {
-                "hit roll": 4
-            },
-            {
-                "damage roll": 4
-            }
-        ],
-        "weapon flags": [
-            
-        ]
-    },
-    {
         "id": 189,
         "date": "10/04/2015",
         "zone": "Thelgaard Keep",
@@ -6321,7 +6198,7 @@
             "leather"
         ],
         "name": "a pair of Solamnic battle gauntlets",
-        "slot": null,
+        "slot": "hands",
         "keywords": [
             "solamnic",
             "battle",
@@ -7176,6 +7053,107 @@
             {
                 "damage roll": 4
             }
+        ]
+    },
+    {
+        "id": 213,
+        "date": "10/04/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n| ####-##-##-####            |\n| #.............#            |\n| #.##-##.##-##.#            |\n| #.#         #.#            |\n| #.#         #.#            |\n| #.#         #.#            |\n| #.#   #.#   #.#            |\n| #..   #.#   .*#            |\n| #.#   #.#   #.#            |\n| #.##-##.##-##.#            |\n| ..............#            |\n| #.##.########.#            |\n| #.##.#      #.#            |\n| #.#|.|      #.#            |\n| #.####      ###            |\n| Priest Street              |\n+----------------------------+",
+        "description": "A bone statuette of a Vulture sits here.",
+        "materials": [
+            "bone",
+            "unknown material"
+        ],
+        "name": "a large bone statuette of a Vulture",
+        "slot": "held",
+        "keywords": [
+            "vulture",
+            "bone",
+            "statuette",
+            "rfig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 3680,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 214,
+        "date": "10/04/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|       #.##.##.####         |\n|       #.##.#.....#         |\n|       #.##.##.####         |\n|    ####.##.##.####         |\n|    #.............#         |\n|    #.##.##.##.##.#         |\n| ####.##.##.##.##.#         |\n| ...#.##.##.##*##.#         |\n| ####.#####.#####.#         |\n|    #.#   #.#   #.#         |\n|    #..   #.#   ..#         |\n|    #.#   #.#   #.#         |\n| ####.##-##.##-##.#         |\n| .................#         |\n| ####.##.########.#         |\n| The Training Weapon's Sho  |\n+----------------------------+",
+        "description": "An expensive red hat is here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "an expensive red hat",
+        "slot": "head",
+        "keywords": [
+            "hat",
+            "expensive",
+            "red"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 4 oz",
+        "value": 1000,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "hp": 20
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "date": "10/04/2015",
+        "zone": "Southwest Palanthas",
+        "map": "+----------------------------+\n| Southwest Palanthas        |\n|       #.##.##.####         |\n|       #.##.#.....#         |\n|       #.##.##.####         |\n|    ####.##.##.####         |\n|    #.............#         |\n|    #.##.##.##.##.#         |\n| ####.##.##.##.##.#         |\n| ...#.##.##.##*##.#         |\n| ####.#####.#####.#         |\n|    #.#   #.#   #.#         |\n|    #..   #.#   ..#         |\n|    #.#   #.#   #.#         |\n| ####.##-##.##-##.#         |\n| .................#         |\n| ####.##.########.#         |\n| The Training Weapon's Sho  |\n+----------------------------+",
+        "description": "A pearl figure of a Parrot sits here.",
+        "materials": [
+            "pearl",
+            "unknown material"
+        ],
+        "name": "a small pearl figure of a Parrot",
+        "slot": "held",
+        "keywords": [
+            "parrot",
+            "pearl",
+            "figure",
+            "rfig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 8000,
+        "level": 0,
+        "effects": [
+            
         ]
     },
     {
