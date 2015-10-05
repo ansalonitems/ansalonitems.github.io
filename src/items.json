@@ -7157,6 +7157,119 @@
         ]
     },
     {
+        "id": 216,
+        "date": "10/04/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|                            |\n|                            |\n|                            |\n|       ###                  |\n|       #.#                  |\n|       #.#                  |\n| #######.################   |\n| .............*##.......#   |\n| #######-#####.##....####   |\n|             #.##....#      |\n|             #.......#      |\n|             #.#######      |\n|       #######.#            |\n|       #.......#            |\n|       #######.#            |\n| Northeast Diamond Way Cor  |\n+----------------------------+",
+        "description": "A moonstone figurine of a Kagonesti monk sits here.",
+        "materials": [
+            "moonstone",
+            "unknown material"
+        ],
+        "name": "a tiny moonstone figurine of a Kagonesti monk",
+        "slot": "held",
+        "keywords": [
+            "monk",
+            "kagonesti",
+            "moonstone",
+            "figurine",
+            "rfig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 1050,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 217,
+        "date": "10/04/2015",
+        "zone": "The Village of Hillhome",
+        "map": "+----------------------------+\n| The Village of Hillhome    |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|          #.##.#            |\n|          #.....            |\n|          #.####            |\n|    #######.#               |\n|    ........#               |\n|    ..#######               |\n| Holden's General Store     |\n+----------------------------+",
+        "description": "A tunic emblazoned with the Hillhome crest lies here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a Hillhome guard tunic",
+        "slot": "chest",
+        "keywords": [
+            "tunic",
+            "hillhome",
+            "guard"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 2200,
+        "level": 72,
+        "armor type": "magic",
+        "armor class": [
+            "26 pierce",
+            "26 bash",
+            "26 slash",
+            "13 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 2
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "date": "10/04/2015",
+        "zone": "The Village of Hillhome",
+        "map": "+----------------------------+\n| The Village of Hillhome    |\n|                            |\n|                            |\n|                            |\n|       ####.#               |\n|       #.##..               |\n|       #.##.#               |\n|    #.##.##.####            |\n|    #.........*#            |\n|    #.#####.##.#            |\n| ####.#                     |\n| .....#                     |\n| ######                     |\n|                            |\n|                            |\n|                            |\n| Town Hall                  |\n+----------------------------+",
+        "description": "The sash belonging to the Hillhome mayor lies here.",
+        "materials": [
+            "cloth",
+            "silver"
+        ],
+        "name": "the mayor's sash",
+        "slot": "shoulder",
+        "keywords": [
+            "hillhome",
+            "mayor",
+            "sash"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "5 lbs",
+        "value": 12500,
+        "level": 85,
+        "armor type": "cloth",
+        "armor class": [
+            "25 pierce",
+            "25 bash",
+            "25 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 2
+            },
+            {
+                "hp": 75
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 6
+            }
+        ]
+    },
+    {
         "id": 50000,
         "date": "09/27/2015",
         "zone": null,
