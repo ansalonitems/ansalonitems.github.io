@@ -5651,43 +5651,6 @@
         ]
     },
     {
-        "id": 174,
-        "date": "10/04/2015",
-        "zone": "Thelgaard Keep",
-        "map": "+----------------------------+\n| Thelgaard Keep             |\n| #.#   ###^##               |\n| ...   .....#               |\n| #.#   #....#               |\n| #.#####....#               |\n| #.##.##....#               |\n| #.##.##....#               |\n| ^.##.##....####            |\n| .............*.            |\n| #.##.##....####            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the Eastern Gateho  |\n+----------------------------+",
-        "description": "This huge notched sword gleams like silver, and looks perfect for disarming.",
-        "materials": [
-            "silver",
-            "unknown material"
-        ],
-        "name": "a wickedly notched silver sword",
-        "slot": "wielded",
-        "keywords": [
-            "wickedly",
-            "notched",
-            "silver",
-            "sword"
-        ],
-        "type": "weapon",
-        "weapon type": "sword",
-        "flags": [
-            "glow",
-            "magic",
-            "anti-good"
-        ],
-        "weight": "20 lbs",
-        "value": 12500,
-        "level": 70,
-        "damage": 40,
-        "weapon flags": [
-            "sharp",
-            "notched"
-        ],
-        "effects": [
-            
-        ]
-    },
-    {
         "id": 175,
         "date": "10/04/2015",
         "zone": "Thelgaard Keep",
