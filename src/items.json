@@ -767,7 +767,7 @@
         "weight": "0 lbs, 1 oz",
         "value": 5,
         "level": 12,
-        "spell level": "20",
+        "spell level": 20,
         "spells": [
             "stone skin",
             "pass door",
@@ -1199,7 +1199,7 @@
         "value": 200,
         "level": 46,
         "charges": "5",
-        "spell level": "46",
+        "spell level": 46,
         "effects": [
             
         ]
@@ -2477,7 +2477,7 @@
         "weight": "0 lbs, 8 oz",
         "value": 100,
         "level": 5,
-        "spell level": "30",
+        "spell level": 30,
         "spells": [
             "sanctuary"
         ],
@@ -6493,7 +6493,7 @@
         "value": 3000,
         "level": 80,
         "charges": "10",
-        "spell level": "50",
+        "spell level": 50,
         "spell": "energy drain",
         "effects": [
             {
@@ -6629,7 +6629,7 @@
         "value": 4000,
         "level": 80,
         "charges": "10",
-        "spell level": "50",
+        "spell level": 50,
         "spell": "sanctuary",
         "effects": [
             {
@@ -9412,7 +9412,7 @@
         "value": 900,
         "level": 25,
         "charges": "4",
-        "spell level": "14",
+        "spell level": 14,
         "spell": "heal",
         "effects": [
             {
@@ -11408,53 +11408,2153 @@
         ]
     },
     {
-        "id": 50002,
-        "date": "09/27/2015",
-        "zone": null,
-        "map": null,
-        "description": null,
+        "id": 326,
+        "date": "10/10/2015",
+        "zone": "Qualinesti Forest",
+        "map": "+----------------------------+\n| Qualinesti Forest          |\n|                            |\n|                            |\n|                            |\n| @@@@@@@@@                  |\n| ........@                  |\n| ........@                  |\n|       ..@@.....            |\n|       .......*.            |\n|       ..@@.....            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A dark trail               |\n+----------------------------+",
+        "description": "A large battle axe lies here.",
         "materials": [
-            
+            "steel",
+            "wood"
         ],
-        "name": "(Invis) (Glowing) girdle of the sprite master",
-        "slot": "waist",
+        "name": "a large battle axe",
+        "slot": "wielded",
         "keywords": [
-            "girdle",
-            "sprite",
-            "master"
+            "large",
+            "battle",
+            "axe"
         ],
-        "type": "armor",
+        "type": "weapon",
+        "weapon type": "axe",
         "flags": [
-            "glow",
-            "invis"
+            "none"
         ],
-        "weight": "0 oz",
-        "value": 9803,
-        "level": 7,
-        "armor type": "magic",
-        "armor class": [
-            "15 pierce",
-            "15 bash",
-            "15 slash",
-            "9 magic"
+        "weight": "17 lbs",
+        "value": 3000,
+        "level": 37,
+        "damage": 19,
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 327,
+        "date": "10/10/2015",
+        "zone": "Qualinesti Forest",
+        "map": "+----------------------------+\n| Qualinesti Forest          |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             @@@            |\n|             @*.            |\n|             @..            |\n| @@@@@@@@@@@@@..            |\n| ........@@.....            |\n| ........@@.....            |\n|       ..@@.....            |\n|       .........            |\n|       ..@@.....            |\n| The dark forest            |\n+----------------------------+",
+        "description": "A silver flask shaped like a sprite lies here.",
+        "materials": [
+            "glass",
+            "unknown material"
+        ],
+        "name": "a silver sprite flask",
+        "slot": "held",
+        "keywords": [
+            "silver",
+            "sprite",
+            "flask",
+            "for",
+            "the",
+            "whiners"
+        ],
+        "type": "drink",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 4000,
+        "level": 0,
+        "drinks": 200,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 328,
+        "date": "10/10/2015",
+        "zone": "Qualinesti Forest",
+        "map": "+----------------------------+\n| Qualinesti Forest          |\n|       @@@@@@               |\n|       @.....               |\n|       @.....               |\n| @@@@@@@.....               |\n| ..@@........               |\n| ..@@........               |\n| ..@@...........            |\n| .............*.            |\n| ..@@..........@            |\n|    @..........@            |\n|    @..........@            |\n|    @@@@.@@@@@@@            |\n|       @.@                  |\n|       ...                  |\n|       @@@                  |\n| The dark forest            |\n+----------------------------+",
+        "description": "A horribly rusty-looking bonesaw lies here.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "a rusty bonesaw",
+        "slot": "wielded",
+        "keywords": [
+            "rusty",
+            "bonesaw"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 6560,
+        "level": 36,
+        "damage": 27,
+        "weapon flags": [
+            "vampiric"
         ],
         "effects": [
             {
-                "damage roll": 4
+                "hit roll": 2
             },
             {
-                "hit roll": 4
+                "damage roll": 3
+            },
+            {
+                "intelligence": -2
             }
         ]
     },
     {
-        "id": 50007,
-        "date": "09/27/2015",
-        "zone": null,
-        "map": null,
-        "description": null,
+        "id": 329,
+        "date": "10/10/2015",
+        "zone": "Qualinesti Forest",
+        "map": "+----------------------------+\n| Qualinesti Forest          |\n|       @@@@@@               |\n|       @.....               |\n|       @.....               |\n| @@@@@@@.....               |\n| ..@@........               |\n| ..@@........               |\n| ..@@...........            |\n| .............*.            |\n| ..@@..........@            |\n|    @..........@            |\n|    @..........@            |\n|    @@@@.@@@@@@@            |\n|       @.@                  |\n|       ...                  |\n|       @@@                  |\n| The dark forest            |\n+----------------------------+",
+        "description": "There is a copper buckler of Qualinesti make is laying on the ground.",
         "materials": [
+            "copper",
+            "unknown material"
+        ],
+        "name": "a copper buckler",
+        "slot": "shield",
+        "keywords": [
+            "randarmor",
+            "a",
+            "copper",
+            "buckler"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "13 lbs, 12 oz",
+        "value": 160,
+        "level": 42,
+        "armor type": "light metal",
+        "armor class": [
+            "20 pierce",
+            "21 bash",
+            "20 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "wisdom": 1
+            }
+        ]
+    },
+    {
+        "id": 330,
+        "date": "10/10/2015",
+        "zone": "Qualinesti Forest",
+        "map": "+----------------------------+\n| Qualinesti Forest          |\n|       @@@@@@               |\n|       @.....               |\n|       @.....               |\n| @@@@@@@.....               |\n| ..@@........               |\n| ..@@........               |\n| ..@@...........            |\n| .............*.            |\n| ..@@..........@            |\n|    @..........@            |\n|    @..........@            |\n|    @@@@.@@@@@@@            |\n|       @.@                  |\n|       ...                  |\n|       @@@                  |\n| The dark forest            |\n+----------------------------+",
+        "description": "A blue potion has been left here.",
+        "materials": [
+            "glass",
+            "unknown material"
+        ],
+        "name": "a blue potion",
+        "keywords": [
+            "potion",
+            "blue"
+        ],
+        "type": "potion",
+        "flags": [
+            "magic"
+        ],
+        "weight": "2 lbs",
+        "value": 700,
+        "level": 10,
+        "spell level": 15,
+        "spells": [
+            "cure poison",
+            "cure critical",
+            "cure critical"
+        ],
+        "effects": [
             
+        ]
+    },
+    {
+        "id": 331,
+        "date": "10/10/2015",
+        "zone": "Solace",
+        "map": "+----------------------------+\n| Solace                     |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.#            |\n|          #....#            |\n|          ####.#            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|             ^.#############|\n|             #..............|\n|             #.########.####|\n|          ####.#      #.#   |\n|          #....#      #.#   |\n|          ####.#      #.#   |\n| Along the Northern Walkwa  |\n+----------------------------+",
+        "description": "A colorfull peppermint lies discarded on the floor here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a peppermint",
+        "slot": null,
+        "keywords": [
+            "candy",
+            "peppermint"
+        ],
+        "type": "pill",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 0,
+        "level": 0,
+        "spell level": 20,
+        "spells": [
+            "detect invis",
+            "detect hidden"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 332,
+        "date": "10/10/2015",
+        "zone": "Solace",
+        "map": "+----------------------------+\n| Solace                     |\n|                            |\n|                            |\n|                            |\n|             ^######-#######|\n|             #..............|\n|             #.###v########v|\n|             #.#######      |\n|             #*......|      |\n|             #.#######      |\n|             #.#            |\n|             #.#            |\n|             #.v            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| A Platform in the Trees    |\n+----------------------------+",
+        "description": "A silver heart shaped locket is here.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a silver heart shaped locket",
+        "slot": "light",
+        "keywords": [
+            "locket",
+            "heart"
+        ],
+        "type": "key",
+        "flags": [
+            "meltdrop"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 0,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 334,
+        "date": "10/10/2015",
+        "zone": "Solace",
+        "map": "+----------------------------+\n| Solace                     |\n| #.#####-########.#         |\n| .................#         |\n| #.v##v#.###v##v#.v         |\n| #.#   #.#      #.#         |\n| #.#   #.#      #.#         |\n| #.v   #.#      #.#         |\n| #.#   #.#   ####.#         |\n| #.|   #.#   #*...#         |\n| #.#   #.#   ####.#         |\n| ^.####^.#      #.#         |\n| ........#      #.#         |\n| #.#####.#      #.#         |\n| #.#   #.#      #.#         |\n| #.#   #.|      #.|         |\n| #.#   #.#      #.#         |\n| Bertrand's Residence       |\n+----------------------------+",
+        "description": "A creamy potion is here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a swirling creamy potion",
+        "keywords": [
+            "potion",
+            "creamy"
+        ],
+        "type": "potion",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 6 oz",
+        "value": 0,
+        "level": 0,
+        "spell level": 40,
+        "spells": [
+            "stone skin",
+            "protection",
+            "haste"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 335,
+        "date": "10/10/2015",
+        "zone": "Eastwall Mountains",
+        "map": "+----------------------------+\n| Eastwall Mountains         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             @.@            |\n|             .*@            |\n|             @@@            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A turn in the path         |\n+----------------------------+",
+        "description": "An ancient longsword lies here.",
+        "materials": [
+            "steel",
+            "steel"
+        ],
+        "name": "an ancient Solamnic longsword",
+        "slot": "wielded",
+        "keywords": [
+            "ancient",
+            "solamnic",
+            "longsword"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 3200,
+        "level": 25,
+        "damage": 13,
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "hp": 15
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 336,
+        "date": "10/10/2015",
+        "zone": "Eastwall Mountains",
+        "map": "+----------------------------+\n| Eastwall Mountains         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             @.@            |\n|             .*@            |\n|             @@@            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A turn in the path         |\n+----------------------------+",
+        "description": "An ancient suit of armor lies here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a suit of ancient Solamnic armor",
+        "slot": "chest",
+        "keywords": [
+            "ancient",
+            "suit",
+            "solamnic",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 5500,
+        "level": 27,
+        "armor type": "metal",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "4 magic"
+        ],
+        "effects": [
+            {
+                "saves": -1
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 337,
+        "date": "10/10/2015",
+        "zone": "Eastwall Mountains",
+        "map": "+----------------------------+\n| Eastwall Mountains         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             @.@            |\n|             .*@            |\n|             @@@            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A turn in the path         |\n+----------------------------+",
+        "description": "An ancient helmet topped with a set of horns lies here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "an ancient horned helmet",
+        "slot": "head",
+        "keywords": [
+            "ancient",
+            "horned",
+            "helmet"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 2200,
+        "level": 25,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "4 magic"
+        ],
+        "effects": [
+            {
+                "saves": -1
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 338,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|             #.####         |\n|             .....#         |\n|             #.##.#         |\n|             #.##.#         |\n|             #*##.#         |\n|             ####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#######\"\"\"|\n|                ......^^^nnn|\n|                #########\"\"\"|\n| A Small Home               |\n+----------------------------+",
+        "description": "A wooden cane has been left here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a wooden cane",
+        "slot": "wielded",
+        "keywords": [
+            "wooden",
+            "cane"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 450,
+        "level": 60,
+        "damage": 25,
+        "effects": [
+            {
+                "hp": 20
+            },
+            {
+                "wisdom": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 339,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| The Grand Hall Through Ta  |\n+----------------------------+",
+        "description": "The robes of a servant are here, flowing gently.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a servant's robes",
+        "slot": "chest",
+        "keywords": [
+            "servants",
+            "robes"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 650,
+        "level": 22,
+        "armor type": "cloth",
+        "armor class": [
+            "2 pierce",
+            "2 bash",
+            "3 slash",
+            "2 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 2
+            },
+            {
+                "constitution": 2
+            }
+        ]
+    },
+    {
+        "id": 340,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n| #.##.##.##.#               |\n| ...........#               |\n| #.########.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#^##            |\n| #.#      #...*#            |\n| #.#      ######            |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #..                        |\n| #.#                        |\n| Southeastern Guardtower    |\n+----------------------------+",
+        "description": "A flanged mace which is standard issue for the Tantallon Tower Guards is here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a Tantallon Issue Flanged Mace",
+        "slot": "wielded",
+        "keywords": [
+            "tantallon",
+            "issue",
+            "flanged",
+            "mace"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "nodrop",
+            "no_uncurse"
+        ],
+        "weight": "25 lbs",
+        "value": 5000,
+        "level": 50,
+        "damage": 31,
+        "weapon flags": [
+            "shocking"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "hp": 25
+            }
+        ]
+    },
+    {
+        "id": 341,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n| #.##.##.##.#               |\n| ...........#               |\n| #.########.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#^##            |\n| #.#      #...*#            |\n| #.#      ######            |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #..                        |\n| #.#                        |\n| Southeastern Guardtower    |\n+----------------------------+",
+        "description": "The shield of the tantallon guard, emblazoned with symbols, is here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "the emblazoned shield of a Tantallon guard",
+        "slot": "shield",
+        "keywords": [
+            "tantallon",
+            "guard",
+            "shield",
+            "emblazoned"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless",
+            "burn_proof"
+        ],
+        "weight": "7 lbs, 8 oz",
+        "value": 750,
+        "level": 55,
+        "armor type": "heavy metal",
+        "armor class": [
+            "27 pierce",
+            "27 bash",
+            "27 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "strength": 2
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "mana": 10
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 342,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Atop the Southeastern Gua  |\n+----------------------------+",
+        "description": "An arrow from the Tantallon guards is here.",
+        "materials": [
+            "wood",
+            "silver"
+        ],
+        "name": "an archer's arrow",
+        "slot": "held",
+        "keywords": [
+            "arrow",
+            "tantallon"
+        ],
+        "type": "arrow",
+        "flags": [
+            "hum",
+            "burn_proof"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 500,
+        "level": 30,
+        "durability": "55%",
+        "damage": 22,
+        "effects": [
+            {
+                "hit roll": 5
+            }
+        ]
+    },
+    {
+        "id": 343,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Atop the Southeastern Gua  |\n+----------------------------+",
+        "description": "A bow is here, used by the Tantallon archer guards.",
+        "materials": [
+            "wood",
+            "iron"
+        ],
+        "name": "an archer's bow",
+        "slot": "wielded",
+        "keywords": [
+            "bow",
+            "tantallon"
+        ],
+        "type": "weapon",
+        "weapon type": "bow",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "10 lbs",
+        "value": 100,
+        "level": 30,
+        "dam bonus": 15,
+        "range bonus": 2,
+        "min str": 18,
+        "fire rate": 3,
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 344,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Atop the Southeastern Gua  |\n+----------------------------+",
+        "description": "The armor of a Tantallon archer is here, tucked under something.",
+        "materials": [
+            "cloth",
+            "iron"
+        ],
+        "name": "an archer's dress",
+        "slot": "chest",
+        "keywords": [
+            "tantallon",
+            "armor",
+            "archer",
+            "dress"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "7 lbs, 8 oz",
+        "value": 50,
+        "level": 30,
+        "armor type": "light metal",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "7 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "hp": 10
+            },
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Atop the Southeastern Gua  |\n+----------------------------+",
+        "description": "A quiver for arrows worn by the Tantallon guard is here.",
+        "materials": [
+            "leather",
+            "silver"
+        ],
+        "name": "an archer's quiver",
+        "slot": "shoulder",
+        "keywords": [
+            "quiver",
+            "tantallon"
+        ],
+        "type": "container",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 55,
+        "level": 30,
+        "capacity": "500 items",
+        "max item": "100 lbs",
+        "weighs": "75% of actual weight",
+        "effects": [
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 346,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.##########|\n|             #*##.##.##.##.#|\n|             #.##.##.##.##.#|\n|             #.##.##.##.##.#|\n|             ..............#|\n|             #.##.########.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n| The Guard's Barracks       |\n+----------------------------+",
+        "description": "A cleaver axe enchanted by the wizard Balcombe is here, setting its surrounds ablaze.",
+        "materials": [
+            "steel",
+            "air"
+        ],
+        "name": "(Blazing) An Enchanted Cleaver Axe",
+        "slot": "wielded",
+        "keywords": [
+            "blazing",
+            "enchanted",
+            "balcombe",
+            "cleaver",
+            "axe"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "magic",
+            "bless",
+            "anti-evil"
+        ],
+        "weight": "22 lbs",
+        "value": 8500,
+        "level": 55,
+        "damage": 31,
+        "weapon flags": [
+            "flaming",
+            "sharp",
+            "throwable"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 347,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.##########|\n|             #*##.##.##.##.#|\n|             #.##.##.##.##.#|\n|             #.##.##.##.##.#|\n|             ..............#|\n|             #.##.########.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n| The Guard's Barracks       |\n+----------------------------+",
+        "description": "The dress of a Tantallon guard is here, it looks like plate armor.",
+        "materials": [
+            "iron",
+            "silver"
+        ],
+        "name": "the armor of a Tantallon Guard",
+        "slot": "chest",
+        "keywords": [
+            "armor",
+            "guard",
+            "tantallon",
+            "dress"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless"
+        ],
+        "weight": "10 lbs",
+        "value": 750,
+        "level": 55,
+        "armor type": "metal",
+        "armor class": [
+            "27 pierce",
+            "27 bash",
+            "27 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 348,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.##########|\n|             #*##.##.##.##.#|\n|             #.##.##.##.##.#|\n|             #.##.##.##.##.#|\n|             ..............#|\n|             #.##.########.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n| The Guard's Barracks       |\n+----------------------------+",
+        "description": "The shield of the tantallon guard, emblazoned with symbols, is here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "the emblazoned shield of a Tantallon guard",
+        "slot": "shield",
+        "keywords": [
+            "tantallon",
+            "guard",
+            "shield",
+            "emblazoned"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless",
+            "burn_proof"
+        ],
+        "weight": "7 lbs, 8 oz",
+        "value": 750,
+        "level": 55,
+        "armor type": "heavy metal",
+        "armor class": [
+            "27 pierce",
+            "27 bash",
+            "27 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "strength": 2
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "mana": 10
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 349,
+        "date": "10/10/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ^#####            |\n|          #.##*#            |\n|          #.v#.#            |\n|          #.##.#            |\n|          #.....            |\n|          ####.#            |\n|             #.#            |\n|             #.#            |\n|             ###            |\n| The Kitchen of Tantallon   |\n+----------------------------+",
+        "description": "A yellow suit with a white apron is here, cooks garb.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a cook's garb",
+        "slot": "body",
+        "keywords": [
+            "cooks",
+            "clothing",
+            "garb"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 5,
+        "level": 50,
+        "armor type": "cloth",
+        "armor class": [
+            "5 pierce",
+            "1 bash",
+            "1 slash",
+            "2 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": -2
+            },
+            {
+                "hit roll": -1
+            },
+            {
+                "hp": 75
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "date": "10/11/2015",
+        "zone": "Valley of the Thanes",
+        "map": "+----------------------------+\n| Valley of the Thanes       |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.#            |\n|          ....*.            |\n|          ......            |\n|          ........#         |\n|          ........#         |\n|          ........#         |\n|             .....#         |\n|             ......         |\n|             ......         |\n| Exit from Valley of the T  |\n+----------------------------+",
+        "description": "A pair of emblazoned dwarvensteel shoulderpads are here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "(Emblazoned) dwarvensteel shoulderpads",
+        "slot": "shoulder",
+        "keywords": [
+            "emblazoned",
+            "dwarven",
+            "steel",
+            "shoulder",
+            "pad"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 5500,
+        "level": 52,
+        "armor type": "heavy metal",
+        "armor class": [
+            "5 pierce",
+            "5 bash",
+            "5 slash",
+            "4 magic"
+        ],
+        "effects": [
+            {
+                "hp": 25
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 351,
+        "date": "10/11/2015",
+        "zone": "Valley of the Thanes",
+        "map": "+----------------------------+\n| Valley of the Thanes       |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.#            |\n|          ....*.            |\n|          ......            |\n|          ........#         |\n|          ........#         |\n|          ........#         |\n|             .....#         |\n|             ......         |\n|             ......         |\n| Exit from Valley of the T  |\n+----------------------------+",
+        "description": "A back shield made of a white-like material is here.",
+        "materials": [
+            "silver",
+            "bone"
+        ],
+        "name": "an Albino Back Shield",
+        "slot": "back",
+        "keywords": [
+            "albino",
+            "armor",
+            "back",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "bless",
+            "burn_proof"
+        ],
+        "weight": "4 lbs, 8 oz",
+        "value": 7500,
+        "level": 70,
+        "armor type": "metal",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "35 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "hp": 25
+            }
+        ]
+    },
+    {
+        "id": 352,
+        "date": "10/11/2015",
+        "zone": "Valley of the Thanes",
+        "map": "+----------------------------+\n| Valley of the Thanes       |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.#            |\n|          ....*.            |\n|          ......            |\n|          ........#         |\n|          ........#         |\n|          ........#         |\n|             .....#         |\n|             ......         |\n|             ......         |\n| Exit from Valley of the T  |\n+----------------------------+",
+        "description": "A pair of dwarven steel leggings looking very durable are here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "(Emblazoned) dwarvensteel leggings",
+        "slot": "legs",
+        "keywords": [
+            "emblazoned",
+            "dwarven",
+            "steel",
+            "leggings"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 500,
+        "level": 78,
+        "armor type": "heavy metal",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "hp": 40
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "dexterity": 5
+            }
+        ]
+    },
+    {
+        "id": 353,
+        "date": "10/11/2015",
+        "zone": "Valley of the Thanes",
+        "map": "+----------------------------+\n| Valley of the Thanes       |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.#            |\n|          ....*.            |\n|          ......            |\n|          ........#         |\n|          ........#         |\n|          ........#         |\n|             .....#         |\n|             ......         |\n|             ......         |\n| Exit from Valley of the T  |\n+----------------------------+",
+        "description": "An emblazoned dwarvensteel helmet is here, it looks unsurprisingly durable.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "(Emblazoned) dwarvensteel helmet",
+        "slot": "head",
+        "keywords": [
+            "emblazoned",
+            "dwarven",
+            "steel",
+            "helmet"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs, 8 oz",
+        "value": 1000,
+        "level": 60,
+        "armor type": "heavy metal",
+        "armor class": [
+            "25 pierce",
+            "25 bash",
+            "25 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "saves": -1
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hp": 50
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "moves": 50
+            }
+        ]
+    },
+    {
+        "id": 354,
+        "date": "10/11/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|             ^##      ######|\n|             #.#      #.....|\n|             #.#      ######|\n|       ###   #.#^##         |\n|       #.#   #....#         |\n|       #.#   #.####         |\n|    ####.#####.####      ###|\n|    #.##.##...*...|      #.#|\n|    #.##.##.......#      #.#|\n| ####.##.##.......########.#|\n| ...........................|\n| #######.##.......#####.####|\n|    ####.##.......#####.####|\n|    #....##.......##.##.##.#|\n|    #######.#..#####.##.##.v|\n| North Imperial Square      |\n+----------------------------+",
+        "description": "A cork figure of a Chicken sits here.",
+        "materials": [
+            "cork",
+            "unknown material"
+        ],
+        "name": "a small cork figure of a Chicken",
+        "slot": "held",
+        "keywords": [
+            "chicken",
+            "cork",
+            "figure",
+            "rfig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 550,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 355,
+        "date": "10/12/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|          ^##               |\n|          #.#               |\n|          #.v               |\n|          #.##-##-#         |\n|          #.......#         |\n|          ####.##-#         |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Rostrever's Room           |\n+----------------------------+",
+        "description": "A pair of chainmail leggings made from a white-like material is here.",
+        "materials": [
+            "bone",
+            "silver"
+        ],
+        "name": "a pair of Albino Chainmail Leggings",
+        "slot": "legs",
+        "keywords": [
+            "albino",
+            "armor",
+            "leggings",
+            "legs",
+            "chainmail"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic",
+            "bless"
+        ],
+        "weight": "5 lbs",
+        "value": 5000,
+        "level": 60,
+        "armor type": "light metal",
+        "armor class": [
+            "15 pierce",
+            "20 bash",
+            "20 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 3
+            },
+            {
+                "hp": 10
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "mana": 60
+            }
+        ]
+    },
+    {
+        "id": 356,
+        "date": "10/12/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|          ^##               |\n|          #.#               |\n|          #.v               |\n|          #.##-##-#         |\n|          #.......#         |\n|          ####.##-#         |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Rostrever's Room           |\n+----------------------------+",
+        "description": "Some chainmail made of a white-like material lies here.",
+        "materials": [
+            "bone",
+            "silver"
+        ],
+        "name": "a suit of Albino Chainmail Armor",
+        "slot": "chest",
+        "keywords": [
+            "albino",
+            "chainmail",
+            "armor",
+            "suit"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "bless",
+            "burn_proof"
+        ],
+        "weight": "10 lbs",
+        "value": 5000,
+        "level": 60,
+        "armor type": "light metal",
+        "armor class": [
+            "25 pierce",
+            "25 bash",
+            "35 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -5
+            },
+            {
+                "hp": 20
+            },
+            {
+                "mana": 25
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 357,
+        "date": "10/12/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|          ^##               |\n|          #.#               |\n|          #.v               |\n|          #.##-##-#         |\n|          #.......#         |\n|          ####.##-#         |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Rostrever's Room           |\n+----------------------------+",
+        "description": "A pair of chainmail sleeves are here, made from a white-like material.",
+        "materials": [
+            "silver",
+            "bone"
+        ],
+        "name": "a pair of Albino Chainmail Sleeves",
+        "slot": "arms",
+        "keywords": [
+            "albino",
+            "armor",
+            "sleeves",
+            "chainmail"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic",
+            "bless"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 5000,
+        "level": 60,
+        "armor type": "light metal",
+        "armor class": [
+            "20 pierce",
+            "20 bash",
+            "20 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "saves": -1
+            },
+            {
+                "mana": 40
+            },
+            {
+                "hp": 15
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 358,
+        "date": "10/12/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|          ^##               |\n|          #.#               |\n|          #.v               |\n|          #.##-##-#         |\n|          #.......#         |\n|          ####.##-#         |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Rostrever's Room           |\n+----------------------------+",
+        "description": "A mace twisted and misshapen from overuse is here.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a twisted and misshapen mace",
+        "slot": "wielded",
+        "keywords": [
+            "mace",
+            "twisted",
+            "misshapen"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "20 lbs",
+        "value": 75,
+        "level": 60,
+        "damage": 45,
+        "weapon flags": [
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 360,
+        "date": "10/12/2015",
+        "zone": "Isles of the Pirate Lords",
+        "map": "+----------------------------+\n| Isles of the Pirate Lords  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the House on Stilt  |\n+----------------------------+",
+        "description": "A hemp hammock is here, stretched between 2 sunken poles.",
+        "materials": [
+            "cloth",
+            "wood"
+        ],
+        "name": "a hemp hammock",
+        "keywords": [
+            "hammock",
+            "hemp"
+        ],
+        "type": "furniture",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 800,
+        "level": 33,
+        "furniture": "this furniture can hold 2 people, a total of 500 pounds.",
+        "healing bonus": "50%",
+        "mana bonus": "50%",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 361,
+        "date": "10/12/2015",
+        "zone": "Isles of the Pirate Lords",
+        "map": "+----------------------------+\n| Isles of the Pirate Lords  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|             #.#            |\n|             |..            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             ###            |\n| In the Quiet Lagoon        |\n+----------------------------+",
+        "description": "A watchman's lantern is here, giving off a bright white light.",
+        "materials": [
+            "iron",
+            "fire"
+        ],
+        "name": "a watchman's lantern",
+        "slot": "light",
+        "keywords": [
+            "watchman",
+            "lantern"
+        ],
+        "type": "light",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 750,
+        "level": 33,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 362,
+        "date": "10/12/2015",
+        "zone": "Isles of the Pirate Lords",
+        "map": "+----------------------------+\n| Isles of the Pirate Lords  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|             #.#            |\n|             |..            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             ###            |\n| In the Quiet Lagoon        |\n+----------------------------+",
+        "description": "An outrigger canoe with a sky blue sail is here, provisioned for adventure.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "an outrigger called 'Waverunner'",
+        "slot": "light",
+        "keywords": [
+            "waverunner",
+            "boat"
+        ],
+        "type": "boat",
+        "flags": [
+            "indestructible",
+            "no_locate"
+        ],
+        "weight": "3 lbs",
+        "value": 3000,
+        "level": 31,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 363,
+        "date": "10/12/2015",
+        "zone": "Caergoth",
+        "map": "+----------------------------+\n| Caergoth                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Pirate's Lounge        |\n+----------------------------+",
+        "description": "A hammock made of large size fishnet is here, staked out between 2 sunken poles.",
+        "materials": [
+            "leather",
+            "silk"
+        ],
+        "name": "a net hammock",
+        "keywords": [
+            "hammock",
+            "netting"
+        ],
+        "type": "furniture",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 6000,
+        "level": 40,
+        "furniture": "this furniture can hold 3 people, a total of 750 pounds.",
+        "healing bonus": "50%",
+        "mana bonus": "50%",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 364,
+        "date": "10/12/2015",
+        "zone": "Caergoth",
+        "map": "+----------------------------+\n| Caergoth                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*.            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Severed Head 2         |\n+----------------------------+",
+        "description": "A wicked looking saber made of shark's teeth is here stuck in the ground.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "a Sharktooth saber",
+        "slot": "wielded",
+        "keywords": [
+            "shark",
+            "tooth",
+            "saber"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 6560,
+        "level": 36,
+        "damage": 27,
+        "weapon flags": [
+            "sharp"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 365,
+        "date": "10/12/2015",
+        "zone": "Caergoth",
+        "map": "+----------------------------+\n| Caergoth                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*.            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Severed Head 2         |\n+----------------------------+",
+        "description": "A well made, perfectly balanced, military issue solamnic broadsword.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a solamnic broadsword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "solamnic",
+            "broad",
+            "military"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 7000,
+        "level": 80,
+        "damage": 49,
+        "weapon flags": [
+            "shocking"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 366,
+        "date": "10/12/2015",
+        "zone": "Caergoth",
+        "map": "+----------------------------+\n| Caergoth                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*.            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Severed Head 2         |\n+----------------------------+",
+        "description": "An unusually large sailor's drinking flagon has been left here full of ale.",
+        "materials": [
+            "pewter",
+            "unknown material"
+        ],
+        "name": "a flagon",
+        "slot": "held",
+        "keywords": [
+            "flagon",
+            "pewter"
+        ],
+        "type": "drink",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 250,
+        "level": 30,
+        "drinks": 41,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 367,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|             #.##.#   #.####|\n|             #....#   #....#|\n|             #.####   ####.#|\n|             #.#######   #.#|\n|             ........#   #..|\n|             .....####   #.#|\n|             .....#      #.#|\n|             .*...#      #.#|\n|             .....#      #.#|\n|             .....########.#|\n|             ..............#|\n|             #.###########.#|\n|                            |\n|                            |\n|                            |\n| Taslo Square               |\n+----------------------------+",
+        "description": "A glowing chisel rests here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "an enchanted chisel",
+        "slot": "wielded",
+        "keywords": [
+            "enchanted",
+            "chisel"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "glow",
+            "anti-evil",
+            "indestructible",
+            "no_locate"
+        ],
+        "weight": "8 lbs, 1 oz",
+        "value": 4215,
+        "level": 80,
+        "damage": 28,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 368,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|             #.##.#   #.####|\n|             #....#   #....#|\n|             #.####   ####.#|\n|             #.#######   #.#|\n|             ........#   #..|\n|             .....####   #.#|\n|             .....#      #.#|\n|             .*...#      #.#|\n|             .....#      #.#|\n|             .....########.#|\n|             ..............#|\n|             #.###########.#|\n|                            |\n|                            |\n|                            |\n| Taslo Square               |\n+----------------------------+",
+        "description": "A bronze figure of a fish sits here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a small bronze cutthroat trout figure",
+        "slot": "held",
+        "keywords": [
+            "fish",
+            "bronze",
+            "figure",
+            "cutthroat",
+            "trout",
+            "ffig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 6660,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 369,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|                #.##.#   #.#|\n|                #....#   #..|\n|                #.####   ###|\n|                #.#######   |\n|                ........#   |\n|                .....####   |\n|             #.......#      |\n|             .*......#      |\n|             #.......#      |\n|                .....#######|\n|                ............|\n|                #.##########|\n|                            |\n|                            |\n|                            |\n| West Taslo Square          |\n+----------------------------+",
+        "description": "A large canteen sits here.",
+        "materials": [
+            "bronze",
+            "leather"
+        ],
+        "name": "a large canteen",
+        "keywords": [
+            "drinkcont",
+            "large",
+            "canteen"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs, 9 oz",
+        "value": 952,
+        "level": 0,
+        "drinks": 125,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 370,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|                #.##.#   #.#|\n|                #....#   #..|\n|                #.####   ###|\n|                #.#######   |\n|                ........#   |\n|                .....####   |\n|             #.......#      |\n|             .*......#      |\n|             #.......#      |\n|                .....#######|\n|                ............|\n|                #.##########|\n|                            |\n|                            |\n|                            |\n| West Taslo Square          |\n+----------------------------+",
+        "description": "There is a wood skullcap of Southern Ergothian make is laying on the ground.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a wood helm of elvish design",
+        "slot": "head",
+        "keywords": [
+            "randarmor",
+            "a",
+            "wood",
+            "helm",
+            "of",
+            "elvish",
+            "design"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "4 lbs, 6 oz",
+        "value": 80,
+        "level": 96,
+        "armor type": "leather",
+        "armor class": [
+            "48 pierce",
+            "49 bash",
+            "48 slash",
+            "48 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 8
+            },
+            {
+                "moves": 24
+            },
+            {
+                "mana": 40
+            },
+            {
+                "hp": 19
+            }
+        ]
+    },
+    {
+        "id": 371,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|                #.##.#   #.#|\n|                #....#   #..|\n|                #.####   ###|\n|                #.#######   |\n|                ........#   |\n|                .....####   |\n|             #.......#      |\n|             .*......#      |\n|             #.......#      |\n|                .....#######|\n|                ............|\n|                #.##########|\n|                            |\n|                            |\n|                            |\n| West Taslo Square          |\n+----------------------------+",
+        "description": "A standard-issue set of leather armor rests here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a standard-issue set of leather armor",
+        "slot": "chest",
+        "keywords": [
+            "kagonesti",
+            "standard",
+            "leather",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs, 1 oz",
+        "value": 500,
+        "level": 40,
+        "armor type": "leather",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "7 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 372,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|                #.##.#   #.#|\n|                #....#   #..|\n|                #.####   ###|\n|                #.#######   |\n|                ........#   |\n|                .....####   |\n|             #.......#      |\n|             .*......#      |\n|             #.......#      |\n|                .....#######|\n|                ............|\n|                #.##########|\n|                            |\n|                            |\n|                            |\n| West Taslo Square          |\n+----------------------------+",
+        "description": "A standard sword of a Kagonesti guard rests here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a standard Kagonesti sword",
+        "slot": "wielded",
+        "keywords": [
+            "kagonesti",
+            "standard",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs, 4 oz",
+        "value": 500,
+        "level": 40,
+        "damage": 17,
+        "effects": [
+            {
+                "hit roll": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 373,
+        "date": "10/13/2015",
+        "zone": "Qualimori",
+        "map": "+----------------------------+\n| Qualimori                  |\n|                #.##.#   #.#|\n|                #....#   #..|\n|                #.####   ###|\n|                #.#######   |\n|                ........#   |\n|                .....####   |\n|             #.......#      |\n|             .*......#      |\n|             #.......#      |\n|                .....#######|\n|                ............|\n|                #.##########|\n|                            |\n|                            |\n|                            |\n| West Taslo Square          |\n+----------------------------+",
+        "description": "A wood figure of a fish sits here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a small wood cobia figure",
+        "slot": "held",
+        "keywords": [
+            "fish",
+            "wood",
+            "figure",
+            "cobia",
+            "ffig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 770,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 374,
+        "date": "10/14/2015",
+        "zone": "The Village of Willik",
+        "map": "+----------------------------+\n| The Village of Willik      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #######.#######|\n|             .*.............|\n|             #######.#######|\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The refugee camp           |\n+----------------------------+",
+        "description": "A short staff with steel caps on the ends lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a steel-capped staff",
+        "slot": "wielded",
+        "keywords": [
+            "short",
+            "steel-capped",
+            "staff"
+        ],
+        "type": "weapon",
+        "weapon type": "quarterstaff",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 10020,
+        "level": 100,
+        "damage": 63,
+        "weapon flags": [
+            "notched"
+        ],
+        "effects": [
+            {
+                "hit roll": 6
+            },
+            {
+                "damage roll": 10
+            },
+            {
+                "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "date": "10/14/2015",
+        "zone": "Hopeful Vale",
+        "map": "+----------------------------+\n| Hopeful Vale               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             \"\"\"            |\n|             n*\"            |\n|             nn\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"\"\"\"   ######|\n|             \"\"\"\"\"\"   #.##.#|\n|             \"\"\"\"\"\"   #.##.#|\n| Along a Gorge              |\n+----------------------------+",
+        "description": "There is a rusty breastplate here, it reaks of goblin filth.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a rusty breastplate",
+        "slot": "chest",
+        "keywords": [
+            "breastplate",
+            "plate",
+            "rusty",
+            "goblin"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 8 oz",
+        "value": 18,
+        "level": 28,
+        "armor type": "light metal",
+        "armor class": [
+            "55 pierce",
+            "55 bash",
+            "55 slash",
+            "25 magic"
+        ],
+        "effects": [
+            {
+                "moves": -15
+            },
+            {
+                "hp": 10
+            },
+            {
+                "dexterity": -1
+            },
+            {
+                "hit roll": 2
+            }
+        ]
+    },
+    {
+        "id": 376,
+        "date": "10/14/2015",
+        "zone": "Hopeful Vale",
+        "map": "+----------------------------+\n| Hopeful Vale               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             \"\"\"            |\n|             n*\"            |\n|             nn\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"\"\"\"   ######|\n|             \"\"\"\"\"\"   #.##.#|\n|             \"\"\"\"\"\"   #.##.#|\n| Along a Gorge              |\n+----------------------------+",
+        "description": "There is a rusty longsword here, it smells like a goblin.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a rusty longsword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "longsword",
+            "rusty",
+            "goblin",
+            "stinking"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "14 lbs, 8 oz",
+        "value": 88,
+        "level": 75,
+        "damage": 45,
+        "effects": [
+            {
+                "dexterity": -3
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 377,
+        "date": "10/14/2015",
+        "zone": "Southwest Plains of Dust",
+        "map": "+----------------------------+\n| Southwest Plains of Dust   |\n|          \"\"\"#.#            |\n|          \"\"\"..#            |\n|          \"\"\"###            |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"###            |\n|          \"\"\".*.            |\n|          \"\"\"...            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Plains of Dust         |\n+----------------------------+",
+        "description": "A beautifully-carved spear made of vallenwood lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a vallenwood spear",
+        "slot": "wielded",
+        "keywords": [
+            "vallenwood",
+            "spear"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 4400,
+        "level": 70,
+        "damage": 44,
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 378,
+        "date": "10/14/2015",
+        "zone": "Hopeful Vale",
+        "map": "+----------------------------+\n| Hopeful Vale               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       nnn\"\"\"nn\"            |\n|       nnn\"\"\"n*\"            |\n|       nnn\"\"\"nn\"            |\n|       nnn\"\"\"nn\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       nnn\"\"\"nnnnnnnnnnnnnn\"|\n|       nnn\"\"\"nnnnnnnnnnnnnn\"|\n|    #^^^^^\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|    #^^^^^\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|    ####^^\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n| Along a Gorge              |\n+----------------------------+",
+        "description": "The sword on the ground gives off an ominous chill to anything it nears.",
+        "materials": [
+            "iron",
+            "silver"
+        ],
+        "name": "the sword \"Undead's Touch\"",
+        "slot": "wielded",
+        "keywords": [
+            "undead",
+            "touch",
+            "sword",
+            "shortsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow",
+            "hum",
+            "magic",
+            "bless"
+        ],
+        "weight": "15 lbs",
+        "value": 2500,
+        "level": 42,
+        "damage": 26,
+        "weapon flags": [
+            "frost"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "constitution": -1
+            }
+        ]
+    },
+    {
+        "id": 380,
+        "date": "10/14/2015",
+        "zone": "Hopeful Vale",
+        "map": "+----------------------------+\n| Hopeful Vale               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       nnn\"\"\"nn\"            |\n|       nnn\"\"\"n*\"            |\n|       nnn\"\"\"nn\"            |\n|       nnn\"\"\"nn\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       nnn\"\"\"nnnnnnnnnnnnnn\"|\n|       nnn\"\"\"nnnnnnnnnnnnnn\"|\n|    #^^^^^\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|    #^^^^^\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|    ####^^\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n| Along a Gorge              |\n+----------------------------+",
+        "description": "A medium sized kite shield made of a White-like material is here.",
+        "materials": [
+            "silver",
+            "bone"
+        ],
+        "name": "an Albino Kite Shield",
+        "slot": null,
+        "keywords": [
+            "medium",
+            "sized",
+            "albino",
+            "shield",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic",
+            "bless",
+            "indestructible"
+        ],
+        "weight": "20 lbs",
+        "value": 5000,
+        "level": 45,
+        "armor type": "light metal",
+        "armor class": [
+            "50 pierce",
+            "50 bash",
+            "50 slash",
+            "-25 magic"
+        ],
+        "effects": [
+            {
+                "hp": 15
+            },
+            {
+                "saves": -1
+            },
+            {
+                "saves": -1
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "mana": 40
+            }
+        ]
+    },
+    {
+        "id": 381,
+        "date": "10/14/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|          #.####      #.####|\n|          #.##.#      #....#|\n|          #.##.#      #.####|\n|       ####.##.########.#   |\n|       #.##.##.##.#..##.#   |\n|       #.##.##.##.##.v#.#   |\n| #######.##.##.##.#..##.####|\n| .............*.............|\n| ####.#####.##.########.####|\n| ####.#   #.##.#      #.#   |\n| #.##.#   #.##.#      #.#   |\n| #.##.#   #.####      #.#   |\n| #.##.#####.#         #.####|\n| #..........#         #....#|\n| #.##.##.##.#         #.####|\n| East Platinum Street       |\n+----------------------------+",
+        "description": "A delicate glass globe lies here, filled with a swirling blue gas.",
+        "materials": [
+            "glass",
+            "energy"
+        ],
+        "name": "a globe of swirling blue gas",
+        "slot": "held",
+        "keywords": [
+            "delicate",
+            "glass",
+            "globe",
+            "swirling",
+            "blue",
+            "gas"
+        ],
+        "type": "component",
+        "flags": [
+            "glow"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 300,
+        "level": 22,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 382,
+        "date": "10/14/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|       ^##                  |\n|       #.#                  |\n|       #.v                  |\n|       #.##-##-#            |\n|       #.......#            |\n|       ####-##.#            |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Lord Curston's Bedroom     |\n+----------------------------+",
+        "description": "This mantle is worn by higher ranking Solamnic Knights.",
+        "materials": [
+            "cloth",
+            "silk"
+        ],
+        "name": "a solamnic mantle",
+        "slot": "chest",
+        "keywords": [
+            "mantle",
+            "solamnic"
+        ],
+        "type": "armor",
+        "flags": [
+            "indestructible"
+        ],
+        "weight": "0 lbs",
+        "value": 800,
+        "level": 80,
+        "armor type": "leather",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "dexterity": 3
+            },
+            {
+                "armor class": -10
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
+        "id": 383,
+        "date": "10/14/2015",
+        "zone": "Tantallon",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Balcombe's Tower           |\n+----------------------------+",
+        "description": "A mage's staff made of gnarled wood and iron is here.",
+        "materials": [
+            "wood",
+            "iron"
+        ],
+        "name": "a gnarled mage's staff",
+        "slot": "wielded",
+        "keywords": [
+            "staff",
+            "mage",
+            "gnarled"
+        ],
+        "type": "weapon",
+        "weapon type": "staff",
+        "flags": [
+            "bless",
+            "indestructible"
+        ],
+        "weight": "35 lbs",
+        "value": 7500,
+        "level": 85,
+        "charges": "none",
+        "damage": 52,
+        "weapon flags": [
+            "frost",
+            "vampiric",
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "damage roll": 6
+            },
+            {
+                "hit roll": 8
+            }
+        ]
+    },
+    {
+        "id": 384,
+        "date": "10/15/2015",
+        "zone": "Foghaven",
+        "map": "+----------------------------+\n| Foghaven                   |\n|       ^##         @.@      |\n|       #.#         @.@      |\n|       #.#         @.@      |\n|       @.@      @-@@.@@@@###|\n|       @.@      @........^^^|\n|       @.@      @@@@.@@@@###|\n| @@@@@@@.@@@@@@@@@@@.@      |\n| .............*......@      |\n| @@@@@@@.@@@@@@@@@@@@@      |\n|    @@@@.@                  |\n|    @....@                  |\n|    @.@@@@                  |\n|    #^#                     |\n|    #^#                     |\n|    #^#                     |\n| Deeper into the Wilds!     |\n+----------------------------+",
+        "description": "Bensoldi has worked hard to make this candy out of the best sap and flowers.",
+        "materials": [
+            "food",
+            "unknown material"
         ],
         "name": "some delicious looking candy",
         "slot": null,
@@ -11466,30 +13566,31 @@
         "flags": [
             "none"
         ],
-        "weight": "0 oz",
+        "weight": "0 lbs",
         "value": 20000,
         "level": 60,
+        "spell level": 20,
+        "spells": [
+            "heal",
+            "heal",
+            "cure disease",
+            "cure poison"
+        ],
         "effects": [
-            {
-                "level 20": [
-                    "heal",
-                    "heal",
-                    "cure disease",
-                    "cure poison"
-                ]
-            }
+            
         ]
     },
     {
-        "id": 50010,
-        "date": "09/27/2015",
-        "zone": null,
-        "map": null,
-        "description": null,
+        "id": 385,
+        "date": "10/15/2015",
+        "zone": "Foghaven",
+        "map": "+----------------------------+\n| Foghaven                   |\n|                            |\n|                            |\n|                            |\n|          ......            |\n|          ......            |\n|          ..@@.@            |\n|          ...@.@            |\n|          ....*.            |\n|          ......            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The forest                 |\n+----------------------------+",
+        "description": "A large hoop earing once worn by the ogre-mage himself!",
         "materials": [
-            
+            "wood",
+            "unknown material"
         ],
-        "name": "(Glowing) (Humming) a wooden hoop earring",
+        "name": "a wooden hoop earring",
         "slot": "ear",
         "keywords": [
             "earring",
@@ -11501,7 +13602,7 @@
             "glow",
             "hum"
         ],
-        "weight": "0 oz",
+        "weight": "0 lbs, 1 oz",
         "value": 12,
         "level": 50,
         "armor type": "magic",
@@ -11521,6 +13622,1820 @@
             {
                 "armor class": -2
             }
+        ]
+    },
+    {
+        "id": 386,
+        "date": "10/15/2015",
+        "zone": "Foghaven",
+        "map": "+----------------------------+\n| Foghaven                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             @@@         ^##|\n|             @*@         #.#|\n|             @.@         #.#|\n|       \"\"\"\"\"\"@.@@@@      @.@|\n|       \"\"\"\"\"\".....@      @.@|\n|       \"\"\"\"\"\"@@@@.@      @.@|\n|                @.@@@@@@@@.@|\n|                @...........|\n|                @@@@@@@@@@.@|\n| Too far into the dark!     |\n+----------------------------+",
+        "description": "Here lies a helm made of bronze, shaped into the head of a dragon!",
+        "materials": [
+            "bronze",
+            "leather"
+        ],
+        "name": "a bronze helm of dragon kind",
+        "slot": "head",
+        "keywords": [
+            "bronze",
+            "helm"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 0,
+        "level": 85,
+        "armor type": "magic",
+        "armor class": [
+            "20 pierce",
+            "15 bash",
+            "20 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 387,
+        "date": "10/15/2015",
+        "zone": "Foghaven",
+        "map": "+----------------------------+\n| Foghaven                   |\n|          ######      ^##   |\n|          ..##.#      #.#   |\n|          #.##.v      #.#   |\n|          ####.####   @.@   |\n|          #^^.....#   @.@   |\n|          #^^#....#   @.@   |\n|          #^^...^^#@@@@.@@@@|\n|          #^^.*.^^#.........|\n|          #^##.##^#@@@@.@@@@|\n|          #.##.##.#@@@@.@   |\n|          #.##.##.#@....@   |\n|          #.##.##.#@.@@@@   |\n|          #.##.#####^#      |\n|          #.|......#^#      |\n|          ####.#####^#      |\n| Center of the ruin         |\n+----------------------------+",
+        "description": "This magical girdle seems to strech to fit any size, and looks like it is very comfortable.",
+        "materials": [
+            "leather",
+            "rubber"
+        ],
+        "name": "girdle of the sprite master",
+        "slot": "waist",
+        "keywords": [
+            "girdle",
+            "sprite",
+            "master"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "invis"
+        ],
+        "weight": "0 lbs, 4 oz",
+        "value": 9803,
+        "level": 75,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "9 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 391,
+        "date": "10/15/2015",
+        "zone": "Mudhole",
+        "map": "+----------------------------+\n| Mudhole                    |\n|                            |\n|                            |\n|                            |\n| #######.#                  |\n| #........                  |\n| #.#####.#                  |\n| #.#   #.#   ###            |\n| ..#   #.#   #*#            |\n| #.#   #.#   #.#            |\n| #.#####.#####.#            |\n| #.............#            |\n| #.#####.#####.#            |\n| #.#####.#                  |\n| #.......#                  |\n| #######.#                  |\n| Another Small Valley in t  |\n+----------------------------+",
+        "description": "A plated belt made of White-like material is here.",
+        "materials": [
+            "adamantite",
+            "bone"
+        ],
+        "name": "an Albino Plated Belt",
+        "slot": "waist",
+        "keywords": [
+            "belt",
+            "plated",
+            "albino"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 5000,
+        "level": 45,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "40 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "mana": 30
+            }
+        ]
+    },
+    {
+        "id": 392,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"\"\"            |\n| ##########.####            |\n| .............*.            |\n| ##########.####            |\n|    \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"         |\n|    \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"         |\n|    \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"         |\n|    \"\"\"\"\"\"\"\"\"\"\"\"            |\n|    \"\"\"\"\"\"\"\"\"\"\"\"            |\n|    \"\"\"\"\"\"\"\"\"\"\"\"            |\n| Near the Gates in the Bar  |\n+----------------------------+",
+        "description": "There is a mace here with four flanges, looks good versus armor.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a flanged mace",
+        "slot": "wielded",
+        "keywords": [
+            "mace",
+            "flanged"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "hum"
+        ],
+        "weight": "10 lbs",
+        "value": 700,
+        "level": 45,
+        "damage": 35,
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 6
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 393,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|    \"\"\"                     |\n|    \"\"\"                     |\n|    \"\"\"                     |\n|    \"\"\"\"\"\"                  |\n|    \"\"\"\"\"\"                  |\n|    \"\"\"\"\"\"                  |\n| ####.#######^.#            |\n| .............*#            |\n| ####.##########            |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"                  |\n| \"\"\"\"\"\"\"\"\"                  |\n| \"\"\"\"\"\"\"\"\"                  |\n| A Turn in the Base Level   |\n+----------------------------+",
+        "description": "There is a quarrel made from dwarven steel here.",
+        "materials": [
+            "steel",
+            "flesh"
+        ],
+        "name": "a dwarven steel bolt",
+        "slot": "held",
+        "keywords": [
+            "quarrel",
+            "dwarven",
+            "steel",
+            "bolt"
+        ],
+        "type": "quarrel",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "1 lbs",
+        "value": 300,
+        "level": 94,
+        "durability": "95%",
+        "damage": 78,
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 394,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|    \"\"\"                     |\n|    \"\"\"                     |\n|    \"\"\"                     |\n|    \"\"\"\"\"\"                  |\n|    \"\"\"\"\"\"                  |\n|    \"\"\"\"\"\"                  |\n| ####.#######^.#            |\n| .............*#            |\n| ####.##########            |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"                  |\n| \"\"\"\"\"\"\"\"\"                  |\n| \"\"\"\"\"\"\"\"\"                  |\n| A Turn in the Base Level   |\n+----------------------------+",
+        "description": "There is a helmet belonging to the guards of Southgate here.",
+        "materials": [
+            "adamantite",
+            "unknown material"
+        ],
+        "name": "a guardsmen's helmet",
+        "slot": "head",
+        "keywords": [
+            "helmet",
+            "guardsmen"
+        ],
+        "type": "armor",
+        "flags": [
+            "hum"
+        ],
+        "weight": "8 lbs, 8 oz",
+        "value": 500,
+        "level": 40,
+        "armor type": "heavy metal",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "wisdom": 2
+            },
+            {
+                "mana": 10
+            }
+        ]
+    },
+    {
+        "id": 395,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|    \"\"\"                     |\n|    \"\"\"                     |\n|    \"\"\"                     |\n|    \"\"\"\"\"\"                  |\n|    \"\"\"\"\"\"                  |\n|    \"\"\"\"\"\"                  |\n| ####.#######^.#            |\n| .............*#            |\n| ####.##########            |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"                  |\n| \"\"\"\"\"\"\"\"\"                  |\n| \"\"\"\"\"\"\"\"\"                  |\n| A Turn in the Base Level   |\n+----------------------------+",
+        "description": "A horn figurine of a fish sits here.",
+        "materials": [
+            "horn",
+            "unknown material"
+        ],
+        "name": "a tiny horn white catfish figurine",
+        "slot": "held",
+        "keywords": [
+            "fish",
+            "horn",
+            "figurine",
+            "white",
+            "catfish",
+            "ffig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 1280,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 396,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|                            |\n|                            |\n|                            |\n|             \"\"\"\"\"\"\"\"\"\"-\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"*\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n| Inside the Wall            |\n+----------------------------+",
+        "description": "There is a steel aventail of Thorbardinian make is laying on the ground.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel aventail",
+        "slot": "neck",
+        "keywords": [
+            "randarmor",
+            "a",
+            "steel",
+            "aventail"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "5 lbs",
+        "value": 370,
+        "level": 50,
+        "armor type": "metal",
+        "armor class": [
+            "26 pierce",
+            "25 bash",
+            "26 slash",
+            "26 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "moves": 1
+            },
+            {
+                "hp": 12
+            }
+        ]
+    },
+    {
+        "id": 397,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|                      #.#   |\n|                      #.#   |\n|                      #.#   |\n|                      #.#   |\n|                      #.#   |\n|                      #.#   |\n|             ##########.#   |\n|             .*.........#   |\n|             ###########v   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| On the Top of the Barrier  |\n+----------------------------+",
+        "description": "There is a dwarven crossbow here, used by many guards in Southgate.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a dwarven crossbow",
+        "slot": "wielded",
+        "keywords": [
+            "dwarven",
+            "crossbow"
+        ],
+        "type": "crossbow",
+        "flags": [
+            "none"
+        ],
+        "weight": "10 lbs",
+        "value": 350,
+        "level": 40,
+        "dam bonus": 8,
+        "range bonus": 4,
+        "min str": 20,
+        "fire rate": 2,
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hp": 20
+            }
+        ]
+    },
+    {
+        "id": 398,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|                            |\n|                            |\n|                            |\n|          #.#####.#         |\n|          #.......#         |\n|          #.......#         |\n|       ####.......#         |\n|       #......*....         |\n|       ####.......#         |\n|       ####.......####      |\n|       #.............#      |\n|       ####.##.##.####      |\n|          #.##.##.#         |\n|          #.##.##.#         |\n|          ####.####         |\n| The Fountain Within the G  |\n+----------------------------+",
+        "description": "There is a long embroidered cape here.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "an embroidered cape",
+        "slot": "shoulder",
+        "keywords": [
+            "cape",
+            "embroidered"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 150,
+        "level": 23,
+        "armor type": "cloth",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "1 slash",
+            "1 magic"
+        ],
+        "effects": [
+            {
+                "hp": 5
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 399,
+        "date": "10/18/2015",
+        "zone": "Thorbardin Core",
+        "map": "+----------------------------+\n| Thorbardin Core            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.#         |\n|             #*....         |\n|             ####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n| A Guard House              |\n+----------------------------+",
+        "description": "This axe is extremely light, beyond the limits of what should be the norm.",
+        "materials": [
+            "adamantite",
+            "unknown material"
+        ],
+        "name": "a lightweight axe",
+        "slot": "wielded",
+        "keywords": [
+            "axe",
+            "light",
+            "weight"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "hum"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 750,
+        "level": 70,
+        "damage": 48,
+        "weapon flags": [
+            "sharp",
+            "throwable"
+        ],
+        "effects": [
+            {
+                "hp": 50
+            },
+            {
+                "damage roll": 7
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|    ####.......####         |\n|    #.............#         |\n|    ####.......####         |\n|    ####.......####         |\n|    #.............#         |\n|    ####-##.##.####         |\n|          #.##.#            |\n|          #.##*#            |\n|          #.####            |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|       ####.####            |\n|       #.......#            |\n|       ####.####            |\n| The Weapon Hold            |\n+----------------------------+",
+        "description": "A dagger made out of a shard of obsidian is here.",
+        "materials": [
+            "rock",
+            "unknown material"
+        ],
+        "name": "an obsidian dagger",
+        "slot": "wielded",
+        "keywords": [
+            "dagger",
+            "obsidian"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "indestructible",
+            "burn_proof"
+        ],
+        "weight": "5 lbs",
+        "value": 15,
+        "level": 25,
+        "damage": 19,
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 401,
+        "date": "10/18/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|          ####.#####.#####.#|\n|          #....##....##.....|\n|          ####.##....##.....|\n|             #.##....##.....|\n|             #.##....##.....|\n|             #.##....##.....|\n|          ####.##....##.....|\n|          #...*##...........|\n|          #######....#######|\n|                #..^.#      |\n|                #....#      |\n|                #....#      |\n|                #....#      |\n|                #....#      |\n|                ######      |\n| The Kitchen                |\n+----------------------------+",
+        "description": "This mallet belongs to Snickers.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a meat tenderizing mallet",
+        "slot": "wielded",
+        "keywords": [
+            "meat",
+            "tenderizer",
+            "mallet"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs, 14 oz",
+        "value": 2820,
+        "level": 48,
+        "damage": 31,
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "strength": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 402,
+        "date": "10/18/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|       #######.....^.......#|\n|       #....................|\n|       ####.#####.#####.####|\n|       ####.#####.#####.####|\n|       #....##....##........|\n|       ####.##....##........|\n|          #.##....##........|\n|          #.##*...##........|\n|          #.##....##........|\n|       ####.##....##........|\n|       #....##..............|\n|       #######....##########|\n|             #..^.#         |\n|             #....#         |\n|             #....#         |\n| The Meteorology Section    |\n+----------------------------+",
+        "description": "This earring is made of purest silver.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a silver studd earring",
+        "slot": "ear",
+        "keywords": [
+            "silver",
+            "studd",
+            "earring"
+        ],
+        "type": "armor",
+        "flags": [
+            "hum"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 44,
+        "level": 40,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "date": "10/18/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|                      #.#   |\n|                      #.#   |\n|                      ###   |\n|                   ###      |\n|                   #.#      |\n|                   #.#      |\n| ###################.##.##.#|\n| .............*.............|\n| ######################.##.#|\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Garnet Way Northwest       |\n+----------------------------+",
+        "description": "This lovely blue cloak is embroidered with the word KNOWLEDGE written in every different language known to Ansalon.",
+        "materials": [
+            "silk",
+            "cloth"
+        ],
+        "name": "an embroidered cloak of blue crushed velvet",
+        "slot": "neck",
+        "keywords": [
+            "blue",
+            "crushed",
+            "velvet",
+            "cloak"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil",
+            "indestructible"
+        ],
+        "weight": "7 lbs, 8 oz",
+        "value": 78,
+        "level": 74,
+        "armor type": "magic",
+        "armor class": [
+            "27 pierce",
+            "27 bash",
+            "27 slash",
+            "26 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "strength": 1
+            },
+            {
+                "constitution": 1
+            },
+            {
+                "dexterity": -1
+            },
+            {
+                "wisdom": 2
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "date": "10/18/2015",
+        "zone": "Freeport",
+        "map": "+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In The Secret Cave of the  |\n+----------------------------+",
+        "description": "A stone covered in green icor lies here.",
+        "materials": [
+            "rock",
+            "slime"
+        ],
+        "name": "the troll stone",
+        "slot": "held",
+        "keywords": [
+            "stone",
+            "troll"
+        ],
+        "type": "staff",
+        "flags": [
+            "invis",
+            "magic"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 9900,
+        "level": 52,
+        "charges": "8",
+        "spell level": 55,
+        "spell": "heat metal",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 405,
+        "date": "10/18/2015",
+        "zone": "Freeport",
+        "map": "+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In The Secret Cave of the  |\n+----------------------------+",
+        "description": "A hole in reality lies here.",
+        "materials": [
+            "cloth",
+            "energy"
+        ],
+        "name": "a dimensional cape",
+        "slot": "neck",
+        "keywords": [
+            "cape",
+            "dimensional"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 4 oz",
+        "value": 8400,
+        "level": 52,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 3
+            },
+            {
+                "mana": 35
+            },
+            {
+                "hp": 35
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 406,
+        "date": "10/18/2015",
+        "zone": "Freeport",
+        "map": "+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In The Secret Cave of the  |\n+----------------------------+",
+        "description": "A pair of boots with a spring action blade lie here.",
+        "materials": [
+            "leather",
+            "steel"
+        ],
+        "name": "bladed boots",
+        "slot": "feet",
+        "keywords": [
+            "boots",
+            "bladed"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 7900,
+        "level": 52,
+        "armor type": "magic",
+        "armor class": [
+            "26 pierce",
+            "26 bash",
+            "26 slash",
+            "13 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "date": "10/18/2015",
+        "zone": "Freeport",
+        "map": "+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In The Secret Cave of the  |\n+----------------------------+",
+        "description": "An emerald helm is here.",
+        "materials": [
+            "emerald",
+            "leather"
+        ],
+        "name": "an emerald helm",
+        "slot": "head",
+        "keywords": [
+            "helm",
+            "emerald"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 4550,
+        "level": 46,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "12 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -10
+            }
+        ]
+    },
+    {
+        "id": 408,
+        "date": "10/18/2015",
+        "zone": "Freeport",
+        "map": "+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In The Secret Cave of the  |\n+----------------------------+",
+        "description": "An emerald longsword is here.",
+        "materials": [
+            "emerald",
+            "steel"
+        ],
+        "name": "an emerald longsword",
+        "slot": "wielded",
+        "keywords": [
+            "longsword",
+            "emerald"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 5230,
+        "level": 46,
+        "damage": 27,
+        "effects": [
+            {
+                "armor class": -10
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 409,
+        "date": "10/18/2015",
+        "zone": "Freeport",
+        "map": "+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In The Secret Cave of the  |\n+----------------------------+",
+        "description": "An emerald wristguard is here.",
+        "materials": [
+            "emerald",
+            "leather"
+        ],
+        "name": "an emerald wristguard",
+        "slot": "wrist",
+        "keywords": [
+            "wristguard",
+            "emerald"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 4880,
+        "level": 46,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "12 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -20
+            }
+        ]
+    },
+    {
+        "id": 410,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       ^############.#######|\n|       #......*.............|\n|       #############.#######|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n| Base Level Inside the Bar  |\n+----------------------------+",
+        "description": "There is a gold and silver helmet here, it has wings on its sides.",
+        "materials": [
+            "gold",
+            "silver"
+        ],
+        "name": "(Gold and Silver) A Winged Helmet",
+        "slot": "head",
+        "keywords": [
+            "winged",
+            "helmet",
+            "silver",
+            "gold"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "bless",
+            "indestructible"
+        ],
+        "weight": "5 lbs",
+        "value": 10000,
+        "level": 100,
+        "armor type": "metal",
+        "armor class": [
+            "25 pierce",
+            "25 bash",
+            "25 slash",
+            "25 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 7
+            },
+            {
+                "damage roll": 7
+            },
+            {
+                "mana": 150
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       ^############.#######|\n|       #......*.............|\n|       #############.#######|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n| Base Level Inside the Bar  |\n+----------------------------+",
+        "description": "There is a pair of shadowed studded leather sleeves here.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "(Shadowed) Studded Leather Sleeves",
+        "slot": "arms",
+        "keywords": [
+            "shadowed",
+            "studded",
+            "leather",
+            "sleeves"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "bless",
+            "indestructible"
+        ],
+        "weight": "5 lbs, 8 oz",
+        "value": 1000,
+        "level": 80,
+        "armor type": "light metal",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 5
+            }
+        ]
+    },
+    {
+        "id": 412,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       ^############.#######|\n|       #......*.............|\n|       #############.#######|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n| Base Level Inside the Bar  |\n+----------------------------+",
+        "description": "There is a pair of shadowed studded leather leggings here.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "(Shadowed) Studded Leather Leggings",
+        "slot": "legs",
+        "keywords": [
+            "shadowed",
+            "studded",
+            "leather",
+            "leggings"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "bless",
+            "indestructible"
+        ],
+        "weight": "4 lbs",
+        "value": 750,
+        "level": 95,
+        "armor type": "light metal",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "hp": 75
+            },
+            {
+                "saves": 2
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 413,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       ^############.#######|\n|       #......*.............|\n|       #############.#######|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n| Base Level Inside the Bar  |\n+----------------------------+",
+        "description": "A suit of shadowed studded leather armor is here.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "(Shadowed) Studded Leather Armor",
+        "slot": "chest",
+        "keywords": [
+            "shadowed",
+            "studded",
+            "leather",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "bless",
+            "indestructible"
+        ],
+        "weight": "10 lbs",
+        "value": 600,
+        "level": 100,
+        "armor type": "light metal",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "25 magic"
+        ],
+        "effects": [
+            {
+                "mana": 80
+            },
+            {
+                "hp": 70
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 8
+            },
+            {
+                "dexterity": 5
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "date": "10/18/2015",
+        "zone": "Southgate",
+        "map": "+----------------------------+\n| Southgate                  |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|       ^############.#######|\n|       #......*.............|\n|       #############.#######|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n|             \"\"\"\"\"\"\"\"\"\"\"\"   |\n| Base Level Inside the Bar  |\n+----------------------------+",
+        "description": "There is a magical triple chained morningstar here, blessed heavily.",
+        "materials": [
+            "silver",
+            "energy"
+        ],
+        "name": "a morning star named 'Flail of the Devout'",
+        "slot": "wielded",
+        "keywords": [
+            "flail",
+            "devout",
+            "morningstar",
+            "star"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "hum",
+            "magic",
+            "nodrop",
+            "bless",
+            "indestructible",
+            "burn_proof"
+        ],
+        "weight": "31 lbs",
+        "value": 9500,
+        "level": 110,
+        "damage": 78,
+        "weapon flags": [
+            "shocking"
+        ],
+        "effects": [
+            {
+                "damage roll": 10
+            },
+            {
+                "hit roll": 10
+            },
+            {
+                "strength": 4
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 415,
+        "date": "10/18/2015",
+        "zone": "Palanthas",
+        "map": "+----------------------------+\n| Palanthas                  |\n|    #######.#      ###   #.#|\n|    #.......#      #.#   #..|\n|    #######.#      #.#   #.#|\n|          #.#   ####.#####.#|\n|          #.#   #.##.##.....|\n|          #.#   #.##.##.....|\n| ##########.#####.##.##.....|\n| .............*.............|\n| ##########.########.##.....|\n|       #.#..#   ####.##.....|\n|       #....#   #....##.....|\n|       ####.#   #######.#..#|\n|          #.#         #.##.#|\n|          #.#         #.#..#|\n|          #.#         #.##.#|\n| West Platinum Street       |\n+----------------------------+",
+        "description": "A long bladed dagger lays here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a curved assassins dagger",
+        "slot": "wielded",
+        "keywords": [
+            "long",
+            "curved",
+            "assassins",
+            "dagger"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 1 oz",
+        "value": 1320,
+        "level": 20,
+        "damage": 18,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            {
+                "dexterity": 3
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 4
+            }
+        ]
+    },
+    {
+        "id": 416,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|    #.#####.##.####         |\n|    #.............#         |\n|    #.########.####         |\n|    #.#      #.#            |\n|    #.#      #.#            |\n|    #.#      #.#            |\n|    #.#      #.####         |\n|    #.#      #*....         |\n|    #.#      ######         |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| The Path Through the East  |\n+----------------------------+",
+        "description": "There is a devout silk sigil of Thorbardinian make is laying on the ground.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a devout silk emblem",
+        "slot": "held",
+        "keywords": [
+            "randarmor",
+            "a",
+            "devout",
+            "silk",
+            "emblem"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-evil",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 3 oz",
+        "value": 89,
+        "level": 22,
+        "armor type": "light metal",
+        "armor class": [
+            "10 pierce",
+            "12 bash",
+            "13 slash",
+            "11 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|    #.#####.##.####         |\n|    #.............#         |\n|    #.########.####         |\n|    #.#      #.#            |\n|    #.#      #.#            |\n|    #.#      #.#            |\n|    #.#      #.####         |\n|    #.#      #*....         |\n|    #.#      ######         |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| The Path Through the East  |\n+----------------------------+",
+        "description": "There is a iron bracelet of Thorbardinian make is laying on the ground.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a iron wrist band",
+        "slot": "wrist",
+        "keywords": [
+            "randarmor",
+            "a",
+            "iron",
+            "wrist",
+            "band"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs",
+        "value": 295,
+        "level": 22,
+        "armor type": "metal",
+        "armor class": [
+            "12 pierce",
+            "13 bash",
+            "13 slash",
+            "12 magic"
+        ],
+        "effects": [
+            {
+                "moves": 4
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|    #.#####.##.####         |\n|    #.............#         |\n|    #.########.####         |\n|    #.#      #.#            |\n|    #.#      #.#            |\n|    #.#      #.#            |\n|    #.#      #.####         |\n|    #.#      #*....         |\n|    #.#      ######         |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| The Path Through the East  |\n+----------------------------+",
+        "description": "A hoe is here, made for farming.",
+        "materials": [
+            "wood",
+            "iron"
+        ],
+        "name": "a farming hoe",
+        "slot": "wielded",
+        "keywords": [
+            "hoe",
+            "farming",
+            "farmer"
+        ],
+        "type": "weapon",
+        "weapon type": "polearm",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 500,
+        "level": 40,
+        "damage": 17,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 419,
+        "date": "10/19/2015",
+        "zone": "Daerforge",
+        "map": "+----------------------------+\n| Daerforge                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#######      |\n|             #*.......      |\n|             #.#####.#      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             ###   #.#      |\n|                ####.#######|\n|                #...........|\n|                ####.#######|\n| A Road Through Daerforge   |\n+----------------------------+",
+        "description": "There is a sickly looking stick of green color... glowing here.",
+        "materials": [
+            "wood",
+            "energy"
+        ],
+        "name": "a sickly green stick",
+        "slot": "light",
+        "keywords": [
+            "stick",
+            "sickly",
+            "glowing",
+            "green"
+        ],
+        "type": "light",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 20500,
+        "level": 35,
+        "effects": [
+            {
+                "mana": 30
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "hp": 30
+            }
+        ]
+    },
+    {
+        "id": 420,
+        "date": "10/19/2015",
+        "zone": "Daerforge",
+        "map": "+----------------------------+\n| Daerforge                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#######      |\n|             #*.......      |\n|             #.#####.#      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             ###   #.#      |\n|                ####.#######|\n|                #...........|\n|                ####.#######|\n| A Road Through Daerforge   |\n+----------------------------+",
+        "description": "A wood figure of a fish sits here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a small wood black grouper figure",
+        "slot": "held",
+        "keywords": [
+            "fish",
+            "wood",
+            "figure",
+            "black",
+            "grouper",
+            "ffig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 1450,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 421,
+        "date": "10/19/2015",
+        "zone": "Daerforge",
+        "map": "+----------------------------+\n| Daerforge                  |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#######      |\n|             #........      |\n|             #.#####.#      |\n|             #.#   #.#      |\n|             #*#   #.#      |\n|             ###   #.#      |\n|                ####.#######|\n|                #...........|\n|                ####.#######|\n|                   #.#   #.#|\n|                   #.#   #.#|\n|                   #.#   #.#|\n| A Guardhouse               |\n+----------------------------+",
+        "description": "A large suit of armor is here, it is intricately ornamented.",
+        "materials": [
+            "steel",
+            "gold"
+        ],
+        "name": "a suit of Ornamented Armor",
+        "slot": "chest",
+        "keywords": [
+            "armor",
+            "ornamented"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "10 lbs",
+        "value": 500,
+        "level": 100,
+        "armor type": "heavy metal",
+        "armor class": [
+            "150 pierce",
+            "150 bash",
+            "150 slash",
+            "150 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            }
+        ]
+    },
+    {
+        "id": 422,
+        "date": "10/19/2015",
+        "zone": "Daerforge",
+        "map": "+----------------------------+\n| Daerforge                  |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.##########            |\n|    #.........*#            |\n|    #.#####.####            |\n|    #.#   #.#               |\n|    #.#   #.#               |\n|    ###   #.#               |\n|       ####.##########      |\n|       #.............#      |\n|       ####.##########      |\n| A Dead-End by the Agharba  |\n+----------------------------+",
+        "description": "There is a malevolent wood band of Thorbardinian make is laying on the ground.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a malevolent wood ring",
+        "slot": "finger",
+        "keywords": [
+            "randarmor",
+            "a",
+            "malevolent",
+            "wood",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-good",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "2 lbs, 3 oz",
+        "value": 90,
+        "level": 94,
+        "armor type": "leather",
+        "armor class": [
+            "49 pierce",
+            "48 bash",
+            "48 slash",
+            "48 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 8
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "moves": 12
+            },
+            {
+                "wisdom": 3
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "date": "10/19/2015",
+        "zone": "Daerforge",
+        "map": "+----------------------------+\n| Daerforge                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.##########         |\n|       #......*...#         |\n|       #.#####.####         |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       ###   #.#            |\n|          ####.##########   |\n|          #.............#   |\n|          ####.##########   |\n| The Road Passing by the A  |\n+----------------------------+",
+        "description": "There is a bronze buckler of Thorbardinian make is laying on the ground.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze buckler",
+        "slot": "shield",
+        "keywords": [
+            "randarmor",
+            "a",
+            "bronze",
+            "buckler"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "13 lbs, 8 oz",
+        "value": 190,
+        "level": 94,
+        "armor type": "light metal",
+        "armor class": [
+            "47 pierce",
+            "47 bash",
+            "48 slash",
+            "49 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 8
+            },
+            {
+                "moves": 11
+            },
+            {
+                "mana": 6
+            }
+        ]
+    },
+    {
+        "id": 424,
+        "date": "10/19/2015",
+        "zone": "Daerforge",
+        "map": "+----------------------------+\n| Daerforge                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.##########         |\n|       #......*...#         |\n|       #.#####.####         |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       ###   #.#            |\n|          ####.##########   |\n|          #.............#   |\n|          ####.##########   |\n| The Road Passing by the A  |\n+----------------------------+",
+        "description": "There is a cloth ring of Thorbardinian make is laying on the ground.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a cloth band",
+        "slot": "finger",
+        "keywords": [
+            "randarmor",
+            "a",
+            "cloth",
+            "band"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "0 lbs, 11 oz",
+        "value": 84,
+        "level": 94,
+        "armor type": "light metal",
+        "armor class": [
+            "48 pierce",
+            "48 bash",
+            "47 slash",
+            "49 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "moves": 32
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n| ###################.#      |\n| ....................#      |\n| #................####      |\n| \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"            |\n| \"\"\"\"\"\"\"\"\"\"\"\"\"*\"            |\n| \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Farms in the Eastern   |\n+----------------------------+",
+        "description": "A patch of bluish fungus is here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a patch of bluish fungus",
+        "slot": null,
+        "keywords": [
+            "fungus",
+            "bluish",
+            "fungblue"
+        ],
+        "type": "pill",
+        "flags": [
+            "bless"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 25,
+        "level": 15,
+        "spell level": 25,
+        "spells": [
+            "giant strength",
+            "shield"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 426,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n| #.#######################.#|\n| #.........................#|\n| #######................####|\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"..#   |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"..#   |\n|       \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"..#   |\n|          \"\"\"\"\"\"\"\"\".....#   |\n|          \"\"\"\"*\"\"\"\".....#   |\n|          \"\"\"\"\"\"\"\"\"..####   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Farms in the Eastern   |\n+----------------------------+",
+        "description": "There is a rake here, used for farming.",
+        "materials": [
+            "wood",
+            "iron"
+        ],
+        "name": "a farming rake",
+        "slot": "wielded",
+        "keywords": [
+            "rake",
+            "farming",
+            "farmer"
+        ],
+        "type": "weapon",
+        "weapon type": "polearm",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 500,
+        "level": 40,
+        "damage": 33,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 427,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|    #.######################|\n|    #.......................|\n|    #######................#|\n|          \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"..#|\n|          \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"..#|\n|          \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"..#|\n|             \"\"\"\"\"\"\"\"\".....#|\n|             \"*\"\"\"\"\"\"\".....#|\n|             \"\"\"\"\"\"\"\"\"..####|\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Farms in the Eastern   |\n+----------------------------+",
+        "description": "A patch of purplish fungus is here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a patch of purplish fungus",
+        "slot": null,
+        "keywords": [
+            "fungus",
+            "purplish",
+            "fungpurple"
+        ],
+        "type": "pill",
+        "flags": [
+            "bless"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 25,
+        "level": 15,
+        "spell level": 25,
+        "spells": [
+            "cure light",
+            "word of recall"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 428,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|    ####.............#      |\n|    #................#      |\n|    #................#      |\n|    \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"      |\n|    \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"      |\n|    \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"      |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"*\"            |\n|          \"\"\"\"\"\"            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Farms in the Eastern   |\n+----------------------------+",
+        "description": "A patch of greenish fungus is here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a patch of greenish fungus",
+        "slot": null,
+        "keywords": [
+            "funggreen",
+            "fungus",
+            "green"
+        ],
+        "type": "pill",
+        "flags": [
+            "bless"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 706,
+        "level": 15,
+        "spell level": 25,
+        "spells": [
+            "haste"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 429,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.#         |\n|             #*...#         |\n|             ####.#         |\n|             ####.#         |\n|             #....#         |\n|             ####.#         |\n| ################.#         |\n| .................#         |\n| ..............####         |\n| A Smithy                   |\n+----------------------------+",
+        "description": "There is a silver helmet here, glimmering in the light.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a silver helmet",
+        "slot": "head",
+        "keywords": [
+            "helmet",
+            "silver"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 520,
+        "level": 70,
+        "armor type": "light metal",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hp": 50
+            }
+        ]
+    },
+    {
+        "id": 430,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ######         |\n|             .*....         |\n|             #.##.#         |\n|             #.##.#         |\n|             #.##.#         |\n|             ####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n| The Path Through the East  |\n+----------------------------+",
+        "description": "There is a broadsword made out of pure steel, here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a steel broadsword",
+        "slot": "wielded",
+        "keywords": [
+            "broad",
+            "sword",
+            "steel"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 500,
+        "level": 34,
+        "damage": 24,
+        "weapon flags": [
+            "sharp"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 3
+            }
+        ]
+    },
+    {
+        "id": 431,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n| #############.#            |\n| ...............            |\n| #.##.########.#            |\n| #.##.#                     |\n| #.##.#                     |\n| ####.#                     |\n| A Guardhouse in the Easte  |\n+----------------------------+",
+        "description": "A small 3 bladed dagger is here, giving off a slight blaze.",
+        "materials": [
+            "steel",
+            "energy"
+        ],
+        "name": "an enchanted sai",
+        "slot": "wielded",
+        "keywords": [
+            "sai",
+            "enchanted"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "magic",
+            "burn_proof"
+        ],
+        "weight": "11 lbs, 1 oz",
+        "value": 6300,
+        "level": 110,
+        "damage": 70,
+        "weapon flags": [
+            "flaming"
+        ],
+        "effects": [
+            {
+                "hit roll": 10
+            },
+            {
+                "damage roll": 10
+            }
+        ]
+    },
+    {
+        "id": 432,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n| #############.#            |\n| ...............            |\n| #.##.########.#            |\n| #.##.#                     |\n| #.##.#                     |\n| ####.#                     |\n| A Guardhouse in the Easte  |\n+----------------------------+",
+        "description": "There is a pair of armbands made of a white-like material here.",
+        "materials": [
+            "bone",
+            "adamantite"
+        ],
+        "name": "a pair of Albino armbands",
+        "slot": "arms",
+        "keywords": [
+            "armor",
+            "albino",
+            "armbands"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "bless"
+        ],
+        "weight": "4 lbs",
+        "value": 1000,
+        "level": 95,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "20 bash",
+            "20 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "hp": 15
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "mana": 20
+            },
+            {
+                "moves": 50
+            },
+            {
+                "hit roll": 5
+            }
+        ]
+    },
+    {
+        "id": 433,
+        "date": "10/19/2015",
+        "zone": "The Eastern Warrens",
+        "map": "+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n| ###                        |\n| #.#                        |\n| #.#                        |\n| #.#\"\"\"\"\"\"\"\"\"\"\"\"            |\n| ...\"\"\"\"\"\"\"\"\"\"*\"            |\n| #.#\"\"\"\"\"\"\"\"\"\"\"\"            |\n| \"\"\"                        |\n| \"\"\"                        |\n| \"\"\"                        |\n| \"\"\"                        |\n| \"\"\"                        |\n| \"\"\"                        |\n| The Farms in the Eastern   |\n+----------------------------+",
+        "description": "A patch of blackish fungus is here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a patch of blackish fungus",
+        "slot": null,
+        "keywords": [
+            "blackish",
+            "fungblack",
+            "fungus"
+        ],
+        "type": "pill",
+        "flags": [
+            "bless"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 1000,
+        "level": 15,
+        "spell level": 25,
+        "spells": [
+            "detect hidden",
+            "detect invis"
+        ],
+        "effects": [
+            
         ]
     }
 ]
