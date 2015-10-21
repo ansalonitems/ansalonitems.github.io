@@ -11219,53 +11219,6 @@
         ]
     },
     {
-        "id": 322,
-        "date": "10/10/2015",
-        "zone": "Sanction",
-        "map": "+----------------------------+\n| Sanction                   |\n|             ####.####      |\n|             #.......#      |\n|             ####.####      |\n|             ####.####      |\n|             #.......#      |\n|             ####.####      |\n|             ####.#         |\n|             #*....         |\n|             ####.#         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A small cell               |\n+----------------------------+",
-        "description": "A breastplate made of red steel lies here.",
-        "materials": [
-            "steel",
-            "unknown material"
-        ],
-        "name": "a red dragonsteel breastplate",
-        "slot": "chest",
-        "keywords": [
-            "red",
-            "dragonsteel",
-            "breastplate"
-        ],
-        "type": "armor",
-        "flags": [
-            "bless",
-            "anti-good"
-        ],
-        "weight": "20 lbs",
-        "value": 6000,
-        "level": 53,
-        "armor type": "magic",
-        "armor class": [
-            "17 pierce",
-            "17 bash",
-            "30 slash",
-            "15 magic"
-        ],
-        "effects": [
-            {
-                "dexterity": -1
-            },
-            {
-                "damage roll": 4
-            },
-            {
-                "hit roll": 4
-            },
-            {
-                "saves": -2
-            }
-        ]
-    },
-    {
         "id": 323,
         "date": "10/10/2015",
         "zone": "Sanction",
@@ -15436,6 +15389,183 @@
         ],
         "effects": [
             
+        ]
+    },
+    {
+        "id": 434,
+        "date": "10/21/2015",
+        "zone": "Sanction",
+        "map": "+----------------------------+\n| Sanction                   |\n|                            |\n|                            |\n|                            |\n|          #-##-#            |\n|          #....#            |\n|          #.##.#            |\n|       #-##.##.#            |\n|       #.....#*#            |\n|       #.##.##.#            |\n|       #.#####.#            |\n|       #.......#            |\n|       #.#####-#            |\n|       #.#####.#            |\n|       #........            |\n|       #.#####.#            |\n| The Red Watch Barracks     |\n+----------------------------+",
+        "description": "A ring with the red dragonarmy symbol on it lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a signet of the red dragonarmy",
+        "slot": "finger",
+        "keywords": [
+            "red",
+            "dragonarmy",
+            "signet",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "anti-good"
+        ],
+        "weight": "1 lbs",
+        "value": 3000,
+        "level": 45,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "15 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "hp": 20
+            }
+        ]
+    },
+    {
+        "id": 435,
+        "date": "10/21/2015",
+        "zone": "Sanction",
+        "map": "+----------------------------+\n| Sanction                   |\n|    #.#   #.#               |\n|    |.#   #.#               |\n|    #.#   ###               |\n|    #.##########            |\n|    #..........#            |\n|    #######.##.#            |\n|          #.##.#            |\n|          #.##*#            |\n|          #.####            |\n|       ####.#               |\n|       ......               |\n|       #-v#.#               |\n|          #.#               |\n|          #.#               |\n|          ###               |\n| Visting Highmaster's Quar  |\n+----------------------------+",
+        "description": "A polearm made of blue steel lies here.",
+        "materials": [
+            "steel",
+            "wood"
+        ],
+        "name": "a blue steel polearm",
+        "slot": "wielded",
+        "keywords": [
+            "blue",
+            "steel",
+            "polearm"
+        ],
+        "type": "weapon",
+        "weapon type": "polearm",
+        "flags": [
+            "hum"
+        ],
+        "weight": "35 lbs",
+        "value": 6000,
+        "level": 105,
+        "damage": 71,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            {
+                "hit roll": 10
+            },
+            {
+                "damage roll": 10
+            }
+        ]
+    },
+    {
+        "id": 436,
+        "date": "10/21/2015",
+        "zone": "Sanction",
+        "map": "+----------------------------+\n| Sanction                   |\n|    #.#   #.#               |\n|    |.#   #.#               |\n|    #.#   ###               |\n|    #.##########            |\n|    #..........#            |\n|    #######.##.#            |\n|          #.##.#            |\n|          #.##*#            |\n|          #.####            |\n|       ####.#               |\n|       ......               |\n|       #-v#.#               |\n|          #.#               |\n|          #.#               |\n|          ###               |\n| Visting Highmaster's Quar  |\n+----------------------------+",
+        "description": "A horned blue helm shaped like a dragons head lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a blue horned dragonhelm",
+        "slot": "head",
+        "keywords": [
+            "blue",
+            "horned",
+            "dragonhelm"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "anti-good"
+        ],
+        "weight": "20 lbs",
+        "value": 10000,
+        "level": 95,
+        "armor type": "magic",
+        "armor class": [
+            "24 pierce",
+            "24 bash",
+            "24 slash",
+            "13 magic"
+        ],
+        "effects": [
+            {
+                "wisdom": 1
+            },
+            {
+                "strength": 3
+            },
+            {
+                "dexterity": -1
+            },
+            {
+                "damage roll": 7
+            },
+            {
+                "hit roll": 7
+            }
+        ]
+    },
+    {
+        "id": 437,
+        "date": "10/21/2015",
+        "zone": "Sanction",
+        "map": "+----------------------------+\n| Sanction                   |\n|    #.#   #.#               |\n|    |.#   #.#               |\n|    #.#   ###               |\n|    #.##########            |\n|    #..........#            |\n|    #######.##.#            |\n|          #.##.#            |\n|          #.##*#            |\n|          #.####            |\n|       ####.#               |\n|       ......               |\n|       #-v#.#               |\n|          #.#               |\n|          #.#               |\n|          ###               |\n| Visting Highmaster's Quar  |\n+----------------------------+",
+        "description": "A breastplate made of blue steel lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a blue dragonsteel breastplate",
+        "slot": "chest",
+        "keywords": [
+            "blue",
+            "dragonsteel",
+            "breastplate"
+        ],
+        "type": "armor",
+        "flags": [
+            "bless",
+            "anti-good"
+        ],
+        "weight": "20 lbs",
+        "value": 6000,
+        "level": 53,
+        "armor type": "magic",
+        "armor class": [
+            "17 pierce",
+            "17 bash",
+            "30 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "dexterity": 1
+            }
         ]
     }
 ]
