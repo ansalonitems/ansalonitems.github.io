@@ -3,7 +3,6 @@
 import React from 'react'
 import moment from 'moment'
 import GenericMetadataComponent from './generic-item-metadata-component.js'
-import Link from './link.js'
 
 export default React.createClass({
   displayName: 'ArmorComponent',
@@ -50,7 +49,7 @@ export default React.createClass({
           <tr>
             <td>{this.props.item.name}</td>
             <td>
-              <Link href={`/items/?slot=${this.props.item.slot}`}>{this.props.item.slot}</Link>
+              <a href={`/items/${this.props.item.slot}`}>{this.props.item.slot}</a>
             </td>
             <td>{this.props.item.level}</td>
             <td>{hit}</td>

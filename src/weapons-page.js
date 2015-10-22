@@ -2,7 +2,6 @@
 
 import React from 'react'
 import PageComponent from './page-component.js'
-import Link from './link.js'
 
 export default React.createClass({
   displayName: 'WeaponsPage',
@@ -28,10 +27,10 @@ export default React.createClass({
       return (
         <tr key={item.id}>
           <td>
-            <Link href={`items/?id=${item.id}`}>{item.name}</Link>
+            <a href={`/items/${item.id}`}>{item.name}</a>
           </td>
           <td>
-            <Link href={`items/?weapon type=${item['weapon type']}`}>{item['weapon type']}</Link>
+            <a href={`/items/${item['weapon type']}`}>{item['weapon type']}</a>
           </td>
           <td className="right-aligned">
             {this.effectByKey(item, 'hit roll', 0)}

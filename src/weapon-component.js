@@ -3,7 +3,6 @@
 import React from 'react'
 import moment from 'moment'
 import GenericMetadataComponent from './generic-item-metadata-component.js'
-import Link from './link.js'
 
 export default React.createClass({
   displayName: 'WeaponComponent',
@@ -54,7 +53,7 @@ export default React.createClass({
           <tr>
             <td>{this.props.item.name}</td>
             <td>
-              <Link href={`/items/?weapon type=${this.props.item['weapon type']}`}>{this.props.item['weapon type']}</Link>
+              <a href={`/items/${this.props.item['weapon type']}`}>{this.props.item['weapon type']}</a>
             </td>
             <td>{this.props.item.level}</td>
             <td>{hit}</td>

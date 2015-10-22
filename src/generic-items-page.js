@@ -2,7 +2,6 @@
 
 import React from 'react'
 import PageComponent from './page-component.js'
-import Link from './link.js'
 
 export default React.createClass({
   displayName: 'GenericItems',
@@ -35,10 +34,10 @@ export default React.createClass({
       return (
         <tr key={item.id}>
           <td>
-            <Link href={`items/?id=${item.id}`}>{item.name}</Link>
+            <a href={`/items/${item.id}`}>{item.name}</a>
           </td>
           <td>
-            <Link href={`items/?type=${item.type}`}>{item.type}</Link>
+            <a href={`/items/${item.type}`}>{item.type}</a>
           </td>
           <td className="right-aligned">
             {item.level}

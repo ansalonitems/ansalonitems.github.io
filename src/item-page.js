@@ -6,14 +6,12 @@ import PageComponent from './page-component.js'
 import ArmorComponent from './armor-component.js'
 import WeaponComponent from './weapon-component.js'
 import ItemComponent from './item-component.js'
-import Link from './link.js'
-import items from './items.json'
 
 export default React.createClass({
   displayName: 'ItemPage',
 
   propTypes: {
-    id: React.PropTypes.number.isRequired
+    item: React.PropTypes.object.isRequired
   },
 
   getDetails(item) {
@@ -30,8 +28,7 @@ export default React.createClass({
   },
 
   render() {
-    const item = items.filter(item => item.id === this.props.id)[0]
-
+    const item = this.props.item
     const details = this.getDetails(item)
     let location = item.map || ''
     location = location.replace(/\-/g, '<span class="map-pipe">-</span>')
@@ -60,7 +57,7 @@ export default React.createClass({
           <aside className="item-map">
             <span>It is from {
               item.zone
-                ? <Link href={`items/?zone=${item.zone}`}>{item.zone}</Link>
+                ? <a href={`/items/${item.zone.replace(/[^a-zA-Z0-9_-]/g, '_')}`}>{item.zone}</a>
                 : 'an unknown location'
             }.</span>
             <pre className="map"

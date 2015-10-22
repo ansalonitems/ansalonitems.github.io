@@ -2,7 +2,6 @@
 
 import React from 'react'
 import PageComponent from './page-component.js'
-import Link from './link.js'
 
 export default React.createClass({
   displayName: 'HomePage',
@@ -24,172 +23,172 @@ export default React.createClass({
   render() {
     return (
       <PageComponent>
-        <Link href={`items/?slot=wielded`}
+        <a href={`/items/wielded/`}
               className="button button-outlined big-button">
           Weapons
-        </Link>
+        </a>
         <div className="item-group-container">
-          <Link href={`items/?weapon type=axe`}
+          <a href={`/items/axe/`}
                 className="button button-outlined big-button">
             Axes
-          </Link>
-          <Link href={`items/?weapon type=dagger`}
+          </a>
+          <a href={`/items/dagger/`}
                 className="button button-outlined big-button">
             Daggers
-          </Link>
-          <Link href={`items/?weapon type=exotic`}
+          </a>
+          <a href={`/items/exotic/`}
                 className="button button-outlined big-button">
             Exotics
-          </Link>
-          <Link href={`items/?weapon type=flail`}
+          </a>
+          <a href={`/items/flail/`}
                 className="button button-outlined big-button">
             Flails
-          </Link>
-          <Link href={`items/?weapon type=hoopak`}
+          </a>
+          <a href={`/items/hoopak/`}
                 className="button button-outlined big-button">
             Hoopacks
-          </Link>
-          <Link href={`items/?weapon type=mace`}
+          </a>
+          <a href={`/items/mace/`}
                 className="button button-outlined big-button">
             Maces
-          </Link>
-          <Link href={`items/?weapon type=polearm`}
+          </a>
+          <a href={`/items/polearm/`}
                 className="button button-outlined big-button">
             Polearms
-          </Link>
-          <Link href={`items/?weapon type=quarterstaff`}
+          </a>
+          <a href={`/items/quarterstaff/`}
                 className="button button-outlined big-button">
             Quarterstaves
-          </Link>
-          <Link href={`items/?weapon type=spear`}
+          </a>
+          <a href={`/items/spear/`}
                 className="button button-outlined big-button">
             Spears
-          </Link>
-          <Link href={`items/?weapon type=staff`}
+          </a>
+          <a href={`/items/staff/`}
                 className="button button-outlined big-button">
             Staves
-          </Link>
-          <Link href={`items/?weapon type=sword`}
+          </a>
+          <a href={`/items/sword/`}
                 className="button button-outlined big-button">
             Swords
-          </Link>
-          <Link href={`items/?weapon type=whip`}
+          </a>
+          <a href={`/items/whip/`}
                 className="button button-outlined big-button">
             Whips
-          </Link>
+          </a>
         </div>
 
-        <Link href={`items/?slot=armor`}
+        <a href={`/items/armor/`}
               className="button button-outlined big-button">
           Armor
-        </Link>
+        </a>
         <div className="item-group-container">
-          <Link href={`items/?slot=arms`}
+          <a href={`/items/arms/`}
                 className="button button-outlined big-button">
             Arms
-          </Link>
-          <Link href={`items/?slot=back`}
+          </a>
+          <a href={`/items/back/`}
                 className="button button-outlined big-button">
             Backs
-          </Link>
-          <Link href={`items/?slot=body`}
+          </a>
+          <a href={`/items/body/`}
                 className="button button-outlined big-button">
             Bodies
-          </Link>
-          <Link href={`items/?slot=chest`}
+          </a>
+          <a href={`/items/chest/`}
                 className="button button-outlined big-button">
             Chests
-          </Link>
-          <Link href={`items/?slot=floating`}
+          </a>
+          <a href={`/items/floating/`}
                 className="button button-outlined big-button">
             Floaters
-          </Link>
-          <Link href={`items/?slot=ear`}
+          </a>
+          <a href={`/items/ear/`}
                 className="button button-outlined big-button">
             Ears
-          </Link>
-          <Link href={`items/?slot=face`}
+          </a>
+          <a href={`/items/face/`}
                 className="button button-outlined big-button">
             Faces
-          </Link>
-          <Link href={`items/?slot=feet`}
+          </a>
+          <a href={`/items/feet/`}
                 className="button button-outlined big-button">
             Feet
-          </Link>
-          <Link href={`items/?slot=finger`}
+          </a>
+          <a href={`/items/finger/`}
                 className="button button-outlined big-button">
             Fingers
-          </Link>
-          <Link href={`items/?slot=hands`}
+          </a>
+          <a href={`/items/hands/`}
                 className="button button-outlined big-button">
             Hands
-          </Link>
-          <Link href={`items/?slot=head`}
+          </a>
+          <a href={`/items/head/`}
                 className="button button-outlined big-button">
             Heads
-          </Link>
-          <Link href={`items/?slot=held`}
+          </a>
+          <a href={`/items/held/`}
                 className="button button-outlined big-button">
             Held
-          </Link>
-          <Link href={`items/?slot=legs`}
+          </a>
+          <a href={`/items/legs/`}
                 className="button button-outlined big-button">
             Legs
-          </Link>
-          <Link href={`items/?slot=light`}
+          </a>
+          <a href={`/items/light/`}
                 className="button button-outlined big-button">
             Lights
-          </Link>
-          <Link href={`items/?slot=neck`}
+          </a>
+          <a href={`/items/neck/`}
                 className="button button-outlined big-button">
             Necks
-          </Link>
-          <Link href={`items/?slot=shield`}
+          </a>
+          <a href={`/items/shield/`}
                 className="button button-outlined big-button">
             Shields
-          </Link>
-          <Link href={`items/?slot=shoulder`}
+          </a>
+          <a href={`/items/shoulder/`}
                 className="button button-outlined big-button">
             Shoulders
-          </Link>
-          <Link href={`items/?slot=waist`}
+          </a>
+          <a href={`/items/waist/`}
                 className="button button-outlined big-button">
             Waist
-          </Link>
-          <Link href={`items/?slot=wrist`}
+          </a>
+          <a href={`/items/wrist/`}
                 className="button button-outlined big-button">
             Wrists
-          </Link>
+          </a>
         </div>
 
-        <Link href={`items/?type=furniture`}
+        <a href={`/items/furniture/`}
               className="button button-outlined big-button">
           Furniture
-        </Link>
-        <Link href={`items/?type=container`}
+        </a>
+        <a href={`/items/container/`}
               className="button button-outlined big-button">
           Containers
-        </Link>
-        <Link href={`items/?type=drink`}
+        </a>
+        <a href={`/items/drink/`}
               className="button button-outlined big-button">
           Drinks
-        </Link>
-        <Link href={`items/?type=treasure`}
+        </a>
+        <a href={`/items/treasure/`}
               className="button button-outlined big-button">
           Treasure
-        </Link>
-        <Link href={`items/?type=jewelry`}
+        </a>
+        <a href={`/items/jewelry/`}
               className="button button-outlined big-button">
           Jewelry
-        </Link>
-        <Link href={`items/?type=potion`}
+        </a>
+        <a href={`/items/potion/`}
               className="button button-outlined big-button">
           Potions
-        </Link>
-        <Link href={`items/?type=pill`}
+        </a>
+        <a href={`/items/pill/`}
               className="button button-outlined big-button">
           Pills
-        </Link>
+        </a>
       </PageComponent>
     )
   }
