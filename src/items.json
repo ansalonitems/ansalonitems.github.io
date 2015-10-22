@@ -2172,43 +2172,6 @@
         ]
     },
     {
-        "id": 76,
-        "date": "09/29/2015",
-        "zone": "Palanthas",
-        "map": "+----------------------------+\n| Palanthas                  |\n| #############.#######   ###|\n| .....................   ...|\n| #####################   ###|\n|                            |\n|                            |\n|                            |\n|             ^##      ######|\n|             #*#      #.....|\n|             #.#      ######|\n|             #.#^##         |\n|             #....#         |\n|             #.####         |\n|       #.#####.####      ###|\n|       #.##.......|      #.#|\n|       #.##.......#      #.#|\n| The Great Dome             |\n+----------------------------+",
-        "description": "A beautifully-carved spear made of vallenwood lies here.",
-        "materials": [
-            "wood",
-            "steel"
-        ],
-        "name": "a vallenwood spear",
-        "slot": "wielded",
-        "keywords": [
-            "vallenwood",
-            "spear"
-        ],
-        "type": "weapon",
-        "weapon type": "spear",
-        "flags": [
-            "magic"
-        ],
-        "weight": "8 lbs",
-        "value": 4400,
-        "level": 70,
-        "damage": 44,
-        "effects": [
-            {
-                "hit roll": 5
-            },
-            {
-                "damage roll": 5
-            }
-        ],
-        "weapon flags": [
-            
-        ]
-    },
-    {
         "id": 77,
         "date": "09/30/2015",
         "zone": "Southwest Palanthas",
