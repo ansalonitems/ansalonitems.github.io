@@ -116,6 +116,10 @@ export default React.createClass({
                 className="button button-outlined big-button">
             Feet
           </Link>
+          <Link href={`items/?slot=finger`}
+                className="button button-outlined big-button">
+            Fingers
+          </Link>
           <Link href={`items/?slot=hands`}
                 className="button button-outlined big-button">
             Hands
