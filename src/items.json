@@ -13213,43 +13213,6 @@
         ]
     },
     {
-        "id": 377,
-        "date": "10/14/2015",
-        "zone": "Southwest Plains of Dust",
-        "map": "+----------------------------+\n| Southwest Plains of Dust   |\n|          \"\"\"#.#            |\n|          \"\"\"..#            |\n|          \"\"\"###            |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"\"\"###            |\n|          \"\"\".*.            |\n|          \"\"\"...            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Plains of Dust         |\n+----------------------------+",
-        "description": "A beautifully-carved spear made of vallenwood lies here.",
-        "materials": [
-            "wood",
-            "steel"
-        ],
-        "name": "a vallenwood spear",
-        "slot": "wielded",
-        "keywords": [
-            "vallenwood",
-            "spear"
-        ],
-        "type": "weapon",
-        "weapon type": "spear",
-        "flags": [
-            "magic"
-        ],
-        "weight": "8 lbs",
-        "value": 4400,
-        "level": 70,
-        "damage": 44,
-        "effects": [
-            {
-                "hit roll": 5
-            },
-            {
-                "damage roll": 5
-            }
-        ],
-        "weapon flags": [
-            
-        ]
-    },
-    {
         "id": 378,
         "date": "10/14/2015",
         "zone": "Hopeful Vale",
@@ -15533,6 +15496,4640 @@
             },
             {
                 "dexterity": 1
+            }
+        ]
+    },
+    {
+        "id": 438,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A bronze helmet lies here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze helmet",
+        "slot": "head",
+        "keywords": [
+            "bronze",
+            "helmet"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 38,
+        "level": 20,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 439,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A bastard sword lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a bastard sword",
+        "slot": "wielded",
+        "keywords": [
+            "bastard",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "8 lbs",
+        "value": 44,
+        "level": 20,
+        "damage": 15,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 440,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A pair of sleeves are here, collecting dust.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a defenders sleeves",
+        "slot": "arms",
+        "keywords": [
+            "sleeves",
+            "defenders"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 13,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 441,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A pair of leggings are here, collecting dust.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a defenders leggings",
+        "slot": "legs",
+        "keywords": [
+            "leggings",
+            "defenders"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs",
+        "value": 11,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 442,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A shield is here, emblazoned with Garnet's coat of arms.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a defenders shield",
+        "slot": "shield",
+        "keywords": [
+            "shield",
+            "defenders"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "8 lbs",
+        "value": 16,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 443,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A ring is shining in the dust.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a defenders ring",
+        "slot": "finger",
+        "keywords": [
+            "ring",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 16,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            }
+        ]
+    },
+    {
+        "id": 444,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A gold and silver vest is lying on the side of the road.",
+        "materials": [
+            "steel",
+            "gold"
+        ],
+        "name": "a defenders vest",
+        "slot": "chest",
+        "keywords": [
+            "vest",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 16,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "5 pierce",
+            "5 bash",
+            "5 slash",
+            "-1 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 445,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A cape is hanging by a tree branch.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a defenders cape",
+        "slot": "body",
+        "keywords": [
+            "cape",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "8 lbs",
+        "value": 18,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 446,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A heap of gold and silver cloth is on the ground here.",
+        "materials": [
+            "cloth",
+            "silk"
+        ],
+        "name": "a defenders cloak",
+        "slot": "neck",
+        "keywords": [
+            "cloak",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 12,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 447,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A pair of gloves are on the side of the road here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a defenders gloves",
+        "slot": "hands",
+        "keywords": [
+            "gloves",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs",
+        "value": 10,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 448,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A gold belt is lying here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a defenders belt",
+        "slot": "waist",
+        "keywords": [
+            "belt",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs",
+        "value": 14,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 449,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A silver bracer is lying here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a defenders bracer",
+        "slot": "wrist",
+        "keywords": [
+            "bracer",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 18,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 450,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| ^#######################   |\n| #............*..........   |\n| #.#####.#####..........#   |\n| #.#####.#   #..........#   |\n| #.......#   #..........#   |\n| #.......#   #.......##-#   |\n| #.......#####.......#      |\n| ...........##.......#      |\n| #.......#####.......#      |\n| The dwarven housing distr  |\n+----------------------------+",
+        "description": "A pair of silver boots are here.",
+        "materials": [
+            "leather",
+            "silver"
+        ],
+        "name": "a defenders pair of boots",
+        "slot": "feet",
+        "keywords": [
+            "boots",
+            "defender"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 14,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 451,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ^#######################|\n|    #.........*.............|\n|    #.#####.#####..........#|\n|    #.#####.#   #..........#|\n|    #.......#   #..........#|\n|    #.......#   #.......##-#|\n| ####.......#####.......#   |\n| #.............##.......#   |\n| ####.......#####.......#   |\n| A side tunnel              |\n+----------------------------+",
+        "description": "A bronze breastplate lies here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze breastplate",
+        "slot": "chest",
+        "keywords": [
+            "bronze",
+            "breastplate"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs",
+        "value": 27,
+        "level": 16,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 452,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ^#######################|\n|    #.........*.............|\n|    #.#####.#####..........#|\n|    #.#####.#   #..........#|\n|    #.......#   #..........#|\n|    #.......#   #.......##-#|\n| ####.......#####.......#   |\n| #.............##.......#   |\n| ####.......#####.......#   |\n| A side tunnel              |\n+----------------------------+",
+        "description": "A sword made of bronze lies here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze sword",
+        "slot": "wielded",
+        "keywords": [
+            "bronze",
+            "sword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "8 lbs",
+        "value": 24,
+        "level": 15,
+        "damage": 12,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 453,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|    ^#######################|\n|    #.........*.............|\n|    #.#####.#####..........#|\n|    #.#####.#   #..........#|\n|    #.......#   #..........#|\n|    #.......#   #.......##-#|\n| ####.......#####.......#   |\n| #.............##.......#   |\n| ####.......#####.......#   |\n| A side tunnel              |\n+----------------------------+",
+        "description": "An armband with the symbol of the city of Garnet lies here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a Garnet cityguard armband",
+        "slot": "arms",
+        "keywords": [
+            "garnet",
+            "cityguard",
+            "armband"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 22,
+        "level": 17,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 454,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ^####################|\n|       #......*.............|\n|       #.#####.#####........|\n|       #.#####.#   #........|\n|       #.......#   #........|\n|       #.......#   #.......#|\n|    ####.......#####.......#|\n|    #.............##.......#|\n|    ####.......#####.......#|\n| An access road under the   |\n+----------------------------+",
+        "description": "A small, concealable knife lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a concealed knife",
+        "slot": "wielded",
+        "keywords": [
+            "small",
+            "concealed",
+            "knife"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 9,
+        "level": 10,
+        "damage": 8,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 455,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ^#################|\n|          #...*.............|\n|          #.#####.#####.....|\n|          #.#####.#   #.....|\n|          #.......#   #.....|\n|          #.......#   #.....|\n|       ####.......#####.....|\n|       #.............##.....|\n|       ####.......#####.....|\n| An access road             |\n+----------------------------+",
+        "description": "A harp is lying on the ground here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a harp",
+        "slot": "held",
+        "keywords": [
+            "harp"
+        ],
+        "type": "wand",
+        "flags": [
+            "magic"
+        ],
+        "weight": "2 lbs",
+        "value": 4200,
+        "level": 9,
+        "charges": "10",
+        "spell level": 35,
+        "spell": "word of recall",
+        "effects": [
+            {
+                "armor class": -50
+            },
+            {
+                "hp": 12
+            }
+        ]
+    },
+    {
+        "id": 456,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          #.####            |\n|          ....*#            |\n|          #####v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The western entrance to t  |\n+----------------------------+",
+        "description": "A pair of boots made of black leather lie here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a pair of black leather boots",
+        "slot": "feet",
+        "keywords": [
+            "black",
+            "leather",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 30,
+        "level": 16,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 457,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          #.####            |\n|          ....*#            |\n|          #####v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The western entrance to t  |\n+----------------------------+",
+        "description": "An pair of legplates with the symbol of the city of Garnet lies here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a pair of bronze legplates",
+        "slot": "legs",
+        "keywords": [
+            "gerighelm",
+            "cityguard",
+            "legplates",
+            "bronze"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 24,
+        "level": 16,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 458,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                ###         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ####.#         |\n|             .*...#         |\n|             #.##.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n| Merchant Shop              |\n+----------------------------+",
+        "description": "The uniform of a Garnet city guardsman lies here.",
+        "materials": [
+            "leather",
+            "silk"
+        ],
+        "name": "a uniform of the Garnet city guard",
+        "slot": "chest",
+        "keywords": [
+            "garnet",
+            "city",
+            "guard",
+            "uniform"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 14,
+        "level": 22,
+        "armor type": "light metal",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -5
+            }
+        ]
+    },
+    {
+        "id": 459,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                ###         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ####.#         |\n|             .*...#         |\n|             #.##.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n| Merchant Shop              |\n+----------------------------+",
+        "description": "A huge broadsword lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a broadsword",
+        "slot": "wielded",
+        "keywords": [
+            "broadsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 30,
+        "level": 22,
+        "damage": 22,
+        "weapon flags": [
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            }
+        ]
+    },
+    {
+        "id": 461,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
+        "description": "A bronze lantern lies here.",
+        "materials": [
+            "bronze",
+            "glass"
+        ],
+        "name": "a bronze lantern",
+        "slot": "light",
+        "keywords": [
+            "bronze",
+            "lantern"
+        ],
+        "type": "light",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 500,
+        "level": 10,
+        "light": 125,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 462,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
+        "description": "A wooden baton lies here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a Garnet cityguard baton",
+        "slot": "wielded",
+        "keywords": [
+            "wooden",
+            "garnet",
+            "cityguard",
+            "baton"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 60,
+        "level": 14,
+        "damage": 12,
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 463,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
+        "description": "A hardened leather shield with the symbol of Garnet lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a Garnet cityguard shield",
+        "slot": "shield",
+        "keywords": [
+            "garnet",
+            "shield",
+            "leather",
+            "",
+            "cityguard"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 24,
+        "level": 14,
+        "armor type": "cloth",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 465,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
+        "description": "A leather breastplate with the symbol of Garnet on it lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a Garnet cityguard breastplate",
+        "slot": "chest",
+        "keywords": [
+            "garnet",
+            "leather",
+            "breastplate",
+            "cityguard"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 48,
+        "level": 14,
+        "armor type": "cloth",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -10
+            }
+        ]
+    },
+    {
+        "id": 466,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
+        "description": "A hardened leather shield with the symbol of Garnet lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a Garnet cityguard shield",
+        "slot": "shield",
+        "keywords": [
+            "garnet",
+            "shield",
+            "leather",
+            "",
+            "cityguard"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 24,
+        "level": 14,
+        "armor type": "cloth",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 467,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
+        "description": "A long leather belt lies here.",
+        "materials": [
+            "lead",
+            "unknown material"
+        ],
+        "name": "a leather belt",
+        "slot": "waist",
+        "keywords": [
+            "leather",
+            "belt"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 24,
+        "level": 16,
+        "armor type": "leather",
+        "armor class": [
+            "6 pierce",
+            "6 bash",
+            "6 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 468,
+        "date": "10/28/2015",
+        "zone": "Autumnstar's Keep",
+        "map": "+----------------------------+\n| Autumnstar's Keep          |\n|                            |\n|                            |\n|                            |\n|                ^#####      |\n|                #....#      |\n|                #.####      |\n|    @.@\"\"\"\"\"\"####.####      |\n|    @..\"\"\"\"\"\".*......#      |\n|    @.@\"\"\"\"\"\"####.###v      |\n|    #.#         #.#         |\n|    #.#         #.#         |\n|    #.#         ###         |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| The Bard's Song Inn        |\n+----------------------------+",
+        "description": "A set of shelves for slippers stands here.",
+        "materials": [
+            "unknown material",
+            "unknown material"
+        ],
+        "name": "a set of shelves for slippers",
+        "slot": "feet",
+        "keywords": [
+            "shelf",
+            "shelves",
+            "slipper"
+        ],
+        "type": "container",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs",
+        "value": 0,
+        "level": 1,
+        "capacity": "10000 items",
+        "max item": "100 lbs",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 470,
+        "date": "10/28/2015",
+        "zone": "Central Thelgaard",
+        "map": "+----------------------------+\n| Central Thelgaard          |\n|                            |\n|                            |\n|                            |\n|          \"\"\"######         |\n|          \"\"\"...^^^         |\n|          \"\"\"#.####         |\n|             \"\"\"^##         |\n|             \"*\"#.#         |\n|             \"\"\"#.#         |\n|             #.##.#         |\n|             #....#         |\n|             ####.#         |\n|                @.@\"\"\"\"\"\"###|\n|                @..\"\"\"\"\"\"...|\n|                @.@\"\"\"\"\"\"###|\n| A road through the pass    |\n+----------------------------+",
+        "description": "A well made, perfectly balanced, military issue Solamnic broadsword.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a Patrolman's broadsword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "patrol",
+            "broad",
+            "military"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 7000,
+        "level": 60,
+        "damage": 30,
+        "weapon flags": [
+            "sharp"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 471,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                #.##.##.#   |\n|                #.##.##.#   |\n|                #.#######   |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             #.##.#         |\n|             .*....         |\n|             ####.#         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Freedom Road               |\n+----------------------------+",
+        "description": "A doll is on the ground here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a doll",
+        "slot": "held",
+        "keywords": [
+            "doll"
+        ],
+        "type": "trash",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 150,
+        "level": 4,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 472,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A long pointed dagger lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a dagger of stabbing",
+        "slot": "wielded",
+        "keywords": [
+            "dagger",
+            "stabbing",
+            "long",
+            "pointed"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 250,
+        "level": 21,
+        "damage": 15,
+        "weapon flags": [
+            "shocking",
+            "throwable"
+        ],
+        "effects": [
+            {
+                "dexterity": 3
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 3
+            }
+        ]
+    },
+    {
+        "id": 473,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A staff made out of silver is here.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a silver staff",
+        "slot": "held",
+        "keywords": [
+            "silver",
+            "staff"
+        ],
+        "type": "wand",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs",
+        "value": 28,
+        "level": 20,
+        "charges": "10",
+        "spell level": 40,
+        "spell": "lightning bolt",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 474,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's sword lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a solamnic city guard sword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "solamnic",
+            "city",
+            "guard"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "glow",
+            "hum"
+        ],
+        "weight": "8 lbs",
+        "value": 80,
+        "level": 22,
+        "damage": 15,
+        "effects": [
+            {
+                "hit roll": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 475,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's boots lie here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a pair of solamnic city guard boots",
+        "slot": "feet",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "boots"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "5 lbs",
+        "value": 10,
+        "level": 18,
+        "armor type": "leather",
+        "armor class": [
+            "3 pierce",
+            "3 bash",
+            "3 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 476,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's bracer lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard bracer",
+        "slot": "wrist",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "bracer"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "3 lbs",
+        "value": 14,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 477,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's belt lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard belt",
+        "slot": "waist",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "belt"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "6 lbs",
+        "value": 16,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 478,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's gauntlets lie here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a pair of solamnic city guard gauntlets",
+        "slot": "hands",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "guantlets",
+            "pair"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "4 lbs",
+        "value": 14,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 479,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's cloak lies here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard cloak",
+        "slot": "neck",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "cloak"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "hum",
+            "magic"
+        ],
+        "weight": "4 lbs",
+        "value": 47,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "-1 magic"
+        ],
+        "effects": [
+            {
+                "strength": 2
+            },
+            {
+                "armor class": -10
+            },
+            {
+                "constitution": 2
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's cape lies here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard cape",
+        "slot": "body",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "cape"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "4 lbs",
+        "value": 26,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 481,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's breastplate lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard breastplate",
+        "slot": "chest",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "breastplate"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "6 lbs",
+        "value": 28,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 482,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard shield lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard shield",
+        "slot": "shield",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "shield"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "5 lbs",
+        "value": 20,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 483,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A pair of solamnic palace city legplates lie here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a pair of solamnic city guard legplates",
+        "slot": "legs",
+        "keywords": [
+            "solamnic",
+            "palace",
+            "city",
+            "legplates",
+            "pair"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "6 lbs",
+        "value": 28,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 484,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A pair of solamnic city guard's vambraces lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a pair of solamnic city guard vambraces",
+        "slot": "arms",
+        "keywords": [
+            "solamnic",
+            "palace",
+            "city",
+            "vambraces",
+            "pair"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "5 lbs",
+        "value": 20,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 485,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's helmet lies here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard helmet",
+        "slot": "head",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "helmet"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "3 lbs",
+        "value": 27,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 486,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #.####|\n|                      #.....|\n|                      #.##.#|\n|          @.@######   #.##.#|\n|          ..@#....#   #.##.#|\n|          @.@#.####   #.####|\n|          #.##.########.####|\n|          #...*......##.##.#|\n|          ##########.##.##.#|\n|                ####.##.##.#|\n|                #...........|\n|                #.#####.####|\n|                #.#   #.#   |\n|                #.#   #..   |\n|                #.#   #.#   |\n| Town Hall                  |\n+----------------------------+",
+        "description": "A solamnic city guard's ring lies here.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a solamnic city guard ring",
+        "slot": "finger",
+        "keywords": [
+            "solamnic",
+            "city",
+            "guard",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 20,
+        "level": 22,
+        "armor type": "leather",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 487,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|          ####.####      #.#|\n|          #.......#      #.#|\n|          #.##.####      #.#|\n|          #.##.#         #.#|\n|          #.##.#         #..|\n|          ####.#         #.#|\n|          ###@.@######   #.#|\n|          #...*@#....#   #.#|\n|          ###@.@#.####   #.#|\n|             #.##.########.#|\n|             #..........##.#|\n|             ##########.##.#|\n|                   ####.##.#|\n|                   #........|\n|                   #.#####.#|\n| The Garden                 |\n+----------------------------+",
+        "description": "A steel breastplate lies here.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a steel breastplate",
+        "slot": "chest",
+        "keywords": [
+            "steel",
+            "breastplate"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "6 lbs",
+        "value": 452,
+        "level": 21,
+        "armor type": "light metal",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "strength": 2
+            },
+            {
+                "hit roll": 4
+            }
+        ]
+    },
+    {
+        "id": 488,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|          ####.####      #.#|\n|          #.......#      #.#|\n|          #.##.####      #.#|\n|          #.##.#         #.#|\n|          #.##.#         #..|\n|          ####.#         #.#|\n|          ###@.@######   #.#|\n|          #...*@#....#   #.#|\n|          ###@.@#.####   #.#|\n|             #.##.########.#|\n|             #..........##.#|\n|             ##########.##.#|\n|                   ####.##.#|\n|                   #........|\n|                   #.#####.#|\n| The Garden                 |\n+----------------------------+",
+        "description": "There is a bronze bracelet of make is laying on the ground.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze bracelet",
+        "slot": "wrist",
+        "keywords": [
+            "randarmor",
+            "a",
+            "bronze",
+            "bracelet"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 14 oz",
+        "value": 156,
+        "level": 23,
+        "armor type": "light metal",
+        "armor class": [
+            "11 pierce",
+            "13 bash",
+            "12 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "mana": 6
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|          ####.####      #.#|\n|          #.......#      #.#|\n|          #.##.####      #.#|\n|          #.##.#         #.#|\n|          #.##.#         #..|\n|          ####.#         #.#|\n|          ###@.@######   #.#|\n|          #...*@#....#   #.#|\n|          ###@.@#.####   #.#|\n|             #.##.########.#|\n|             #..........##.#|\n|             ##########.##.#|\n|                   ####.##.#|\n|                   #........|\n|                   #.#####.#|\n| The Garden                 |\n+----------------------------+",
+        "description": "Energy crackles over the blade of this sword.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "the Sword of Thunder",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "thunder",
+            "energy",
+            "blade"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 400,
+        "level": 21,
+        "damage": 15,
+        "effects": [
+            {
+                "strength": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 490,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|             ####.####      |\n|             #.......#      |\n|             #.##.####      |\n|             #.##.#         |\n|             #.##.#         |\n|             ####.#         |\n|             ###@.@######   |\n|             #*...@#....#   |\n|             ###@.@#.####   |\n|                #.##.#######|\n|                #..........#|\n|                ##########.#|\n|                      ####.#|\n|                      #.....|\n|                      #.####|\n| The Garden                 |\n+----------------------------+",
+        "description": "A sharp hoe lies here.",
+        "materials": [
+            "iron",
+            "wood"
+        ],
+        "name": "a sharp hoe",
+        "slot": "wielded",
+        "keywords": [
+            "sharp",
+            "hoe"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "glow",
+            "hum",
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 11,
+        "level": 21,
+        "damage": 10,
+        "effects": [
+            {
+                "damage roll": -1
+            },
+            {
+                "hit roll": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 491,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|             ####.####      |\n|             #.......#      |\n|             #.##.####      |\n|             #.##.#         |\n|             #.##.#         |\n|             ####.#         |\n|             ###@.@######   |\n|             #*...@#....#   |\n|             ###@.@#.####   |\n|                #.##.#######|\n|                #..........#|\n|                ##########.#|\n|                      ####.#|\n|                      #.....|\n|                      #.####|\n| The Garden                 |\n+----------------------------+",
+        "description": "Some gloves are here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "the gardeners gloves",
+        "slot": "hands",
+        "keywords": [
+            "gardeners",
+            "gloves"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "5 lbs",
+        "value": 9,
+        "level": 21,
+        "armor type": "cloth",
+        "armor class": [
+            "3 pierce",
+            "3 bash",
+            "3 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 492,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                         #-#|\n|                         #.#|\n|                         #.#|\n|             ^##         #.#|\n|             #.#         #..|\n|             #.v         #.#|\n|          ####.####      #.#|\n|          #...*...#      #.#|\n|          #.##.####      #.#|\n|          #.##.#         #.#|\n|          #.##.#         #..|\n|          ####.#         #.#|\n|          ###@.@######   #.#|\n|          #....@#....#   #.#|\n|          ###@.@#.####   #.#|\n| The audience hall          |\n+----------------------------+",
+        "description": "A dwarven-made longsword lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a dwarven longsword",
+        "slot": "wielded",
+        "keywords": [
+            "dwarven",
+            "longsword"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "8 lbs",
+        "value": 200,
+        "level": 22,
+        "damage": 14,
+        "effects": [
+            {
+                "hit roll": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 493,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                      #-#   |\n|                      #.#   |\n|                      #.#   |\n|          ^##         #.####|\n|          #.#         #.....|\n|          #.v         #.####|\n|       ####.####      #.#   |\n|       #......*#      #.#   |\n|       #.##.####      #.#   |\n|       #.##.#         #.####|\n|       #.##.#         #.....|\n|       ####.#         #.##.#|\n|       ###@.@######   #.##.#|\n|       #....@#....#   #.##.#|\n|       ###@.@#.####   #.####|\n| An altar to the Gods       |\n+----------------------------+",
+        "description": "A heavy steel mace gives off a gentle glow.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a glowing mace",
+        "slot": "wielded",
+        "keywords": [
+            "heavy",
+            "steel",
+            "glowing",
+            "mace"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "magic"
+        ],
+        "weight": "5 lbs",
+        "value": 200,
+        "level": 21,
+        "damage": 14,
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 4
+            },
+            {
+                "dexterity": -2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 494,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*#            |\n|             #.v            |\n|          ####.####         |\n|          #.......#         |\n|          #.##.####         |\n|          #.##.#            |\n|          #.##.#            |\n|          ####.#            |\n| The council chambers       |\n+----------------------------+",
+        "description": "A hat is here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "the cooks hat",
+        "slot": "head",
+        "keywords": [
+            "cooks",
+            "cook",
+            "hat"
+        ],
+        "type": "armor",
+        "flags": [
+            "nodrop"
+        ],
+        "weight": "1 lbs",
+        "value": 12,
+        "level": 20,
+        "armor type": "magic",
+        "armor class": [
+            "0 pierce",
+            "0 bash",
+            "0 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 495,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*#            |\n|             #.v            |\n|          ####.####         |\n|          #.......#         |\n|          #.##.####         |\n|          #.##.#            |\n|          #.##.#            |\n|          ####.#            |\n| The council chambers       |\n+----------------------------+",
+        "description": "A wedding ring is here.",
+        "materials": [
+            "gold",
+            "platinum"
+        ],
+        "name": "a wedding ring",
+        "slot": "finger",
+        "keywords": [
+            "wedding",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "hum",
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 360,
+        "level": 22,
+        "armor type": "light metal",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "saves": 2
+            },
+            {
+                "hp": 10
+            }
+        ]
+    },
+    {
+        "id": 496,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*#            |\n|             #.v            |\n|          ####.####         |\n|          #.......#         |\n|          #.##.####         |\n|          #.##.#            |\n|          #.##.#            |\n|          ####.#            |\n| The council chambers       |\n+----------------------------+",
+        "description": "A well-fashioned helm topped with a spike lies here.",
+        "materials": [
+            "steel",
+            "gold"
+        ],
+        "name": "a dwarven helm topped with a spike",
+        "slot": "head",
+        "keywords": [
+            "well-fashioned",
+            "dwarven",
+            "helm",
+            "spike"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 652,
+        "level": 22,
+        "armor type": "light metal",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "hp": 10
+            },
+            {
+                "saves": -1
+            }
+        ]
+    },
+    {
+        "id": 498,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*#            |\n|             #.v            |\n|          ####.####         |\n|          #.......#         |\n|          #.##.####         |\n|          #.##.#            |\n|          #.##.#            |\n|          ####.#            |\n| The council chambers       |\n+----------------------------+",
+        "description": "A hood lies here.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a ranger's hood",
+        "slot": "head",
+        "keywords": [
+            "hood",
+            "ranger"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "5 lbs",
+        "value": 192,
+        "level": 28,
+        "armor type": "leather",
+        "armor class": [
+            "9 pierce",
+            "9 bash",
+            "9 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "armor class": -10
+            }
+        ]
+    },
+    {
+        "id": 499,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The watchtower             |\n+----------------------------+",
+        "description": "A long silver spyglass lies here.",
+        "materials": [
+            "silver",
+            "unknown material"
+        ],
+        "name": "a silver spyglass",
+        "slot": "held",
+        "keywords": [
+            "long",
+            "silver",
+            "spyglass"
+        ],
+        "type": "wand",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 3 oz",
+        "value": 1000,
+        "level": 40,
+        "charges": "1",
+        "spell level": 40,
+        "spell": "scrye",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 500,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       @.@@@@@@@            |\n|       .......*.            |\n|       @.......@            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A trail through the park   |\n+----------------------------+",
+        "description": "This very odd, gnomish staff hums with a strange energy.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a humming staff",
+        "slot": "wielded",
+        "keywords": [
+            "odd",
+            "staff",
+            "gnomish",
+            "humming"
+        ],
+        "type": "weapon",
+        "weapon type": "staff",
+        "flags": [
+            "hum",
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 400,
+        "level": 21,
+        "charges": "none",
+        "damage": 15,
+        "effects": [
+            {
+                "strength": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 501,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|       #.#   ####.#         |\n|       #.#   #....#         |\n|       #.#   ####.#         |\n|       @.@@@@@@@#.#         |\n|       ............         |\n|       @.......@###         |\n|       @.......@            |\n|       @......*@            |\n|       @.......@            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A trail through the park   |\n+----------------------------+",
+        "description": "A bunch of strange, green herbs are growing here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a bunch of herbs",
+        "slot": null,
+        "keywords": [
+            "strange",
+            "herbs",
+            "green",
+            "bunch"
+        ],
+        "type": "pill",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 469,
+        "level": 10,
+        "spell level": 10,
+        "spells": [
+            "change sex",
+            "fly",
+            "pass door"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 502,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|             @.@@@@@@@#.#   |\n|             ............   |\n|             @.......@###   |\n|             @.......@      |\n|             @.......@      |\n|             @.......@      |\n|             @.......@      |\n|             .*.......      |\n|             @.@@@@@@@      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A trail through the park   |\n+----------------------------+",
+        "description": "A bunch of strange, green herbs are growing here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "a bunch of herbs",
+        "slot": null,
+        "keywords": [
+            "strange",
+            "herbs",
+            "green",
+            "bunch"
+        ],
+        "type": "pill",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 469,
+        "level": 10,
+        "spell level": 10,
+        "spells": [
+            "change sex",
+            "fly",
+            "pass door"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 503,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n|                @.@@@@@@@#.#|\n|                ............|\n|                @.......@###|\n|                @.......@   |\n|                @.......@   |\n|                @.......@   |\n|             ###@.......@   |\n|             .*..........   |\n|             ###@.@@@@@@@   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A road through Tinkersvil  |\n+----------------------------+",
+        "description": "You know the gnomes made this thing, but that's all you know about it.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "a gnomish... thing",
+        "slot": "wielded",
+        "keywords": [
+            "gnomish",
+            "thing"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs",
+        "value": 87,
+        "level": 6,
+        "damage": 5,
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "strength": 3
+            },
+            {
+                "dexterity": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 504,
+        "date": "10/28/2015",
+        "zone": "The City of Garnet",
+        "map": "+----------------------------+\n| The City of Garnet         |\n| #.#      #.#   #.#         |\n| #.#      #.#   #.#         |\n| #.#      #.#   #.#         |\n| #.########.#####.#         |\n| #................#         |\n| #.##.##.##.##.##.#         |\n| #.##.##.#   #.##.#         |\n| #.##.##.#   #*##.#         |\n| #.#######   ####.#         |\n| #.#######      #.#         |\n| #.##.##.#      #.#         |\n| #.##.##.#      #.#         |\n| #.##.##.##-##-##.####      |\n| ....................#      |\n| #.##################v      |\n| The Weapon Shop            |\n+----------------------------+",
+        "description": "A stick is here, collecting dust.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "a stick",
+        "slot": "wielded",
+        "keywords": [
+            "stick"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 300,
+        "level": 4,
+        "damage": 6,
+        "effects": [
+            {
+                "damage roll": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 505,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*.            |\n|             #.#            |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A heavy leather backpack with many scratches sits here.",
+        "materials": [
+            "leather",
+            "cloth"
+        ],
+        "name": "a Dwarven miner's backpack",
+        "slot": "back",
+        "keywords": [
+            "dwarven",
+            "backpack",
+            "leather"
+        ],
+        "type": "container",
+        "flags": [
+            "closable"
+        ],
+        "weight": "1 lbs",
+        "value": 1500,
+        "level": 36,
+        "capacity": "400 items",
+        "max item": "150 lbs",
+        "weighs": "60% of actual weight",
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 3
+            }
+        ]
+    },
+    {
+        "id": 506,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*.            |\n|             #.#            |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A hard, somewhat edible looking, stick of foodstuff lies here.",
+        "materials": [
+            "food",
+            "unknown material"
+        ],
+        "name": "dwarven miner's rations",
+        "slot": "light",
+        "keywords": [
+            "ration",
+            "food",
+            "dwarven"
+        ],
+        "type": "food",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 3 oz",
+        "value": 10,
+        "level": 30,
+        "food quality": "edible",
+        "hunger": "20",
+        "fullness": "20",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 507,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*.            |\n|             #.#            |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A exquisite blade of hammered steel rests against the wall.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a Dwarven guard sword",
+        "slot": "wielded",
+        "keywords": [
+            "sword",
+            "guard",
+            "dwarven"
+        ],
+        "type": "weapon",
+        "weapon type": "sword",
+        "flags": [
+            "none"
+        ],
+        "weight": "4 lbs, 8 oz",
+        "value": 500,
+        "level": 36,
+        "damage": 27,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 508,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*.            |\n|             #.#            |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A heavy cloth cape lies in a heap here.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a Dwarven cape",
+        "slot": "body",
+        "keywords": [
+            "cape",
+            "dwarven"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 250,
+        "level": 36,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "0 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 509,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*.            |\n|             #.#            |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A hammered steel breastplate lies upon the ground.",
+        "materials": [
+            "steel",
+            "leather"
+        ],
+        "name": "a Dwarven breastplate",
+        "slot": "chest",
+        "keywords": [
+            "breastplate",
+            "dwarven"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 350,
+        "level": 36,
+        "armor type": "magic",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "15 magic"
+        ],
+        "effects": [
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 510,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.####         |\n|             #*...#         |\n|             #.####         |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A heavily-treated wool cloak lies here.",
+        "materials": [
+            "cloth",
+            "leather"
+        ],
+        "name": "a Dwarven miners cloak",
+        "slot": "neck",
+        "keywords": [
+            "cloak",
+            "dwarven"
+        ],
+        "type": "armor",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 550,
+        "level": 26,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "12 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "armor class": -20
+            },
+            {
+                "strength": 3
+            }
+        ]
+    },
+    {
+        "id": 511,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.####         |\n|             #*...#         |\n|             #.####         |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A helmet of hammered iron sits on the ground here.",
+        "materials": [
+            "iron",
+            "cloth"
+        ],
+        "name": "a Dwarven iron helmet",
+        "slot": "head",
+        "keywords": [
+            "helmet",
+            "dwarven",
+            "iron"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 450,
+        "level": 36,
+        "armor type": "magic",
+        "armor class": [
+            "12 pierce",
+            "12 bash",
+            "12 slash",
+            "8 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 512,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.####         |\n|             #*...#         |\n|             #.####         |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A small shield of hammered iron rests on the floor.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "a Dwarven shield",
+        "slot": "shield",
+        "keywords": [
+            "shield",
+            "dwarven",
+            "iron"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs",
+        "value": 3500,
+        "level": 36,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "8 magic"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 513,
+        "date": "10/28/2015",
+        "zone": "Dwarven Mine",
+        "map": "+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.####         |\n|             #*...#         |\n|             #.####         |\n|    \"\"\"#######^#            |\n|    \"\"\"...^^^^^#            |\n|    \"\"\"#.#######            |\n|       \"\"\"^##               |\n|       \"\"\"#.#               |\n|       \"\"\"#.#               |\n| Inside the Cave            |\n+----------------------------+",
+        "description": "A pair of iron-shod boots sit here.",
+        "materials": [
+            "iron",
+            "leather"
+        ],
+        "name": "a pair of Dwarven boots",
+        "slot": "feet",
+        "keywords": [
+            "boots",
+            "dwarven",
+            "iron"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs",
+        "value": 300,
+        "level": 36,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "8 magic"
+        ],
+        "effects": [
+            {
+                "moves": 150
+            }
+        ]
+    },
+    {
+        "id": 514,
+        "date": "10/28/2015",
+        "zone": "Kurmost",
+        "map": "+----------------------------+\n| Kurmost                    |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| ####.####^#####            |\n| .............*#            |\n| ####.#####.####            |\n|    #.#   #.#               |\n|    #.#   #.#               |\n|    #.#   ##v               |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| A dining hall              |\n+----------------------------+",
+        "description": "A bone figurine of a Daegar cleric sits here.",
+        "materials": [
+            "bone",
+            "unknown material"
+        ],
+        "name": "a tiny bone figurine of a Daegar cleric",
+        "slot": "held",
+        "keywords": [
+            "cleric",
+            "daegar",
+            "bone",
+            "figurine",
+            "rfig"
+        ],
+        "type": "treasure",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs",
+        "value": 1110,
+        "level": 0,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 515,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|          #.#   #.#         |\n|          #.#   #.#         |\n|          #.#   #.#         |\n|          #.#   #.#         |\n|          #.#   #.#         |\n|          #.#   #.#         |\n|          #.#####.#####.#   |\n|          #...*.........#   |\n|          #############.#   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Between the rows of tents  |\n+----------------------------+",
+        "description": "A medallion from a local goblin tribe lies here.",
+        "materials": [
+            "glass",
+            "unknown material"
+        ],
+        "name": "a tribal medallion",
+        "slot": "neck",
+        "keywords": [
+            "goblin",
+            "tribal",
+            "medallion"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 8 oz",
+        "value": 1720,
+        "level": 34,
+        "armor type": "cloth",
+        "armor class": [
+            "13 pierce",
+            "13 bash",
+            "13 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "wisdom": 1
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 516,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       #.#   #.#            |\n|       #.#   #*#            |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       #.#####.#####.#      |\n|       #.............#      |\n|       #############.#      |\n| Between the rows of tents  |\n+----------------------------+",
+        "description": "There is a bronze emblem of Abanasinian make is laying on the ground.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze book",
+        "slot": "held",
+        "keywords": [
+            "randarmor",
+            "a",
+            "bronze",
+            "book"
+        ],
+        "type": "armor",
+        "flags": [
+            "no_locate",
+            "unique"
+        ],
+        "weight": "3 lbs, 4 oz",
+        "value": 197,
+        "level": 47,
+        "armor type": "light metal",
+        "armor class": [
+            "24 pierce",
+            "24 bash",
+            "23 slash",
+            "24 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "mana": 12
+            }
+        ]
+    },
+    {
+        "id": 517,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       #.#   #.#            |\n|       #.#   #*#            |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       #.#####.#####.#      |\n|       #.............#      |\n|       #############.#      |\n| Between the rows of tents  |\n+----------------------------+",
+        "description": "A pile of dirty leather rags lies here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "dirty leather rags",
+        "slot": "chest",
+        "keywords": [
+            "dirty",
+            "leather",
+            "rags"
+        ],
+        "type": "armor",
+        "flags": [
+            "evil"
+        ],
+        "weight": "4 lbs, 6 oz",
+        "value": 4700,
+        "level": 43,
+        "armor type": "leather",
+        "armor class": [
+            "16 pierce",
+            "16 bash",
+            "16 slash",
+            "8 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "constitution": 1
+            }
+        ]
+    },
+    {
+        "id": 518,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       \"\"\"\"\"\"\"\"\"            |\n|       \"\"\"\"\"\"\"*\"            |\n|       \"\"\"\"\"\"\"\"\"            |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n| A path through the mercen  |\n+----------------------------+",
+        "description": "A pile of red cloth lies here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "the sash of a red dragonarmy officer",
+        "slot": "shoulder",
+        "keywords": [
+            "cloth",
+            "sash",
+            "red",
+            "dragonarmy",
+            "officer"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 13000,
+        "level": 40,
+        "armor type": "cloth",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "7 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 4
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "hp": 40
+            }
+        ]
+    },
+    {
+        "id": 519,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|             \"\"\"\"\"\"\"\"\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| A path through the mercen  |\n+----------------------------+",
+        "description": "A vest made of red and black leather lies here.",
+        "materials": [
+            "leather",
+            "scale"
+        ],
+        "name": "a red and black leather vest",
+        "slot": "chest",
+        "keywords": [
+            "red",
+            "black",
+            "leather",
+            "vest"
+        ],
+        "type": "armor",
+        "flags": [
+            "evil",
+            "magic"
+        ],
+        "weight": "6 lbs",
+        "value": 10600,
+        "level": 110,
+        "armor type": "leather",
+        "armor class": [
+            "40 pierce",
+            "40 bash",
+            "40 slash",
+            "20 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 2
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 11
+            },
+            {
+                "saves": -2
+            }
+        ]
+    },
+    {
+        "id": 520,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|             \"\"\"\"\"\"\"\"\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| A path through the mercen  |\n+----------------------------+",
+        "description": "A long dirk made of black steel lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a black steel dirk",
+        "slot": "wielded",
+        "keywords": [
+            "black",
+            "steel",
+            "dirk"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "evil"
+        ],
+        "weight": "3 lbs, 3 oz",
+        "value": 1560,
+        "level": 31,
+        "damage": 17,
+        "effects": [
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "hp": 10
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 521,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| The Southway               |\n+----------------------------+",
+        "description": "A steel flail lies here.",
+        "materials": [
+            "iron",
+            "steel"
+        ],
+        "name": "a spiked steel flail",
+        "slot": "wielded",
+        "keywords": [
+            "spiked",
+            "steel",
+            "flail"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "none"
+        ],
+        "weight": "15 lbs",
+        "value": 6400,
+        "level": 50,
+        "damage": 40,
+        "effects": [
+            {
+                "dexterity": -1
+            },
+            {
+                "damage roll": 4
+            },
+            {
+                "hit roll": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 523,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|          \"\"\"\"\"\"\"\"\"         |\n|          |\"\"\"\"\"\"\"\"         |\n|          \"\"\"\"\"\"\"\"\"         |\n|          #.#   \"\"\"\"\"\"\"\"\"   |\n|          #.#   \"\"\"\"\"\"\"\"\"   |\n|          #.#   \"\"\"\"\"\"\"\"\"   |\n| A path between the tents   |\n+----------------------------+",
+        "description": "There is a desecrated steel club of Abanasinian make is laying on the ground.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a desecrated steel mace",
+        "slot": "wielded",
+        "keywords": [
+            "randweapon",
+            "a",
+            "desecrated",
+            "steel",
+            "mace"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "anti-good",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "4 lbs, 9 oz",
+        "value": 316,
+        "level": 58,
+        "damage": 39,
+        "effects": [
+            {
+                "mana": 24
+            },
+            {
+                "hp": 12
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 524,
+        "date": "10/28/2015",
+        "zone": "Southern Abanasinia",
+        "map": "+----------------------------+\n| Southern Abanasinia        |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|          \"\"\"\"\"\"\"\"\"         |\n|          |\"\"\"\"\"\"\"\"         |\n|          \"\"\"\"\"\"\"\"\"         |\n|          #.#   \"\"\"\"\"\"\"\"\"   |\n|          #.#   \"\"\"\"\"\"\"\"\"   |\n|          #.#   \"\"\"\"\"\"\"\"\"   |\n| A path between the tents   |\n+----------------------------+",
+        "description": "There is a desecrated bronze visor of Abanasinian make is laying on the ground.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a desecrated bronze visor",
+        "slot": "face",
+        "keywords": [
+            "randarmor",
+            "a",
+            "desecrated",
+            "bronze",
+            "visor"
+        ],
+        "type": "armor",
+        "flags": [
+            "anti-good",
+            "no_locate",
+            "unique"
+        ],
+        "weight": "1 lbs, 3 oz",
+        "value": 150,
+        "level": 58,
+        "armor type": "light metal",
+        "armor class": [
+            "28 pierce",
+            "30 bash",
+            "30 slash",
+            "28 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "mana": 17
+            },
+            {
+                "constitution": 2
+            }
+        ]
+    },
+    {
+        "id": 525,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|       ####.####            |\n|       #.......#            |\n|       ####.####            |\n|       ####.####            |\n|       #.......#            |\n|       ####.####            |\n|          #.####            |\n|          #...*#            |\n|          #.####            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Verigon Family Tent        |\n+----------------------------+",
+        "description": "This suit of chainmail is warm to the touch and gleams with an unholy light.",
+        "materials": [
+            "adamantite",
+            "energy"
+        ],
+        "name": "a suit of red and black chainmail",
+        "slot": "body",
+        "keywords": [
+            "chainmail",
+            "armor",
+            "sargonnas"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "4 lbs, 1 oz",
+        "value": 44,
+        "level": 40,
+        "armor type": "light metal",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "hp": 20
+            }
+        ]
+    },
+    {
+        "id": 526,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.####      |\n|             #*......#      |\n|             ####.####      |\n|             ####.####      |\n|             #.......#      |\n|             ####.####      |\n|                #.####      |\n|                #....#      |\n|                #.####      |\n| Saroth Family Tent         |\n+----------------------------+",
+        "description": "A tiny ball of energy hovers here, what would happen if you ate it?",
+        "materials": [
+            "energy",
+            "unknown material"
+        ],
+        "name": "a small ball of energy",
+        "slot": null,
+        "keywords": [
+            "ball",
+            "energy",
+            "small"
+        ],
+        "type": "pill",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 2500,
+        "level": 20,
+        "spell level": 20,
+        "spells": [
+            "pass door",
+            "corpse visage"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 527,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|             ###   #.####   |\n|             #.#   #....#   |\n|             #.#   #.####   |\n|          ####.#####.#      |\n|          #...*......#      |\n|          ####.#####.#      |\n|             #.#            |\n|             #.#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n| Surrounded by tents        |\n+----------------------------+",
+        "description": "This spear is carved from a rib-bone of some large desert creature.",
+        "materials": [
+            "bone",
+            "unknown material"
+        ],
+        "name": "a bone spear",
+        "slot": "wielded",
+        "keywords": [
+            "spear",
+            "bone"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "magic",
+            "burn_proof"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 2015,
+        "level": 30,
+        "damage": 22,
+        "weapon flags": [
+            "sharp",
+            "throwable"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 528,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|             ###   #.####   |\n|             #*#   #....#   |\n|             #.#   #.####   |\n|          ####.#####.#      |\n|          #..........#      |\n|          ####.#####.#      |\n|             #.#            |\n|             #.#            |\n|             ###            |\n| Storage Tent               |\n+----------------------------+",
+        "description": "A bundle of white silk cloth obviously made for head wear, lies here.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a turban of white silk",
+        "slot": "head",
+        "keywords": [
+            "turbin",
+            "white",
+            "silk"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 26,
+        "level": 30,
+        "armor type": "cloth",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hp": 15
+            },
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 1
+            }
+        ]
+    },
+    {
+        "id": 530,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|             ###   #.####   |\n|             #*#   #....#   |\n|             #.#   #.####   |\n|          ####.#####.#      |\n|          #..........#      |\n|          ####.#####.#      |\n|             #.#            |\n|             #.#            |\n|             ###            |\n| Storage Tent               |\n+----------------------------+",
+        "description": "A bundle of white silk cloth obviously made for head wear, lies here.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a turban of white silk",
+        "slot": "head",
+        "keywords": [
+            "turbin",
+            "white",
+            "silk"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 26,
+        "level": 30,
+        "armor type": "cloth",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hp": 15
+            },
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 1
+            }
+        ]
+    },
+    {
+        "id": 531,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|                ####.####   |\n|                #.......#   |\n|                ####.####   |\n|             ###   #.####   |\n|             #*#   #....#   |\n|             #.#   #.####   |\n|          ####.#####.#      |\n|          #..........#      |\n|          ####.#####.#      |\n|             #.#            |\n|             #.#            |\n|             ###            |\n| Storage Tent               |\n+----------------------------+",
+        "description": "A pair of white silk pantaloons wait here to be worn.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a pair of white silk pantaloons",
+        "slot": "legs",
+        "keywords": [
+            "white",
+            "silk",
+            "pantaloons"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "0 lbs, 4 oz",
+        "value": 26,
+        "level": 30,
+        "armor type": "cloth",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "moves": 30
+            }
+        ]
+    },
+    {
+        "id": 533,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       ###   #.#            |\n|             #.#            |\n|             #..            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Gillar's Tent              |\n+----------------------------+",
+        "description": "A drinking gourd sits here.",
+        "materials": [
+            "plant",
+            "unknown material"
+        ],
+        "name": "a drinking gourd",
+        "keywords": [
+            "drinkcont",
+            "drinking",
+            "gourd"
+        ],
+        "type": "drink",
+        "flags": [
+            "no_locate"
+        ],
+        "weight": "1 lbs, 3 oz",
+        "value": 588,
+        "level": 0,
+        "drinks": 93,
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 534,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       ###   #.#            |\n|             #.#            |\n|             #..            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Gillar's Tent              |\n+----------------------------+",
+        "description": "The severed tail of the wizard Gillar lies here twitching.",
+        "materials": [
+            "leather",
+            "blood"
+        ],
+        "name": "the tail of the wizard Gillar",
+        "slot": "wielded",
+        "keywords": [
+            "tail",
+            "wizard",
+            "gillar",
+            "robed"
+        ],
+        "type": "weapon",
+        "weapon type": "whip",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 213,
+        "level": 3,
+        "damage": 14,
+        "effects": [
+            
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 535,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       ###   #.#            |\n|             #.#            |\n|             #..            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Gillar's Tent              |\n+----------------------------+",
+        "description": "These robes were designed for use by the Magehunters.",
+        "materials": [
+            "silk",
+            "energy"
+        ],
+        "name": "the ancient white robes of a MageHunter",
+        "slot": "chest",
+        "keywords": [
+            "ancient",
+            "robes",
+            "magehunter"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 41,
+        "level": 45,
+        "armor type": "cloth",
+        "armor class": [
+            "17 pierce",
+            "17 bash",
+            "17 slash",
+            "25 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "mana": 30
+            }
+        ]
+    },
+    {
+        "id": 536,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|    ###   #.####            |\n|    #.#   #....#            |\n|    #.#   #.####            |\n| ####.#####.#               |\n| #..........#               |\n| ####.#####.#               |\n|    #.#   #.####            |\n|    #.#   #.##*#            |\n|    ###   #.##.#            |\n|          #.##.#            |\n|          #.....            |\n|          #.####            |\n|          #.#               |\n|          #.#               |\n|          ###               |\n| Morth's Tent               |\n+----------------------------+",
+        "description": "A long magical glass handle with a string of crackling energy eminating from it, lies here.",
+        "materials": [
+            "energy",
+            "glass"
+        ],
+        "name": "an enchanted whip",
+        "slot": "wielded",
+        "keywords": [
+            "whip",
+            "magehunter"
+        ],
+        "type": "weapon",
+        "weapon type": "whip",
+        "flags": [
+            "magic",
+            "bless"
+        ],
+        "weight": "2 lbs, 8 oz",
+        "value": 2235,
+        "level": 40,
+        "damage": 32,
+        "weapon flags": [
+            "shocking"
+        ],
+        "effects": [
+            {
+                "intelligence": 1
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 537,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|    ####.####               |\n|    #.......#               |\n|    ####.####               |\n| ###   #.####               |\n| #.#   #....#               |\n| #.#   #.####               |\n| #.#####.#   ###            |\n| ........#   #*|            |\n| #.#####.#   #.#            |\n| #.#   #.#####.#            |\n| #.#   #.##.##.#            |\n| ###   #.##.##.#            |\n|       #.##.##.#            |\n|       #........            |\n|       #.#####.#            |\n| Warlord's room             |\n+----------------------------+",
+        "description": "This mighty axe was one of many weapons forged by Istar for their Magehunters.",
+        "materials": [
+            "adamantite",
+            "energy"
+        ],
+        "name": "an Istarian axe",
+        "slot": "wielded",
+        "keywords": [
+            "istarian",
+            "axe"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "magic"
+        ],
+        "weight": "4 lbs, 9 oz",
+        "value": 2610,
+        "level": 45,
+        "damage": 36,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 539,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n| #.#   #.####               |\n| #.#   #....#               |\n| ###   #.####               |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|    ####.#######            |\n|    #....##.##*#            |\n|    ####.##.##.#            |\n|       #.##.##.#            |\n|       #........            |\n|       #.##.##.#            |\n|                            |\n|                            |\n|                            |\n| Sanjar's Stash             |\n+----------------------------+",
+        "description": "A guantlet is made of bone with glass spikes rests on the ground.",
+        "materials": [
+            "bone",
+            "glass"
+        ],
+        "name": "a spiked gauntlet",
+        "slot": "wielded",
+        "keywords": [
+            "wicked",
+            "spiked",
+            "gauntlet"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "burn_proof"
+        ],
+        "weight": "4 lbs, 1 oz",
+        "value": 2510,
+        "level": 40,
+        "damage": 36,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "hp": 30
+            }
+        ]
+    },
+    {
+        "id": 540,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|    #.####                  |\n|    #....#                  |\n|    #.####                  |\n| ####.#   ######            |\n| .....#   #....#            |\n| ####.#   #.####            |\n|    #.#####.####            |\n|    #.##.##.##*#            |\n|    #.##.##.##.#            |\n|    #.##.##.##.#            |\n|    #...........            |\n|    #.#####.####            |\n|    #.#   #.####            |\n|    #.#   #....#            |\n|    ###   #.####            |\n| Adralara's Tent            |\n+----------------------------+",
+        "description": "This small bundle of white silk is nearly transparent.",
+        "materials": [
+            "silk",
+            "unknown material"
+        ],
+        "name": "a light, see-through gown",
+        "slot": "chest",
+        "keywords": [
+            "gown",
+            "white",
+            "silk"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs",
+        "value": 39,
+        "level": 35,
+        "armor type": "cloth",
+        "armor class": [
+            "13 pierce",
+            "13 bash",
+            "13 slash",
+            "12 magic"
+        ],
+        "effects": [
+            {
+                "hp": 20
+            },
+            {
+                "intelligence": 2
+            }
+        ]
+    },
+    {
+        "id": 541,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|    #.####                  |\n|    #....#                  |\n|    #.####                  |\n| ####.#   ######            |\n| .....#   #....#            |\n| ####.#   #.####            |\n|    #.#####.####            |\n|    #.##.##.##*#            |\n|    #.##.##.##.#            |\n|    #.##.##.##.#            |\n|    #...........            |\n|    #.#####.####            |\n|    #.#   #.####            |\n|    #.#   #....#            |\n|    ###   #.####            |\n| Adralara's Tent            |\n+----------------------------+",
+        "description": "This staff is one of many weapons forged by Istar for the Magehunters.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "an ancient staff",
+        "slot": "wielded",
+        "keywords": [
+            "staff",
+            "magehunter"
+        ],
+        "type": "weapon",
+        "weapon type": "staff",
+        "flags": [
+            "magic"
+        ],
+        "weight": "3 lbs, 9 oz",
+        "value": 2240,
+        "level": 35,
+        "charges": "none",
+        "damage": 22,
+        "weapon flags": [
+            "shocking"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 545,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|       ####.####            |\n|       #.......#            |\n|       ####.####            |\n|       ####.####            |\n|       #.......#            |\n|       ####.####            |\n|    ###   #.####            |\n|    #.#   #...*#            |\n|    #.#   #.####            |\n| ####.#####.#   ######      |\n| #..........#   #....#      |\n| ####.#####.#   #.####      |\n|    #.#   #.#####.##########|\n|    #.#   #.##.##.##.##.....|\n|    ###   #.##.##.##.##.####|\n| Verigon Family Tent        |\n+----------------------------+",
+        "description": "This ring is obviously designed to be worn as a nose decoration.",
+        "materials": [
+            "gold",
+            "unknown material"
+        ],
+        "name": "a nose ring",
+        "slot": "face",
+        "keywords": [
+            "nose",
+            "ring"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 3 oz",
+        "value": 29,
+        "level": 25,
+        "armor type": "magic",
+        "armor class": [
+            "9 pierce",
+            "9 bash",
+            "9 slash",
+            "8 magic"
+        ],
+        "effects": [
+            {
+                "intelligence": 2
+            }
+        ]
+    },
+    {
+        "id": 546,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|          ####.####         |\n|          #.......#         |\n|          ####.####         |\n|          ####.####         |\n|          #.......#         |\n|          ####.####         |\n|       ###   #.####         |\n|       #.#   #*...#         |\n|       #.#   #.####         |\n|    ####.#####.#   ######   |\n|    #..........#   #....#   |\n|    ####.#####.#   #.####   |\n|       #.#   #.#####.#######|\n|       #.#   #.##.##.##.##..|\n|       ###   #.##.##.##.##.#|\n| Walking through the camp   |\n+----------------------------+",
+        "description": "This flail appears to bleed on its own.",
+        "materials": [
+            "bone",
+            "glass"
+        ],
+        "name": "a bone flail dedicated to Sargonnas",
+        "slot": "wielded",
+        "keywords": [
+            "flail",
+            "sargonnas"
+        ],
+        "type": "weapon",
+        "weapon type": "flail",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 1 oz",
+        "value": 1320,
+        "level": 20,
+        "damage": 20,
+        "effects": [
+            {
+                "strength": 1
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 548,
+        "date": "10/28/2015",
+        "zone": "Trigol",
+        "map": "+----------------------------+\n| Trigol                     |\n|             .........      |\n|             .........      |\n|             .........      |\n|             ####.####      |\n|             #.......#      |\n|             ####.####      |\n|             ####.####      |\n|             #*......#      |\n|             ####.####      |\n|          ###   #.####      |\n|          #.#   #....#      |\n|          #.#   #.####      |\n|       ####.#####.#   ######|\n|       #..........#   #....#|\n|       ####.#####.#   #.####|\n| Leh'vr Family Tent         |\n+----------------------------+",
+        "description": "A skull with spikes fused to it and a leather strap attached, lies here.",
+        "materials": [
+            "bone",
+            "leather"
+        ],
+        "name": "a spiked skull shoulderpad",
+        "slot": "shoulder",
+        "keywords": [
+            "shoulderpad",
+            "skull",
+            "spiked"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "4 lbs, 1 oz",
+        "value": 44,
+        "level": 20,
+        "armor type": "magic",
+        "armor class": [
+            "15 pierce",
+            "15 bash",
+            "15 slash",
+            "14 magic"
+        ],
+        "effects": [
+            {
+                "strength": 2
+            }
+        ]
+    },
+    {
+        "id": 549,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                            |\n|                            |\n|                            |\n|             @.@            |\n|             @.@            |\n|             @.@            |\n|          @@@#.#@@@         |\n|          ....*....         |\n|          @@@#.#@@@         |\n|             #.#            |\n|             #.#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n| Center of the oak          |\n+----------------------------+",
+        "description": "A long ,well worn, meat tenderizer lays here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a tenderizer",
+        "slot": "wielded",
+        "keywords": [
+            "tenderizer"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 11 oz",
+        "value": 1740,
+        "level": 26,
+        "damage": 16,
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "strength": 1
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 550,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                            |\n|                            |\n|                            |\n|             @.@            |\n|             @.@            |\n|             @.@            |\n|          @@@#.#@@@         |\n|          ....*....         |\n|          @@@#.#@@@         |\n|             #.#            |\n|             #.#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n| Center of the oak          |\n+----------------------------+",
+        "description": "A white stew stained apron lays here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a white stew stained apron",
+        "slot": "chest",
+        "keywords": [
+            "cooks",
+            "apron"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 1900,
+        "level": 26,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "6 magic"
+        ],
+        "effects": [
+            {
+                "dexterity": 2
+            },
+            {
+                "intelligence": 1
+            }
+        ]
+    },
+    {
+        "id": 551,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                      ~+~   |\n|                      ~+~   |\n|                      ~+~   |\n|                      @.@   |\n|                      @.@   |\n|                      @.@   |\n|             @@@~~~@@@#.#@@@|\n|             @*.+++.........|\n|             @@@~~~@@@#.#@@@|\n|                      #.#   |\n|                      #.#   |\n|                      ##v   |\n|                            |\n|                            |\n|                            |\n| Cell                       |\n+----------------------------+",
+        "description": "A red dragonskin girth lays here.",
+        "materials": [
+            "flesh",
+            "unknown material"
+        ],
+        "name": "a red dragonskin girth",
+        "slot": "waist",
+        "keywords": [
+            "red",
+            "dragonskin",
+            "girth"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic",
+            "bless"
+        ],
+        "weight": "3 lbs",
+        "value": 2900,
+        "level": 37,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "2 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            }
+        ]
+    },
+    {
+        "id": 552,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                      ~+~   |\n|                      ~+~   |\n|                      ~+~   |\n|                      @.@   |\n|                      @.@   |\n|                      @.@   |\n|             @@@~~~@@@#.#@@@|\n|             @*.+++.........|\n|             @@@~~~@@@#.#@@@|\n|                      #.#   |\n|                      #.#   |\n|                      ##v   |\n|                            |\n|                            |\n|                            |\n| Cell                       |\n+----------------------------+",
+        "description": "A smoldering and tattered robe rests here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "tattered red robes",
+        "slot": "body",
+        "keywords": [
+            "tattered",
+            "red",
+            "robes"
+        ],
+        "type": "container",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 1789,
+        "level": 27,
+        "capacity": "600 items",
+        "max item": "100 lbs",
+        "weighs": "70% of actual weight",
+        "effects": [
+            {
+                "armor class": -5
+            },
+            {
+                "wisdom": 2
+            },
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
+            }
+        ]
+    },
+    {
+        "id": 553,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                      ~+~   |\n|                      ~+~   |\n|                      ~+~   |\n|                      @.@   |\n|                      @.@   |\n|                      @.@   |\n|             @@@~~~@@@#.#@@@|\n|             @*.+++.........|\n|             @@@~~~@@@#.#@@@|\n|                      #.#   |\n|                      #.#   |\n|                      ##v   |\n|                            |\n|                            |\n|                            |\n| Cell                       |\n+----------------------------+",
+        "description": "An iron dagger lays here.",
+        "materials": [
+            "iron",
+            "unknown material"
+        ],
+        "name": "an enchanted iron dagger",
+        "slot": "wielded",
+        "keywords": [
+            "enchanted",
+            "iron",
+            "dagger"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "magic",
+            "nodrop",
+            "noremove"
+        ],
+        "weight": "2 lbs, 12 oz",
+        "value": 1760,
+        "level": 27,
+        "damage": 19,
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "strength": -5
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 554,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|             @.@            |\n|             @.@            |\n|             @.@            |\n|    @@@~~~@@@#.#@@@         |\n|    @..+++.........         |\n|    @@@~~~@@@#.#@@@         |\n|             #.#            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Central platform           |\n+----------------------------+",
+        "description": "A short dagger, with a wide pommel, lays here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a parrying dagger",
+        "slot": "wielded",
+        "keywords": [
+            "parrying",
+            "dagger"
+        ],
+        "type": "weapon",
+        "weapon type": "dagger",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs, 4 oz",
+        "value": 1460,
+        "level": 22,
+        "damage": 13,
+        "effects": [
+            {
+                "damage roll": 1
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "hp": 20
+            },
+            {
+                "armor class": -14
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 555,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|             @.@            |\n|             @.@            |\n|             @.@            |\n|    @@@~~~@@@#.#@@@         |\n|    @..+++.........         |\n|    @@@~~~@@@#.#@@@         |\n|             #.#            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Central platform           |\n+----------------------------+",
+        "description": "A small parrying buckler lays here.",
+        "materials": [
+            "steel",
+            "unknown material"
+        ],
+        "name": "a small buckler",
+        "slot": "shield",
+        "keywords": [
+            "small",
+            "parrying",
+            "buckler"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "3 lbs",
+        "value": 1300,
+        "level": 22,
+        "armor type": "magic",
+        "armor class": [
+            "-4 pierce",
+            "-4 bash",
+            "-4 slash",
+            "-2 magic"
+        ],
+        "effects": [
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 556,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|          ~+~               |\n|          ~+~               |\n|          ~+~               |\n|          @.@               |\n|          @.@               |\n|          @.@               |\n| @@@~~~@@@#.#@@@~~~         |\n| @..+++.......*.+++         |\n| @@@~~~@@@#.#@@@~~~         |\n|          #.#               |\n|          #.#               |\n|          ##v               |\n|                            |\n|                            |\n|                            |\n| Central platform           |\n+----------------------------+",
+        "description": "A black longbow rests on the ground here.",
+        "materials": [
+            "wood",
+            "unknown material"
+        ],
+        "name": "the black longbow \"Bite\"",
+        "slot": "wielded",
+        "keywords": [
+            "longbow",
+            "bite"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "glow",
+            "hum",
+            "magic",
+            "bless"
+        ],
+        "weight": "2 lbs, 14 oz",
+        "value": 1880,
+        "level": 28,
+        "damage": 16,
+        "weapon flags": [
+            "vorpal",
+            "poison"
+        ],
+        "effects": [
+            {
+                "damage roll": 2
+            },
+            {
+                "hit roll": 2
+            }
+        ]
+    },
+    {
+        "id": 557,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|    ~+~                     |\n|    ~+~                     |\n|    ~+~                     |\n|    @.@                     |\n|    @.@                     |\n|    @.@                     |\n| @@@#.#@@@~~~^##            |\n| .........+++.*#            |\n| @@@#.#@@@~~~###            |\n|    #.#                     |\n|    #.#                     |\n|    ##v                     |\n|                            |\n|                            |\n|                            |\n| Guarded platform           |\n+----------------------------+",
+        "description": "A small black leather helm lays here.",
+        "materials": [
+            "leather",
+            "unknown material"
+        ],
+        "name": "a small black helm",
+        "slot": "head",
+        "keywords": [
+            "black",
+            "leather",
+            "helm"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "2 lbs",
+        "value": 1800,
+        "level": 30,
+        "armor type": "magic",
+        "armor class": [
+            "8 pierce",
+            "8 bash",
+            "8 slash",
+            "2 magic"
+        ],
+        "effects": [
+            {
+                "constitution": 1
+            },
+            {
+                "strength": 1
+            }
+        ]
+    },
+    {
+        "id": 558,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|    ~+~                     |\n|    ~+~                     |\n|    ~+~                     |\n|    @.@                     |\n|    @.@                     |\n|    @.@                     |\n| @@@#.#@@@~~~^##            |\n| .........+++.*#            |\n| @@@#.#@@@~~~###            |\n|    #.#                     |\n|    #.#                     |\n|    ##v                     |\n|                            |\n|                            |\n|                            |\n| Guarded platform           |\n+----------------------------+",
+        "description": "A ice blue spear lays here. A ring of frost surrounds it.",
+        "materials": [
+            "steel",
+            "water"
+        ],
+        "name": "an ice blue spear",
+        "slot": "wielded",
+        "keywords": [
+            "ice",
+            "blue",
+            "spear"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 1 oz",
+        "value": 1890,
+        "level": 30,
+        "damage": 33,
+        "weapon flags": [
+            "frost",
+            "vorpal",
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            },
+            {
+                "armor class": -10
+            }
+        ]
+    },
+    {
+        "id": 559,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ^##            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Trocks office              |\n+----------------------------+",
+        "description": "A pair of stone gauntlets rests here.",
+        "materials": [
+            "rock",
+            "unknown material"
+        ],
+        "name": "gauntlets of granite",
+        "slot": "hands",
+        "keywords": [
+            "granite",
+            "gauntlets"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs",
+        "value": 1200,
+        "level": 30,
+        "armor type": "magic",
+        "armor class": [
+            "7 pierce",
+            "7 bash",
+            "7 slash",
+            "1 magic"
+        ],
+        "effects": [
+            {
+                "damage roll": 3
+            },
+            {
+                "dexterity": 2
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Trock's chambers           |\n+----------------------------+",
+        "description": "A huge two-handed axe rests here.",
+        "materials": [
+            "steel",
+            "wood"
+        ],
+        "name": "a nasty looking axe",
+        "slot": "wielded",
+        "keywords": [
+            "two-handed",
+            "axe",
+            "nasty"
+        ],
+        "type": "weapon",
+        "weapon type": "axe",
+        "flags": [
+            "none"
+        ],
+        "weight": "3 lbs, 9 oz",
+        "value": 2240,
+        "level": 35,
+        "damage": 24,
+        "weapon flags": [
+            "vorpal"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "hp": 10
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Trock's chambers           |\n+----------------------------+",
+        "description": "A twig can barely be seen here.",
+        "materials": [
+            "wood",
+            "air"
+        ],
+        "name": "a translucent twig",
+        "slot": "held",
+        "keywords": [
+            "translucent",
+            "twig"
+        ],
+        "type": "wand",
+        "flags": [
+            "magic"
+        ],
+        "weight": "0 lbs, 11 oz",
+        "value": 1500,
+        "level": 35,
+        "charges": "5",
+        "spell level": 35,
+        "spell": "pass door",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 563,
+        "date": "10/28/2015",
+        "zone": "Bandit Area",
+        "map": "+----------------------------+\n| Bandit Area                |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             @@@            |\n|             @*@            |\n|             @@@            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The pit                    |\n+----------------------------+",
+        "description": "A green gem in the shape of a cats eye was left here.",
+        "materials": [
+            "emerald",
+            "unknown material"
+        ],
+        "name": "a green gem",
+        "slot": "held",
+        "keywords": [
+            "green",
+            "gem",
+            "cats",
+            "eye"
+        ],
+        "type": "wand",
+        "flags": [
+            "magic"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 2222,
+        "level": 27,
+        "charges": "5",
+        "spell level": 27,
+        "spell": "shield",
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 564,
+        "date": "10/28/2015",
+        "zone": "Qualinost",
+        "map": "+----------------------------+\n| Qualinost                  |\n| ####.###########.#         |\n| .................#         |\n| ####.#####.#####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          #.#####.#         |\n|          ....*##.#         |\n|          ..#####.#         |\n|          ..#####.#         |\n|          .....##.#         |\n|          #######.#         |\n|                #.#######   |\n|                ........#   |\n|                #######.#   |\n| The day room               |\n+----------------------------+",
+        "description": "A warhammer with a long spike on one side lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a black horseman's pick",
+        "slot": "wielded",
+        "keywords": [
+            "warhammer",
+            "spike",
+            "horseman's",
+            "pick"
+        ],
+        "type": "weapon",
+        "weapon type": "mace",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 6 oz",
+        "value": 5603,
+        "level": 53,
+        "damage": 36,
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 4
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 566,
+        "date": "10/28/2015",
+        "zone": "Qualinost",
+        "map": "+----------------------------+\n| Qualinost                  |\n| ####.###########.#         |\n| .................#         |\n| ####.#####.#####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          #.#####.#         |\n|          ....*##.#         |\n|          ..#####.#         |\n|          ..#####.#         |\n|          .....##.#         |\n|          #######.#         |\n|                #.#######   |\n|                ........#   |\n|                #######.#   |\n| The day room               |\n+----------------------------+",
+        "description": "A two-pronged spear lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a silver military fork",
+        "slot": "wielded",
+        "keywords": [
+            "two-pronged",
+            "spear",
+            "military",
+            "fork"
+        ],
+        "type": "weapon",
+        "weapon type": "staff",
+        "flags": [
+            "none"
+        ],
+        "weight": "5 lbs, 4 oz",
+        "value": 5933,
+        "level": 52,
+        "charges": "none",
+        "damage": 31,
+        "weapon flags": [
+            "sharp"
+        ],
+        "effects": [
+            {
+                "damage roll": 5
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "dexterity": -1
+            },
+            {
+                "hp": 10
+            }
+        ]
+    },
+    {
+        "id": 567,
+        "date": "10/28/2015",
+        "zone": "Qualinost",
+        "map": "+----------------------------+\n| Qualinost                  |\n| ####.###########.#         |\n| .................#         |\n| ####.#####.#####.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|          #.#####.#         |\n|          ....*##.#         |\n|          ..#####.#         |\n|          ..#####.#         |\n|          .....##.#         |\n|          #######.#         |\n|                #.#######   |\n|                ........#   |\n|                #######.#   |\n| The day room               |\n+----------------------------+",
+        "description": "A strange, multi-bladed spear that has been etched with gold lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a gold-etched ranseur",
+        "slot": "wielded",
+        "keywords": [
+            "spear",
+            "gold",
+            "etched",
+            "ranseur"
+        ],
+        "type": "weapon",
+        "weapon type": "exotic",
+        "flags": [
+            "none"
+        ],
+        "weight": "8 lbs, 6 oz",
+        "value": 6322,
+        "level": 52,
+        "damage": 49,
+        "weapon flags": [
+            "two-handed"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 5
+            },
+            {
+                "dexterity": -1
+            }
+        ]
+    },
+    {
+        "id": 568,
+        "date": "10/28/2015",
+        "zone": "Solace Thieves Guild",
+        "map": "+----------------------------+\n| Solace Thieves Guild       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             |*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A Sleeping Room            |\n+----------------------------+",
+        "description": "A stud earring made of a white-like material is here.",
+        "materials": [
+            "bone",
+            "silver"
+        ],
+        "name": "an Albino Stud Earring",
+        "slot": "ear",
+        "keywords": [
+            "albino",
+            "stud",
+            "ear",
+            "ring",
+            "earring"
+        ],
+        "type": "jewelry",
+        "flags": [
+            "glow",
+            "magic",
+            "bless",
+            "burn_proof"
+        ],
+        "weight": "0 lbs, 1 oz",
+        "value": 5000,
+        "level": 30,
+        "effects": [
+            {
+                "mana": 30
+            },
+            {
+                "armor class": -10
+            },
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 569,
+        "date": "10/28/2015",
+        "zone": "Solace Thieves Guild",
+        "map": "+----------------------------+\n| Solace Thieves Guild       |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|          #-##.##########@@@|\n|          |.................|\n|          #.########.##.#@@@|\n|          #.#      #.##.#   |\n|          |.#      #.##.#   |\n|          #.#      #####v   |\n| A Sleeping Room            |\n+----------------------------+",
+        "description": "A pair of glasses, whose trim is made of a white-like material is here.",
+        "materials": [
+            "bone",
+            "glass"
+        ],
+        "name": "a pair of Albino Glasses",
+        "slot": "face",
+        "keywords": [
+            "albino",
+            "glasses",
+            "strange",
+            "armor"
+        ],
+        "type": "armor",
+        "flags": [
+            "glow",
+            "magic",
+            "bless"
+        ],
+        "weight": "0 lbs, 8 oz",
+        "value": 5000,
+        "level": 25,
+        "armor type": "godlike",
+        "armor class": [
+            "1 pierce",
+            "1 bash",
+            "0 slash",
+            "0 magic"
+        ],
+        "effects": [
+            {
+                "mana": 25
+            },
+            {
+                "hit roll": 1
+            },
+            {
+                "damage roll": 1
+            }
+        ]
+    },
+    {
+        "id": 570,
+        "date": "10/28/2015",
+        "zone": "The Ruins of Itzan Nul",
+        "map": "+----------------------------+\n| The Ruins of Itzan Nul     |\n|                            |\n|                            |\n|                            |\n|             ####.####      |\n|             #........      |\n|             #.#####.#      |\n|             #.#   #.####   |\n|             #*#   .....#   |\n|             ###   #.####   |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n| Inside a Collapsed Room    |\n+----------------------------+",
+        "description": "There is a pair of shoulderpads made of a white-like material here.",
+        "materials": [
+            "bone",
+            "silver"
+        ],
+        "name": "a pair of Albino Shoulderpads",
+        "slot": "shoulder",
+        "keywords": [
+            "shoulderpads",
+            "albino"
+        ],
+        "type": "armor",
+        "flags": [
+            "magic"
+        ],
+        "weight": "5 lbs",
+        "value": 12500,
+        "level": 85,
+        "armor type": "metal",
+        "armor class": [
+            "25 pierce",
+            "25 bash",
+            "25 slash",
+            "10 magic"
+        ],
+        "effects": [
+            {
+                "hp": 55
+            },
+            {
+                "damage roll": 6
+            },
+            {
+                "hit roll": 5
+            },
+            {
+                "mana": 55
+            }
+        ]
+    },
+    {
+        "id": 571,
+        "date": "10/28/2015",
+        "zone": "The Ruins of Itzan Nul",
+        "map": "+----------------------------+\n| The Ruins of Itzan Nul     |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ####.####         |\n|          #...*....         |\n|          #.#####.#         |\n|          #.#   #.####      |\n|          #.#   .....#      |\n|          ###   #.####      |\n|                \"\"\"         |\n|                \"\"\"         |\n|                \"\"\"         |\n| On a Path Through the Rui  |\n+----------------------------+",
+        "description": "There is a spear here with a tip made of silver.",
+        "materials": [
+            "silver",
+            "wood"
+        ],
+        "name": "a silver tipped spear",
+        "slot": "wielded",
+        "keywords": [
+            "silver",
+            "tipped",
+            "spear"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "none"
+        ],
+        "weight": "7 lbs, 8 oz",
+        "value": 4500,
+        "level": 100,
+        "damage": 71,
+        "weapon flags": [
+            "sharp",
+            "two-handed",
+            "poison"
+        ],
+        "effects": [
+            
+        ]
+    },
+    {
+        "id": 572,
+        "date": "10/28/2015",
+        "zone": "The Ruins of Itzan Nul",
+        "map": "+----------------------------+\n| The Ruins of Itzan Nul     |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ####.####      |\n|             #*.......      |\n|             #.#####.#      |\n|             #.#   #.####   |\n|             #.#   .....#   |\n|             ###   #.####   |\n|                   \"\"\"      |\n|                   \"\"\"      |\n|                   \"\"\"      |\n| Inside a Ruined Temple     |\n+----------------------------+",
+        "description": "There is a wristguard made of bronze here.",
+        "materials": [
+            "bronze",
+            "unknown material"
+        ],
+        "name": "a bronze wristguard",
+        "slot": "wrist",
+        "keywords": [
+            "wristguard",
+            "bronze"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 750,
+        "level": 35,
+        "armor type": "light metal",
+        "armor class": [
+            "10 pierce",
+            "10 bash",
+            "10 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "hp": 20
+            },
+            {
+                "damage roll": 2
+            },
+            {
+                "constitution": 2
+            }
+        ]
+    },
+    {
+        "id": 573,
+        "date": "10/29/2015",
+        "zone": "Southwest Plains of Dust",
+        "map": "+----------------------------+\n| Southwest Plains of Dust   |\n|       \"\"\"\"\"\"\"\"\"\"\"\"........#|\n|       \"\"\"\"\"\"\"\"\"\"\"\".........|\n|       \"\"\"\"\"\"\"\"\"\"\"\"..##.....|\n|       \"\"\"\"\"\"\"\"\"\"\"\"..##.....|\n|       \"\"\"\"\"\"\"\"\"\"\"\"..##.....|\n|       \"\"\"\"\"\"\"\"\"\"\"\"..##.....|\n|          \"\"\"\"\"\"\"\"\"   #.....|\n|          \"\"\"\"*\"\"\"\"   #.....|\n|          \"\"\"\"\"\"\"\"\"   ######|\n|       \"\"\"\"\"\"               |\n|       \"\"\"\"\"\"               |\n|       \"\"\"\"\"\"               |\n| #######.#                  |\n| ........#                  |\n| #######.#                  |\n| A blackened field          |\n+----------------------------+",
+        "description": "A beautifully-carved spear made of vallenwood lies here.",
+        "materials": [
+            "wood",
+            "steel"
+        ],
+        "name": "a vallenwood spear",
+        "slot": "wielded",
+        "keywords": [
+            "vallenwood",
+            "spear"
+        ],
+        "type": "weapon",
+        "weapon type": "spear",
+        "flags": [
+            "magic"
+        ],
+        "weight": "8 lbs",
+        "value": 4400,
+        "level": 70,
+        "damage": 44,
+        "effects": [
+            {
+                "hit roll": 5
+            },
+            {
+                "damage roll": 5
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 574,
+        "date": "10/29/2015",
+        "zone": "Southwest Plains of Dust",
+        "map": "+----------------------------+\n| Southwest Plains of Dust   |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #....#         |\n|             #*...#         |\n|             #....#         |\n|             #....#         |\n|             #.....         |\n|             #....#         |\n|             #....#         |\n|             #....#         |\n|             #.####         |\n| The Plains of Dust         |\n+----------------------------+",
+        "description": "A whip made of black leather lies here.",
+        "materials": [
+            "steel",
+            "iron"
+        ],
+        "name": "a black whip",
+        "slot": "wielded",
+        "keywords": [
+            "black",
+            "whip"
+        ],
+        "type": "weapon",
+        "weapon type": "whip",
+        "flags": [
+            "none"
+        ],
+        "weight": "2 lbs",
+        "value": 4300,
+        "level": 28,
+        "damage": 15,
+        "effects": [
+            {
+                "dexterity": 1
+            },
+            {
+                "wisdom": 2
+            },
+            {
+                "hit roll": 3
+            },
+            {
+                "damage roll": 3
+            }
+        ],
+        "weapon flags": [
+            
+        ]
+    },
+    {
+        "id": 575,
+        "date": "10/29/2015",
+        "zone": "Southwest Plains of Dust",
+        "map": "+----------------------------+\n| Southwest Plains of Dust   |\n|          ################.#|\n|          ..................|\n|          ##v##v#######.####|\n|    ######   ^##      #.####|\n|    .....#   #.#      #.....|\n|    .....#   #.#      #.....|\n|    .....#####.#      #.....|\n|    ..........*#      #.....|\n|    ...........#      #.####|\n|    ...........########.#   |\n|    ....................#   |\n|    #####################   |\n|                            |\n|                            |\n|                            |\n| A tribal encampment        |\n+----------------------------+",
+        "description": "A fur mantle of barbarian design lies here.",
+        "materials": [
+            "cloth",
+            "unknown material"
+        ],
+        "name": "a barbarian fur mantle",
+        "slot": "shoulder",
+        "keywords": [
+            "fur",
+            "mantle",
+            "barbarian"
+        ],
+        "type": "armor",
+        "flags": [
+            "none"
+        ],
+        "weight": "1 lbs, 8 oz",
+        "value": 4000,
+        "level": 30,
+        "armor type": "cloth",
+        "armor class": [
+            "11 pierce",
+            "11 bash",
+            "11 slash",
+            "5 magic"
+        ],
+        "effects": [
+            {
+                "hit roll": 2
+            },
+            {
+                "damage roll": 2
             }
         ]
     }
