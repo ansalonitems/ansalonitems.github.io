@@ -5480,47 +5480,6 @@
         ]
     },
     {
-        "id": 171,
-        "date": "10/04/2015",
-        "zone": "Thelgaard Keep",
-        "map": "+----------------------------+\n| Thelgaard Keep             |\n|             #.#            |\n|             ...            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             ^.#            |\n|             .*.            |\n|             #.#            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Central Hall           |\n+----------------------------+",
-        "description": "A steel flail lies here.",
-        "materials": [
-            "iron",
-            "steel"
-        ],
-        "name": "a spiked steel flail",
-        "slot": "wielded",
-        "keywords": [
-            "spiked",
-            "steel",
-            "flail"
-        ],
-        "type": "weapon",
-        "weapon type": "flail",
-        "flags": [
-            "none"
-        ],
-        "weight": "15 lbs",
-        "value": 120,
-        "level": 50,
-        "damage": 40,
-        "effects": [
-            {
-                "dexterity": -1
-            },
-            {
-                "damage roll": 4
-            },
-            {
-                "hit roll": 4
-            }
-        ],
-        "weapon flags": [
-            
-        ]
-    },
-    {
         "id": 172,
         "date": "10/04/2015",
         "zone": "Thelgaard Keep",
@@ -11553,7 +11512,7 @@
             "unknown material"
         ],
         "name": "a silver heart shaped locket",
-        "slot": "light",
+        "slot": null,
         "keywords": [
             "locket",
             "heart"
@@ -11845,54 +11804,6 @@
             },
             {
                 "hp": 25
-            }
-        ]
-    },
-    {
-        "id": 341,
-        "date": "10/10/2015",
-        "zone": "Tantallon",
-        "map": "+----------------------------+\n| Tantallon                  |\n| #.##.##.##.#               |\n| ...........#               |\n| #.########.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#               |\n| #.#      #.#^##            |\n| #.#      #...*#            |\n| #.#      ######            |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #.#                        |\n| #..                        |\n| #.#                        |\n| Southeastern Guardtower    |\n+----------------------------+",
-        "description": "The shield of the tantallon guard, emblazoned with symbols, is here.",
-        "materials": [
-            "steel",
-            "unknown material"
-        ],
-        "name": "the emblazoned shield of a Tantallon guard",
-        "slot": "shield",
-        "keywords": [
-            "tantallon",
-            "guard",
-            "shield",
-            "emblazoned"
-        ],
-        "type": "armor",
-        "flags": [
-            "bless",
-            "burn_proof"
-        ],
-        "weight": "7 lbs, 8 oz",
-        "value": 750,
-        "level": 55,
-        "armor type": "heavy metal",
-        "armor class": [
-            "27 pierce",
-            "27 bash",
-            "27 slash",
-            "14 magic"
-        ],
-        "effects": [
-            {
-                "strength": 2
-            },
-            {
-                "hit roll": 3
-            },
-            {
-                "mana": 10
-            },
-            {
-                "damage roll": 3
             }
         ]
     },
@@ -12700,7 +12611,7 @@
             "unknown material"
         ],
         "name": "an outrigger called 'Waverunner'",
-        "slot": "light",
+        "slot": null,
         "keywords": [
             "waverunner",
             "boat"
@@ -16396,45 +16307,6 @@
         ]
     },
     {
-        "id": 466,
-        "date": "10/28/2015",
-        "zone": "The City of Garnet",
-        "map": "+----------------------------+\n| The City of Garnet         |\n|                            |\n|                            |\n|                            |\n|             #-#   ###      |\n|             #.#   #.#      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             #*.........#   |\n|             #.########.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.#   |\n|             #.#      #.####|\n|             #..      ......|\n|             #.#      #.##.#|\n| West Street                |\n+----------------------------+",
-        "description": "A hardened leather shield with the symbol of Garnet lies here.",
-        "materials": [
-            "leather",
-            "unknown material"
-        ],
-        "name": "a Garnet cityguard shield",
-        "slot": "shield",
-        "keywords": [
-            "garnet",
-            "shield",
-            "leather",
-            "",
-            "cityguard"
-        ],
-        "type": "armor",
-        "flags": [
-            "none"
-        ],
-        "weight": "6 lbs",
-        "value": 24,
-        "level": 14,
-        "armor type": "cloth",
-        "armor class": [
-            "6 pierce",
-            "6 bash",
-            "6 slash",
-            "0 magic"
-        ],
-        "effects": [
-            {
-                "dexterity": 2
-            }
-        ]
-    },
-    {
         "id": 467,
         "date": "10/28/2015",
         "zone": "The City of Garnet",
@@ -16464,36 +16336,6 @@
             "6 slash",
             "0 magic"
         ],
-        "effects": [
-            
-        ]
-    },
-    {
-        "id": 468,
-        "date": "10/28/2015",
-        "zone": "Autumnstar's Keep",
-        "map": "+----------------------------+\n| Autumnstar's Keep          |\n|                            |\n|                            |\n|                            |\n|                ^#####      |\n|                #....#      |\n|                #.####      |\n|    @.@\"\"\"\"\"\"####.####      |\n|    @..\"\"\"\"\"\".*......#      |\n|    @.@\"\"\"\"\"\"####.###v      |\n|    #.#         #.#         |\n|    #.#         #.#         |\n|    #.#         ###         |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| The Bard's Song Inn        |\n+----------------------------+",
-        "description": "A set of shelves for slippers stands here.",
-        "materials": [
-            "unknown material",
-            "unknown material"
-        ],
-        "name": "a set of shelves for slippers",
-        "slot": "feet",
-        "keywords": [
-            "shelf",
-            "shelves",
-            "slipper"
-        ],
-        "type": "container",
-        "flags": [
-            "none"
-        ],
-        "weight": "0 lbs",
-        "value": 0,
-        "level": 1,
-        "capacity": "10000 items",
-        "max item": "100 lbs",
         "effects": [
             
         ]
@@ -17637,41 +17479,6 @@
         ]
     },
     {
-        "id": 502,
-        "date": "10/28/2015",
-        "zone": "The City of Garnet",
-        "map": "+----------------------------+\n| The City of Garnet         |\n|             @.@@@@@@@#.#   |\n|             ............   |\n|             @.......@###   |\n|             @.......@      |\n|             @.......@      |\n|             @.......@      |\n|             @.......@      |\n|             .*.......      |\n|             @.@@@@@@@      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| A trail through the park   |\n+----------------------------+",
-        "description": "A bunch of strange, green herbs are growing here.",
-        "materials": [
-            "food",
-            "unknown material"
-        ],
-        "name": "a bunch of herbs",
-        "slot": null,
-        "keywords": [
-            "strange",
-            "herbs",
-            "green",
-            "bunch"
-        ],
-        "type": "pill",
-        "flags": [
-            "magic"
-        ],
-        "weight": "0 lbs, 1 oz",
-        "value": 469,
-        "level": 10,
-        "spell level": 10,
-        "spells": [
-            "change sex",
-            "fly",
-            "pass door"
-        ],
-        "effects": [
-            
-        ]
-    },
-    {
         "id": 503,
         "date": "10/28/2015",
         "zone": "The City of Garnet",
@@ -18749,40 +18556,6 @@
         ]
     },
     {
-        "id": 534,
-        "date": "10/28/2015",
-        "zone": "Trigol",
-        "map": "+----------------------------+\n| Trigol                     |\n|       #.#   #.#            |\n|       #.#   #.#            |\n|       ###   #.#            |\n|             #.#            |\n|             #..            |\n|             #.#            |\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Gillar's Tent              |\n+----------------------------+",
-        "description": "The severed tail of the wizard Gillar lies here twitching.",
-        "materials": [
-            "leather",
-            "blood"
-        ],
-        "name": "the tail of the wizard Gillar",
-        "slot": "wielded",
-        "keywords": [
-            "tail",
-            "wizard",
-            "gillar",
-            "robed"
-        ],
-        "type": "weapon",
-        "weapon type": "whip",
-        "flags": [
-            "none"
-        ],
-        "weight": "2 lbs, 8 oz",
-        "value": 213,
-        "level": 3,
-        "damage": 14,
-        "effects": [
-            
-        ],
-        "weapon flags": [
-            
-        ]
-    },
-    {
         "id": 535,
         "date": "10/28/2015",
         "zone": "Trigol",
@@ -19325,49 +19098,6 @@
             },
             {
                 "strength": -5
-            }
-        ],
-        "weapon flags": [
-            
-        ]
-    },
-    {
-        "id": 554,
-        "date": "10/28/2015",
-        "zone": "Bandit Area",
-        "map": "+----------------------------+\n| Bandit Area                |\n|             @.@            |\n|             @.@            |\n|             @.@            |\n|    @@@~~~@@@#.#@@@         |\n|    @..+++.........         |\n|    @@@~~~@@@#.#@@@         |\n|             #.#            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Central platform           |\n+----------------------------+",
-        "description": "A short dagger, with a wide pommel, lays here.",
-        "materials": [
-            "steel",
-            "unknown material"
-        ],
-        "name": "a parrying dagger",
-        "slot": "wielded",
-        "keywords": [
-            "parrying",
-            "dagger"
-        ],
-        "type": "weapon",
-        "weapon type": "dagger",
-        "flags": [
-            "none"
-        ],
-        "weight": "2 lbs, 4 oz",
-        "value": 1460,
-        "level": 22,
-        "damage": 13,
-        "effects": [
-            {
-                "damage roll": 1
-            },
-            {
-                "hit roll": 1
-            },
-            {
-                "hp": 20
-            },
-            {
-                "armor class": -14
             }
         ],
         "weapon flags": [
