@@ -78,8 +78,8 @@ module.exports = getConfig({
     })
 
     createItemsMapping(mappings, data, zones, 'zone', (function(it, item) { return item.zone === it }))
-    createItemsMapping(mappings, data, slots, 'slot', (function(it, item) { return item.slot === it }))
     createItemsMapping(mappings, data, types, 'types', (function(it, item) { return item.type === it }))
+    createItemsMapping(mappings, data, slots, 'slot', (function(it, item) { return item.slot === it }))
     createItemsMapping(mappings, data, weaponTypes, 'weapon type', (function(it, item) { return item['weapon type'] === it }))
 
     return mappings

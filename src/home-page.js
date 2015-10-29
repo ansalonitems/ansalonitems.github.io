@@ -186,8 +186,16 @@ export default React.createClass({
           Potions
         </a>
         <a href={`/items/pill/`}
-              className="button button-outlined big-button">
+           className="button button-outlined big-button">
           Pills
+        </a>
+        <a href={`/items/boat/`}
+           className="button button-outlined big-button">
+          Boats
+        </a>
+        <a href={`/items/key/`}
+           className="button button-outlined big-button">
+          Keys
         </a>
       </PageComponent>
     )
