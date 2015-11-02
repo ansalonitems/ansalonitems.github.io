@@ -32,13 +32,7 @@ module.exports = getConfig({
   out: 'public',
   clearBeforeBuild: true,
   html: function (data) {
-    // use React's `renderToString` method to return an HTML string from our
-    // components (dynamic values can be passed into `createElement` too)
-    var homePageHtmlString = React.renderToString(React.createElement(HomePage))
-
-    var mappings = {
-      'index.html': data.defaultTemplate({html: homePageHtmlString}),
-    }
+    var mappings = {}
 
     var slots = []
     var types = []
@@ -81,6 +75,16 @@ module.exports = getConfig({
     createItemsMapping(mappings, data, types, 'types', (function(it, item) { return item.type === it }))
     createItemsMapping(mappings, data, slots, 'slot', (function(it, item) { return item.slot === it }))
     createItemsMapping(mappings, data, weaponTypes, 'weapon type', (function(it, item) { return item['weapon type'] === it }))
+
+    var homePageHtmlString = React.renderToString(React.createElement(HomePage, {
+      zones: zones,
+      types: types,
+      slots: slots,
+      weaponTypes: weaponTypes,
+      items: items
+    }))
+
+    mappings['index.html'] = data.defaultTemplate({html: homePageHtmlString})
 
     return mappings
   }
