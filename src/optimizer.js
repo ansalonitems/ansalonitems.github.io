@@ -7,7 +7,9 @@ export default React.createClass({
   displayName: 'OptimizerPage',
 
   getInitialState() {
-    return {}
+    return {
+      level: 1
+    }
   },
 
   handleLevelChanged(e) {
