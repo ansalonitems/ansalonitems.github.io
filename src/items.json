@@ -7395,39 +7395,6 @@
         ]
     },
     {
-        "id": 265,
-        "date": "10/10/2015",
-        "zone": "Kurmost",
-        "map": "+----------------------------+\n| Kurmost                    |\n|          #.#####.#####.#   |\n|          ...............   |\n|          #######.#######   |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ####.#         |\n|             #*....         |\n|             #.##.#         |\n|             #.#            |\n|             #..            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n| The Kitchen                |\n+----------------------------+",
-        "description": "A cork figure of Majere sits here.",
-        "materials": [
-            "cork",
-            "unknown material"
-        ],
-        "name": "a small cork figure of Majere",
-        "slot": "held",
-        "keywords": [
-            "majere",
-            "cork",
-            "figure",
-            "gfig"
-        ],
-        "type": "treasure",
-        "source": {
-            "source": "An assistant cook",
-            "type": "loot"
-        },
-        "flags": [
-            "no_locate"
-        ],
-        "weight": "1 lbs",
-        "value": 2120,
-        "level": 0,
-        "effects": [
-            
-        ]
-    },
-    {
         "id": 267,
         "date": "10/10/2015",
         "zone": "Kurmost",
