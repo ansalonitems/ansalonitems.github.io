@@ -12090,11 +12090,12 @@
             "dwarven",
             "crossbow"
         ],
-        "type": "crossbow",
+        "type": "weapon",
         "source": {
             "source": "ground",
             "type": "take"
         },
+        "weapon type": "crossbow",
         "flags": [
             "none"
         ],
@@ -12115,6 +12116,9 @@
             {
                 "hp": 20
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
@@ -25008,11 +25012,12 @@
             "crossbow",
             "training"
         ],
-        "type": "crossbow",
+        "type": "weapon",
         "source": {
             "type": "bought",
             "source": "store"
         },
+        "weapon type": "crossbow",
         "flags": [
             "burn_proof"
         ],
@@ -25024,6 +25029,9 @@
         "min str": 3,
         "fire rate": 4,
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
@@ -25108,11 +25116,12 @@
             "dart",
             "training"
         ],
-        "type": "dart",
+        "type": "weapon",
         "source": {
             "type": "bought",
             "source": "store"
         },
+        "weapon type": "dart",
         "flags": [
             "burn_proof"
         ],
@@ -25122,6 +25131,9 @@
         "durability": "25%",
         "damage": 2,
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
@@ -26499,11 +26511,12 @@
             "heavy",
             "crossbow"
         ],
-        "type": "crossbow",
+        "type": "weapon",
         "source": {
             "type": "bought",
             "source": "store"
         },
+        "weapon type": "crossbow",
         "flags": [
             "none"
         ],
@@ -26521,6 +26534,9 @@
             {
                 "dexterity": -3
             }
+        ],
+        "weapon flags": [
+            
         ]
     },
     {
