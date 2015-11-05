@@ -6,6 +6,7 @@ var React = require('react')
 var HomePage = require('./src/home-page')
 var ItemsPage = require('./src/items-page')
 var ItemPage = require('./src/item-page')
+var OptimizedPage = require('./src/optimized-page.js')
 var items = require('./src/items.json')
 
 // our hjs-webpack, of course
@@ -89,6 +90,27 @@ module.exports = getConfig({
     }))
 
     mappings['index.html'] = data.defaultTemplate({html: homePageHtmlString})
+
+    var gearBySlot = {}
+    items.forEach(function(item) {
+      if(item.slot) {
+        gearBySlot[item.slot] = gearBySlot[item.slot] || []
+        gearBySlot[item.slot].push(item)
+      }
+    })
+
+    slots.forEach(function(slot) {
+      gearBySlot[slot] = gearBySlot[slot].sort(function(a, b) {
+        return a.level - b.level
+      })
+    })
+
+    Array(101).fill(0).map(function(__, level) {
+      level = level + 1
+      mappings['optimizer/for/' + level + '/index.html'] = data.defaultTemplate({
+        html: React.renderToString(React.createElement(OptimizedPage, {gearBySlot: gearBySlot, level: level}))
+      })
+    })
 
     return mappings
   }

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "rm -rf public && webpack"
+    "start-optimizer": "webpack-dev-server --config optimizer.webpack.config.js",
+    "build": "rm -rf public && webpack && webpack --config optimizer.webpack.config.js && mv public/optimizer/optimizer* public/"
   },
   "repository": {
     "type": "git",
