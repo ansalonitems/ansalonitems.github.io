@@ -25051,11 +25051,12 @@
             "blowgun",
             "training"
         ],
-        "type": "blowgun",
+        "type": "weapon",
         "source": {
             "type": "bought",
             "source": "store"
         },
+        "weapon type": "blowgun",
         "flags": [
             "burn_proof"
         ],
@@ -25064,6 +25065,9 @@
         "level": 15,
         "fire rate": 10,
         "effects": [
+            
+        ],
+        "weapon flags": [
             
         ]
     },
