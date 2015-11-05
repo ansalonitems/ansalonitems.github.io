@@ -27,6 +27,24 @@ export default React.createClass({
     return <ItemComponent item={item}></ItemComponent>
   },
 
+  getSource(item) {
+    if(item.type === 'loot') {
+      return `It is looted from ${item.source}.`
+    } else if(item.type === 'gift') {
+      return `It is given by ${item.source}.`
+    } else if(item.type === 'drops') {
+      return `It is dropped by ${item.source}.`
+    } else if(item.type === 'take' && item.source === 'ground') {
+      return 'It is found on the ground.'
+    } else if(item.type === 'take') {
+      return `It is found inside ${item.source}.`
+    } else if(item.type === 'bought') {
+      return 'It is bought from a shop.'
+    } else {
+      return 'Its source is unknown.'
+    }
+  },
+
   render() {
     const item = this.props.item
     const details = this.getDetails(item)
@@ -40,6 +58,8 @@ export default React.createClass({
     location = location.replace(/\^/g, '<span class="map-caret">^</span>')
     location = location.replace(/v/g, '<span class="map-caret">v</span>')
 
+    const source = this.getSource(item.source)
+
     return (
       <PageComponent>
         <div className="to-table">
@@ -47,6 +67,7 @@ export default React.createClass({
             <div className="item-block-name">
               <h2>{item.name}</h2>
               <h5>{item.description}</h5>
+              <h5>{source}</h5>
               <div>Added {moment(new Date(item.date)).format('ll')}.</div>
             </div>
 

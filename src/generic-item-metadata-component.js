@@ -48,6 +48,7 @@ export default React.createClass({
     delete item.level
     delete item.date
     delete item.slot
+    delete item.source
 
     let itemProps = []
     for(const key of ['affects', 'keywords']) {

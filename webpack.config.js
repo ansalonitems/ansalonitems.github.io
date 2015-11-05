@@ -39,6 +39,10 @@ module.exports = getConfig({
     var weaponTypes = []
     var zones = []
 
+    items = items.sort(function(a, b) {
+      return a.level - b.level
+    })
+
     items.forEach(function(item) {
       mappings['items/' + item.id  + '/index.html'] = data.defaultTemplate({
         html: React.renderToString(React.createElement(ItemPage, {item: item}))
