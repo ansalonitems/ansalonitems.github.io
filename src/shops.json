@@ -182,5 +182,261 @@
         "shopName": "The \"Loose Eyeball\"",
         "map": "+----------------------------+\n| Mudhole                    |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|          ####.#            |\n|          #....#            |\n|          ####.#            |\n|    ######   #.#            |\n|    #....#   #.#            |\n|    ####.#   #.#            |\n| The \"Loose Eyeball\"        |\n+----------------------------+",
         "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 20       34 20 00  1  ] Tanced's Glass Eye \n[ 50          74 10  -- ] an arrow of alacrity (arrow)\n[ 20       05 13 00  -- ] A longbow of firing (bow)\n[ 65       02 85 00  -- ] silvestin's Flail 'Reeker' (weapon: flail)\n[ 35          57 00  -- ] a tangerine staff (wand)\n[ 35       01 02 60  -- ] A snake carved wand (wand)\n"
+    },
+    {
+        "id": 26,
+        "date": "11/07/2015",
+        "zone": "Qualimori",
+        "shopName": "Kela's Magic Imporium",
+        "map": "+----------------------------+\n| Qualimori                  |\n|             #.#   #.......#|\n|             #.#   #........|\n|             #.#   ####.####|\n|          ####.#      #.#   |\n|          #....#      #.#   |\n|          #.####      #.#   |\n|          #.###########.####|\n|          #...*##...........|\n|          #.#####.#####.####|\n|          #.#####.#...#.#   |\n|          #.......#...#.#   |\n|          ####.####...#.#   |\n|             #.#   ..##.#...|\n|             #.#   ..#......|\n|             ###   ###..##.#|\n| Kela's Magic Imporium      |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 30       01 29 60  -- ] (Burning) A deviled egg \n[ 30       01 28 31  -- ] (Bubbling) A green potion \n[ 30       01 14 05  -- ] the eye of an Ergothian frog \n"
+    },
+    {
+        "id": 27,
+        "date": "11/07/2015",
+        "zone": "Qualimori",
+        "shopName": "Selanthalo's Smithy",
+        "map": "+----------------------------+\n| Qualimori                  |\n| #.#   #.#####.####         |\n| #.#   #.##.......#         |\n| #.#   #.##.#####.#         |\n| #.#   #.##.#   #.####      |\n| ..#   #....#   #....#      |\n| ###   #.####   ####.#      |\n|    ####.#######   #.#^#####|\n|    #.........*#   #.......#|\n|    #.......####   #.#######|\n| ####.......#      #.#      |\n| ...........#      #.#      |\n| ####.......#      #.#      |\n|    #.......########.#      |\n|    #................#      |\n|    ####.###########.#      |\n| Selanthalo's Smithy        |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[100          86 40  -- ] A small Kagonesti Made dart (dart)\n[100       24 48 00  -- ] a Qualinesti blowgun (blowgun)\n[ 70       21 60 00  -- ] A set of Workman Leathers (armor)\n[ 70       17 28 00  -- ] a pair of casting tongs (armor)\n"
+    },
+    {
+        "id": 28,
+        "date": "11/07/2015",
+        "zone": "Qualimori",
+        "shopName": "The Blowing Leaf Inn",
+        "map": "+----------------------------+\n| Qualimori                  |\n| ####.####                  |\n| #.......#                  |\n| #.#####.#                  |\n| #.#   #.####               |\n| ..#   #....#               |\n| ###   ####.#               |\n| ######   #.#^#####         |\n| .....#   #...*...#         |\n| ..####   #.#######         |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..#      #.#               |\n| ..########.#               |\n| ...........#               |\n| ##########.#               |\n| The Blowing Leaf Inn       |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  1          03 46  -- ] The Blow Leaf Inn Key (key)\n[ 21          46 08  -- ] a sap-filled gourd (drink)\n[  0          11 52  -- ] a bottle of Kagonesti Fire Starter (drink)\n[  0          05 76  -- ] a bottle of 10-year old Qualinesti wine (drink)\n[  0          02 31  -- ] Kagonesti Forest Ale (drink)\n"
+    },
+    {
+        "id": 29,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "Alchemical Solutions",
+        "map": "+----------------------------+\n| Qualinost                  |\n| ####.#         ####.#      |\n| .....#         #....#      |\n| ####.#         ####.#      |\n|    #.####         #.#      |\n|    #....#         #.#      |\n|    ####.#         #.#      |\n|       #.#   ###   #.#      |\n|       #.#   #*#   #.#      |\n|       #.#   #.#   #.#      |\n|       #.#####.#####.#######|\n|       #....................|\n|       #####################|\n|                            |\n|                            |\n|                            |\n| Alchemical Solutions       |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 32          06 72  1  ] a silver shortsword (weapon: sword)\n[ 70          08 64  1  ] a gold bracelet (jewelry)\n[100          06 72  1  ] an iron-shod spear (weapon: spear)\n[ 70          24 00  1  ] a gold earring (jewelry)\n[110          09 60  2  ] an Albino Bracer (armor)\n[  1          04 80  -- ] a murky potion (potion)\n[  1             48  -- ] a bottle of sparkling water (potion)\n[  0          73 92  -- ] a bright orange potion \n"
+    },
+    {
+        "id": 30,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "The Pet Shop",
+        "map": "+----------------------------+\n| Qualinost                  |\n|       #.####         #.####|\n|       #....#         #.....|\n|       #.####         #.####|\n|    ####.#         ####.#   |\n|    #....#         |....#   |\n|    ####.#         #.####   |\n|       #.#   ###   #.#      |\n|       #.#   #*#   #.#      |\n|       #.#   #.#   #.#      |\n| #######.#####.#####.#      |\n| ....................#      |\n| #####################      |\n|                            |\n|                            |\n|                            |\n| The Pet Shop               |\n+----------------------------+",
+        "list": "[Lvl] PP ST SP GP CP   Description                EQ? Mount?\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 35]       01 17 60 - a huge grizzly bear                 \n[ 15]          21 60 - a tiger                             \n[  5]          03 60 - the ferret                          \n"
+    },
+    {
+        "id": 31,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "The Armory",
+        "map": "+----------------------------+\n| Qualinost                  |\n|             @.@#.#####.####|\n|             @.@#...........|\n|             @@@#.########.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      ###|\n|             ####.#         |\n|             #*...#         |\n|             ####.#         |\n|                #.#   ###   |\n|                #.#   #.#   |\n|                #.#   #.#   |\n|          #######.#####.####|\n|          #................#|\n|          #.##############.#|\n| The Armory                 |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 25          18 44  -- ] a light chainmail shirt (armor)\n[ 25          14 98  -- ] a pair of traveling boots (armor)\n[ 25          19 59  -- ] a lightweight elven shield (armor)\n"
+    },
+    {
+        "id": 32,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "The Hill Home",
+        "map": "+----------------------------+\n| Qualinost                  |\n|          #.#               |\n|          #..               |\n|          #.#               |\n|       ####.################|\n|       #....................|\n|       ####.#####-##########|\n|          #.#####-#         |\n|          #...*...#         |\n|          #.#####-#         |\n|       ####.#####-#         |\n|       #..........#         |\n|       ####.#####.#         |\n|          #.#   #.####      |\n|          #.#   #....#      |\n|          #.#   #.####      |\n| The Hill Home              |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  0             09  -- ] a shot of vodka (drink)\n[  1             58  -- ] a bottle labeled \"The Red Bull\" (potion)\n[ 15          01 16  -- ] a MASSIVE mug of ale (drink)\n"
+    },
+    {
+        "id": 33,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "A small shack",
+        "map": "+----------------------------+\n| Qualinost                  |\n|       #.#         #.#   #.#|\n|       #.#         #.#   #.#|\n|       #.#         #.#   #.#|\n|       #.#         #.#####.#|\n|       #.#         #.##.....|\n|       #.#         #.##....#|\n|       #.#   ###   #.##....#|\n|       #.#   #*#   #.##.....|\n|       #.#   #.#   #.#######|\n| #######.#####.#####.#######|\n| #..........................|\n| #.#################.#######|\n| #.#            @@@@.@@@@   |\n| ..#            @.......@   |\n| ###            @.......@   |\n| A small shack              |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  1          51 84  -- ] a nine foot long fishing rod (fishingrod: 9')\n[  1          31 11  -- ] a seven foot long fishing rod (fishingrod: 7')\n[  1          11 52  -- ] a short fishing rod (fishingrod: 5')\n[  1          02 31  -- ] a large piece of herring \n[  1          02 31  -- ] a jack smelt \n[  1             93  -- ] an earthworm (bait: worm)\n[  1             24  -- ] a fish eyeball (bait: tiny)\n[  1             06  -- ] a dead maggot (bait: tiny)\n[  1       07 83 36  -- ] a spool of heavy giant spider silk \n[  1       04 04 36  -- ] a spool of medium giant spider silk \n[  1       04 11 27  -- ] a spool of light giant spider silk \n[  1       01 65 89  -- ] some heavy fishing line (fishline: 45 lb, 80')\n[  1          12 68  -- ] some thick fishing line (fishline: 15 lb, 75')\n[  1          10 37  -- ] some thin fishing line (fishline: 5 lb, 180')\n[  1          01 44  -- ] a large lead sinker (sinker: 7 g)\n[  1             29  -- ] a small lead sinker (sinker: 2 g)\n[  1             24  -- ] a bone hook (fishhook: (3) grub)\n[  1          05 76  -- ] a large metal hook (fishhook: (9) large fish)\n[  1          02 31  -- ] a metal hook (fishhook: (3) grub)\n[  1          01 16  -- ] a large bone hook (fishhook: (8) baitfish)\n"
+    },
+    {
+        "id": 34,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "Natural Leatherworking",
+        "map": "+----------------------------+\n| Qualinost                  |\n| #.#   ###         ####.#   |\n| #.#   #.#         #....#   |\n| #.#   #.#         #.####   |\n| #.#####.###########.#      |\n| ....................#      |\n| #.###########.#####.#      |\n| #.#         #.#   #.#######|\n| #.#         #*#   #.......#|\n| #.#         ###   #.#######|\n| #.#               #.#      |\n| #.#               #.#      |\n| #.#               #.#      |\n| #.#         ###   #.#      |\n| ..#         #.#   #.#      |\n| #.#         #.#   #.#      |\n| Natural Leatherworking     |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 21          01 16  -- ] a pair of leather gloves (armor)\n[ 21          01 16  -- ] a pair of leather boots (armor)\n[ 21          02 31  -- ] a pair of leather pants (armor)\n[ 21          01 16  -- ] a leather cap (armor)\n[ 21          03 46  -- ] a leather jerkin (armor)\n[ 21          02 31  -- ] a leather belt (armor)\n[ 21          01 16  -- ] a leather bracer (armor)\n"
+    },
+    {
+        "id": 35,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "City Archives",
+        "map": "+----------------------------+\n| Qualinost                  |\n|       #.#               ###|\n|       #.#               #..|\n|       #.#               ###|\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#   ###         ###|\n|       #.#   #*#         #..|\n|       #.#   #.#         #.#|\n| #######.#####.###########.#|\n| ..........................#|\n| #######.###########.#####.#|\n|       #.#         #.#   #.#|\n|       #.#         #.#   #..|\n|       #.#         ###   #.#|\n| City Archives              |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  1          05 76  1  ] a map of Qualinost (map)\n[  1          05 76  1  ] a map of Solace (map)\n[  0          05 76  1  ] a map of the continent of Ansalon (map)\n[  1          05 76  1  ] a map of the city of Palanthas (map)\n"
+    },
+    {
+        "id": 36,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "A taste of Qualinost",
+        "map": "+----------------------------+\n| Qualinost                  |\n| #....#   ###         #.#   |\n| #....#   #.#         #.#   |\n| #.##.#   #.#         #.#   |\n| @.@#.#####.###########.####|\n| @.@#.......................|\n| @@@#.########.########.####|\n|    #.#      #.#      #.#   |\n|    #.#      #*#      #.#   |\n|    #.#      ###      #.#   |\n| ####.#               #.#   |\n| #....#               #.#   |\n| ####.#               #.#   |\n|    #.#   ###      ####.#   |\n|    #.#   #.#      #....#   |\n|    #.#   #.#      ####.#   |\n| A taste of Qualinost       |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  0             06  -- ] a blueberry danish (food)\n[  0             19  -- ] a cinnamon roll (food)\n[  1             25  -- ] a large meat pie (food)\n[  0             15  -- ] a piece of spicy quith-pa (food)\n"
+    },
+    {
+        "id": 37,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "Urh'bahn's Outfitters",
+        "map": "+----------------------------+\n| Qualinost                  |\n|    #.#####.#            #.#|\n|    #.......#            #.#|\n|    #.#######            #.#|\n| ####.#@@@               #.#|\n| #.......@               #.#|\n| ####....@               #.#|\n|    #....#   ###         #.#|\n|    #....#   #*#         #.#|\n|    #.##.#   #.#         #.#|\n|    @.@#.#####.###########.#|\n|    @.@#....................|\n|    @@@#.########.########.#|\n|       #.#      #.#      #.#|\n|       #.#      #.#      #.#|\n|       #.#      ###      #.#|\n| Urh'bahn's Outfitters      |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  1          05 76  -- ] a golden twenty-sided dice (dice)\n[  1             58  -- ] a wooden die (dice)\n[  1          01 16  -- ] a copper ten-sided dice (dice)\n[  0          10 37  -- ] a canoe (boat)\n[  0          04 61  -- ] a raft (boat)\n[  0             24  -- ] a bottle of Sithel's special reserve (drink)\n[  0             87  -- ] a sheet of notepaper (notepaper)\n[  1             12  -- ] a magical light globe (light)\n[  1             10  -- ] a leather bag (container)\n[  0             27  -- ] a leather water skin (drink)\n"
+    },
+    {
+        "id": 38,
+        "date": "11/07/2015",
+        "zone": "Qualinost",
+        "shopName": "A smoke-filled tower",
+        "map": "+----------------------------+\n| Qualinost                  |\n| ####.#####.#######         |\n| #................#         |\n| #.##############.#         |\n| #.#            #.#         |\n| #.#            #.#         |\n| #.#            #.#         |\n| #.#         ####.#         |\n| ..#         #*...#         |\n| #.#         ####.#         |\n| #.####         #.#         |\n| #....#         #.#         |\n| ####.#         #.#         |\n|    #.#   ###   #.#         |\n|    #.#   #.#   #.#         |\n|    #.#   #.#   #.#         |\n| A smoke-filled tower       |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 10          04 61  -- ] a bowl of blue slime \n[  9          11 52  -- ] a brass butterfly \n"
+    },
+    {
+        "id": 39,
+        "date": "11/07/2015",
+        "zone": "The Town of Gateway",
+        "shopName": "The Bronze Spear",
+        "map": "+----------------------------+\n| The Town of Gateway        |\n|    ###                     |\n|    #.#                     |\n|    #.#                     |\n| ####.##########            |\n| ...............            |\n| #.########.####            |\n| #.########.####            |\n| ..##.##.##.##*#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.####         |\n| |.....#...........         |\n| #.########.#####.#         |\n| #.########.#               |\n| ...........#               |\n| ####.#####.#               |\n| The Bronze Spear           |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 40          23 04  -- ] a bronze spear (weapon: spear)\n"
+    },
+    {
+        "id": 40,
+        "date": "11/07/2015",
+        "zone": "The Town of Gateway",
+        "shopName": "The Armory",
+        "map": "+----------------------------+\n| The Town of Gateway        |\n|                            |\n|                            |\n|                            |\n| #########                  |\n| .........                  |\n| ####.####                  |\n| ####.####   ###            |\n| #.##.##.#   #*#            |\n| #.##.##.#   #.#            |\n| #.##.##.#####.#            |\n| #..............            |\n| ####.#####.####            |\n| ####.#   #.#               |\n| .....#   #.#               |\n| ####.#   ###               |\n| The Armory                 |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 40          34 56  -- ] a pair of bronze spalders (armor)\n"
+    },
+    {
+        "id": 41,
+        "date": "11/07/2015",
+        "zone": "The Town of Gateway",
+        "shopName": "Gateway Stables",
+        "map": "+----------------------------+\n| The Town of Gateway        |\n|                            |\n|                            |\n|                            |\n| ###                        |\n| ...                        |\n| ###                        |\n| ###   ###   ###            |\n| #.#   #.#   #*#            |\n| #.#   #.#   #.#            |\n| #.#####.#####.#            |\n| ...............            |\n| ####.#####.####            |\n|    #.#   #.#               |\n|    #.#   #..               |\n|    ###   #.#               |\n| Gateway Stables            |\n+----------------------------+",
+        "list": "[Lvl] PP ST SP GP CP   Description                EQ? Mount?\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 20]          57 60 - A lame donkey                  (MNT)\n[ 30]       01 29 60 - A brown bronco                 (MNT)\n"
+    },
+    {
+        "id": 42,
+        "date": "11/07/2015",
+        "zone": "The Town of Gateway",
+        "shopName": "The Mystical Magician",
+        "map": "+----------------------------+\n| The Town of Gateway        |\n| ###   ###   ###   #.#      |\n| #.#   #.#   #.#   #.#      |\n| #.#   #.#   #.#   #.#      |\n| #.#####.#####.#####.#      |\n| ....................#      |\n| ####.#####.########.#      |\n|    #.#   #.####   #.#      |\n|    #.#   #...*#   #.#      |\n|    ###   #.####   #.#      |\n|          #.#      #.#      |\n|          ..#      #.#      |\n|          #.#      #.#      |\n|          #.#      #.#      |\n|          #.#      #.#      |\n|          #.#      #.#      |\n| The Mystical Magician      |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 39       01 15 20  -- ] a murky green pill (pill)\n[ 43          92 16  -- ] a swirling grey potion (potion)\n"
+    },
+    {
+        "id": 43,
+        "date": "11/07/2015",
+        "zone": "The Town of Gateway",
+        "shopName": "The Fat Goose",
+        "map": "+----------------------------+\n| The Town of Gateway        |\n| #.##.##.#####.#####.#####.#|\n| #.........................#|\n| ####.#####.#####.########.#|\n| ####.#   #.#   #.####   #.#|\n| .....#   #.#   #....#   #.#|\n| ####.#   ###   #.####   #.#|\n|             ####.#      #.#|\n|             #*...#      #.#|\n|             ####.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.#      #.#|\n|                #.########.#|\n|                ...........#|\n|                #-########.#|\n| The Fat Goose              |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 21          01 20  -- ] a mug of root beer (drink)\n[ 21             24  -- ] a glass of red wine (drink)\n[ 21             93  -- ] a thick flank steak (food)\n"
+    },
+    {
+        "id": 44,
+        "date": "11/07/2015",
+        "zone": "Plains of Abanasinia",
+        "shopName": "Among the Que-Teh",
+        "map": "+----------------------------+\n| Plains of Abanasinia       |\n| ..########.#   \"\"\"\"\"\"   \"\"\"|\n| ...........#   \"\"\"\"\"\"   \"\"\"|\n| .....#######   \"\"\"\"\"\"   \"\"\"|\n| .....#         \"\"\"###   \"\"\"|\n| .....#         \"\"\"..#   \"\"\"|\n| .....#         \"\"\"###   \"\"\"|\n| .....#      \"\"\"\"\"\"      \"\"\"|\n| .....#      \"*\"\"\"\"      \"\"\"|\n| .....#      \"\"\"\"\"\"      \"\"\"|\n| .....#      \"\"\"         \"\"\"|\n| .....#      \"\"\"         \"\"\"|\n| .....#      \"\"\"         \"\"\"|\n| .....####\"\"\"\"\"\"\"\"\"   ###\"\"\"|\n| .........\"\"\"\"\"\"\"\"\"   #..\"\"\"|\n| ####.####\"\"\"\"\"\"\"\"\"   #..\"\"\"|\n| Among the Que-Teh          |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  1          11 52  -- ] some medicinal herbs and sutures \n"
+    },
+    {
+        "id": 45,
+        "date": "11/07/2015",
+        "zone": "The village of Que-Shu",
+        "shopName": "Larksong's Apothecury",
+        "map": "+----------------------------+\n| The village of Que-Shu     |\n|                   #.#####.#|\n|                   #.......#|\n|                   #.#####.#|\n|                ####.#   #.#|\n|                #....|   #..|\n|                #....#   #.#|\n|             ####....#####.#|\n|             #*............#|\n|             #############.#|\n|                         #.#|\n|                         #.#|\n|                         #.#|\n| \"\"\"      \"\"\"\"\"\"\"\"\"\"\"\"   #.#|\n| \"\"\"      \"\"\"\"\"\"\"\"\"\"\"\"   #..|\n| \"\"\"      \"\"\"\"\"\"\"\"\"\"\"\"   ###|\n| Larksong's Apothecury      |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 30       01 29 60  -- ] a rainbow colored potion (potion)\n[ 30       01 15 20  -- ] a dull green potion (potion)\n[ 30       01 15 20  -- ] a bright green potion (potion)\n"
+    },
+    {
+        "id": 46,
+        "date": "11/07/2015",
+        "zone": "The village of Que-Shu",
+        "shopName": "Axe and Arrow Guild",
+        "map": "+----------------------------+\n| The village of Que-Shu     |\n|       #.#\"\"\"###            |\n|       #..\"\"\"..#            |\n|       #.#\"\"\"#.#            |\n| #-#####.#####.#            |\n| ........##....#            |\n| #######.#####.#            |\n|             #.#            |\n|             #*#            |\n|             ###            |\n| #.#                        |\n| ...                        |\n| ###                        |\n|                            |\n|                            |\n|                            |\n| Axe and Arrow Guild        |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  0          20 16  1  ] a large wood spotted sunfish statuette (treasure)\n[ 25          24 48  1  ] a barbarian hunting spear \n[  5          43 20  -- ] a buffalo-hide waterskin (drink)\n[ 33          47 52  -- ] a fur tunic (armor)\n[ 40          72 00  -- ] a rawhide vest (armor)\n"
+    },
+    {
+        "id": 47,
+        "date": "11/07/2015",
+        "zone": "The village of Que-Shu",
+        "shopName": "Axe and Arrow Guild",
+        "map": "+----------------------------+\n| The village of Que-Shu     |\n|          #.#               |\n|          #..               |\n|          #.#               |\n|          #.#\"\"\"###         |\n|          #..\"\"\"..#         |\n|          #.#\"\"\"#.#         |\n| ####-#####.#####.#         |\n| #..........##*...#         |\n| #.########.#####.#         |\n| #.#            #.#         |\n| ..#            #.#         |\n| #.#            ###         |\n| #.##.#                     |\n| #.....                     |\n| #.####                     |\n| Axe and Arrow Guild        |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 60       01 71 36  -- ] a plainsman's longbow (bow)\n[ 33       01 69 92  -- ] a double-bladed axe (weapon: axe)\n[ 45       01 16 64  -- ] a scimitar with a bone handle (weapon: sword)\n"
+    },
+    {
+        "id": 48,
+        "date": "11/07/2015",
+        "zone": "The village of Que-Shu",
+        "shopName": "Body Art Shop",
+        "map": "+----------------------------+\n| The village of Que-Shu     |\n|    ####-#####.#####.#      |\n|    #..........##....#      |\n|    #.########.#####.#      |\n| ####.#      \"\"\"   #.#      |\n| .....#      \"\"\"   #.#      |\n| ####.#      \"\"\"   ###      |\n|    #.##.#   #.#            |\n|    #.....   #*#            |\n|    #.####   ###            |\n| ####.#                     |\n| .....#                     |\n| ####.#                     |\n|    #.#\"\"\"#.#               |\n|    #.#\"\"\"..|               |\n|    #.#\"\"\"#.#               |\n| Body Art Shop              |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 40          90 82  -- ] a tribal tattoo of a gazelle (armor)\n[ 40          90 82  -- ] a tribal tattoo of a bison (armor)\n[ 40          90 82  -- ] a tribal tattoo of a horse (armor)\n"
+    },
+    {
+        "id": 49,
+        "date": "11/07/2015",
+        "zone": "The village of Que-Shu",
+        "shopName": "A Warrior's Hut",
+        "map": "+----------------------------+\n| The village of Que-Shu     |\n|       \"\"\"\"\"\"   \"\"\"\"\"\"      |\n|       \"\"\"\"\"\"   \"\"\"\"\"\"      |\n|       \"\"\"\"\"\"   \"\"\"\"\"\"      |\n| #.#   #.#\"\"\"\"\"\"\"\"\"\"\"\"      |\n| ...   #.#\"\"\"\"\"\"\"\"\"\"\"\"      |\n| ###   ###\"\"\"\"\"\"\"\"\"\"\"\"      |\n|          \"\"\"###            |\n|          \"\"\".*#            |\n|          \"\"\"###            |\n| \"\"\"#.#                     |\n| \"\"\"..|                     |\n| \"\"\"#.#                     |\n| ####.#\"\"\"\"\"\"               |\n| ......\"\"\"\"\"|               |\n| ####-#\"\"\"\"\"\"               |\n| A Warrior's Hut            |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 35       01 03 68  -- ] a sharpening stone \n"
+    },
+    {
+        "id": 50,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "The Black Tavern",
+        "map": "+----------------------------+\n| Tantallon                  |\n|    #.#         #.#         |\n|    #.#         #.#         |\n|    #.#         #.#         |\n|    #.##-##-##-##.#######\"\"\"|\n|    #.................^^^nnn|\n|    ####-##-##.##########\"\"\"|\n|             #.#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Black Tavern           |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  0             19  -- ] a cup of dark ale (drink)\n[  0             16  -- ] a glass of brandy (drink)\n[  0             22  -- ] a bottle of rum (drink)\n[  0             22  -- ] a mug of beer (drink)\n[  0             22  -- ] a cup of ale (drink)\n[  0             33  -- ] a mug of mead (drink)\n"
+    },
+    {
+        "id": 51,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "The Tantallon Bakery",
+        "map": "+----------------------------+\n| Tantallon                  |\n|       #.#      ####.#      |\n|       #.#      #.##.#      |\n|       #.#      #.##.#      |\n|       #.##-##-##.##.#######|\n|       #.................^^^|\n|       ####-##.##.##########|\n|             #.##.#         |\n|             #*##.#         |\n|             ######         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Tantallon Bakery       |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[  0             13  -- ] freshly baked bread (food)\n[  0             22  -- ] a slice of apple pie (food)\n[  0             04  -- ] a cherry muffin (food)\n[  0             69  -- ] a chocolate cake (food)\n"
+    },
+    {
+        "id": 52,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "Staves And Trinkets",
+        "map": "+----------------------------+\n| Tantallon                  |\n|          #.###########.#   |\n|          #.##.##.##.##.#   |\n|          #.##.##.##.##.#   |\n|          #.##.##.##.##.####|\n|          #.................|\n|          ####.##.##.#######|\n|             #.##.##.#      |\n|             #*##.##.#      |\n|             #########      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Staves And Trinkets        |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 45       01 81 64  -- ] a green amulet (armor)\n[ 40          12 68  -- ] a staff of power (wand)\n[ 15       02 11 20  -- ] a translucent gem \n[ 25       01 05 60  -- ] a stained goblet (armor)\n"
+    },
+    {
+        "id": 53,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "The Sword and Anvil",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|       #-#         #.#      |\n|       #.#         #.#      |\n|       #.#         #.#      |\n|       #.#   ###   #.#      |\n|       #.#   #*#   #.|      |\n|       #.#   #.#   #.#      |\n| \"\"\"####.#####.##-##.####   |\n| nnn....................#   |\n| \"\"\"#######.##-##-##-##.#   |\n|          #.#         #.#   |\n|          #.#         #.#   |\n|          #.#         #.#   |\n| The Sword and Anvil        |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 32          15 84  -- ] a long spear (weapon: spear)\n[ 45          71 81  -- ] a battle axe (weapon: axe)\n[ 30          10 56  -- ] a tiny dagger (weapon: dagger)\n[ 35          52 80  -- ] a glass stiletto (weapon: dagger)\n[ 40          02 12  -- ] a steel belt dagger (weapon: dagger)\n[ 30          26 40  -- ] a small sword (weapon: sword)\n"
+    },
+    {
+        "id": 54,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "Armory",
+        "map": "+----------------------------+\n| Tantallon                  |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|    #-#         #.#         |\n|    #.#         #.#         |\n|    #.#         #.#         |\n|    #.#   #######.#         |\n|    #.#   #.##*##.|         |\n|    #.#   #.##.##.#         |\n| ####.#####.##.##.####      |\n| ....................#      |\n| #######.##.##.##-##.#      |\n|       #.##.##.#   #.#      |\n|       #.##.##.#   #.#      |\n|       #.#######   #.#      |\n| Armory                     |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 66          08 45  -- ] heavy gauntlets (armor)\n[ 64       01 10 88  -- ] a wooden shield (armor)\n[ 62       01 05 60  -- ] a steel helmet (armor)\n[ 25          05 28  -- ] splint mail (armor)\n[ 60          07 40  -- ] an iron kite shield (armor)\n"
+    },
+    {
+        "id": 55,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "An Open Market",
+        "map": "+----------------------------+\n| Tantallon                  |\n| ####.##.##.####            |\n| ..............#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| #.###########.#            |\n| #.###########.#            |\n| #.##.##.##.##*#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#######\"\"\"@@@|\n| #.................^^^nnn...|\n| ####.##.##.##########\"\"\"@.@|\n|    #.##.##.#            @.@|\n|    #.##.##.#            @.@|\n|    #########            @.@|\n| An Open Market             |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 30          08 45  -- ] some brown herbs (pill)\n[ 35          09 51  -- ] a sprig of green herbs (pill)\n"
+    },
+    {
+        "id": 56,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "An Open Market",
+        "map": "+----------------------------+\n| Tantallon                  |\n|    #######.#               |\n|    #.##.##.|               |\n|    #.##.##.#               |\n| ####.##.##.####            |\n| ..............#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##*#            |\n| #.###########.#            |\n| #.###########.#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#######\"\"\"@@@|\n| #.................^^^nnn...|\n| ####.##.##.##########\"\"\"@.@|\n| An Open Market             |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 25          02 12  -- ] a piece of dried fish (food)\n[ 25          02 12  -- ] some smoked fish (food)\n"
+    },
+    {
+        "id": 57,
+        "date": "11/07/2015",
+        "zone": "Tantallon",
+        "shopName": "An Open Market",
+        "map": "+----------------------------+\n| Tantallon                  |\n|          #.#               |\n|          #.#               |\n|          #.#               |\n|    #######.#               |\n|    #.##.##.|               |\n|    #.##.##.#               |\n| ####.##.##.####            |\n| .............*#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| #.###########.#            |\n| #.###########.#            |\n| #.##.##.##.##.#            |\n| #.##.##.##.##.#            |\n| An Open Market             |\n+----------------------------+",
+        "list": "[Lvl PP ST SP GP CP Qty ] Item\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n[ 25             43  -- ] an orange (food)\n[ 20             45  -- ] a tomato (food)\n[ 25             40  -- ] a carrot (food)\n[ 20             48  -- ] a red apple (food)\n"
     }
 ]
