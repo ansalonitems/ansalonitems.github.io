@@ -13,7 +13,8 @@ export default React.createClass({
 
   findBestInSlot(slot, level, gear) {
     const allowableGear = gear.filter(function(item) {
-      return item.level - 20 <= level && (item['weapon flags'] ? item['weapon flags'].indexOf('two-handed') === -1 : true)
+      return item.level - 20 <= level &&
+        (item['weapon flags'] ? item['weapon flags'].indexOf('two-handed') === -1 && item.damage : true)
     })
 
     if(allowableGear.length === 0) {
