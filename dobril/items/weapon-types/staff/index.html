@@ -14,6 +14,12 @@
   </header> 
   <div class="item-list"> 
    <div class="container"> 
+    <div class="filters"> 
+     <div class="filters-title">
+      Filters
+     </div> 
+     <label for="hide-downgrades"> <input id="hide-downgrades" type="checkbox"> Hide downgrades </label> 
+    </div> 
     <table class="item-list"> 
      <thead> 
       <tr> 
@@ -26,7 +32,7 @@
       </tr> 
      </thead> 
      <tbody> 
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/a_humming_staff_500/">a humming staff</a></td> 
        <td></td> 
        <td class="number">15</td> 
@@ -34,7 +40,7 @@
        <td class="number">21</td> 
        <td><a href="/dobril/items/zones/the_city_of_garnet/">The City of Garnet</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/a_hiking_staff_1109/">a hiking staff</a></td> 
        <td></td> 
        <td class="number">20</td> 
@@ -42,7 +48,7 @@
        <td class="number">30</td> 
        <td><a href="/dobril/items/zones/the_village_of_hillhome/">The Village of Hillhome</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/an_ancient_staff_541/">an ancient staff</a></td> 
        <td></td> 
        <td class="number">22</td> 
@@ -50,7 +56,7 @@
        <td class="number">35</td> 
        <td><a href="/dobril/items/zones/trigol/">Trigol</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/an_eagle_skull_staff_1792/">an eagle skull staff</a></td> 
        <td>✓</td> 
        <td class="number">36</td> 
@@ -58,7 +64,7 @@
        <td class="number">35</td> 
        <td><a href="/dobril/items/zones/eastern_plains_of_dust/">Eastern Plains of Dust</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/a_silver_military_fork_565/">a silver military fork</a></td> 
        <td></td> 
        <td class="number">31</td> 
@@ -66,7 +72,7 @@
        <td class="number">52</td> 
        <td><a href="/dobril/items/zones/qualinost/">Qualinost</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/an_oak_staff_675/">an oak staff</a></td> 
        <td></td> 
        <td class="number">44</td> 
@@ -74,7 +80,7 @@
        <td class="number">60</td> 
        <td><a href="/dobril/items/zones/qualinost/">Qualinost</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/a_long_aspen_branch_973/">a long aspen branch</a></td> 
        <td></td> 
        <td class="number">44</td> 
@@ -82,7 +88,7 @@
        <td class="number">60</td> 
        <td><a href="/dobril/items/zones/qualinost/">Qualinost</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/a_polished_oak_staff_243/">a polished oak staff</a></td> 
        <td>✓</td> 
        <td class="number">71</td> 
@@ -90,7 +96,7 @@
        <td class="number">80</td> 
        <td><a href="/dobril/items/zones/kurmost/">Kurmost</a></td> 
       </tr>
-      <tr> 
+      <tr class=""> 
        <td><a href="/dobril/items/a_gnarled_mage_s_staff_383/">a gnarled mage's staff</a></td> 
        <td>✓</td> 
        <td class="number">52</td> 
@@ -106,6 +112,23 @@
    <div class="container"> 
     <span>© 2015 Doan of Palanthas. All item content is from <a href="http://ansalonmud.net">AnsalonMUD</a>.</span> 
    </div> 
-  </footer>  
+  </footer> 
+  <script>
+var downgradeEl = document.getElementById('hide-downgrades');
+if(downgradeEl) {
+    var toggleDowngradeClass = function(e) {
+        console.log('event', e);
+        console.log('target', e.target);
+        console.log('checked', e.target.checked);
+        var c = 'filter-hide-downgrades';
+        if(e.target.checked) {
+            document.body.classList.add(c);
+        } else {
+            document.body.classList.remove(c);
+        }
+    };
+    downgradeEl.addEventListener('click', toggleDowngradeClass);
+}
+</script>  
  </body>
 </html>

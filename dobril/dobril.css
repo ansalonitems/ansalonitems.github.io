@@ -731,6 +731,27 @@ section {
   margin-bottom: 2rem;
 }
 
+.filters {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #5e7599;
+}
+
+.filters-title {
+  font-size: 1.15rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+label {
+  cursor: pointer;
+  margin-bottom: 0;
+}
+
+.filter-hide-downgrades .is-downgrade {
+  display: none;
+}
+
 @media only screen and (max-width: 767px) {
   section,
   .item-block,

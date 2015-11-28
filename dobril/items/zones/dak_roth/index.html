@@ -51,6 +51,23 @@
    <div class="container"> 
     <span>© 2015 Doan of Palanthas. All item content is from <a href="http://ansalonmud.net">AnsalonMUD</a>.</span> 
    </div> 
-  </footer>  
+  </footer> 
+  <script>
+var downgradeEl = document.getElementById('hide-downgrades');
+if(downgradeEl) {
+    var toggleDowngradeClass = function(e) {
+        console.log('event', e);
+        console.log('target', e.target);
+        console.log('checked', e.target.checked);
+        var c = 'filter-hide-downgrades';
+        if(e.target.checked) {
+            document.body.classList.add(c);
+        } else {
+            document.body.classList.remove(c);
+        }
+    };
+    downgradeEl.addEventListener('click', toggleDowngradeClass);
+}
+</script>  
  </body>
 </html>
