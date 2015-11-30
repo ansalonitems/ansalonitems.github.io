@@ -588,6 +588,14 @@ mark,
 
 /* Begin custom CSS */
 
+a {
+  cursor: pointer;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
 .container {
   max-width: 980px;
   width: 100%;
@@ -627,6 +635,7 @@ footer {
 .dobril .container {
   background-color: #1f304c;
   padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 
 a, a:hover, a:link, a:focus, a:active, a:visited {
@@ -732,7 +741,7 @@ section {
 }
 
 .filters {
-  padding: 10px;
+  padding: 0 10px 10px 10px;
   margin-bottom: 10px;
   border-bottom: 1px solid #5e7599;
 }
