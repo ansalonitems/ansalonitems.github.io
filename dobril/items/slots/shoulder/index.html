@@ -14,6 +14,12 @@
   </header> 
   <div class="item-list"> 
    <div class="container"> 
+    <div class="filters"> 
+     <div class="filters-title">
+      Filters
+     </div> 
+     <label for="hide-downgrades"> <input id="hide-downgrades" type="checkbox"> Hide damage downgrades </label> 
+    </div> 
     <table class="item-list"> 
      <thead> 
       <tr> 
@@ -30,13 +36,13 @@
        <td class="number">10</td> 
        <td><a href="/dobril/items/zones/port_of_schallsea/">Port of Schallsea</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/an_embroidered_cloth_cloak_1654/">an embroidered cloth cloak</a></td> 
        <td class="number">0/0</td> 
        <td class="number">15</td> 
        <td><a href="/dobril/items/zones/middle_hybardin/">Middle Hybardin</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/a_spiked_skull_shoulderpad_548/">a spiked skull shoulderpad</a></td> 
        <td class="number">0/0</td> 
        <td class="number">20</td> 
@@ -48,13 +54,13 @@
        <td class="number">23</td> 
        <td><a href="/dobril/items/zones/southgate/">Southgate</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/a_coil_of_rope_1510/">a coil of rope</a></td> 
        <td class="number">1/0</td> 
        <td class="number">25</td> 
        <td><a href="/dobril/items/zones/the_lordcity_of_haven/">The Lordcity of Haven</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/an_archer_s_quiver_345/">an archer's quiver</a></td> 
        <td class="number">0/2</td> 
        <td class="number">30</td> 
@@ -66,11 +72,17 @@
        <td class="number">30</td> 
        <td><a href="/dobril/items/zones/southwest_plains_of_dust/">Southwest Plains of Dust</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/a_flaming_cape_704/">A Flaming Cape</a></td> 
        <td class="number">0/2</td> 
        <td class="number">35</td> 
        <td><a href="/dobril/items/zones/the_ruins_of_xak_khalan/">The Ruins of Xak Khalan</a></td> 
+      </tr>
+      <tr class="is-downgrade"> 
+       <td><a href="/dobril/items/a_pair_of_bronze_spalders_881/">a pair of bronze spalders</a></td> 
+       <td class="number">0/0</td> 
+       <td class="number">40</td> 
+       <td><a href="/dobril/items/zones/the_town_of_gateway/">The Town of Gateway</a></td> 
       </tr>
       <tr> 
        <td><a href="/dobril/items/the_sash_of_a_red_dragonarmy_officer_518/">the sash of a red dragonarmy officer</a></td> 
@@ -78,31 +90,25 @@
        <td class="number">40</td> 
        <td><a href="/dobril/items/zones/southern_abanasinia/">Southern Abanasinia</a></td> 
       </tr>
-      <tr> 
-       <td><a href="/dobril/items/a_pair_of_bronze_spalders_881/">a pair of bronze spalders</a></td> 
-       <td class="number">0/0</td> 
-       <td class="number">40</td> 
-       <td><a href="/dobril/items/zones/the_town_of_gateway/">The Town of Gateway</a></td> 
-      </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/a_low_cut_black_leather_bra_730/">a low-cut black leather bra</a></td> 
        <td class="number">0/0</td> 
        <td class="number">42</td> 
        <td><a href="/dobril/items/zones/trigol/">Trigol</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/light_iron_shoulderpads_1677/">light iron shoulderpads</a></td> 
        <td class="number">0/0</td> 
        <td class="number">45</td> 
        <td><a href="/dobril/items/zones/middle_hybardin/">Middle Hybardin</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/heavy_iron_shoulderpads_1678/">heavy iron shoulderpads</a></td> 
        <td class="number">0/0</td> 
        <td class="number">46</td> 
        <td><a href="/dobril/items/zones/middle_hybardin/">Middle Hybardin</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/_emblazoned__dwarvensteel_shoulderpads_350/">(Emblazoned) dwarvensteel shoulderpads</a></td> 
        <td class="number">1/2</td> 
        <td class="number">52</td> 
@@ -114,25 +120,25 @@
        <td class="number">55</td> 
        <td><a href="/dobril/items/zones/daemon_s_ground__graveyard/">Daemon's Ground, Graveyard</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/a_gladiator_shoulder_pad_143/">a gladiator shoulder pad</a></td> 
        <td class="number">4/2</td> 
        <td class="number">65</td> 
        <td><a href="/dobril/items/zones/stone_rose/">Stone Rose</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/a_plate_shoulderpad_bearing_the_emblem_of_sirrion_285/">a plate shoulderpad bearing the emblem of Sirrion</a></td> 
        <td class="number">3/5</td> 
        <td class="number">70</td> 
        <td><a href="/dobril/items/zones/the_village_of_lantern/">The Village of Lantern</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/the_sash_of_the_thalas_enthia_677/">the sash of the Thalas-Enthia</a></td> 
        <td class="number">5/0</td> 
        <td class="number">81</td> 
        <td><a href="/dobril/items/zones/qualinost/">Qualinost</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/the_mayor_s_sash_218/">the mayor's sash</a></td> 
        <td class="number">5/6</td> 
        <td class="number">85</td> 
@@ -144,7 +150,7 @@
        <td class="number">85</td> 
        <td><a href="/dobril/items/zones/the_ruins_of_itzan_nul/">The Ruins of Itzan Nul</a></td> 
       </tr>
-      <tr> 
+      <tr class="is-downgrade"> 
        <td><a href="/dobril/items/the_silk_cloak_of_brashkal_2042/">the silk cloak of Brashkal</a></td> 
        <td class="number">4/5</td> 
        <td class="number">90</td> 
