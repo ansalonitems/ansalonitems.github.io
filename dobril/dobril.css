@@ -746,6 +746,14 @@ section {
   border-bottom: 1px solid #5e7599;
 }
 
+.filters label {
+  margin-right: 1rem;
+}
+
+.filters label:last-of-type {
+  margin-right: 0;
+}
+
 .filters-title {
   font-size: 1.15rem;
   font-weight: bold;
@@ -757,7 +765,19 @@ label {
   margin-bottom: 0;
 }
 
-.filter-hide-downgrades .is-downgrade {
+.filter-hide-downgrades-damage .is-downgrade-damage {
+  display: none;
+}
+
+.filter-hide-downgrades-hp .is-downgrade-hp {
+  display: none;
+}
+
+.filter-hide-downgrades-mana .is-downgrade-mana {
+  display: none;
+}
+
+.filter-hide-downgrades-saves .is-downgrade-saves {
   display: none;
 }
 
