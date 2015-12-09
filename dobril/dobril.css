@@ -596,6 +596,10 @@ a {
   margin-bottom: 1rem;
 }
 
+.form-group label {
+  min-width: 100px;
+}
+
 .container {
   max-width: 980px;
   width: 100%;
@@ -758,6 +762,11 @@ section {
   font-size: 1.15rem;
   font-weight: bold;
   margin-bottom: 10px;
+}
+
+.optimizer th:first-child,
+.optimizer td:first-child {
+  width: 140px;
 }
 
 label {

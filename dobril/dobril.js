@@ -28,7 +28,9 @@ var optimizerEl = document.getElementById('optimizer-submit');
 if(optimizerEl) {
     var goToOptimizedPage = function() {
         var level = document.getElementById('optimizer-level').value;
-        document.location = '/dobril/optimizer/' + (level) + '.html'
+        var alignment = document.getElementById('optimizer-alignment').value;
+        var flags = [level, alignment];
+        document.location = '/dobril/optimizer/' + (flags.join('_')) + '.html'
     };
     optimizerEl.addEventListener('click', goToOptimizedPage);
 }
