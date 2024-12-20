@@ -1,113 +1,13 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html>
- <head> 
-  <meta charset="utf-8"> 
-  <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"> 
-  <link href="/dobril/dobril.css" rel="stylesheet"> 
-  <title>Dobril: item list</title> 
- </head> 
- <body> 
-  <header> 
-   <div class="container"> 
-    <h1><a href="/dobril/">Dobril</a></h1> 
-   </div> 
-  </header> 
-  <div class="item-list"> 
-   <div class="container"> 
-    <div class="filters"> 
-     <div class="filters-title">
-      Filters
-     </div> 
-     <label for="hide-downgrades-damage"> <input id="hide-downgrades-damage" type="checkbox"> Hide damage downgrades </label> 
-     <label for="hide-downgrades-hp"> <input id="hide-downgrades-hp" type="checkbox"> Hide hp downgrades </label> 
-     <label for="hide-downgrades-mana"> <input id="hide-downgrades-mana" type="checkbox"> Hide mana downgrades </label> 
-     <label for="hide-downgrades-saves"> <input id="hide-downgrades-saves" type="checkbox"> Hide saves downgrades </label> 
-    </div> 
-    <table class="item-list"> 
-     <thead> 
-      <tr> 
-       <th>Name</th> 
-       <th class="number hit-dam"><span></span></th> 
-       <th class="number">Level</th> 
-       <th>Zone</th> 
-      </tr> 
-     </thead> 
-     <tbody> 
-      <tr class="is-downgrade-saves"> 
-       <td><a href="/dobril/items/a_floating_ball_of_light_2838/">a floating ball of light</a></td> 
-       <td class="number">1/1</td> 
-       <td class="number">5</td> 
-       <td><a href="/dobril/items/zones/solanthus/">Solanthus</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage"> 
-       <td><a href="/dobril/items/a_big_rock_3416/">a big rock</a></td> 
-       <td class="number">0/0</td> 
-       <td class="number">20</td> 
-       <td><a href="/dobril/items/zones/goblin_stronghold/">Goblin Stronghold</a></td> 
-      </tr>
-      <tr class="is-downgrade-saves"> 
-       <td><a href="/dobril/items/a_pink_ioun_stone_2096/">a pink ioun stone</a></td> 
-       <td class="number">1/1</td> 
-       <td class="number">30</td> 
-       <td><a href="/dobril/items/zones/lacynos/">Lacynos</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage is-downgrade-saves"> 
-       <td><a href="/dobril/items/a_golden_floating_gem_3329/">a Golden floating gem</a></td> 
-       <td class="number">2/0</td> 
-       <td class="number">45</td> 
-       <td><a href="/dobril/items/zones/mudhole/">Mudhole</a></td> 
-      </tr>
-      <tr class="is-downgrade-saves"> 
-       <td><a href="/dobril/items/the_elder_s_pride_606/">the Elder's pride</a></td> 
-       <td class="number">2/1</td> 
-       <td class="number">50</td> 
-       <td><a href="/dobril/items/zones/the_village_of_bazin/">The village of Bazin</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage is-downgrade-hp is-downgrade-mana is-downgrade-saves"> 
-       <td><a href="/dobril/items/a_flickering_red_light_94/">a flickering red light</a></td> 
-       <td class="number">2/2</td> 
-       <td class="number">70</td> 
-       <td><a href="/dobril/items/zones/high_clerist_tower_2/">High Clerist Tower 2</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage is-downgrade-hp is-downgrade-saves"> 
-       <td><a href="/dobril/items/_buzzing_quietly__a_small_firefly_220/">(buzzing-quietly) a small firefly</a></td> 
-       <td class="number">8/4</td> 
-       <td class="number">70</td> 
-       <td><a href="/dobril/items/zones/solace/">Solace</a></td> 
-      </tr>
-      <tr class="is-downgrade-mana is-downgrade-saves"> 
-       <td><a href="/dobril/items/a_glowing_crystal_globe_3380/">a glowing crystal globe</a></td> 
-       <td class="number">5/6</td> 
-       <td class="number">70</td> 
-       <td><a href="/dobril/items/zones/darken_wood/">Darken Wood</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage is-downgrade-hp is-downgrade-mana is-downgrade-saves"> 
-       <td><a href="/dobril/items/an_albino_floating_pebble_1713/">an Albino Floating Pebble</a></td> 
-       <td class="number">3/3</td> 
-       <td class="number">75</td> 
-       <td><a href="/dobril/items/zones/lower_hybardin/">Lower Hybardin</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage is-downgrade-hp is-downgrade-mana is-downgrade-saves"> 
-       <td><a href="/dobril/items/a_globe_of_patrolling_607/">a Globe of Patrolling</a></td> 
-       <td class="number">3/4</td> 
-       <td class="number">100</td> 
-       <td><a href="/dobril/items/zones/daerforge/">Daerforge</a></td> 
-      </tr>
-      <tr class="is-downgrade-damage is-downgrade-hp is-downgrade-mana is-downgrade-saves"> 
-       <td><a href="/dobril/items/the_essence_of_the_forest_1154/">the essence of the forest</a></td> 
-       <td class="number">5/4</td> 
-       <td class="number">100</td> 
-       <td><a href="/dobril/items/zones/southern_darkwood/">Southern Darkwood</a></td> 
-      </tr> 
-     </tbody> 
-    </table> 
-   </div> 
-  </div> 
-  <footer> 
-   <div class="container"> 
-    <span>© 2015 Doan of Palanthas. All item content is from <a href="http://ansalonmud.net">AnsalonMUD</a>.</span> 
-   </div> 
-  </footer> 
-  <script src="/dobril/dobril.js"></script>  
- </body>
+  <head>
+    <title>Redirecting...</title>
+    <link rel="canonical" href="https://ansalonitems.github.io/dobril/old/items/slots/floating/index.html" />
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=https://ansalonitems.github.io/dobril/old/items/slots/floating/index.html" />
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
 </html>
