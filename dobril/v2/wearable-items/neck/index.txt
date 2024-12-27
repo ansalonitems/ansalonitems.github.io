@@ -1,15 +1,356 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-3621020224b553be.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","wearable-items","neck",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","neck","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","neck","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","4b50rCtXdROpex55yZuR5",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","main",null,{"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","363",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-stained-travelling-cloak_363","title":"a stained travelling cloak","children":"a stained travelling cloak"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-province","title":"Palanthas Province","children":"Palanthas Province"}]}]]}],["$","tr","452",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-medallion-of-belzar_452","title":"a medallion of Belzar","children":"a medallion of Belzar"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"2/1"}],["$","td",null,{"className":"px-3 py-2 text-right","children":2}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}],["$","tr","55",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-yellow-skull-pendant_55","title":"a yellow skull pendant","children":"a yellow skull pendant"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/halloween-carnival","title":"Halloween Carnival","children":"Halloween Carnival"}]}]]}],["$","tr","151",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-silver-necklace_151","title":"a silver necklace","children":"a silver necklace"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/1"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","71",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-dimensional-cape_71","title":"a dimensional cape","children":"a dimensional cape"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/5"}],["$","td",null,{"className":"px-3 py-2 text-right","children":32}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/freeport","title":"Freeport","children":"Freeport"}]}]]}],["$","tr","5",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/tanned-a-beautiful-fur-cloak_5","title":"(Tanned) a beautiful fur cloak","children":"(Tanned) a beautiful fur cloak"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"4/4"}],["$","td",null,{"className":"px-3 py-2 text-right","children":50}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}],["$","tr","186",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-cloak-of-displacement_186","title":"a cloak of displacement","children":"a cloak of displacement"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"7/7"}],["$","td",null,{"className":"px-3 py-2 text-right","children":54}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/sanction","title":"Sanction","children":"Sanction"}]}]]}]]}]]}]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","wearable-items","neck",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","neck","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","neck","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Qeqijlv_BFSW1wf7zNTzg",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[633,["173","static/chunks/173-91be8d59e7b6b129.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-bde0f5c9a57080c1.js"],"default"]
+e:T6a3,<2280/2280hp 2402/2992m 809/811mv [|Deep in the forest|] 0tnl > You [19047]: 'start dobril_id 363'
+You [19047]: 'start identify 363'
+Name(s):      cloak stained
+Short:        a stained travelling cloak
+Long:         A worn and stained cloak is crumpled up on the floor.
+Type:         armor
+Flags:        none
+Weight:       4 lbs
+Value:        310
+Level to use: 1
+Materials:    cloth/unknown material
+Armor Type:   cloth
+Armor class:  2 pierce, 3 bash, 4 slash, 0 magic
+You [19047]: 'end identify 363'
+You [19047]: 'start map 363'
++----------------------------+
+| Palanthas Province         |
+| @.@@@@"""   #.#            |
+| @.....""|   #.#            |      You are in a dark forest.  To the east, mountains block passage.  From here, only
+| @@@@.@"""   #.#            |    the lighter forest to the west or south offer a way to travel.
+| ####.########.#            |
+| ..............#            |
+| ##########.####            |
+|          @.@@@@            |
+|          @*..*@            |
+|          @.@@.@            |
+|       @@@@.@@.@@@@         |
+|       @....@@....@         |
+|       @.@@.@@....@         |
+|       @.@@.@@....@         |
+|       @.@@*..*..*@         |
+|       @.@@....@@@@         |
+| Deep in the forest         |
++----------------------------+
+You [19047]: 'end map 363'
+You [19047]: 'start examine 363'
+A worn and stained cloak is crumpled up on the floor.
+It is made out of cloth.
+It is in good shape but could use some repair.
+It weighs about 3 pounds.
+You [19047]: 'end examine 363'
+You [19047]: 'start wear 363'
+You stop using a cloak of displacement.
+You wear a stained travelling cloak around your neck.
+You [19047]: 'end wear 363'
+You [19047]: 'end dobril_id 363'f:T8c2,<2218/2218hp 2099/2943m 783/783mv [|A Cleric of Belzar's Shop|] 0tnl > You [19047]: 'start dobril_id 452'
+You [19047]: 'start identify 452'
+A polished oak staff flares.
+A medallion of Belzar's resistance is overcome by your staff!
+Name(s):      medallion of belzar
+Short:        a medallion of Belzar
+Long:         A medallion of Belzar glows here in an unholy light.
+Type:         treasure
+Flags:        rot_death no_ident no_locate
+Weight:       0 lbs, 8 oz
+Value:        933
+Level to use: 2
+Materials:    gold/silver
+Affects hit roll by 2
+Affects damage roll by 1
+Affects wisdom by 2
+Affects intelligence by 2
+Affects constitution by 1
+You [19047]: 'end identify 452'
+You [19047]: 'start map 452'
++----------------------------+
+| Travelling Faire!          |
+| #########                  |
+| ....*..$#                  |      This quaint, and all together normal looking store, is situated within one of the
+| #######.#                  |    traveling faire wagons.  Small shelves have been set above the reach of children, and
+|       #.####               |    are lined with numerous jars, most of them filled with herbs supposedly blessed by the
+|       #.##$#               |    great god Belzar himself.  Plain robes have been hung beside one of the shelves on a
+|       #.##.#               |    coat rack, along with a medallion that resembles the image of a massive Dragon.  High
+| ###   #.##.####            |    above the reach of anyone but a very tall human is a row of books, each apparantly
+| #$#   #$.....*#            |    outlining the faith of Belzar in which this particular heathen believes.
+| #.#   #.......#            |
+| #.#####.......####         |
+| .*..$..*.........#         |
+| #.#####.......####         |
+| #.#   #.......#            |
+| #.#   #$.....$#            |
+| ###   #.......#            |
+| A Cleric of Belzar's Shop  |
++----------------------------+
+You [19047]: 'end map 452'
+You [19047]: 'start examine 452'
+A medallion of Belzar glows here in an unholy light.
+It weighs about 1 pound.
+You [19047]: 'end examine 452'
+You [19047]: 'start wear 452'
+You stop using a cloak of displacement.
+You wear a medallion of Belzar around your neck.
+You [19047]: 'end wear 452'
+You [19047]: 'end dobril_id 452'10:T722,<2295/2295hp 2718/2946m 849/849mv [|Priest at Main Street|] 0tnl > You [19047]: 'start dobril_id 151'
+You [19047]: 'start identify 151'
+Name(s):      neck lace necklace silver
+Short:        a silver necklace
+Long:         A silver necklace is here.
+Type:         treasure
+Flags:        none
+Weight:       0 lbs, 1 oz
+Value:        5000
+Level to use: 5
+Materials:    silver/unknown material
+Affects damage roll by 1
+Affects hp by 11
+You [19047]: 'end identify 151'
+You [19047]: 'start map 151'
++----------------------------+
+| Southwest Palanthas        |
+| #.#   #.#   #.#            |
+| #*#   #.#   #*#            |      The streets through this small zone of Palanthas are made of cobble stones.  The
+| #.#   #.#   #.#            |    light shines only from the sun and the moon, and the frequent torch of an adventurer.
+| #.#   #.#   #.#            |    Carts go by every now and again.  Bird can be heard from the trees which surround the
+| #..   #*#   ..#            |    place.  The air is fresh.  The door to one of the shops is to the south.
+| #.#   #.#   #.#            |
+| #.##-##.##-##.#            |
+| .*.....*..*..*#            |
+| #.##.########.#            |
+| #.##.#      #.#            |
+| #*#|*|      #*#            |
+| #.####      ###            |
+| #.#                        |
+| #*#                        |
+| #-#                        |
+| Priest at Main Street      |
++----------------------------+
+You [19047]: 'end map 151'
+You [19047]: 'start examine 151'
+A silver necklace is here.
+It weighs about 1 pound.
+You [19047]: 'end examine 151'
+You [19047]: 'start wear 151'
+You stop using (Tanned) a beautiful fur cloak.
+You wear a silver necklace around your neck.
+Gledisia OOCs 'my kid loves the old stuff I think because he likes characters'
+You [19047]: 'end wear 151'
+You [19047]: 'end dobril_id 151'11:T8ca,You [19047]: 'start dobril_id 55'
+You [19047]: 'start identify 55'
+You [19047]: 'start identify 55'
+Name(s):      yellow skull pendant halloweencarnival2017
+Short:        a yellow skull pendant
+Long:         A pendant in the shape of a skull glows a dull yellow.
+Type:         treasure
+Flags:        rot_death
+Weight:       0 lbs
+Value:        2874
+Level to use: 5
+Materials:    unknown material/unknown material
+Affects hp by 20
+Affects constitution by 1
+Affects wisdom by 1
+You [19047]: 'end identify 55'
+You [19047]: 'end identify 55'
+You [19047]: 'start map 55'
+You [19047]: 'start map 55'
++----------------------------+
+| Halloween Carnival         |
+|             ##########.#   |
+|             #......*...#   |      A large grey tent is held up with a frame of bones all polished smooth so that
+|             #.......##.#   |    they glisten like ivory.  This tent is made in homage to Chemosh, Lord of the Undead.
+|             #.......##.####|    There are several large vials of blood and other strange bodily fluids on makeshift
+|             #.......##.....|    tables in the corner.  There are several shrunken heads, voodoo dolls and skulls on a
+|             #.#####.#######|    blanket spread out on the ground.  There is a skeleton standing to the side of the
+|             #.#   #.#      |    tent in front of the wares.  He greets visitors with an indifferent nod.
+|             #*#   .*#      |
+|             ###   ###      |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| Inside the Tent of the Un  |
++----------------------------+
+You [19047]: 'end map 55'
+You [19047]: 'end map 55'
+You [19047]: 'start examine 55'
+You [19047]: 'start examine 55'
+This strange yellow pendant emits a dull glow. It is in the shape of a
+skull and seems to have a foul smell to it.
+It weighs about 1 pound.
+You [19047]: 'end examine 55'
+You [19047]: 'end examine 55'
+You [19047]: 'start wear 55'
+You [19047]: 'start wear 55'
+You stop using (Tanned) a beautiful fur cloak.
+You wear a yellow skull pendant around your neck.
+You [19047]: 'end wear 55'
+You [19047]: 'end wear 55'
+You [19047]: 'end dobril_id 55'12:T850,<1369/2161hp 1702/2653m 857/857mv [|In The Secret Cave of the 6th Pirate Lord|] 94tnl > You [19047]: 'start dobril_id 71'
+You [19047]: 'start identify 71'
+Name(s):      cape dimensional
+Short:        a dimensional cape
+Long:         A hole in reality lies here.
+Type:         armor
+Flags:        magic
+Weight:       0 lbs, 4 oz
+Value:        8400
+Level to use: 32
+Materials:    cloth/energy
+Armor Type:   magic
+Armor class:  15 pierce, 15 bash, 15 slash, 15 magic
+Affects constitution by 3
+Affects mana by 35
+Affects hp by 35
+Affects damage roll by 5
+You [19047]: 'end identify 71'
+You [19047]: 'start map 71'
++----------------------------+
+| Freeport                   |
+|                            |
+|                            |      You have boldly entered the secret cave of the 6th pirate lord.  About you the
+|                            |    evidence of his terrible crimes abounds.  Here is a pilfered shipping schedule,
+|          ^""               |    duplicated on scrolls addressed to the other pirate lords.  There is a cargo list of
+|          "n"               |    several missing merchant vessels.  On the desk is a scroll of the departure time,
+|          "n"               |    vessel name, and destination of a rich noble.  Yes you have discovered the kingpin of
+|          "n"###            |    the pirate lords, the man who has terrorized commerce for a decade.  What will you do
+|          "*"#*#            |    about it?
+|          "n"#.#            |
+|          #.##.####         |
+|          #...*...#         |
+|          #.......#         |
+|          #..^~~..#         |
+|          #..~~~.*#         |
+|          #.#~~~#.#         |
+| In The Secret Cave of the  |
++----------------------------+
+You [19047]: 'end map 71'
+You [19047]: 'start examine 71'
+A hole in reality lies here.
+It is made out of cloth and some energy.
+It is in almost perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 71'
+You [19047]: 'start wear 71'
+You stop using (Tanned) a beautiful fur cloak.
+You wear a dimensional cape around your neck.
+You [19047]: 'end wear 71'
+You [19047]: 'end dobril_id 71'13:T828,You [19047]: 'start dobril_id 5'
+You [19047]: 'start identify 5'
+Name(s):      fur cloak
+Short:        (Tanned) a beautiful fur cloak
+Long:         A beautifully tanned fur cloak has been created by the Plains Barbarians.
+Type:         armor
+Flags:        none
+Weight:       1 lbs
+Value:        92950
+Level to use: 50
+Materials:    leather/hair
+Armor Type:   magic
+Armor class:  25 pierce, 25 bash, 25 slash, 25 magic
+Affects damage roll by 4
+Affects hit roll by 4
+Affects strength by 2
+Affects dexterity by 2
+Affects hp by 100
+You [19047]: 'end identify 5'
+You [19047]: 'start map 5'
++----------------------------+
+| Travelling Faire!          |
+|       ####.#####.......####|
+|       #$.....$.....*......#|      Little light makes it through the thick hide that composes the structure of this
+|       ####.#####.......####|    rather large tent.  A tiny fire burns in the center of of tent in a small pit, warming
+|          #.#   #.......#   |    the occupants.  A small hole has been cut in the top of the tent providing a place for
+|          #*#   #$.....$#   |    the smoke given off by the fire to wander out.  Furs have been laid out on the floor
+|          ###   #.......#   |    as well as on the walls of the tent itself providing a circular view of the
+|             ####.......####|    merchandise to a potential customer.
+|             #*.....$.....$#|
+|             ####.......####|
+|                #.......#   |
+|                #$..*...#   |
+|                ####.####   |
+|                   #.#      |
+|                   #.#      |
+|                   #.#      |
+| Plainsman's Tent of.... F  |
++----------------------------+
+You [19047]: 'end map 5'
+You [19047]: 'start examine 5'
+A beautifully tanned fur cloak has been created by the Plains Barbarians.
+It is made out of leather and some hair.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 5'
+You [19047]: 'start wear 5'
+You stop using a silver medallion of Shinare.
+You wear (Tanned) a beautiful fur cloak around your neck.
+You [19047]: 'end wear 5'
+You [19047]: 'end dobril_id 5'14:T73d,<2295/2295hp 2321/2946m 837/849mv [|Inside a cage|] 0tnl > You [19047]: 'start dobril_id 186'
+You [19047]: 'start identify 186'
+Name(s):      cloak displacement hide
+Short:        a cloak of displacement
+Long:         A large piece of black hide lies here.
+Type:         armor
+Flags:        none
+Weight:       7 lbs
+Value:        3000
+Level to use: 54
+Materials:    cloth/hair
+Armor Type:   magic
+Armor class:  27 pierce, 27 bash, 27 slash, 26 magic
+Affects armor class by -2
+Affects mana by 30
+Affects hp by 30
+Affects dexterity by 2
+Affects damage roll by 7
+Affects hit roll by 7
+You [19047]: 'end identify 186'
+You [19047]: 'start map 186'
++----------------------------+
+| Sanction                   |
+|                      #.#   |
+|                      |.|   |      The inside of this cage is slick with a liquid of some sort, in the darkness it is
+|                      #.#   |    hard to tell.  The stench is nearly unbearable, you hope that whatever is confined
+|                ###   #.#   |    here, doesn't notice you.
+|                |.#   |.|   |
+|                #.#   #.#   |
+|             ####.#####.####|
+|             |*...##...*...#|
+|             ####.#####.####|
+|          ######^.#####.#   |
+|          #.............|   |
+|          #######.v####.v   |
+|                #.#         |
+|                |.#         |
+|                #.#         |
+| Inside a cage              |
++----------------------------+
+You [19047]: 'end map 186'
+You [19047]: 'start examine 186'
+A large piece of black hide lies here.
+It is made out of cloth and some hair.
+It is in almost perfect condition.
+It weighs about 7 pounds.
+You [19047]: 'end examine 186'
+You [19047]: 'start wear 186'
+You stop using (Tanned) a beautiful fur cloak.
+You wear a cloak of displacement around your neck.
+You [19047]: 'end wear 186'
+You [19047]: 'end dobril_id 186'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":363,"stats":{"Name(s)":["cloak","stained"],"Short":"a stained travelling cloak","Long":"A worn and stained cloak is crumpled up on the floor.","Type":"armor","Flags":["none"],"Weight":"4 lbs","Value":310,"Level to use":1,"Materials":["cloth","unknown material"],"Armor Type":"cloth","Armor class":[2,3,4,0]},"name":"a stained travelling cloak","map":{"area":{"name":"Palanthas Province","slug":"palanthas-province"},"roomName":"Deep in the forest","map":"+----------------------------+\n| Palanthas Province         |\n| @.@@@@\"\"\"   #.#            |\n| @.....\"\"|   #.#            |\n| @@@@.@\"\"\"   #.#            |\n| ####.########.#            |\n| ..............#            |\n| ##########.####            |\n|          @.@@@@            |\n|          @*..*@            |\n|          @.@@.@            |\n|       @@@@.@@.@@@@         |\n|       @....@@....@         |\n|       @.@@.@@....@         |\n|       @.@@.@@....@         |\n|       @.@@*..*..*@         |\n|       @.@@....@@@@         |\n| Deep in the forest         |\n+----------------------------+"},"wear":"neck","source":{"type":"looted","mob":"the goblin leader"},"slug":"a-stained-travelling-cloak_363"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":452,"stats":{"Name(s)":["medallion","of","belzar"],"Short":"a medallion of Belzar","Long":"A medallion of Belzar glows here in an unholy light.","Type":"treasure","Flags":["rot_death","no_ident","no_locate"],"Weight":"0 lbs, 8 oz","Value":933,"Level to use":2,"Materials":["gold","silver"],"Affects":[["hit roll","2"],["damage roll","1"],["wisdom","2"],["intelligence","2"],["constitution","1"]]},"name":"a medallion of Belzar","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"A Cleric of Belzar's Shop","map":"+----------------------------+\n| Travelling Faire!          |\n| #########                  |\n| ....*..$#                  |\n| #######.#                  |\n|       #.####               |\n|       #.##$#               |\n|       #.##.#               |\n| ###   #.##.####            |\n| #$#   #$.....*#            |\n| #.#   #.......#            |\n| #.#####.......####         |\n| .*..$..*.........#         |\n| #.#####.......####         |\n| #.#   #.......#            |\n| #.#   #$.....$#            |\n| ###   #.......#            |\n| A Cleric of Belzar's Shop  |\n+----------------------------+"},"wear":"neck","source":{"type":"bought","location":"A Cleric of Belzar's Shop"},"slug":"a-medallion-of-belzar_452"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":151,"stats":{"Name(s)":["neck","lace","necklace","silver"],"Short":"a silver necklace","Long":"A silver necklace is here.","Type":"treasure","Flags":["none"],"Weight":"0 lbs, 1 oz","Value":5000,"Level to use":5,"Materials":["silver","unknown material"],"Affects":[["damage roll","1"],["hp","11"]]},"name":"a silver necklace","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Priest at Main Street","map":"+----------------------------+\n| Southwest Palanthas        |\n| #.#   #.#   #.#            |\n| #*#   #.#   #*#            |\n| #.#   #.#   #.#            |\n| #.#   #.#   #.#            |\n| #..   #*#   ..#            |\n| #.#   #.#   #.#            |\n| #.##-##.##-##.#            |\n| .*.....*..*..*#            |\n| #.##.########.#            |\n| #.##.#      #.#            |\n| #*#|*|      #*#            |\n| #.####      ###            |\n| #.#                        |\n| #*#                        |\n| #-#                        |\n| Priest at Main Street      |\n+----------------------------+"},"wear":"neck","source":{"type":"looted","mob":"a young nobleman"},"slug":"a-silver-necklace_151"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_13.txt","type":"item","id":55,"stats":{"Name(s)":["yellow","skull","pendant","halloweencarnival2017"],"Short":"a yellow skull pendant","Long":"A pendant in the shape of a skull glows a dull yellow.","Type":"treasure","Flags":["rot_death"],"Weight":"0 lbs","Value":2874,"Level to use":5,"Materials":["unknown material","unknown material"],"Affects":[["hp","20"],["constitution","1"],["wisdom","1"]]},"name":"a yellow skull pendant","map":{"area":{"name":"Halloween Carnival","slug":"halloween-carnival"},"roomName":"Inside the Tent of the Un","map":"+----------------------------+\n| Halloween Carnival         |\n|             ##########.#   |\n|             #......*...#   |\n|             #.......##.#   |\n|             #.......##.####|\n|             #.......##.....|\n|             #.#####.#######|\n|             #.#   #.#      |\n|             #*#   .*#      |\n|             ###   ###      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Inside the Tent of the Un  |\n+----------------------------+"},"wear":"neck","source":{"type":"bought","location":"Inside the Tent of the Un"},"slug":"a-yellow-skull-pendant_55"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":71,"stats":{"Name(s)":["cape","dimensional"],"Short":"a dimensional cape","Long":"A hole in reality lies here.","Type":"armor","Flags":["magic"],"Weight":"0 lbs, 4 oz","Value":8400,"Level to use":32,"Materials":["cloth","energy"],"Armor Type":"magic","Armor class":[15,15,15,15],"Affects":[["constitution","3"],["mana","35"],["hp","35"],["damage roll","5"]]},"name":"a dimensional cape","map":{"area":{"name":"Freeport","slug":"freeport"},"roomName":"In The Secret Cave of the","map":"+----------------------------+\n| Freeport                   |\n|                            |\n|                            |\n|                            |\n|          ^\"\"               |\n|          \"n\"               |\n|          \"n\"               |\n|          \"n\"###            |\n|          \"*\"#*#            |\n|          \"n\"#.#            |\n|          #.##.####         |\n|          #...*...#         |\n|          #.......#         |\n|          #..^~~..#         |\n|          #..~~~.*#         |\n|          #.#~~~#.#         |\n| In The Secret Cave of the  |\n+----------------------------+"},"wear":"neck","source":{"type":"looted","mob":"Lord Mourning"},"slug":"a-dimensional-cape_71"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_13.txt","type":"item","id":5,"stats":{"Name(s)":["fur","cloak"],"Short":"(Tanned) a beautiful fur cloak","Long":"A beautifully tanned fur cloak has been created by the Plains Barbarians.","Type":"armor","Flags":["none"],"Weight":"1 lbs","Value":92950,"Level to use":50,"Materials":["leather","hair"],"Armor Type":"magic","Armor class":[25,25,25,25],"Affects":[["damage roll","4"],["hit roll","4"],["strength","2"],["dexterity","2"],["hp","100"]]},"name":"(Tanned) a beautiful fur cloak","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"Plainsman's Tent of.... F","map":"+----------------------------+\n| Travelling Faire!          |\n|       ####.#####.......####|\n|       #$.....$.....*......#|\n|       ####.#####.......####|\n|          #.#   #.......#   |\n|          #*#   #$.....$#   |\n|          ###   #.......#   |\n|             ####.......####|\n|             #*.....$.....$#|\n|             ####.......####|\n|                #.......#   |\n|                #$..*...#   |\n|                ####.####   |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n| Plainsman's Tent of.... F  |\n+----------------------------+"},"wear":"neck","source":{"type":"bought","location":"Plainsman's Tent of.... F"},"slug":"tanned-a-beautiful-fur-cloak_5"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_23.txt","type":"item","id":186,"stats":{"Name(s)":["cloak","displacement","hide"],"Short":"a cloak of displacement","Long":"A large piece of black hide lies here.","Type":"armor","Flags":["none"],"Weight":"7 lbs","Value":3000,"Level to use":54,"Materials":["cloth","hair"],"Armor Type":"magic","Armor class":[27,27,27,26],"Affects":[["armor class","-2"],["mana","30"],["hp","30"],["dexterity","2"],["damage roll","7"],["hit roll","7"]]},"name":"a cloak of displacement","map":{"area":{"name":"Sanction","slug":"sanction"},"roomName":"Inside a cage","map":"+----------------------------+\n| Sanction                   |\n|                      #.#   |\n|                      |.|   |\n|                      #.#   |\n|                ###   #.#   |\n|                |.#   |.|   |\n|                #.#   #.#   |\n|             ####.#####.####|\n|             |*...##...*...#|\n|             ####.#####.####|\n|          ######^.#####.#   |\n|          #.............|   |\n|          #######.v####.v   |\n|                #.#         |\n|                |.#         |\n|                #.#         |\n| Inside a cage              |\n+----------------------------+"},"wear":"neck","source":{"type":"looted","mob":"The displacer beast"},"slug":"a-cloak-of-displacement_186"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all equipment worn in the neck slot"}],["$","meta","2",{"name":"description","content":"a list of all of the equipment worn in the neck slot"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

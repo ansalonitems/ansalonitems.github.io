@@ -1,15 +1,160 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-39511c8965e7f13e.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","weapon-types","axe",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","axe","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","axe","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","LtlgNQss8CmsnaGKaCntZ",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"2H"}],["$","th",null,{"className":"px-3 py-2","children":"Noun"}],["$","th",null,{"className":"px-3 py-2","children":"Damage"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","145",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-training-axe_145","title":"a training axe","children":"a training axe"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"cleave"}],["$","td",null,{"className":"px-3 py-2 text-right","children":3}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","247",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/an-ice-axe_247","title":"an ice axe","children":"an ice axe"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"freezing bite"}],["$","td",null,{"className":"px-3 py-2 text-right","children":22}],["$","td",null,{"className":"px-3 py-2 text-right","children":"3/3"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-sewers","title":"Palanthas Sewers","children":"Palanthas Sewers"}]}]]}],["$","tr","401",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/the-great-war-axe-of-grumm_401","title":"the Great War Axe of Grumm","children":"the Great War Axe of Grumm"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":"✓"}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":7}],["$","td",null,{"className":"px-3 py-2 text-right","children":"2/4"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}]]}]]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","weapon-types","axe",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","axe","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","axe","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","V5-daxS1cVAAx1kDJSXPW",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[2123,["173","static/chunks/173-91be8d59e7b6b129.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-0a89b064ce631510.js"],"default"]
+e:T711,<2230/2230hp 2448/2992m 811/811mv [|In the sewers|] 0tnl > You [19047]: 'start dobril_id 247'
+You [19047]: 'start identify 247'
+Name(s):      ice axe
+Short:        an ice axe
+Long:         A frigid looking axe lies here giving off a cold glow.
+Type:         weapon: axe
+Flags:        none
+Weight:       2 lbs, 3 oz
+Value:        1340
+Level to use: 1
+Materials:    water/steel
+Damage:       5d8 (average 22)
+Weapon flags: frost throwable
+Affects damage roll by 3
+Affects hit roll by 3
+You [19047]: 'end identify 247'
+You [19047]: 'start map 247'
++----------------------------+
+| Palanthas Sewers           |
+|                            |
+|                            |      A dark and gloomy tunnel with a terrible smell coming from all around.  Murky
+|                            |    waters flow around your feet, with revolting things floating here and there.  The
+|                            |    constant dripping and rank odors accost your senses.
+|                            |
+|                            |
+|          ###############   |
+|          #*..*..*..*..*#   |
+|          #.#####.#####.#   |
+|       ####.#   #.#   #.####|
+|       #....#   #*#   #...*#|
+|       #.####   #.#   ####.#|
+|    ####.#   ####.####   #.#|
+|    #....#   #*..*..*#   #..|
+|    #.####   #.##.##.#   ###|
+| In the sewers              |
++----------------------------+
+You [19047]: 'end map 247'
+You [19047]: 'start examine 247'
+A frigid looking axe lies here giving off a cold glow.
+It is made out of water and some steel.
+It is in perfect condition.
+It weighs about 1 pounds.
+You [19047]: 'end examine 247'
+You [19047]: 'start wear 247'
+You stop using Guidonious' dagger of vengeance.
+You wield an ice axe.
+You don't even know which end is up on an ice axe.
+You [19047]: 'end wear 247'
+You [19047]: 'end dobril_id 247'f:T99a,<2265/2203hp 2310/2923m 761/733mv [|The Throne Room|] 0tnl > You [19047]: 'start dobril_id 401'
+You [19047]: 'start identify 401'
+An apprentice's training staff flares.
+The Great War Axe of Grumm's resistance is overcome by your staff!
+Name(s):      grumm axe
+Short:        the Great War Axe of Grumm
+Long:         A quite large, two-handed and double bladed axe lies before you.
+Type:         weapon: axe
+Flags:        glow hum evil magic anti-neutral no_ident burn_proof
+Weight:       10 lbs
+Value:        5000
+Level to use: 1
+Materials:    steel/wood
+Damage:       3d4 (average 7)
+Weapon flags: vampiric sharp two-handed
+Affects damage roll by 4
+Affects hit roll by 2
+You [19047]: 'end identify 401'
+You [19047]: 'start map 401'
++----------------------------+
+| Goblin Stronghold          |
+|       #.##.##.##.####      |
+|       #.##*........*#      |      Chaos reigns in the court of King Grumm.  Jesters, dancing girls,
+|       #######.#######      |    officious-looking goblins, and a myriad of other distractions compete for the time of
+|             #.#            |    the king.  The Throne Room is a perfectly-round chamber with a large statue of a
+|             #.#            |    heroic-looking dwarf in the centre.  Once again, tapestries line the walls, portraying
+|             #.#            |    battles and glory.  If it was possible to instill more chaos into this carnival
+|          ####.####         |    atmosphere, you have succeeded.  The king leaps to his feat, and goblin guards bar
+|          #*..*...#         |    your escape.  Grumm dosen't look like he wants to talk!  There is a doorway to your
+|          #########         |    east, and another to the west.
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Throne Room            |
++----------------------------+
+You [19047]: 'end map 401'
+You [19047]: 'start examine 401'
+A goblin has arrived.
+A quite large, two-handed and double bladed axe lies before you.
+It is made out of steel and some wood.
+It is in perfect condition.
+It weighs about 9 pounds.
+You [19047]: 'end examine 401'
+You [19047]: 'start wear 401'
+You stop using an apprentice's training staff.
+You wield the Great War Axe of Grumm.
+You don't even know which end is up on the Great War Axe of Grumm.
+You [19047]: 'end wear 401'
+You [19047]: 'end dobril_id 401'10:T6c1,<2295/2295hp 2870/2946m 849/849mv [|The Training Weapon's Shop|] 0tnl > You [19047]: 'start dobril_id 145'
+You [19047]: 'start identify 145'
+Name(s):      axe training
+Short:        a training axe
+Long:         A training axe is here.
+Type:         weapon: axe
+Flags:        none
+Weight:       1 lbs, 8 oz
+Value:        1052
+Level to use: 1
+Materials:    wood/unknown material
+Damage:       1d6 (average 3)
+You [19047]: 'end identify 145'
+You [19047]: 'start map 145'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The weapons which assort the walls, racks and tables in this shop are all made of
+|                            |    wood and are sold to people to train with.  There are many weapons, of many types sold
+|                            |    here.  The room is dimly lit and smells like sweat.  The exit lies to the north.
+|                            |
+|                            |
+|             #-#            |
+|             #*#            |
+|             ###            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Training Weapon's Sho  |
++----------------------------+
+You [19047]: 'end map 145'
+You [19047]: 'start examine 145'
+A training axe is here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 145'
+You [19047]: 'start wear 145'
+You stop using Guidonious' dagger of vengeance.
+You wield a training axe.
+You don't even know which end is up on a training axe.
+You [19047]: 'end wear 145'
+You [19047]: 'end dobril_id 145'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_24.txt","type":"item","id":247,"stats":{"Name(s)":["ice","axe"],"Short":"an ice axe","Long":"A frigid looking axe lies here giving off a cold glow.","Type":"weapon","Flags":["none"],"Weight":"2 lbs, 3 oz","Value":1340,"Level to use":1,"Materials":["water","steel"],"Damage":["5d8",22],"Weapon flags":["frost","throwable"],"Affects":[["damage roll","3"],["hit roll","3"]],"Weapon Type":"axe","Noun":"freezing bite"},"name":"an ice axe","map":{"area":{"name":"Palanthas Sewers","slug":"palanthas-sewers"},"roomName":"In the sewers","map":"+----------------------------+\n| Palanthas Sewers           |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ###############   |\n|          #*..*..*..*..*#   |\n|          #.#####.#####.#   |\n|       ####.#   #.#   #.####|\n|       #....#   #*#   #...*#|\n|       #.####   #.#   ####.#|\n|    ####.#   ####.####   #.#|\n|    #....#   #*..*..*#   #..|\n|    #.####   #.##.##.#   ###|\n| In the sewers              |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"Grabuh the thief"},"slug":"an-ice-axe_247"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":401,"stats":{"Name(s)":["grumm","axe"],"Short":"the Great War Axe of Grumm","Long":"A quite large, two-handed and double bladed axe lies before you.","Type":"weapon","Flags":["glow","hum","evil","magic","anti-neutral","no_ident","burn_proof"],"Weight":"10 lbs","Value":5000,"Level to use":1,"Materials":["steel","wood"],"Damage":["3d4",7],"Weapon flags":["vampiric","sharp","two-handed"],"Affects":[["damage roll","4"],["hit roll","2"]],"Weapon Type":"axe","Noun":"slash"},"name":"the Great War Axe of Grumm","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Throne Room","map":"+----------------------------+\n| Goblin Stronghold          |\n|       #.##.##.##.####      |\n|       #.##*........*#      |\n|       #######.#######      |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|          ####.####         |\n|          #*..*...#         |\n|          #########         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Throne Room            |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"Grumm"},"slug":"the-great-war-axe-of-grumm_401"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":145,"stats":{"Name(s)":["axe","training"],"Short":"a training axe","Long":"A training axe is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":1052,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["1d6",3],"Weapon Type":"axe","Noun":"cleave"},"name":"a training axe","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"a-training-axe_145"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all weapons of type axe"}],["$","meta","2",{"name":"description","content":"a list of all of the weapons of type axe"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

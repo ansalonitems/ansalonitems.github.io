@@ -1,15 +1,159 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-39511c8965e7f13e.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","weapon-types","staff",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","staff","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","staff","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","XFdougJBVzcdKeAOv2Umm",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"2H"}],["$","th",null,{"className":"px-3 py-2","children":"Noun"}],["$","th",null,{"className":"px-3 py-2","children":"Damage"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","139",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/an-apprentices-training-staff_139","title":"an apprentice's training staff","children":"an apprentice's training staff"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pound"}],["$","td",null,{"className":"px-3 py-2 text-right","children":4}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","334",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-wooden-staff_334","title":"a wooden staff","children":"a wooden staff"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":"✓"}],["$","td",null,{"className":"px-3 py-2","children":"pound"}],["$","td",null,{"className":"px-3 py-2 text-right","children":27}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/the-village-of-ash","title":"The village of Ash","children":"The village of Ash"}]}]]}],["$","tr","434",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-polished-oak-staff_434","title":"a polished oak staff","children":"a polished oak staff"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":"✓"}],["$","td",null,{"className":"px-3 py-2","children":"crush"}],["$","td",null,{"className":"px-3 py-2 text-right","children":71}],["$","td",null,{"className":"px-3 py-2 text-right","children":"8/8"}],["$","td",null,{"className":"px-3 py-2 text-right","children":60}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/kurmost","title":"Kurmost","children":"Kurmost"}]}]]}]]}]]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","weapon-types","staff",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","staff","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","staff","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Gai2e3uOaAn9-4YoxufSj",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[2123,["173","static/chunks/173-91be8d59e7b6b129.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-0a89b064ce631510.js"],"default"]
+e:T6e7,<2280/2280hp 2933/2992m 811/811mv [|The grove|] 0tnl > You [19047]: 'start dobril_id 334'
+You [19047]: 'start identify 334'
+Name(s):      staff wooden
+Short:        a wooden staff
+Long:         You see a wooden staff on the floor.
+Type:         weapon: staff
+Flags:        none
+Weight:       1 lbs, 11 oz
+Value:        1145
+Level to use: 1
+Materials:    wood/unknown material
+Charges:      none
+Damage:       6d8 (average 27)
+Weapon flags: two-handed
+Affects strength by 2
+You [19047]: 'end identify 334'
+You [19047]: 'start map 334'
++----------------------------+
+| The village of Ash         |
+| ..@         ^-##.#         |
+| ..@         .....|         |      Ancient oaks, cedars and pines rises high above you, blocking the view of the
+| ..@         #.v#.#         |    Vingaard mountains.  The grove is filled with animals that dart through the underbrush
+| ..@            #.#         |    and tall grass, and a fresh breeze causes the boughs above you sway gently.
+| ..@            #.#         |
+| @.@            #.#         |
+| @.@@@@      @@@@.@@@@      |
+| .....@      @*.....*@      |
+| @.@@.@      @.......@      |
+| #.#@.@@@@@@@@.......@@@@###|
+| #.#@.........*...........*.|
+| ###@@@@@@@.@@.......@@@@#.#|
+|       @@@@.@@.."""..@   #.#|
+|       @....@@*."""..@   #.#|
+|       @.@@@@@@@"""@@@   #.#|
+| The grove                  |
++----------------------------+
+You [19047]: 'end map 334'
+You [19047]: 'start examine 334'
+This oaken staff is very hefty but balanced.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 334'
+You [19047]: 'start wear 334'
+You stop using Guidonious' dagger of vengeance.
+You need two hands free for that weapon.
+You [19047]: 'end wear 334'
+You [19047]: 'end dobril_id 334'f:T7a2,<2295/2295hp 2845/2946m 849/849mv [|The Training Weapon's Shop|] 0tnl > You [19047]: 'start dobril_id 139'
+You [19047]: 'start identify 139'
+Name(s):      apprentice training staff
+Short:        an apprentice's training staff
+Long:         A training staff for apprentices lies here.
+Type:         weapon: staff
+Flags:        none
+Weight:       1 lbs, 8 oz
+Value:        948
+Level to use: 1
+Materials:    wood/unknown material
+Charges:      none
+Damage:       1d8 (average 4)
+<2295/2295hp 2833/2946m 849/849mv [|The Training Weapon's Shop|] 0tnl >
+The cloud of dust surrounding you dissipates.
+You [19047]: 'end identify 139'
+You [19047]: 'start map 139'
++----------------------------+
+| Southwest Palanthas        |
+|    #.##.##.##.####         |
+|    #.##.##.#.....#         |      The weapons which assort the walls, racks and tables in this shop are all made of
+|    ####.##.##.####         |    wood and are sold to people to train with.  There are many weapons, of many types sold
+|    ####.##.##.####         |    here.  The room is dimly lit and smells like sweat.  The exit lies to the north.
+|    #.............#         |
+|    #.##.##.##.##.#         |
+| ####.##.##.##.##.#         |
+| .*.#.##$##*##*##*#         |
+| ####.#####.#####.#         |
+|    #.#   #.#   #.#         |
+|    #*.   #.#   .*#         |
+|    #.#   #.#   #.#         |
+| ####.##-##.##-##.#         |
+| .*.....*........*#         |
+| ####.##.########.#         |
+| The Training Weapon's Sho  |
++----------------------------+
+You [19047]: 'end map 139'
+You [19047]: 'start examine 139'
+A training staff for apprentices lies here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 139'
+You [19047]: 'start wear 139'
+You stop using Guidonious' dagger of vengeance.
+You wield an apprentice's training staff.
+An apprentice's training staff feels like a part of you!
+You [19047]: 'end wear 139'
+You [19047]: 'end dobril_id 139'10:T744,<2280/2280hp 2889/2992m 811/811mv [|A dining hall|] 0tnl > You [19047]: 'start dobril_id 434'
+You [19047]: 'start identify 434'
+Name(s):      polished oak staff
+Short:        a polished oak staff
+Long:         A staff made of well polished oak lies here.
+Type:         weapon: staff
+Flags:        magic
+Weight:       8 lbs, 1 oz
+Value:        4990
+Level to use: 60
+Materials:    wood/unknown material
+Charges:      none
+Damage:       13d10 (average 71)
+Weapon flags: two-handed
+Affects damage roll by 8
+Affects hit roll by 8
+You [19047]: 'end identify 434'
+You [19047]: 'start map 434'
++----------------------------+
+| Kurmost                    |
+|    #.#                     |
+|    #*#                     |      This elegant dining hall is decorated with many rich tapestries depicting
+|    #.#                     |    forest and seashore scenes.  Covering the floor is a thick red carpet that
+|    #.#                     |    stretches from marble wall to marble wall.  Magical light stones sit in a chandelier,
+|    #*#                     |    giving off a gentle light onto the diners.
+|    #.#                     |
+| ####.####^#####            |
+| ....*........*#            |
+| ####.#####.####            |
+|    #.#   #.#               |
+|    #*#   #*#               |
+|    #.#   ##v               |
+|    #.#                     |
+|    #.#                     |
+|    #.#                     |
+| A dining hall              |
++----------------------------+
+You [19047]: 'end map 434'
+You [19047]: 'start examine 434'
+A staff made of well polished oak lies here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 8 pounds.
+You [19047]: 'end examine 434'
+You [19047]: 'start wear 434'
+You stop using Guidonious' dagger of vengeance.
+You need two hands free for that weapon.
+You [19047]: 'end wear 434'
+You [19047]: 'end dobril_id 434'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":334,"stats":{"Name(s)":["staff","wooden"],"Short":"a wooden staff","Long":"You see a wooden staff on the floor.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 11 oz","Value":1145,"Level to use":1,"Materials":["wood","unknown material"],"Charges":0,"Damage":["6d8",27],"Weapon flags":["two-handed"],"Affects":[["strength","2"]],"Weapon Type":"staff","Noun":"pound"},"name":"a wooden staff","map":{"area":{"name":"The village of Ash","slug":"the-village-of-ash"},"roomName":"The grove","map":"+----------------------------+\n| The village of Ash         |\n| ..@         ^-##.#         |\n| ..@         .....|         |\n| ..@         #.v#.#         |\n| ..@            #.#         |\n| ..@            #.#         |\n| @.@            #.#         |\n| @.@@@@      @@@@.@@@@      |\n| .....@      @*.....*@      |\n| @.@@.@      @.......@      |\n| #.#@.@@@@@@@@.......@@@@###|\n| #.#@.........*...........*.|\n| ###@@@@@@@.@@.......@@@@#.#|\n|       @@@@.@@..\"\"\"..@   #.#|\n|       @....@@*.\"\"\"..@   #.#|\n|       @.@@@@@@@\"\"\"@@@   #.#|\n| The grove                  |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"A dwarven druid"},"slug":"a-wooden-staff_334"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":139,"stats":{"Name(s)":["apprentice","training","staff"],"Short":"an apprentice's training staff","Long":"A training staff for apprentices lies here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":948,"Level to use":1,"Materials":["wood","unknown material"],"Charges":0,"Damage":["1d8",4],"Weapon Type":"staff","Noun":"pound"},"name":"an apprentice's training staff","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|    #.##.##.##.####         |\n|    #.##.##.#.....#         |\n|    ####.##.##.####         |\n|    ####.##.##.####         |\n|    #.............#         |\n|    #.##.##.##.##.#         |\n| ####.##.##.##.##.#         |\n| .*.#.##$##*##*##*#         |\n| ####.#####.#####.#         |\n|    #.#   #.#   #.#         |\n|    #*.   #.#   .*#         |\n|    #.#   #.#   #.#         |\n| ####.##-##.##-##.#         |\n| .*.....*........*#         |\n| ####.##.########.#         |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"an-apprentices-training-staff_139"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":434,"stats":{"Name(s)":["polished","oak","staff"],"Short":"a polished oak staff","Long":"A staff made of well polished oak lies here.","Type":"weapon","Flags":["magic"],"Weight":"8 lbs, 1 oz","Value":4990,"Level to use":60,"Materials":["wood","unknown material"],"Charges":0,"Damage":["13d10",71],"Weapon flags":["two-handed"],"Affects":[["damage roll","8"],["hit roll","8"]],"Weapon Type":"staff","Noun":"crush"},"name":"a polished oak staff","map":{"area":{"name":"Kurmost","slug":"kurmost"},"roomName":"A dining hall","map":"+----------------------------+\n| Kurmost                    |\n|    #.#                     |\n|    #*#                     |\n|    #.#                     |\n|    #.#                     |\n|    #*#                     |\n|    #.#                     |\n| ####.####^#####            |\n| ....*........*#            |\n| ####.#####.####            |\n|    #.#   #.#               |\n|    #*#   #*#               |\n|    #.#   ##v               |\n|    #.#                     |\n|    #.#                     |\n|    #.#                     |\n| A dining hall              |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a member of House Mystic"},"slug":"a-polished-oak-staff_434"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all weapons of type staff"}],["$","meta","2",{"name":"description","content":"a list of all of the weapons of type staff"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

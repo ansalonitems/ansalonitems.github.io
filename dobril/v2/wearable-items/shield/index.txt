@@ -1,15 +1,161 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-3621020224b553be.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","wearable-items","shield",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","shield","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","shield","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","SzVN_ElRPxKIUWs04-Lkt",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","main",null,{"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","103",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/the-shield-of-truth_103","title":"the Shield of Truth","children":"the Shield of Truth"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"4/6"}],["$","td",null,{"className":"px-3 py-2 text-right","children":65}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/vingaard-keep","title":"Vingaard Keep","children":"Vingaard Keep"}]}]]}]]}]]}]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","wearable-items","shield",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","shield","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","shield","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","xYHSja3JPDhim6otQtqy8",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[633,["173","static/chunks/173-91be8d59e7b6b129.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-bde0f5c9a57080c1.js"],"default"]
+e:T6cb,<2280/2280hp 2238/2992m 811/811mv [|A general store|] 0tnl > You [19047]: 'start dobril_id 532'
+You [19047]: 'start identify 532'
+Name(s):      large metal shield
+Short:        a large metal shield
+Long:         A large metal shield lies here.
+Type:         armor
+Flags:        none
+Weight:       10 lbs
+Value:        692
+Level to use: 1
+Materials:    steel/leather
+Armor Type:   metal
+Armor class:  5 pierce, 5 bash, 5 slash, 2 magic
+You [19047]: 'end identify 532'
+You [19047]: 'start map 532'
++----------------------------+
+| Knight's High Road         |
+| ###   """#.########.#      |
+| #$#   """#..........#      |      This store truly is "general".  A little bit of everything is sold here, and on
+| #.#   """#.##########      |    display is everything from plain swords to lanterns and backpacks to pieces of armor.
+| #.####""""""               |    Behind the counter is an older man who is carving a piece of wood, waiting for
+| ......""""""               |    customers.
+| ####.#""""""               |
+|    """   """###            |
+|    """   """.*#            |
+|    """   """###            |
+| """"""""""""               |
+| """"""""""""               |
+| """"""""""""               |
+|       """                  |
+|       """                  |
+|       """                  |
+| A general store            |
++----------------------------+
+You [19047]: 'end map 532'
+You [19047]: 'start examine 532'
+A large metal shield lies here.
+It is made out of steel and some leather.
+It is in perfect condition.
+It weighs about 10 pounds.
+You [19047]: 'end examine 532'
+You [19047]: 'start wear 532'
+You stop using a iron buckler.
+You wear a large metal shield as a shield.
+You [19047]: 'end wear 532'
+You [19047]: 'end dobril_id 532'f:T6da,<2280/2280hp 1620/2992m 803/811mv [|A dark tunnel|] 0tnl > You [19047]: 'start dobril_id 537'
+You [19047]: 'start identify 537'
+Name(s):      draconian shield
+Short:        Draconian Shield
+Long:         A small shield lies here.
+Type:         armor
+Flags:        magic indestructible
+Weight:       5 lbs
+Value:        10000
+Level to use: 55
+Materials:    scale/unknown material
+Armor Type:   light metal
+Armor class:  25 pierce, 25 bash, 25 slash, 25 magic
+Affects Fire Resistance by 5
+Affects Energy Resistance by 10
+Affects Lightning Resistance by 10
+Affects damage roll by 3
+Affects hit roll by 3
+You [19047]: 'end identify 537'
+You [19047]: 'start map 537'
++----------------------------+
+| Vingaard Mountains         |
+|    """      #.#            |
+|    """      #.#            |      You step and find yourself in a cave and see a long dark tunnel running north.
+|    ""v      #.#            |    Maybe there's some treasure up there...  Better keep going.
+|    """      #.#            |
+|    """      #.#            |
+|    """      #.#            |
+|    """   ####.#            |
+|    """   #...*.            |
+|    """   #.v###            |
+|    """""""""               |
+|    """"*""""               |
+|    """""""""               |
+|          """               |
+|          """               |
+|          "-"               |
+| A dark tunnel              |
++----------------------------+
+You [19047]: 'end map 537'
+You [19047]: 'start examine 537'
+A small shield lies here.
+It is made out of scale.
+It is in perfect condition.
+It weighs about 5 pounds.
+You [19047]: 'end examine 537'
+You [19047]: 'start wear 537'
+You stop using a iron buckler.
+You wear Draconian Shield as a shield.
+You [19047]: 'end wear 537'
+You [19047]: 'end dobril_id 537'10:T868,<2251/2271hp 543/2877m 490/931mv [|The Grand Staircase|] 929tnl > You [19047]: 'start dobril_id 103'
+You [19047]: 'start identify 103'
+Name(s):      shield truth
+Short:        the Shield of Truth
+Long:         A burnished platinum shield lies here.
+Type:         armor
+Flags:        burn_proof
+Weight:       3 lbs
+Value:        5000
+Level to use: 65
+Materials:    platinum/leather
+Armor Type:   metal
+Armor class:  23 pierce, 24 bash, 22 slash, 20 magic
+Affects hit roll by 4
+Affects damage roll by 6
+Affects saves by -1
+Affects intelligence by -1
+Affects wisdom by -1
+You [19047]: 'end identify 103'
+You [19047]: 'start map 103'
++----------------------------+
+| Vingaard Keep              |
+|                            |
+|                            |      Rather abruptly the hallway comes to an end and the room widens into a rather
+|                            |    large circular room with a tiled floor and a grand marble staircase leading to the top
+| #.#   ###   ###            |    floor.  Two doors, one north and one south, lead to more guard quarters.  Light enters
+| #.#   #.#   #.#            |    this large room from windows on the second story although torches are still mounted
+| #.#   #.#   #.#            |    upon the walls you can tell they haven't aren't used except for at night.  The smell
+| #.#####.####^.#            |    of unwashed guards leaves the room as only the smell of cigar smoke can be
+| ....*........*#            |    distinguished.
+| #.#####.#####.#            |
+| #.#   #.#   #.#            |
+| #*#   #.#   #.#            |
+| #.#   ###   ###            |
+| #.#                        |
+| .*#                        |
+| #.#                        |
+| The Grand Staircase        |
++----------------------------+
+You [19047]: 'end map 103'
+You [19047]: 'start examine 103'
+A burnished platinum shield lies here.
+It is made out of platinum and some leather.
+It is in almost perfect condition.
+It weighs about 2 pounds.
+You [19047]: 'end examine 103'
+You [19047]: 'start wear 103'
+You stop using a iron buckler.
+You wear the Shield of Truth as a shield.
+You [19047]: 'end wear 103'
+You [19047]: 'end dobril_id 103'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":532,"stats":{"Name(s)":["large","metal","shield"],"Short":"a large metal shield","Long":"A large metal shield lies here.","Type":"armor","Flags":["none"],"Weight":"10 lbs","Value":692,"Level to use":1,"Materials":["steel","leather"],"Armor Type":"metal","Armor class":[5,5,5,2]},"name":"a large metal shield","map":{"area":{"name":"Knight's High Road","slug":"knights-high-road"},"roomName":"A general store","map":"+----------------------------+\n| Knight's High Road         |\n| ###   \"\"\"#.########.#      |\n| #$#   \"\"\"#..........#      |\n| #.#   \"\"\"#.##########      |\n| #.####\"\"\"\"\"\"               |\n| ......\"\"\"\"\"\"               |\n| ####.#\"\"\"\"\"\"               |\n|    \"\"\"   \"\"\"###            |\n|    \"\"\"   \"\"\".*#            |\n|    \"\"\"   \"\"\"###            |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n| A general store            |\n+----------------------------+"},"wear":"shield","source":{"type":"bought","location":"A general store"},"slug":"a-large-metal-shield_532"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":537,"stats":{"Name(s)":["draconian","shield"],"Short":"Draconian Shield","Long":"A small shield lies here.","Type":"armor","Flags":["magic","indestructible"],"Weight":"5 lbs","Value":10000,"Level to use":55,"Materials":["scale","unknown material"],"Armor Type":"light metal","Armor class":[25,25,25,25],"Affects":[["Fire Resistance","5"],["Energy Resistance","10"],["Lightning Resistance","10"],["damage roll","3"],["hit roll","3"]]},"name":"Draconian Shield","map":{"area":{"name":"Vingaard Mountains","slug":"vingaard-mountains"},"roomName":"A dark tunnel","map":"+----------------------------+\n| Vingaard Mountains         |\n|    \"\"\"      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"v      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"\"   ####.#            |\n|    \"\"\"   #...*.            |\n|    \"\"\"   #.v###            |\n|    \"\"\"\"\"\"\"\"\"               |\n|    \"\"\"\"*\"\"\"\"               |\n|    \"\"\"\"\"\"\"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"-\"               |\n| A dark tunnel              |\n+----------------------------+"},"wear":"shield","source":{"type":"looted","mob":"a sivak draconian"},"slug":"draconian-shield_537"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":103,"stats":{"Name(s)":["shield","truth"],"Short":"the Shield of Truth","Long":"A burnished platinum shield lies here.","Type":"armor","Flags":["burn_proof"],"Weight":"3 lbs","Value":5000,"Level to use":65,"Materials":["platinum","leather"],"Armor Type":"metal","Armor class":[23,24,22,20],"Affects":[["hit roll","4"],["damage roll","6"],["saves","-1"],["intelligence","-1"],["wisdom","-1"]]},"name":"the Shield of Truth","map":{"area":{"name":"Vingaard Keep","slug":"vingaard-keep"},"roomName":"The Grand Staircase","map":"+----------------------------+\n| Vingaard Keep              |\n|                            |\n|                            |\n|                            |\n| #.#   ###   ###            |\n| #.#   #.#   #.#            |\n| #.#   #.#   #.#            |\n| #.#####.####^.#            |\n| ....*........*#            |\n| #.#####.#####.#            |\n| #.#   #.#   #.#            |\n| #*#   #.#   #.#            |\n| #.#   ###   ###            |\n| #.#                        |\n| .*#                        |\n| #.#                        |\n| The Grand Staircase        |\n+----------------------------+"},"wear":"shield","source":{"type":"looted","mob":"The Lord of the Keep"},"slug":"the-shield-of-truth_103"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all equipment worn in the shield slot"}],["$","meta","2",{"name":"description","content":"a list of all of the equipment worn in the shield slot"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

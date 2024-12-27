@@ -1,15 +1,481 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-39511c8965e7f13e.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","weapon-types","sword",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","sword","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","sword","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","LPx9DWz26Vq2cWla9ZqRJ",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"2H"}],["$","th",null,{"className":"px-3 py-2","children":"Noun"}],["$","th",null,{"className":"px-3 py-2","children":"Damage"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","142",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-training-sword_142","title":"a training sword","children":"a training sword"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":3}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","361",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-goblins-short-sword_361","title":"a goblin's short sword","children":"a goblin's short sword"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"stab"}],["$","td",null,{"className":"px-3 py-2 text-right","children":15}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-province","title":"Palanthas Province","children":"Palanthas Province"}]}]]}],["$","tr","379",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-goblins-shortsword_379","title":"a goblin's shortsword","children":"a goblin's shortsword"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/1"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","390",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-long-two-handed-sword_390","title":"a long two-handed sword","children":"a long two-handed sword"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":"✓"}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":14}],["$","td",null,{"className":"px-3 py-2 text-right","children":"3/3"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","96",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-steel-broadsword_96","title":"a steel broadsword","children":"a steel broadsword"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"cleave"}],["$","td",null,{"className":"px-3 py-2 text-right","children":24}],["$","td",null,{"className":"px-3 py-2 text-right","children":"3/3"}],["$","td",null,{"className":"px-3 py-2 text-right","children":14}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/the-eastern-warrens","title":"The Eastern Warrens","children":"The Eastern Warrens"}]}]]}],["$","tr","76",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/an-emerald-longsword_76","title":"an emerald longsword","children":"an emerald longsword"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":27}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":26}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/freeport","title":"Freeport","children":"Freeport"}]}]]}],["$","tr","183",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/lightreaver_183","title":"Lightreaver","children":"Lightreaver"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":65}],["$","td",null,{"className":"px-3 py-2 text-right","children":"10/10"}],["$","td",null,{"className":"px-3 py-2 text-right","children":80}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/sanction","title":"Sanction","children":"Sanction"}]}]]}]]}]]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","weapon-types","sword",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","sword","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","sword","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","_KsDtH45ZQzHuCkPdGPni",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[2123,["173","static/chunks/173-91be8d59e7b6b129.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-0a89b064ce631510.js"],"default"]
+e:T6d8,<2280/2280hp 2475/2992m 811/811mv [|In the forest|] 0tnl > You [19047]: 'start dobril_id 361'
+You [19047]: 'start identify 361'
+Name(s):      sword short
+Short:        a goblin's short sword
+Long:         A rusted sword lies on the ground.
+Type:         weapon: sword
+Flags:        none
+Weight:       2 lbs, 1 oz
+Value:        1320
+Level to use: 1
+Materials:    steel/unknown material
+Damage:       3d9 (average 15)
+You [19047]: 'end identify 361'
+You [19047]: 'start map 361'
++----------------------------+
+| Palanthas Province         |
+|    @.@@@@"""   #.#         |
+|    @.....""|   #*#         |      You are in a light forest.  A path leads south, but the passage to the east is
+|    @@@@.@"""   #.#         |    easy enough.  To the west, smoke can be seen rising above the treetops.  A well
+| #######.########.#         |    traveled road, running east and west, lies to the north.
+| .................#         |
+| #.###########.####         |
+|             @.@@@@         |
+|             @*..*@         |
+|             @.@@.@         |
+|          @@@@.@@.@@@@      |
+|          @....@@....@      |
+|          @.@@.@@....@      |
+|          @.@@.@@....@      |
+|          @.@@*..*...@      |
+|          @.@@....@@@@      |
+| In the forest              |
++----------------------------+
+You [19047]: 'end map 361'
+You [19047]: 'start examine 361'
+A rusted sword lies on the ground.
+It is made out of steel.
+It is in good shape but could use some repair.
+It weighs about 2 pounds.
+You [19047]: 'end examine 361'
+You [19047]: 'start wear 361'
+You stop using Guidonious' dagger of vengeance.
+You wield a goblin's short sword.
+You don't even know which end is up on a goblin's short sword.
+You [19047]: 'end wear 361'
+You [19047]: 'end dobril_id 361'f:T7d7,<2240/2218hp 2471/2943m 811/783mv [|The training room|] 0tnl > You [19047]: 'start dobril_id 390'
+You [19047]: 'start identify 390'
+Name(s):      sword long two two-hand two-handed
+Short:        a long two-handed sword
+Long:         A long two-handed sword has been left here.
+Type:         weapon: sword
+Flags:        glow magic
+Weight:       5 lbs
+Value:        7900
+Level to use: 1
+Materials:    steel/leather
+Damage:       4d6 (average 14)
+Weapon flags: sharp two-handed
+Affects constitution by -1
+Affects wisdom by -1
+Affects damage roll by 3
+Affects hit roll by 3
+You [19047]: 'end identify 390'
+You [19047]: 'start map 390'
++----------------------------+
+| Goblin Stronghold          |
+|                #.#   ###   |
+|                #.#   #*#   |      This is where the goblins are shaped into something resembling a fighting unit.
+|                #.#   #.#   |    Assorted dummies and training equipment lie around.  The room has a sticky film of
+|          #######.#####.#   |    blood on the floor.  Apparently the goblins believe in the "survival of the fittest"
+|          #......*.....*#   |    theory of military training.
+|          #.v#.##.##.####   |
+|          #.##.##.##.####   |
+|          #*##*.....*..*#   |
+|          #######.#######   |
+|                #.#         |
+|                #*#         |
+|                #.#         |
+|                #.#         |
+|                |*|         |
+|                ###         |
+| The training room          |
++----------------------------+
+A goblin walks east.
+You [19047]: 'end map 390'
+You [19047]: 'start examine 390'
+A long two-handed sword has been left here.
+It is made out of steel and some leather.
+It is in almost perfect condition.
+It weighs about 4 pounds.
+You [19047]: 'end examine 390'
+You [19047]: 'start wear 390'
+You stop using Guidonious' dagger of vengeance.
+You wield a long two-handed sword.
+You don't even know which end is up on a long two-handed sword.
+You [19047]: 'end wear 390'
+You [19047]: 'end dobril_id 390'10:T6cf,<2280/2280hp 2200/2992m 811/811mv [|A general store|] 0tnl > You [19047]: 'start dobril_id 529'
+You [19047]: 'start identify 529'
+Name(s):      long sword
+Short:        a long sword
+Long:         A long sword has been left here.
+Type:         weapon: sword
+Flags:        none
+Weight:       5 lbs
+Value:        466
+Level to use: 1
+Materials:    steel/leather
+Damage:       2d5 (average 6)
+You [19047]: 'end identify 529'
+You [19047]: 'start map 529'
++----------------------------+
+| Knight's High Road         |
+| ###   """#.########.#      |
+| #$#   """#..........#      |      This store truly is "general".  A little bit of everything is sold here, and on
+| #.#   """#.##########      |    display is everything from plain swords to lanterns and backpacks to pieces of armor.
+| #.####""""""               |    Behind the counter is an older man who is carving a piece of wood, waiting for
+| ......""""""               |    customers.
+| ####.#""""""               |
+|    """   """###            |
+|    """   """.*#            |
+|    """   """###            |
+| """"""""""""               |
+| """"""""""""               |
+| """"""""""""               |
+|       """                  |
+|       """                  |
+|       """                  |
+| A general store            |
++----------------------------+
+You [19047]: 'end map 529'
+You [19047]: 'start examine 529'
+A long sword has been left here.
+It is made out of steel and some leather.
+It is in perfect condition.
+It weighs about 4 pounds.
+You [19047]: 'end examine 529'
+You [19047]: 'start wear 529'
+You stop using Guidonious' dagger of vengeance.
+You wield a long sword.
+You don't even know which end is up on a long sword.
+You [19047]: 'end wear 529'
+You [19047]: 'end dobril_id 529'11:T757,<2280/2280hp 2488/2992m 672/811mv [|An entryway|] 0tnl > You [19047]: 'start dobril_id 379'
+You [19047]: 'start identify 379'
+Name(s):      sword goblin short
+Short:        a goblin's shortsword
+Long:         It looks heavier than your average shortsword, but it could use sone oiling.
+Type:         weapon: sword
+Flags:        magic
+Weight:       5 lbs
+Value:        900
+Level to use: 1
+Materials:    steel/unknown material
+Damage:       2d4 (average 5)
+Weapon flags: sharp
+Affects damage roll by 1
+You [19047]: 'end identify 379'
+You [19047]: 'start map 379'
++----------------------------+
+| Goblin Stronghold          |
+|             ####^#         |
+|             #^^^^#         |      The tunnel widens into a large cavern that serves as the staging quarters of some
+|             #^####         |    sort.  The bones of numerous woodland creatures are strewn about the room, as are the
+|             #.#            |    remnants of a recent attack.  A large hall opens to the south.
+|             #.#            |
+|             #.#            |
+|             #.#   ###      |
+|             #*#   #.#      |
+|             #.#   #.#      |
+|       #######.#####.#      |
+|       #*..*..*..*...#      |
+|       #.v#.##-##.####      |
+|       #.##.#   #.####      |
+|       #*##.|   |....#      |
+|       ######   ######      |
+| An entryway                |
++----------------------------+
+You [19047]: 'end map 379'
+You [19047]: 'start examine 379'
+It looks heavier than your average shortsword, but it could use sone oiling.
+It is made out of steel.
+It is in almost perfect condition.
+It weighs about 4 pounds.
+You [19047]: 'end examine 379'
+You [19047]: 'start wear 379'
+You stop using Guidonious' dagger of vengeance.
+You wield a goblin's shortsword.
+You don't even know which end is up on a goblin's shortsword.
+You [19047]: 'end wear 379'
+You [19047]: 'end dobril_id 379'12:T6ce,<2295/2295hp 2877/2946m 849/849mv [|The Training Weapon's Shop|] 0tnl > You [19047]: 'start dobril_id 142'
+You [19047]: 'start identify 142'
+Name(s):      sword training
+Short:        a training sword
+Long:         A training sword is here.
+Type:         weapon: sword
+Flags:        none
+Weight:       1 lbs, 8 oz
+Value:        871
+Level to use: 1
+Materials:    wood/unknown material
+Damage:       1d6 (average 3)
+You [19047]: 'end identify 142'
+You [19047]: 'start map 142'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The weapons which assort the walls, racks and tables in this shop are all made of
+|                            |    wood and are sold to people to train with.  There are many weapons, of many types sold
+|                            |    here.  The room is dimly lit and smells like sweat.  The exit lies to the north.
+|                            |
+|                            |
+|             #-#            |
+|             #*#            |
+|             ###            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Training Weapon's Sho  |
++----------------------------+
+You [19047]: 'end map 142'
+You [19047]: 'start examine 142'
+A training sword is here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 142'
+You [19047]: 'start wear 142'
+You stop using Guidonious' dagger of vengeance.
+You wield a training sword.
+You don't even know which end is up on a training sword.
+You [19047]: 'end wear 142'
+You [19047]: 'end dobril_id 142'13:T75e,<2185/2222hp 2110/2837m 843/881mv [|A Guardhouse in the Eastern Warrens|] 959tnl > You [19047]: 'start dobril_id 96'
+You [19047]: 'start identify 96'
+Name(s):      broad sword steel
+Short:        a steel broadsword
+Long:         There is a broadsword made out of pure steel, here.
+Type:         weapon: sword
+Flags:        none
+Weight:       2 lbs, 8 oz
+Value:        500
+Level to use: 14
+Materials:    steel/unknown material
+Damage:       6d7 (average 24)
+Weapon flags: sharp
+Affects damage roll by 3
+Affects hit roll by 3
+You [19047]: 'end identify 96'
+You [19047]: 'start map 96'
++----------------------------+
+| The Eastern Warrens        |
+|                            |
+|                            |      The guardhouse is fairly plain: bunks to one side for the guards to sleep in; a
+|                            |    few tables, to arrange their drinks and games on; cabinets, to keep their apparel in;
+|                            |    and much to that liken.  The door back to the streets is to the south.  There are
+|                            |    several guards around.
+|                            |
+|             ###            |
+|             #*#            |
+|             #.#            |
+| #############.#""""""""""""|
+| .......*..*..*."*"""""*""""|
+| #.##.########.#""""""""""""|
+| #.##.#      """      """"""|
+| #*##.#      "*"      "*""""|
+| ####.#      """      """"""|
+| A Guardhouse in the Easte  |
++----------------------------+
+You [19047]: 'end map 96'
+You [19047]: 'start examine 96'
+There is a broadsword made out of pure steel, here.
+It is made out of steel.
+It is in perfect condition.
+It weighs about 2 pounds.
+You [19047]: 'end examine 96'
+You [19047]: 'start wear 96'
+You stop using a nightmares fang.
+You wield a steel broadsword.
+You don't even know which end is up on a steel broadsword.
+You [19047]: 'end wear 96'
+You [19047]: 'end dobril_id 96'14:T7cf,<2236/2236hp 2557/2992m 795/795mv [|Knight's High Road|] 0tnl > You [19047]: 'start dobril_id 487'
+You [19047]: 'start identify 487'
+Name(s):      shining silver sword
+Short:        a shining silver sword
+Long:         A sword made of a silvery metal shines brightly here.
+Type:         weapon: sword
+Flags:        magic
+Weight:       1 lbs, 8 oz
+Value:        1000
+Level to use: 25
+Materials:    steel/silver
+Damage:       5d11 (average 30)
+Affects damage roll by 6
+Affects hit roll by 6
+You [19047]: 'end identify 487'
+You [19047]: 'start map 487'
++----------------------------+
+| Knight's High Road         |
+|             """            |
+|             """            |      The Knight's High Road is a hard packed dirt road that leads from Palanthas,
+|             """            |    through the Vingaard Mountains into the Solamnic Plains.  The mountains retreat from
+|             """            |    the road a ways, turning into gentle hills before rising back up into mountains.
+|             """            |    Farms can be seen on the rolling hills, as well as workers maintaining the fields.
+|             """            |    The road stretches to the north and south.
+|             """            |
+|             "*"            |
+|             """            |
+|             """            |
+|             """            |
+|             """            |
+|             """""""""""""""|
+|             """""""""""""""|
+|             """""""""""""""|
+| Knight's High Road         |
++----------------------------+
+You [19047]: 'end map 487'
+You [19047]: 'start examine 487'
+A sword made of a silvery metal shines brightly here.
+It is made out of steel and some silver.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 487'
+You [19047]: 'start wear 487'
+You stop using Guidonious' dagger of vengeance.
+You wield a shining silver sword.
+You don't even know which end is up on a shining silver sword.
+You [19047]: 'end wear 487'
+You [19047]: 'end dobril_id 487'15:T694,<1382/2098hp 1565/2653m 857/857mv [|In the Hidden Cavern|] 88tnl > You [19047]: 'start dobril_id 76'
+You [19047]: 'start identify 76'
+Name(s):      longsword emerald
+Short:        an emerald longsword
+Long:         An emerald longsword is here.
+Type:         weapon: sword
+Flags:        magic
+Weight:       1 lbs
+Value:        5230
+Level to use: 26
+Materials:    emerald/steel
+Damage:       5d10 (average 27)
+Affects armor class by -10
+You [19047]: 'end identify 76'
+You [19047]: 'start map 76'
++----------------------------+
+| Freeport                   |
+|          ^""               |
+|          "*"               |      You walk along the shore of an underground water cave in which several triremes
+|          "n"               |    have been moored, one of which is being unloaded.  You sneak unnoticed behind several
+|          "n"###            |    CRATES which have been recently off-loaded.  To the north of you is a guarded door.
+|          "*"#.#            |
+|          "n"#.#            |
+|          #.##.####         |
+|          #...*...#         |
+|          #.......#         |
+|          #..^~~..#         |
+|          #..~~~..#         |
+|          #.#~~~#.#         |
+|          #.#   #.#         |
+|          #.#   #.#         |
+|          ###   ###         |
+| In the Hidden Cavern       |
++----------------------------+
+You [19047]: 'end map 76'
+You [19047]: 'start examine 76'
+An emerald longsword is here.
+It is made out of emerald and some steel.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 76'
+You [19047]: 'start wear 76'
+You can't remove a dagger of piercing.
+You [19047]: 'end wear 76'
+You [19047]: 'end dobril_id 76'16:T6a3,<2280/2280hp 1630/2992m 803/811mv [|A dark tunnel|] 0tnl > You [19047]: 'start dobril_id 536'
+You [19047]: 'start identify 536'
+Name(s):      draconian shortsword sword
+Short:        Draconian ShortSword
+Long:         A small sword lies here on the ground.
+Type:         weapon: sword
+Flags:        magic burn_proof
+Weight:       3 lbs
+Value:        2200
+Level to use: 55
+Materials:    steel/unknown material
+Damage:       10d8 (average 45)
+Weapon flags: poison
+You [19047]: 'end identify 536'
+You [19047]: 'start map 536'
++----------------------------+
+| Vingaard Mountains         |
+|    """      #.#            |
+|    """      #.#            |      You step and find yourself in a cave and see a long dark tunnel running north.
+|    ""v      #.#            |    Maybe there's some treasure up there...  Better keep going.
+|    """      #.#            |
+|    """      #.#            |
+|    """      #.#            |
+|    """   ####.#            |
+|    """   #...*.            |
+|    """   #.v###            |
+|    """""""""               |
+|    """"*""""               |
+|    """""""""               |
+|          """               |
+|          """               |
+|          "-"               |
+| A dark tunnel              |
++----------------------------+
+You [19047]: 'end map 536'
+You [19047]: 'start examine 536'
+A small sword lies here on the ground.
+It is made out of steel.
+It is in perfect condition.
+It weighs about 2 pounds.
+You [19047]: 'end examine 536'
+You [19047]: 'start wear 536'
+You stop using Guidonious' dagger of vengeance.
+You wield Draconian ShortSword.
+You don't even know which end is up on Draconian ShortSword.
+You [19047]: 'end wear 536'
+You [19047]: 'end dobril_id 536'17:T7b5,<2295/2295hp 2451/2946m 849/849mv [|Inside the arena|] 0tnl > You [19047]: 'start dobril_id 183'
+You [19047]: 'start identify 183'
+Name(s):      lightreaver black longsword
+Short:        Lightreaver
+Long:         A black longsword humming with energy lies here.
+Type:         weapon: sword
+Flags:        magic anti-good
+Weight:       10 lbs
+Value:        0
+Level to use: 80
+Materials:    steel/unknown material
+Damage:       10d12 (average 65)
+Weapon flags: vorpal shocking
+Affects hit roll by 10
+Affects damage roll by 10
+Affects armor class by -1
+You [19047]: 'end identify 183'
+You [19047]: 'start map 183'
++----------------------------+
+| Sanction                   |
+|             ###   #.#      |
+|             |.#   |.|      |      The arena in which you stand if fairly large.  You are inside a sort of service
+|             #.#   #.#      |    hallway.  To the north and the south are rows of cages which house creatures to be
+|             #.#####.####   |    released into the arena for the battles.  To the west lies the doors that give access
+|             |.##*......#   |    to the arena floor itself.  There is a spiraling staircase, leading up to the viewing
+|             #.#####.####   |    area and downwards to an unknown room.  The entrance to the temple lies to the east.
+|       ######^.#####.#      |
+|       #......*......|      |
+|       #######.v####.v      |
+|             #.#            |
+|             |.#            |
+|             #.#            |
+|             #.#            |
+|             |.#            |
+|             ###            |
+| Inside the arena           |
++----------------------------+
+You [19047]: 'end map 183'
+You [19047]: 'start examine 183'
+A black longsword humming with energy lies here.
+It is made out of steel.
+It is in perfect condition.
+It weighs about 10 pounds.
+You [19047]: 'end examine 183'
+You [19047]: 'start wear 183'
+You do not have that item.
+You [19047]: 'end wear 183'
+You [19047]: 'end dobril_id 183'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":361,"stats":{"Name(s)":["sword","short"],"Short":"a goblin's short sword","Long":"A rusted sword lies on the ground.","Type":"weapon","Flags":["none"],"Weight":"2 lbs, 1 oz","Value":1320,"Level to use":1,"Materials":["steel","unknown material"],"Damage":["3d9",15],"Weapon Type":"sword","Noun":"stab"},"name":"a goblin's short sword","map":{"area":{"name":"Palanthas Province","slug":"palanthas-province"},"roomName":"In the forest","map":"+----------------------------+\n| Palanthas Province         |\n|    @.@@@@\"\"\"   #.#         |\n|    @.....\"\"|   #*#         |\n|    @@@@.@\"\"\"   #.#         |\n| #######.########.#         |\n| .................#         |\n| #.###########.####         |\n|             @.@@@@         |\n|             @*..*@         |\n|             @.@@.@         |\n|          @@@@.@@.@@@@      |\n|          @....@@....@      |\n|          @.@@.@@....@      |\n|          @.@@.@@....@      |\n|          @.@@*..*...@      |\n|          @.@@....@@@@      |\n| In the forest              |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"the goblin"},"slug":"a-goblins-short-sword_361"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":390,"stats":{"Name(s)":["sword","long","two","two-hand","two-handed"],"Short":"a long two-handed sword","Long":"A long two-handed sword has been left here.","Type":"weapon","Flags":["glow","magic"],"Weight":"5 lbs","Value":7900,"Level to use":1,"Materials":["steel","leather"],"Damage":["4d6",14],"Weapon flags":["sharp","two-handed"],"Affects":[["constitution","-1"],["wisdom","-1"],["damage roll","3"],["hit roll","3"]],"Weapon Type":"sword","Noun":"slash"},"name":"a long two-handed sword","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The training room","map":"+----------------------------+\n| Goblin Stronghold          |\n|                #.#   ###   |\n|                #.#   #*#   |\n|                #.#   #.#   |\n|          #######.#####.#   |\n|          #......*.....*#   |\n|          #.v#.##.##.####   |\n|          #.##.##.##.####   |\n|          #*##*.....*..*#   |\n|          #######.#######   |\n|                #.#         |\n|                #*#         |\n|                #.#         |\n|                #.#         |\n|                |*|         |\n|                ###         |\n| The training room          |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"Knarl"},"slug":"a-long-two-handed-sword_390"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":529,"stats":{"Name(s)":["long","sword"],"Short":"a long sword","Long":"A long sword has been left here.","Type":"weapon","Flags":["none"],"Weight":"5 lbs","Value":466,"Level to use":1,"Materials":["steel","leather"],"Damage":["2d5",6],"Weapon Type":"sword","Noun":"slash"},"name":"a long sword","map":{"area":{"name":"Knight's High Road","slug":"knights-high-road"},"roomName":"A general store","map":"+----------------------------+\n| Knight's High Road         |\n| ###   \"\"\"#.########.#      |\n| #$#   \"\"\"#..........#      |\n| #.#   \"\"\"#.##########      |\n| #.####\"\"\"\"\"\"               |\n| ......\"\"\"\"\"\"               |\n| ####.#\"\"\"\"\"\"               |\n|    \"\"\"   \"\"\"###            |\n|    \"\"\"   \"\"\".*#            |\n|    \"\"\"   \"\"\"###            |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n| \"\"\"\"\"\"\"\"\"\"\"\"               |\n|       \"\"\"                  |\n|       \"\"\"                  |\n|       \"\"\"                  |\n| A general store            |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"A general store"},"slug":"a-long-sword_529"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":379,"stats":{"Name(s)":["sword","goblin","short"],"Short":"a goblin's shortsword","Long":"It looks heavier than your average shortsword, but it could use sone oiling.","Type":"weapon","Flags":["magic"],"Weight":"5 lbs","Value":900,"Level to use":1,"Materials":["steel","unknown material"],"Damage":["2d4",5],"Weapon flags":["sharp"],"Affects":[["damage roll","1"]],"Weapon Type":"sword","Noun":"slash"},"name":"a goblin's shortsword","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"An entryway","map":"+----------------------------+\n| Goblin Stronghold          |\n|             ####^#         |\n|             #^^^^#         |\n|             #^####         |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n|             #.#   ###      |\n|             #*#   #.#      |\n|             #.#   #.#      |\n|       #######.#####.#      |\n|       #*..*..*..*...#      |\n|       #.v#.##-##.####      |\n|       #.##.#   #.####      |\n|       #*##.|   |....#      |\n|       ######   ######      |\n| An entryway                |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"A goblin"},"slug":"a-goblins-shortsword_379"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":142,"stats":{"Name(s)":["sword","training"],"Short":"a training sword","Long":"A training sword is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":871,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["1d6",3],"Weapon Type":"sword","Noun":"slash"},"name":"a training sword","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"a-training-sword_142"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":96,"stats":{"Name(s)":["broad","sword","steel"],"Short":"a steel broadsword","Long":"There is a broadsword made out of pure steel, here.","Type":"weapon","Flags":["none"],"Weight":"2 lbs, 8 oz","Value":500,"Level to use":14,"Materials":["steel","unknown material"],"Damage":["6d7",24],"Weapon flags":["sharp"],"Affects":[["damage roll","3"],["hit roll","3"]],"Weapon Type":"sword","Noun":"cleave"},"name":"a steel broadsword","map":{"area":{"name":"The Eastern Warrens","slug":"the-eastern-warrens"},"roomName":"A Guardhouse in the Easte","map":"+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n| #############.#\"\"\"\"\"\"\"\"\"\"\"\"|\n| .......*..*..*.\"*\"\"\"\"\"*\"\"\"\"|\n| #.##.########.#\"\"\"\"\"\"\"\"\"\"\"\"|\n| #.##.#      \"\"\"      \"\"\"\"\"\"|\n| #*##.#      \"*\"      \"*\"\"\"\"|\n| ####.#      \"\"\"      \"\"\"\"\"\"|\n| A Guardhouse in the Easte  |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"A hylar guard"},"slug":"a-steel-broadsword_96"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":487,"stats":{"Name(s)":["shining","silver","sword"],"Short":"a shining silver sword","Long":"A sword made of a silvery metal shines brightly here.","Type":"weapon","Flags":["magic"],"Weight":"1 lbs, 8 oz","Value":1000,"Level to use":25,"Materials":["steel","silver"],"Damage":["5d11",30],"Affects":[["damage roll","6"],["hit roll","6"]],"Weapon Type":"sword","Noun":"slash"},"name":"a shining silver sword","map":{"area":{"name":"Knight's High Road","slug":"knights-high-road"},"roomName":"Knight's High Road","map":"+----------------------------+\n| Knight's High Road         |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"*\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"|\n| Knight's High Road         |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"A Solamnic patrol"},"slug":"a-shining-silver-sword_487"},{"raw":"$15","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":76,"stats":{"Name(s)":["longsword","emerald"],"Short":"an emerald longsword","Long":"An emerald longsword is here.","Type":"weapon","Flags":["magic"],"Weight":"1 lbs","Value":5230,"Level to use":26,"Materials":["emerald","steel"],"Damage":["5d10",27],"Affects":[["armor class","-10"]],"Weapon Type":"sword","Noun":"slash"},"name":"an emerald longsword","map":{"area":{"name":"Freeport","slug":"freeport"},"roomName":"In the Hidden Cavern","map":"+----------------------------+\n| Freeport                   |\n|          ^\"\"               |\n|          \"*\"               |\n|          \"n\"               |\n|          \"n\"###            |\n|          \"*\"#.#            |\n|          \"n\"#.#            |\n|          #.##.####         |\n|          #...*...#         |\n|          #.......#         |\n|          #..^~~..#         |\n|          #..~~~..#         |\n|          #.#~~~#.#         |\n|          #.#   #.#         |\n|          #.#   #.#         |\n|          ###   ###         |\n| In the Hidden Cavern       |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"the pirate guard"},"slug":"an-emerald-longsword_76"},{"raw":"$16","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":536,"stats":{"Name(s)":["draconian","shortsword","sword"],"Short":"Draconian ShortSword","Long":"A small sword lies here on the ground.","Type":"weapon","Flags":["magic","burn_proof"],"Weight":"3 lbs","Value":2200,"Level to use":55,"Materials":["steel","unknown material"],"Damage":["10d8",45],"Weapon flags":["poison"],"Weapon Type":"sword","Noun":"slice"},"name":"Draconian ShortSword","map":{"area":{"name":"Vingaard Mountains","slug":"vingaard-mountains"},"roomName":"A dark tunnel","map":"+----------------------------+\n| Vingaard Mountains         |\n|    \"\"\"      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"v      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"\"      #.#            |\n|    \"\"\"   ####.#            |\n|    \"\"\"   #...*.            |\n|    \"\"\"   #.v###            |\n|    \"\"\"\"\"\"\"\"\"               |\n|    \"\"\"\"*\"\"\"\"               |\n|    \"\"\"\"\"\"\"\"\"               |\n|          \"\"\"               |\n|          \"\"\"               |\n|          \"-\"               |\n| A dark tunnel              |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a sivak draconian"},"slug":"draconian-shortsword_536"},{"raw":"$17","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_23.txt","type":"item","id":183,"stats":{"Name(s)":["lightreaver","black","longsword"],"Short":"Lightreaver","Long":"A black longsword humming with energy lies here.","Type":"weapon","Flags":["magic","anti-good"],"Weight":"10 lbs","Value":0,"Level to use":80,"Materials":["steel","unknown material"],"Damage":["10d12",65],"Weapon flags":["vorpal","shocking"],"Affects":[["hit roll","10"],["damage roll","10"],["armor class","-1"]],"Weapon Type":"sword","Noun":"slash"},"name":"Lightreaver","map":{"area":{"name":"Sanction","slug":"sanction"},"roomName":"Inside the arena","map":"+----------------------------+\n| Sanction                   |\n|             ###   #.#      |\n|             |.#   |.|      |\n|             #.#   #.#      |\n|             #.#####.####   |\n|             |.##*......#   |\n|             #.#####.####   |\n|       ######^.#####.#      |\n|       #......*......|      |\n|       #######.v####.v      |\n|             #.#            |\n|             |.#            |\n|             #.#            |\n|             #.#            |\n|             |.#            |\n|             ###            |\n| Inside the arena           |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"Master of the Arena"},"slug":"lightreaver_183"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all weapons of type sword"}],["$","meta","2",{"name":"description","content":"a list of all of the weapons of type sword"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

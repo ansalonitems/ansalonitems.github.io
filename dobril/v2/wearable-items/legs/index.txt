@@ -1,15 +1,306 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-3621020224b553be.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","wearable-items","legs",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","legs","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","legs","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","D3SD87Rm4hue5ZgKNG9ha",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","main",null,{"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","384",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-goblin-long-scale-mail-skirt_384","title":"a goblin long scale mail skirt","children":"a goblin long scale mail skirt"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","387",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-goblin-long-chain-mail-skirt_387","title":"a goblin long chain mail skirt","children":"a goblin long chain mail skirt"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","466",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-smashing-green-pants_466","title":"a pair of smashing green pants","children":"a pair of smashing green pants"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"2/2"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}],["$","tr","467",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-pink-leg-warmers_467","title":"a pair of pink leg warmers","children":"a pair of pink leg warmers"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"2/2"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}],["$","tr","202",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/sharkskin-pants_202","title":"sharkskin pants","children":"sharkskin pants"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/2"}],["$","td",null,{"className":"px-3 py-2 text-right","children":15}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/isles-of-the-pirate-lords","title":"Isles of the Pirate Lords","children":"Isles of the Pirate Lords"}]}]]}],["$","tr","7",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/woven-a-pair-of-fur-leggings_7","title":"(Woven) a pair of fur leggings","children":"(Woven) a pair of fur leggings"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"3/4"}],["$","td",null,{"className":"px-3 py-2 text-right","children":40}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}]]}]]}]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","wearable-items","legs",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","legs","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","legs","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","PqilLKWp2dA-pI2nKk6GP",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[633,["173","static/chunks/173-91be8d59e7b6b129.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-bde0f5c9a57080c1.js"],"default"]
+e:T752,<2265/2280hp 2452/2992m 761/811mv [|The goblin barracks|] 0tnl > You [19047]: 'start dobril_id 384'
+You [19047]: 'start identify 384'
+Name(s):      skirt goblin scale mail
+Short:        a goblin long scale mail skirt
+Long:         A goblin long scale mail skirt is lying on the ground.
+Type:         armor
+Flags:        none
+Weight:       12 lbs
+Value:        500
+Level to use: 1
+Materials:    leather/steel
+Armor Type:   magic
+Armor class:  3 pierce, 5 bash, 4 slash, 0 magic
+You [19047]: 'end identify 384'
+You [19047]: 'start map 384'
++----------------------------+
+| Goblin Stronghold          |
+|       ####^#               |
+|       #^^^^#               |      This room is where the goblin soldiers sleep.  The room is a full 20 yards square
+|       #^####               |    and there are bunks along each wall.  There is graphic graffiti scrawled on the walls,
+|       #.#                  |    but it's in goblin and all you can make out are the drawings of goblin females.  There
+|       #.#                  |    is an arched doorway leading south.
+|       #.#                  |
+|       #.#   ###            |
+|       #.#   #*#            |
+|       #.#   #.#            |
+| #######.#####.#            |
+| #*..*.....*..*#            |
+| #.v#.##.##.####            |
+| #.##.##.##.####            |
+| #.##.||.||...*#            |
+| #######.#######            |
+| The goblin barracks        |
++----------------------------+
+You [19047]: 'end map 384'
+You [19047]: 'start examine 384'
+A goblin long scale mail skirt is lying on the ground.
+It is made out of leather and some steel.
+It is in almost perfect condition.
+It weighs about 11 pounds.
+You [19047]: 'end examine 384'
+You [19047]: 'start wear 384'
+You stop using (Woven) a pair of fur leggings.
+You wear a goblin long scale mail skirt on your legs.
+You [19047]: 'end wear 384'
+You [19047]: 'end dobril_id 384'f:T793,<2280/2280hp 2480/2992m 811/811mv [|The training room|] 0tnl > You [19047]: 'start dobril_id 387'
+You [19047]: 'start identify 387'
+Name(s):      skirt goblin chain mail
+Short:        a goblin long chain mail skirt
+Long:         A goblin long chain mail skirt is lying on the ground.
+Type:         armor
+Flags:        none
+Weight:       10 lbs
+Value:        800
+Level to use: 1
+Materials:    steel/leather
+Armor Type:   magic
+Armor class:  5 pierce, 4 bash, 5 slash, 0 magic
+<2280/2280hp 2467/2992m 811/811mv [|The training room|] 0tnl >
+Pandora OOCs 'lol'
+You [19047]: 'end identify 387'
+You [19047]: 'start map 387'
++----------------------------+
+| Goblin Stronghold          |
+|                #.#   ###   |
+|                #.#   #.#   |      This is where the goblins are shaped into something resembling a fighting unit.
+|                #.#   #.#   |    Assorted dummies and training equipment lie around.  The room has a sticky film of
+|          #######.#####.#   |    blood on the floor.  Apparently the goblins believe in the "survival of the fittest"
+|          #*........*..*#   |    theory of military training.
+|          #.v#.##.##.####   |
+|          #.##.##.##.####   |
+|          #.##*..*..*..*#   |
+|          #######.#######   |
+|                #.#         |
+|                #.#         |
+|                #.#         |
+|                #.#         |
+|                |*|         |
+|                ###         |
+| The training room          |
++----------------------------+
+You [19047]: 'end map 387'
+You [19047]: 'start examine 387'
+A goblin long chain mail skirt is lying on the ground.
+It is made out of steel and some leather.
+It is in almost perfect condition.
+It weighs about 10 pounds.
+You [19047]: 'end examine 387'
+You [19047]: 'start wear 387'
+You stop using (Woven) a pair of fur leggings.
+You wear a goblin long chain mail skirt on your legs.
+You [19047]: 'end wear 387'
+You [19047]: 'end dobril_id 387'10:T9de,<1972/2218hp 1879/2943m 783/783mv [|The Flaming Tailor Wagon|] 0tnl > You [19047]: 'start dobril_id 466'
+You [19047]: 'start identify 466'
+Name(s):      green pants
+Short:        a pair of smashing green pants
+Long:         A pair of smashing green pants made by Chuck the Flamer are here.
+Type:         armor
+Flags:        none
+Weight:       0 lbs, 4 oz
+Value:        70000
+Level to use: 5
+Materials:    cloth/unknown material
+Armor Type:   magic
+Armor class:  -10 pierce, -10 bash, -10 slash, -10 magic
+Affects damage roll by 2
+Affects hit roll by 2
+<1972/2218hp 1868/2943m 783/783mv [|The Flaming Tailor Wagon|] 0tnl >
+A flaming tailor exclaims 'Oh my Caelanth! Those look absolutely faboo on you!'
+You [19047]: 'end identify 466'
+You [19047]: 'start map 466'
++----------------------------+
+| Travelling Faire!          |
+|          ############      |
+|          #...*.....$#      |      Walking into this petite wagon, seems to have a profound effect on numerous
+|          ##########.#      |    people.  As a result, the owner has made it a policy of leaving the door open, so
+|                   #.####   |    prospective customers may flee at any time.  Strange lighting has been set up, which
+|                   #*##$#   |    casts an affeminite purple haze over the entire shop.  Adorning the walls are
+|                   #.##.#   |    beautiful wooden frames which enclose extremely detailed paintings of battle hardened
+|             ###   #.##.####|    warriors after a vicious fight...  In the buff.  Everytime someone new enters the
+|             #*#   #$.....$#|    room, for some reason, strange music beings to play.  It sounds as though the chorus
+|             #.#   #.......#|    involves the letters Y, M, C, and A.  To be sure, the propeitor of this establishment
+|          ####.#####.......#|    is not cut of the same cloth as your average Ansalon male.
+|          #$..$.....*.....*.|
+|          ####.#####.......#|
+|             #.#   #.......#|
+|             #*#   #$.....$#|
+|             ###   #.......#|
+| The Flaming Tailor Wagon   |
++----------------------------+
+You [19047]: 'end map 466'
+You [19047]: 'start examine 466'
+A pair of smashing green pants made by Chuck the Flamer are here.
+It is made out of cloth.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 466'
+You [19047]: 'start wear 466'
+You stop using (Woven) a pair of fur leggings.
+You wear a pair of smashing green pants on your legs.
+You [19047]: 'end wear 466'
+You [19047]: 'end dobril_id 466'11:T944,<1989/2218hp 1875/2943m 783/783mv [|The Flaming Tailor Wagon|] 0tnl > You [19047]: 'start dobril_id 467'
+You [19047]: 'start identify 467'
+Name(s):      leg warmers
+Short:        a pair of pink leg warmers
+Long:         A pair of pink leg warmers that are just the CUTEST!
+Type:         armor
+Flags:        none
+Weight:       0 lbs, 3 oz
+Value:        70000
+Level to use: 5
+Materials:    cloth/unknown material
+Armor Type:   magic
+Armor class:  10 pierce, 10 bash, 10 slash, 10 magic
+Affects hit roll by 2
+Affects damage roll by 2
+Affects hp by 10
+Affects sex by 1
+You [19047]: 'end identify 467'
+You [19047]: 'start map 467'
++----------------------------+
+| Travelling Faire!          |
+|          ############      |
+|          #*..*.....$#      |      Walking into this petite wagon, seems to have a profound effect on numerous
+|          ##########.#      |    people.  As a result, the owner has made it a policy of leaving the door open, so
+|                   #.####   |    prospective customers may flee at any time.  Strange lighting has been set up, which
+|                   #.##$#   |    casts an affeminite purple haze over the entire shop.  Adorning the walls are
+|                   #.##.#   |    beautiful wooden frames which enclose extremely detailed paintings of battle hardened
+|             ###   #.##.####|    warriors after a vicious fight...  In the buff.  Everytime someone new enters the
+|             #*#   #$.....$#|    room, for some reason, strange music beings to play.  It sounds as though the chorus
+|             #.#   #.......#|    involves the letters Y, M, C, and A.  To be sure, the propeitor of this establishment
+|          ####.#####.......#|    is not cut of the same cloth as your average Ansalon male.
+|          #$..$.....*.....*.|
+|          ####.#####.......#|
+|             #.#   #.......#|
+|             #.#   #$.....$#|
+|             ###   #.......#|
+| The Flaming Tailor Wagon   |
++----------------------------+
+You [19047]: 'end map 467'
+You [19047]: 'start examine 467'
+A pair of pink leg warmers that are just the CUTEST!
+It is made out of cloth.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 467'
+You [19047]: 'start wear 467'
+You stop using (Woven) a pair of fur leggings.
+You wear a pair of pink leg warmers on your legs.
+You [19047]: 'end wear 467'
+You [19047]: 'end dobril_id 467'12:T817,<2211/2211hp 1876/2992m 795/795mv [|Inside the House on Stilts|] 0tnl > You [19047]: 'start dobril_id 202'
+You [19047]: 'start identify 202'
+Name(s):      pants sharkskin
+Short:        sharkskin pants
+Long:         A pair of pants cut from the skin of a fish lie here.
+Type:         armor
+Flags:        magic
+Weight:       0 lbs, 6 oz
+Value:        1000
+Level to use: 15
+Materials:    leather/unknown material
+Armor Type:   magic
+Armor class:  10 pierce, 10 bash, 10 slash, 5 magic
+Affects dexterity by 2
+Affects damage roll by 2
+You [19047]: 'end identify 202'
+You [19047]: 'start map 202'
++----------------------------+
+| Isles of the Pirate Lords  |
+|             """            |
+|             """            |      You have entered the house of the pirate lord.  On the walls are momentos of his
+|             """            |    various raids.  Here a sword.  There a skirt.  From the ceiling, a flag.  Hides of
+|             #.####         |    many different animals are nailed to the walls and floor.  Maps lie in rolls in an
+|             |*..*#         |    open chest.  A low bunk is set against the far wall.
+|             #.####         |
+|       ~~~~~~#.#~~~~~~~~~~~~|
+|       ~~~~~~#*#~~~~~~~~~~~~|
+|       ~~~~~~###~~~~~~~~~~~~|
+|          ~~~~~~~~~~~~~~~~~~|
+|          ~~~~~~~~~~*~~~~~~~|
+|          ~~~~~~~~~~~~~~~~~~|
+|                   ~~~~~~~~~|
+|                   ~~~~~~~~~|
+|                   ~~~~~~~~~|
+| Inside the House on Stilt  |
++----------------------------+
+You [19047]: 'end map 202'
+You [19047]: 'start examine 202'
+Upon closer examination, you notice a tag on the waistline. It reads
+' Mizzenmast, my friend, who brought me a white sharks eye, I have
+bewitched these pants to give you great might and valor in combat.
+Wear them well. - Nikonag'
+It is made out of leather.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 202'
+You [19047]: 'start wear 202'
+You stop using (Woven) a pair of fur leggings.
+You wear sharkskin pants on your legs.
+You [19047]: 'end wear 202'
+You [19047]: 'end dobril_id 202'13:T80d,You [19047]: 'start dobril_id 7'
+You [19047]: 'start identify 7'
+Name(s):      fur leggings pants
+Short:        (Woven) a pair of fur leggings
+Long:         A pair of fur leggings created by the plainsmen are here.
+Type:         armor
+Flags:        none
+Weight:       1 lbs
+Value:        147000
+Level to use: 40
+Materials:    leather/hair
+Armor Type:   magic
+Armor class:  15 pierce, 15 bash, 15 slash, 15 magic
+Affects saves by -1
+Affects hp by 50
+Affects damage roll by 4
+Affects hit roll by 4
+Affects hit roll by 3
+You [19047]: 'end identify 7'
+You [19047]: 'start map 7'
++----------------------------+
+| Travelling Faire!          |
+|       ####.#####.......####|
+|       #$..*..$............#|      Little light makes it through the thick hide that composes the structure of this
+|       ####.#####.......####|    rather large tent.  A tiny fire burns in the center of of tent in a small pit, warming
+|          #.#   #.......#   |    the occupants.  A small hole has been cut in the top of the tent providing a place for
+|          #*#   #$.....$#   |    the smoke given off by the fire to wander out.  Furs have been laid out on the floor
+|          ###   #.......#   |    as well as on the walls of the tent itself providing a circular view of the
+|             ####.......####|    merchandise to a potential customer.
+|             #*.....$.....$#|
+|             ####.......####|
+|                #.......#   |
+|                #$..*..*#   |
+|                ####.####   |
+|                   #.#      |
+|                   #B#      |
+|                   #.#      |
+| Plainsman's Tent of.... F  |
++----------------------------+
+You [19047]: 'end map 7'
+You [19047]: 'start examine 7'
+A pair of fur leggings created by the plainsmen are here.
+It is made out of leather and some hair.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 7'
+You [19047]: 'start wear 7'
+You stop using a pair of polished steel greaves.
+You wear (Woven) a pair of fur leggings on your legs.
+You [19047]: 'end wear 7'
+You [19047]: 'end dobril_id 7'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":384,"stats":{"Name(s)":["skirt","goblin","scale","mail"],"Short":"a goblin long scale mail skirt","Long":"A goblin long scale mail skirt is lying on the ground.","Type":"armor","Flags":["none"],"Weight":"12 lbs","Value":500,"Level to use":1,"Materials":["leather","steel"],"Armor Type":"magic","Armor class":[3,5,4,0]},"name":"a goblin long scale mail skirt","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The goblin barracks","map":"+----------------------------+\n| Goblin Stronghold          |\n|       ####^#               |\n|       #^^^^#               |\n|       #^####               |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#   ###            |\n|       #.#   #*#            |\n|       #.#   #.#            |\n| #######.#####.#            |\n| #*..*.....*..*#            |\n| #.v#.##.##.####            |\n| #.##.##.##.####            |\n| #.##.||.||...*#            |\n| #######.#######            |\n| The goblin barracks        |\n+----------------------------+"},"wear":"legs","source":{"type":"looted","mob":"goblin guard"},"slug":"a-goblin-long-scale-mail-skirt_384"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":387,"stats":{"Name(s)":["skirt","goblin","chain","mail"],"Short":"a goblin long chain mail skirt","Long":"A goblin long chain mail skirt is lying on the ground.","Type":"armor","Flags":["none"],"Weight":"10 lbs","Value":800,"Level to use":1,"Materials":["steel","leather"],"Armor Type":"magic","Armor class":[5,4,5,0]},"name":"a goblin long chain mail skirt","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The training room","map":"+----------------------------+\n| Goblin Stronghold          |\n|                #.#   ###   |\n|                #.#   #.#   |\n|                #.#   #.#   |\n|          #######.#####.#   |\n|          #*........*..*#   |\n|          #.v#.##.##.####   |\n|          #.##.##.##.####   |\n|          #.##*..*..*..*#   |\n|          #######.#######   |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|                |*|         |\n|                ###         |\n| The training room          |\n+----------------------------+"},"wear":"legs","source":{"type":"looted","mob":"Knarl"},"slug":"a-goblin-long-chain-mail-skirt_387"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":466,"stats":{"Name(s)":["green","pants"],"Short":"a pair of smashing green pants","Long":"A pair of smashing green pants made by Chuck the Flamer are here.","Type":"armor","Flags":["none"],"Weight":"0 lbs, 4 oz","Value":70000,"Level to use":5,"Materials":["cloth","unknown material"],"Armor Type":"magic","Armor class":[-10,-10,-10,-10],"Affects":[["damage roll","2"],["hit roll","2"]]},"name":"a pair of smashing green pants","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"The Flaming Tailor Wagon","map":"+----------------------------+\n| Travelling Faire!          |\n|          ############      |\n|          #...*.....$#      |\n|          ##########.#      |\n|                   #.####   |\n|                   #*##$#   |\n|                   #.##.#   |\n|             ###   #.##.####|\n|             #*#   #$.....$#|\n|             #.#   #.......#|\n|          ####.#####.......#|\n|          #$..$.....*.....*.|\n|          ####.#####.......#|\n|             #.#   #.......#|\n|             #*#   #$.....$#|\n|             ###   #.......#|\n| The Flaming Tailor Wagon   |\n+----------------------------+"},"wear":"legs","source":{"type":"bought","location":"The Flaming Tailor Wagon"},"slug":"a-pair-of-smashing-green-pants_466"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":467,"stats":{"Name(s)":["leg","warmers"],"Short":"a pair of pink leg warmers","Long":"A pair of pink leg warmers that are just the CUTEST!","Type":"armor","Flags":["none"],"Weight":"0 lbs, 3 oz","Value":70000,"Level to use":5,"Materials":["cloth","unknown material"],"Armor Type":"magic","Armor class":[10,10,10,10],"Affects":[["hit roll","2"],["damage roll","2"],["hp","10"],["sex","1"]]},"name":"a pair of pink leg warmers","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"The Flaming Tailor Wagon","map":"+----------------------------+\n| Travelling Faire!          |\n|          ############      |\n|          #*..*.....$#      |\n|          ##########.#      |\n|                   #.####   |\n|                   #.##$#   |\n|                   #.##.#   |\n|             ###   #.##.####|\n|             #*#   #$.....$#|\n|             #.#   #.......#|\n|          ####.#####.......#|\n|          #$..$.....*.....*.|\n|          ####.#####.......#|\n|             #.#   #.......#|\n|             #.#   #$.....$#|\n|             ###   #.......#|\n| The Flaming Tailor Wagon   |\n+----------------------------+"},"wear":"legs","source":{"type":"bought","location":"The Flaming Tailor Wagon"},"slug":"a-pair-of-pink-leg-warmers_467"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_24.txt","type":"item","id":202,"stats":{"Name(s)":["pants","sharkskin"],"Short":"sharkskin pants","Long":"A pair of pants cut from the skin of a fish lie here.","Type":"armor","Flags":["magic"],"Weight":"0 lbs, 6 oz","Value":1000,"Level to use":15,"Materials":["leather","unknown material"],"Armor Type":"magic","Armor class":[10,10,10,5],"Affects":[["dexterity","2"],["damage roll","2"]]},"name":"sharkskin pants","map":{"area":{"name":"Isles of the Pirate Lords","slug":"isles-of-the-pirate-lords"},"roomName":"Inside the House on Stilt","map":"+----------------------------+\n| Isles of the Pirate Lords  |\n|             \"\"\"            |\n|             \"\"\"            |\n|             \"\"\"            |\n|             #.####         |\n|             |*..*#         |\n|             #.####         |\n|       ~~~~~~#.#~~~~~~~~~~~~|\n|       ~~~~~~#*#~~~~~~~~~~~~|\n|       ~~~~~~###~~~~~~~~~~~~|\n|          ~~~~~~~~~~~~~~~~~~|\n|          ~~~~~~~~~~*~~~~~~~|\n|          ~~~~~~~~~~~~~~~~~~|\n|                   ~~~~~~~~~|\n|                   ~~~~~~~~~|\n|                   ~~~~~~~~~|\n| Inside the House on Stilt  |\n+----------------------------+"},"wear":"legs","source":{"type":"looted","mob":"Mizzenmast"},"slug":"sharkskin-pants_202"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_13.txt","type":"item","id":7,"stats":{"Name(s)":["fur","leggings","pants"],"Short":"(Woven) a pair of fur leggings","Long":"A pair of fur leggings created by the plainsmen are here.","Type":"armor","Flags":["none"],"Weight":"1 lbs","Value":147000,"Level to use":40,"Materials":["leather","hair"],"Armor Type":"magic","Armor class":[15,15,15,15],"Affects":[["saves","-1"],["hp","50"],["damage roll","4"],["hit roll","4"],["hit roll","3"]]},"name":"(Woven) a pair of fur leggings","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"Plainsman's Tent of.... F","map":"+----------------------------+\n| Travelling Faire!          |\n|       ####.#####.......####|\n|       #$..*..$............#|\n|       ####.#####.......####|\n|          #.#   #.......#   |\n|          #*#   #$.....$#   |\n|          ###   #.......#   |\n|             ####.......####|\n|             #*.....$.....$#|\n|             ####.......####|\n|                #.......#   |\n|                #$..*..*#   |\n|                ####.####   |\n|                   #.#      |\n|                   #B#      |\n|                   #.#      |\n| Plainsman's Tent of.... F  |\n+----------------------------+"},"wear":"legs","source":{"type":"bought","location":"Plainsman's Tent of.... F"},"slug":"woven-a-pair-of-fur-leggings_7"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all equipment worn in the legs slot"}],["$","meta","2",{"name":"description","content":"a list of all of the equipment worn in the legs slot"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

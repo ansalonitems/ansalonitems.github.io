@@ -1,15 +1,383 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-39511c8965e7f13e.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","weapon-types","mace",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","mace","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mace","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","hD45ouXJSYbA-CWpBZzIm",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"2H"}],["$","th",null,{"className":"px-3 py-2","children":"Noun"}],["$","th",null,{"className":"px-3 py-2","children":"Damage"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","149",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-training-mace_149","title":"a training mace","children":"a training mace"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"crush"}],["$","td",null,{"className":"px-3 py-2 text-right","children":2}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","407",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-heavy-iron-mace_407","title":"a heavy iron mace","children":"a heavy iron mace"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pound"}],["$","td",null,{"className":"px-3 py-2 text-right","children":10}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","382",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-goblin-guard-baton_382","title":"a goblin guard baton","children":"a goblin guard baton"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"crush"}],["$","td",null,{"className":"px-3 py-2 text-right","children":15}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/1"}],["$","td",null,{"className":"px-3 py-2 text-right","children":2}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","152",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-blunt-club_152","title":"a blunt club","children":"a blunt club"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pound"}],["$","td",null,{"className":"px-3 py-2 text-right","children":18}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","155",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-spatula_155","title":"a spatula","children":"a spatula"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"thwack"}],["$","td",null,{"className":"px-3 py-2 text-right","children":17}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","302",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-steel-banded-club_302","title":"a steel banded club","children":"a steel banded club"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"crush"}],["$","td",null,{"className":"px-3 py-2 text-right","children":22}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":10}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-surrounds","title":"Palanthas Surrounds","children":"Palanthas Surrounds"}]}]]}],["$","tr","454",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-mace-of-truth_454","title":"a mace of truth","children":"a mace of truth"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"divine power"}],["$","td",null,{"className":"px-3 py-2 text-right","children":40}],["$","td",null,{"className":"px-3 py-2 text-right","children":"4/4"}],["$","td",null,{"className":"px-3 py-2 text-right","children":40}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}],["$","tr","104",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-steel-solamnic-war-mace_104","title":"a steel Solamnic war mace","children":"a steel Solamnic war mace"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"crush"}],["$","td",null,{"className":"px-3 py-2 text-right","children":44}],["$","td",null,{"className":"px-3 py-2 text-right","children":"5/5"}],["$","td",null,{"className":"px-3 py-2 text-right","children":50}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/vingaard-keep","title":"Vingaard Keep","children":"Vingaard Keep"}]}]]}]]}]]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","weapon-types","mace",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","mace","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mace","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","pgbXtdOSnxjeDGguutaSA",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[2123,["173","static/chunks/173-91be8d59e7b6b129.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-0a89b064ce631510.js"],"default"]
+e:T6e2,<2203/2265hp 2854/2972m 733/761mv [|The Shaman's quarters|] 0tnl > You [19047]: 'start dobril_id 407'
+You [19047]: 'start identify 407'
+Name(s):      mace heavy iron
+Short:        a heavy iron mace
+Long:         A heavy iron mace lies in the rubble.
+Type:         weapon: mace
+Flags:        none
+Weight:       15 lbs
+Value:        790
+Level to use: 1
+Materials:    iron/wood
+Damage:       4d4 (average 10)
+You [19047]: 'end identify 407'
+You [19047]: 'start map 407'
++----------------------------+
+| Goblin Stronghold          |
+|          #.##.##.##.####   |
+|          #.##*..*.....*#   |      This room is a delightful change from the rest of the fortress.  The air is sweet
+|          #######.#######   |    with the smell of incence, and the room is clean (by goblin standards anyways).  There
+|                #.#         |    is a large bookcase on the north wall, and before it, a desk and chair.
+|                #*#         |
+|                #.#         |
+|             ####.####      |
+|             #*......#      |
+|             #########      |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Shaman's quarters      |
++----------------------------+
+You [19047]: 'end map 407'
+You [19047]: 'start examine 407'
+A heavy iron mace lies in the rubble.
+It is made out of iron and some wood.
+It is in almost perfect condition.
+It weighs about 14 pounds.
+You [19047]: 'end examine 407'
+You [19047]: 'start wear 407'
+You stop using Guidonious' dagger of vengeance.
+You wield a heavy iron mace.
+You don't even know which end is up on a heavy iron mace.
+You [19047]: 'end wear 407'
+You [19047]: 'end dobril_id 407'f:T6c7,<2295/2295hp 2908/2946m 849/849mv [|The Training Weapon's Shop|] 0tnl > You [19047]: 'start dobril_id 149'
+You [19047]: 'start identify 149'
+Name(s):      mace training
+Short:        a training mace
+Long:         A training mace is here.
+Type:         weapon: mace
+Flags:        none
+Weight:       1 lbs, 8 oz
+Value:        920
+Level to use: 1
+Materials:    wood/unknown material
+Damage:       1d4 (average 2)
+You [19047]: 'end identify 149'
+You [19047]: 'start map 149'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The weapons which assort the walls, racks and tables in this shop are all made of
+|                            |    wood and are sold to people to train with.  There are many weapons, of many types sold
+|                            |    here.  The room is dimly lit and smells like sweat.  The exit lies to the north.
+|                            |
+|                            |
+|             #-#            |
+|             #*#            |
+|             ###            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Training Weapon's Sho  |
++----------------------------+
+You [19047]: 'end map 149'
+You [19047]: 'start examine 149'
+A training mace is here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 149'
+You [19047]: 'start wear 149'
+You stop using Guidonious' dagger of vengeance.
+You wield a training mace.
+You don't even know which end is up on a training mace.
+You [19047]: 'end wear 149'
+You [19047]: 'end dobril_id 149'10:T757,<2280/2280hp 2444/2992m 811/811mv [|The goblin barracks|] 0tnl > You [19047]: 'start dobril_id 382'
+You [19047]: 'start identify 382'
+Name(s):      goblin heavy guard baton wooden
+Short:        a goblin guard baton
+Long:         A heavy wooden baton lies here.
+Type:         weapon: mace
+Flags:        magic
+Weight:       5 lbs
+Value:        900
+Level to use: 2
+Materials:    wood/leather
+Damage:       6d4 (average 15)
+Affects strength by 2
+Affects damage roll by 1
+You [19047]: 'end identify 382'
+You [19047]: 'start map 382'
++----------------------------+
+| Goblin Stronghold          |
+|       ####^#               |
+|       #^^^^#               |      This room is where the goblin soldiers sleep.  The room is a full 20 yards square
+|       #^####               |    and there are bunks along each wall.  There is graphic graffiti scrawled on the walls,
+|       #.#                  |    but it's in goblin and all you can make out are the drawings of goblin females.  There
+|       #.#                  |    is an arched doorway leading south.
+|       #.#                  |
+|       #.#   ###            |
+|       #.#   #*#            |
+|       #.#   #.#            |
+| #######.#####.#            |
+| #.............#            |
+| #.v#.##.##.####            |
+| #.##.##.##.####            |
+| #*##*||*||*..*#            |
+| #######.#######            |
+| The goblin barracks        |
++----------------------------+
+You [19047]: 'end map 382'
+You [19047]: 'start examine 382'
+A heavy wooden baton lies here.
+It is made out of wood and some leather.
+It is in almost perfect condition.
+It weighs about 4 pounds.
+You [19047]: 'end examine 382'
+You [19047]: 'start wear 382'
+You stop using Guidonious' dagger of vengeance.
+You wield a goblin guard baton.
+You don't even know which end is up on a goblin guard baton.
+You [19047]: 'end wear 382'
+You [19047]: 'end dobril_id 382'11:T692,<2295/2295hp 2581/2946m 849/849mv [|The Pet Shop|] 0tnl > You [19047]: 'start dobril_id 152'
+You [19047]: 'start identify 152'
+Name(s):      club blunt
+Short:        a blunt club
+Long:         A blunt club is here.
+Type:         weapon: mace
+Flags:        none
+Weight:       1 lbs
+Value:        15
+Level to use: 5
+Materials:    wood/rock
+Damage:       4d8 (average 18)
+You [19047]: 'end identify 152'
+You [19047]: 'start map 152'
++----------------------------+
+| Southwest Palanthas        |
+| #.#   #.#   #.#            |
+| #..   #.#   .*#            |      The shop smells funny...  Like crap actually.  Must be from the bears that are
+| #.#   #.#   #.#            |    sold here.  The room is poorly lit, so that it doesn't freak the bears that are here,
+| #.##-##.##-##.#            |    out.  No windows line the walls, and the only door is to the north.
+| .*........*..*#            |
+| #.##.########.#            |
+| #.##.#      #.#            |
+| #*#|*|      #*#            |
+| #.####      ###            |
+| #.#                        |
+| #*#                        |
+| #-#                        |
+|                            |
+|                            |
+|                            |
+| The Pet Shop               |
++----------------------------+
+You [19047]: 'end map 152'
+You [19047]: 'start examine 152'
+A blunt club is here.
+It is made out of wood and some rock.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 152'
+You [19047]: 'start wear 152'
+You stop using Guidonious' dagger of vengeance.
+You wield a blunt club.
+You don't even know which end is up on a blunt club.
+You [19047]: 'end wear 152'
+You [19047]: 'end dobril_id 152'12:T71b,<2295/2295hp 2329/2946m 849/849mv [|Kitchen of House Dretnon|] 0tnl > You [19047]: 'start dobril_id 155'
+You [19047]: 'start identify 155'
+Name(s):      cook spatula
+Short:        a spatula
+Long:         A spatula is here, ready to flip some burgers.
+Type:         weapon: mace
+Flags:        none
+Weight:       0 lbs, 9 oz
+Value:        100
+Level to use: 5
+Materials:    wood/steel
+Damage:       5d6 (average 17)
+You [19047]: 'end identify 155'
+You [19047]: 'start map 155'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The kitchen is a nice sized one.  The floor is marble.  The walls are stone.
+|                            |    There is a large stone stove in one corner.  There are several mahogany cupboards, in
+|                            |    the middle of the room, as well as surrounding most its walls.  There is a water pump
+|                            |    as well, which drips water into a bucket -- annoying.
+|                            |
+|             ###            |
+|             #*#            |
+|             #.#            |
+|          ####.#            |
+|          #....|            |
+|          ####.#            |
+|             #.#            |
+|             #.#            |
+|             #.#            |
+| Kitchen of House Dretnon   |
++----------------------------+
+You [19047]: 'end map 155'
+You [19047]: 'start examine 155'
+A spatula is here, ready to flip some burgers.
+It is made out of wood and some steel.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 155'
+You [19047]: 'start wear 155'
+You stop using Guidonious' dagger of vengeance.
+You wield a spatula.
+You don't even know which end is up on a spatula.
+You [19047]: 'end wear 155'
+You [19047]: 'end dobril_id 155'13:T784,<2280/2280hp 2793/2992m 748/811mv [|A road through the hills|] 0tnl > You [19047]: 'start dobril_id 302'
+You [19047]: 'start identify 302'
+Name(s):      long thin banded steel club
+Short:        a steel banded club
+Long:         A long thin club banded in steel lies here.
+Type:         weapon: mace
+Flags:        none
+Weight:       10 lbs
+Value:        200
+Level to use: 10
+Materials:    wood/steel
+Damage:       9d4 (average 22)
+You [19047]: 'end identify 302'
+You [19047]: 'start map 302'
++----------------------------+
+| Palanthas Surrounds        |
+|             ###   """      |
+|             #*.   """      |      The hillside and surrounding land are spotted with the fields and farms that grow
+|             #.#   """      |    a lot of the food that feeds the population of Palanthas.  A large pasture lies to the
+|          ###"""""""n""""###|    east, full of many grazing animals.  The wooden fence that encloses it runs to the
+|          .*."""nnnnnnn*n...|    east and to the south of here, where a gate offers entrance.  The road bends to the
+|          ###""""""""""n"###|    north or continues to the south.
+|             "n"   """""""""|
+|             "*"   "*""*""*"|
+|             "n"   """""""""|
+|             "n"""""""""""""|
+|             "nn""""""""""""|
+|             "n"""""""""""""|
+|             "n"   """""""""|
+|             "*"   """"*""*"|
+|             "n"   """""""""|
+| A road through the hills   |
++----------------------------+
+You [19047]: 'end map 302'
+You [19047]: 'start examine 302'
+A long thin club banded in steel lies here.
+It is made out of wood and some steel.
+It is in perfect condition.
+It weighs about 9 pounds.
+You [19047]: 'end examine 302'
+You [19047]: 'start wear 302'
+You stop using Guidonious' dagger of vengeance.
+You wield a steel banded club.
+You don't even know which end is up on a steel banded club.
+You [19047]: 'end wear 302'
+You [19047]: 'end dobril_id 302'14:T8b5,<2138/2218hp 2085/2943m 783/783mv [|A Cleric of Belzar's Shop|] 0tnl > You [19047]: 'start dobril_id 454'
+You [19047]: 'start identify 454'
+Name(s):      mace truth
+Short:        a mace of truth
+Long:         Given to the clerics of Belzar, the mace of truth is a powerful weapon.
+Type:         weapon: mace
+Flags:        burn_proof
+Weight:       1 lbs
+Value:        96800
+Level to use: 40
+Materials:    iron/leather
+Damage:       8d9 (average 40)
+Weapon flags: frost shocking
+Affects wisdom by 2
+Affects damage roll by 4
+Affects hit roll by 4
+You [19047]: 'end identify 454'
+You [19047]: 'start map 454'
++----------------------------+
+| Travelling Faire!          |
+| #########                  |
+| .*..*..$#                  |      This quaint, and all together normal looking store, is situated within one of the
+| #######.#                  |    traveling faire wagons.  Small shelves have been set above the reach of children, and
+|       #.####               |    are lined with numerous jars, most of them filled with herbs supposedly blessed by the
+|       #.##$#               |    great god Belzar himself.  Plain robes have been hung beside one of the shelves on a
+|       #.##.#               |    coat rack, along with a medallion that resembles the image of a massive Dragon.  High
+| ###   #.##.####            |    above the reach of anyone but a very tall human is a row of books, each apparantly
+| #$#   #$.....*#            |    outlining the faith of Belzar in which this particular heathen believes.
+| #.#   #.......#            |
+| #.#####.......####         |
+| .*..$............#         |
+| #.#####.......####         |
+| #.#   #.......#            |
+| #*#   #$.....$#            |
+| ###   #.......#            |
+| A Cleric of Belzar's Shop  |
++----------------------------+
+You [19047]: 'end map 454'
+You [19047]: 'start examine 454'
+Given to the clerics of Belzar, the mace of truth is a powerful weapon.
+It is made out of iron and some leather.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 454'
+You [19047]: 'start wear 454'
+You wield a mace of truth.
+You don't even know which end is up on a mace of truth.
+You [19047]: 'end wear 454'
+You [19047]: 'end dobril_id 454'15:T82b,<2271/2271hp 555/2877m 540/931mv [|The Grand Staircase|] 929tnl > You [19047]: 'start dobril_id 104'
+You [19047]: 'start identify 104'
+Name(s):      solamnic war mace
+Short:        a steel Solamnic war mace
+Long:         A long handled mace lies here.
+Type:         weapon: mace
+Flags:        magic
+Weight:       20 lbs
+Value:        100
+Level to use: 50
+Materials:    steel/leather
+Damage:       8d10 (average 44)
+Affects hit roll by 5
+Affects damage roll by 5
+You [19047]: 'end identify 104'
+You [19047]: 'start map 104'
++----------------------------+
+| Vingaard Keep              |
+|                            |
+|                            |      Rather abruptly the hallway comes to an end and the room widens into a rather
+|                            |    large circular room with a tiled floor and a grand marble staircase leading to the top
+| #.#   ###   ###            |    floor.  Two doors, one north and one south, lead to more guard quarters.  Light enters
+| #.#   #.#   #.#            |    this large room from windows on the second story although torches are still mounted
+| #.#   #.#   #.#            |    upon the walls you can tell they haven't aren't used except for at night.  The smell
+| #.#####.####^.#            |    of unwashed guards leaves the room as only the smell of cigar smoke can be
+| ....*........*#            |    distinguished.
+| #.#####.#####.#            |
+| #.#   #.#   #.#            |
+| #*#   #.#   #.#            |
+| #.#   ###   ###            |
+| #.#                        |
+| ..#                        |
+| #.#                        |
+| The Grand Staircase        |
++----------------------------+
+You [19047]: 'end map 104'
+You [19047]: 'start examine 104'
+A long handled mace lies here.
+It is made out of steel and some leather.
+It is in perfect condition.
+It weighs about 20 pounds.
+You [19047]: 'end examine 104'
+You [19047]: 'start wear 104'
+You stop using an enchanted sai.
+You wield a steel Solamnic war mace.
+You don't even know which end is up on a steel Solamnic war mace.
+You [19047]: 'end wear 104'
+You [19047]: 'end dobril_id 104'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":407,"stats":{"Name(s)":["mace","heavy","iron"],"Short":"a heavy iron mace","Long":"A heavy iron mace lies in the rubble.","Type":"weapon","Flags":["none"],"Weight":"15 lbs","Value":790,"Level to use":1,"Materials":["iron","wood"],"Damage":["4d4",10],"Weapon Type":"mace","Noun":"pound"},"name":"a heavy iron mace","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Shaman's quarters","map":"+----------------------------+\n| Goblin Stronghold          |\n|          #.##.##.##.####   |\n|          #.##*..*.....*#   |\n|          #######.#######   |\n|                #.#         |\n|                #*#         |\n|                #.#         |\n|             ####.####      |\n|             #*......#      |\n|             #########      |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Shaman's quarters      |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"The goblin shaman"},"slug":"a-heavy-iron-mace_407"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":149,"stats":{"Name(s)":["mace","training"],"Short":"a training mace","Long":"A training mace is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":920,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["1d4",2],"Weapon Type":"mace","Noun":"crush"},"name":"a training mace","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"a-training-mace_149"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":382,"stats":{"Name(s)":["goblin","heavy","guard","baton","wooden"],"Short":"a goblin guard baton","Long":"A heavy wooden baton lies here.","Type":"weapon","Flags":["magic"],"Weight":"5 lbs","Value":900,"Level to use":2,"Materials":["wood","leather"],"Damage":["6d4",15],"Affects":[["strength","2"],["damage roll","1"]],"Weapon Type":"mace","Noun":"crush"},"name":"a goblin guard baton","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The goblin barracks","map":"+----------------------------+\n| Goblin Stronghold          |\n|       ####^#               |\n|       #^^^^#               |\n|       #^####               |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#   ###            |\n|       #.#   #*#            |\n|       #.#   #.#            |\n| #######.#####.#            |\n| #.............#            |\n| #.v#.##.##.####            |\n| #.##.##.##.####            |\n| #*##*||*||*..*#            |\n| #######.#######            |\n| The goblin barracks        |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"goblin guard"},"slug":"a-goblin-guard-baton_382"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":152,"stats":{"Name(s)":["club","blunt"],"Short":"a blunt club","Long":"A blunt club is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs","Value":15,"Level to use":5,"Materials":["wood","rock"],"Damage":["4d8",18],"Weapon Type":"mace","Noun":"pound"},"name":"a blunt club","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Pet Shop","map":"+----------------------------+\n| Southwest Palanthas        |\n| #.#   #.#   #.#            |\n| #..   #.#   .*#            |\n| #.#   #.#   #.#            |\n| #.##-##.##-##.#            |\n| .*........*..*#            |\n| #.##.########.#            |\n| #.##.#      #.#            |\n| #*#|*|      #*#            |\n| #.####      ###            |\n| #.#                        |\n| #*#                        |\n| #-#                        |\n|                            |\n|                            |\n|                            |\n| The Pet Shop               |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a young nobleman"},"slug":"a-blunt-club_152"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":155,"stats":{"Name(s)":["cook","spatula"],"Short":"a spatula","Long":"A spatula is here, ready to flip some burgers.","Type":"weapon","Flags":["none"],"Weight":"0 lbs, 9 oz","Value":100,"Level to use":5,"Materials":["wood","steel"],"Damage":["5d6",17],"Weapon Type":"mace","Noun":"thwack"},"name":"a spatula","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Kitchen of House Dretnon","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n|          ####.#            |\n|          #....|            |\n|          ####.#            |\n|             #.#            |\n|             #.#            |\n|             #.#            |\n| Kitchen of House Dretnon   |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"The cook of house Dretnon"},"slug":"a-spatula_155"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":302,"stats":{"Name(s)":["long","thin","banded","steel","club"],"Short":"a steel banded club","Long":"A long thin club banded in steel lies here.","Type":"weapon","Flags":["none"],"Weight":"10 lbs","Value":200,"Level to use":10,"Materials":["wood","steel"],"Damage":["9d4",22],"Weapon Type":"mace","Noun":"crush"},"name":"a steel banded club","map":{"area":{"name":"Palanthas Surrounds","slug":"palanthas-surrounds"},"roomName":"A road through the hills","map":"+----------------------------+\n| Palanthas Surrounds        |\n|             ###   \"\"\"      |\n|             #*.   \"\"\"      |\n|             #.#   \"\"\"      |\n|          ###\"\"\"\"\"\"\"n\"\"\"\"###|\n|          .*.\"\"\"nnnnnnn*n...|\n|          ###\"\"\"\"\"\"\"\"\"\"n\"###|\n|             \"n\"   \"\"\"\"\"\"\"\"\"|\n|             \"*\"   \"*\"\"*\"\"*\"|\n|             \"n\"   \"\"\"\"\"\"\"\"\"|\n|             \"n\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"nn\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"n\"\"\"\"\"\"\"\"\"\"\"\"\"|\n|             \"n\"   \"\"\"\"\"\"\"\"\"|\n|             \"*\"   \"\"\"\"*\"\"*\"|\n|             \"n\"   \"\"\"\"\"\"\"\"\"|\n| A road through the hills   |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"A civilian patrolman"},"slug":"a-steel-banded-club_302"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":454,"stats":{"Name(s)":["mace","truth"],"Short":"a mace of truth","Long":"Given to the clerics of Belzar, the mace of truth is a powerful weapon.","Type":"weapon","Flags":["burn_proof"],"Weight":"1 lbs","Value":96800,"Level to use":40,"Materials":["iron","leather"],"Damage":["8d9",40],"Weapon flags":["frost","shocking"],"Affects":[["wisdom","2"],["damage roll","4"],["hit roll","4"]],"Weapon Type":"mace","Noun":"divine power"},"name":"a mace of truth","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"A Cleric of Belzar's Shop","map":"+----------------------------+\n| Travelling Faire!          |\n| #########                  |\n| .*..*..$#                  |\n| #######.#                  |\n|       #.####               |\n|       #.##$#               |\n|       #.##.#               |\n| ###   #.##.####            |\n| #$#   #$.....*#            |\n| #.#   #.......#            |\n| #.#####.......####         |\n| .*..$............#         |\n| #.#####.......####         |\n| #.#   #.......#            |\n| #*#   #$.....$#            |\n| ###   #.......#            |\n| A Cleric of Belzar's Shop  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"A Cleric of Belzar's Shop"},"slug":"a-mace-of-truth_454"},{"raw":"$15","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":104,"stats":{"Name(s)":["solamnic","war","mace"],"Short":"a steel Solamnic war mace","Long":"A long handled mace lies here.","Type":"weapon","Flags":["magic"],"Weight":"20 lbs","Value":100,"Level to use":50,"Materials":["steel","leather"],"Damage":["8d10",44],"Affects":[["hit roll","5"],["damage roll","5"]],"Weapon Type":"mace","Noun":"crush"},"name":"a steel Solamnic war mace","map":{"area":{"name":"Vingaard Keep","slug":"vingaard-keep"},"roomName":"The Grand Staircase","map":"+----------------------------+\n| Vingaard Keep              |\n|                            |\n|                            |\n|                            |\n| #.#   ###   ###            |\n| #.#   #.#   #.#            |\n| #.#   #.#   #.#            |\n| #.#####.####^.#            |\n| ....*........*#            |\n| #.#####.#####.#            |\n| #.#   #.#   #.#            |\n| #*#   #.#   #.#            |\n| #.#   ###   ###            |\n| #.#                        |\n| ..#                        |\n| #.#                        |\n| The Grand Staircase        |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"The Lord of the Keep"},"slug":"a-steel-solamnic-war-mace_104"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all weapons of type mace"}],["$","meta","2",{"name":"description","content":"a list of all of the weapons of type mace"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

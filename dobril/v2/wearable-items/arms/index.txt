@@ -1,15 +1,529 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-3621020224b553be.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","wearable-items","arms",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","arms","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","arms","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","eyNcvxJw-5d8UBPvOaeTF",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","main",null,{"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","383",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-goblin-scale-mail-sleeves_383","title":"a pair of goblin scale mail sleeves","children":"a pair of goblin scale mail sleeves"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","391",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-carved-granite-armguards_391","title":"a pair of carved granite armguards.","children":"a pair of carved granite armguards."}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","403",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-goblin-chain-mail-sleeves_403","title":"a pair of goblin chain mail sleeves","children":"a pair of goblin chain mail sleeves"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","430",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-ingenius-gnomish-wings_430","title":"a pair of ingenius gnomish wings","children":"a pair of ingenius gnomish wings"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/travelling-faire","title":"Travelling Faire!","children":"Travelling Faire!"}]}]]}],["$","tr","124",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/the-mark-of-the-head-servant_124","title":"the mark of the head servant","children":"the mark of the head servant"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":3}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","423",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-tattoo-of-a-fierce-tiger_423","title":"a tattoo of a fierce tiger","children":"a tattoo of a fierce tiger"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","424",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-tattoo-of-a-proud-lion_424","title":"a tattoo of a proud lion","children":"a tattoo of a proud lion"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"3/4"}],["$","td",null,{"className":"px-3 py-2 text-right","children":5}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","136",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-albino-sleeves_136","title":"a pair of Albino Sleeves","children":"a pair of Albino Sleeves"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"1/2"}],["$","td",null,{"className":"px-3 py-2 text-right","children":15}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","422",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-tattoo-of-a-fiery-ghost-ship_422","title":"a tattoo of a fiery ghost ship","children":"a tattoo of a fiery ghost ship"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"2/2"}],["$","td",null,{"className":"px-3 py-2 text-right","children":15}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","188",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-set-of-black-steel-armbands_188","title":"a set of black steel armbands","children":"a set of black steel armbands"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"3/3"}],["$","td",null,{"className":"px-3 py-2 text-right","children":40}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/sanction","title":"Sanction","children":"Sanction"}]}]]}],["$","tr","97",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-pair-of-albino-armbands_97","title":"a pair of Albino armbands","children":"a pair of Albino armbands"}]}],["$","td",null,{"className":"px-3 py-2 text-right","children":"5/6"}],["$","td",null,{"className":"px-3 py-2 text-right","children":75}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/the-eastern-warrens","title":"The Eastern Warrens","children":"The Eastern Warrens"}]}]]}]]}]]}]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","wearable-items","arms",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","arms","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","arms","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","6qZEO5AfbnMOkVvXF5_DO",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[633,["173","static/chunks/173-91be8d59e7b6b129.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-bde0f5c9a57080c1.js"],"default"]
+e:T7fd,<2280/2280hp 2431/2992m 811/811mv [|The goblin barracks|] 0tnl > You [19047]: 'start dobril_id 383'
+You [19047]: 'start identify 383'
+Name(s):      sleeves goblin scale mail
+Short:        a pair of goblin scale mail sleeves
+Long:         A pair of goblin scale mail sleeves is lying on the ground.
+Type:         armor
+Flags:        none
+Weight:       6 lbs
+Value:        400
+Level to use: 1
+Materials:    leather/steel
+Armor Type:   magic
+Armor class:  3 pierce, 4 bash, 4 slash, 0 magic
+<2280/2280hp 2418/2992m 811/811mv [|The goblin barracks|] 0tnl >
+Sifeya OOCs 'change might be good, mages in full plate are not quite what the doc ordered'
+You [19047]: 'end identify 383'
+You [19047]: 'start map 383'
++----------------------------+
+| Goblin Stronghold          |
+|       ####^#               |
+|       #^^^^#               |      This room is where the goblin soldiers sleep.  The room is a full 20 yards square
+|       #^####               |    and there are bunks along each wall.  There is graphic graffiti scrawled on the walls,
+|       #.#                  |    but it's in goblin and all you can make out are the drawings of goblin females.  There
+|       #.#                  |    is an arched doorway leading south.
+|       #.#                  |
+|       #.#   ###            |
+|       #.#   #*#            |
+|       #.#   #.#            |
+| #######.#####.#            |
+| #*........*..*#            |
+| #.v#.##.##.####            |
+| #.##.##.##.####            |
+| #.##.||.||....#            |
+| #######.#######            |
+| The goblin barracks        |
++----------------------------+
+You [19047]: 'end map 383'
+You [19047]: 'start examine 383'
+A pair of goblin scale mail sleeves is lying on the ground.
+It is made out of leather and some steel.
+It is in almost perfect condition.
+It weighs about 6 pounds.
+You [19047]: 'end examine 383'
+You [19047]: 'start wear 383'
+You stop using a pair of Albino armbands.
+You wear a pair of goblin scale mail sleeves on your arms.
+You [19047]: 'end wear 383'
+You [19047]: 'end dobril_id 383'f:T7bd,<2218/2280hp 2487/2992m 783/811mv [|The training room|] 0tnl > You [19047]: 'start dobril_id 391'
+You [19047]: 'start identify 391'
+Name(s):      arm guards granite
+Short:        a pair of carved granite armguards.
+Long:         You see a large hollow tube carved of granite.
+Type:         armor
+Flags:        magic noremove
+Weight:       25 lbs, 1 oz
+Value:        1900
+Level to use: 1
+Materials:    rock/unknown material
+Armor Type:   magic
+Armor class:  6 pierce, 6 bash, 9 slash, 2 magic
+Affects constitution by 1
+<2218/2280hp 2474/2992m 783/811mv [|The training room|] 0tnl >
+You [19047]: 'end identify 391'
+Reorx OOCs 'smite pandora'
+You [19047]: 'start map 391'
++----------------------------+
+| Goblin Stronghold          |
+|                #.#   ###   |
+|                #.#   #*#   |      This is where the goblins are shaped into something resembling a fighting unit.
+|                #.#   #.#   |    Assorted dummies and training equipment lie around.  The room has a sticky film of
+|          #######.#####.#   |    blood on the floor.  Apparently the goblins believe in the "survival of the fittest"
+|          #...*.....*...#   |    theory of military training.
+|          #.v#.##.##.####   |
+|          #.##.##.##.####   |
+|          #*##*..*.....*#   |
+|          #######.#######   |
+|                #.#         |
+|                #*#         |
+|                #.#         |
+|                #.#         |
+|                |*|         |
+|                ###         |
+| The training room          |
++----------------------------+
+You [19047]: 'end map 391'
+You [19047]: 'start examine 391'
+These heavy armguards have been carved from the rock of these caverns.
+It is made out of rock.
+It is in perfect condition.
+It weighs about 24 pounds.
+You [19047]: 'end examine 391'
+You [19047]: 'start wear 391'
+You stop using a pair of Albino armbands.
+You wear a pair of carved granite armguards. on your arms.
+You [19047]: 'end wear 391'
+You [19047]: 'end dobril_id 391'10:T865,<2203/2203hp 2910/2923m 733/733mv [|The Throne Room|] 0tnl > You [19047]: 'start dobril_id 403'
+You [19047]: 'start identify 403'
+Name(s):      sleeves goblin chain mail
+Short:        a pair of goblin chain mail sleeves
+Long:         A pair of goblin chain mail sleeves is lying on the ground.
+Type:         armor
+Flags:        none
+Weight:       8 lbs
+Value:        390
+Level to use: 1
+Materials:    steel/leather
+Armor Type:   magic
+Armor class:  5 pierce, 4 bash, 5 slash, 0 magic
+You [19047]: 'end identify 403'
+You [19047]: 'start map 403'
++----------------------------+
+| Goblin Stronghold          |
+|       #.##.##.##.####      |
+|       #*##*..*..*...#      |      Chaos reigns in the court of King Grumm.  Jesters, dancing girls,
+|       #######.#######      |    officious-looking goblins, and a myriad of other distractions compete for the time of
+|             #.#            |    the king.  The Throne Room is a perfectly-round chamber with a large statue of a
+|             #*#            |    heroic-looking dwarf in the centre.  Once again, tapestries line the walls, portraying
+|             #.#            |    battles and glory.  If it was possible to instill more chaos into this carnival
+|          ####.####         |    atmosphere, you have succeeded.  The king leaps to his feat, and goblin guards bar
+|          #...*...#         |    your escape.  Grumm dosen't look like he wants to talk!  There is a doorway to your
+|          #########         |    east, and another to the west.
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Throne Room            |
++----------------------------+
+You [19047]: 'end map 403'
+You [19047]: 'start examine 403'
+A pair of goblin chain mail sleeves is lying on the ground.
+It is made out of steel and some leather.
+It is in perfect condition.
+It weighs about 8 pounds.
+You [19047]: 'end examine 403'
+You [19047]: 'start wear 403'
+You can't remove a pair of carved granite armguards..
+You [19047]: 'end wear 403'
+You [19047]: 'end dobril_id 403'11:T8ed,<2280/2280hp 2703/2992m 811/811mv [|Hugowhohaslistsofthingstodoonhislifeque...'s Tinker Shop|] 0tnl > You [19047]: 'start dobril_id 430'
+You [19047]: 'start identify 430'
+Name(s):      gnomish wings
+Short:        a pair of ingenius gnomish wings
+Long:         A pair of clever gnomish wings seem to be about to fall apart at any moment.
+Type:         armor
+Flags:        rot_death
+Weight:       6 lbs
+Value:        1000
+Level to use: 1
+Materials:    wood/clay
+Armor Type:   magic
+Armor class:  10 pierce, 10 bash, 10 slash, 10 magic
+Affects moves by 200
+You [19047]: 'end identify 430'
+You [19047]: 'start map 430'
++----------------------------+
+| Travelling Faire!          |
+|       #.#   #.......#      |
+|       #.#   #$.....$#      |      Gnomes are rarely known for their cleanliness, however, this wagon has been
+|       ###   #.......#      |    carefully tended, making sure that everything is in its place.  No shelves have been
+|          ####.......####   |    put in oddly enough, but steam occasionally billows out from the walls, leaving one to
+|          #$.....$..$..$#   |    wonder at how this little gnome displays his wares.  A massive list has been posted
+|          ####.......####   |    behind the meter high counter, its size and complexity easily would boggle the mind of
+|             #.......#      |    even the most tested human scholar.  A massive crash resounds from behind a tiny meter
+|             #*..*...#      |    and a half door, followed quickly by the sounds of rushing water and the sizzling of
+|             ####.####      |    cooling flames.
+|                #.#         |
+|                #B#         |
+|                #.#         |
+|                #.#         |
+|                #*#         |
+|                ###         |
+| Hugowhohaslistsofthingsto  |
++----------------------------+
+You [19047]: 'end map 430'
+You [19047]: 'start examine 430'
+A pair of clever gnomish wings seem to be about to fall apart at any moment.
+It is made out of wood and some clay.
+It is in perfect condition.
+It weighs about 6 pounds.
+You [19047]: 'end examine 430'
+You [19047]: 'start wear 430'
+You stop using a pair of Albino armbands.
+You wear a pair of ingenius gnomish wings on your arms.
+You [19047]: 'end wear 430'
+You [19047]: 'end dobril_id 430'12:T6b6,<2295/2295hp 2209/2946m 849/849mv [|Servant's Bedroom in House Dairness|] 0tnl > You [19047]: 'start dobril_id 124'
+You [19047]: 'start identify 124'
+Name(s):      mark head servant
+Short:        the mark of the head servant
+Long:         The mark of the head servant is here.
+Type:         jewelry
+Flags:        none
+Weight:       0 lbs, 8 oz
+Value:        50
+Level to use: 3
+Materials:    gold/unknown material
+Affects strength by 4
+You [19047]: 'end identify 124'
+You [19047]: 'start map 124'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The servant's room is huge.  There are no less than ten beds in here...  Bunk beds
+|                            |    mostly.  There is also a small cupboard by each bed which holds each servant's
+|                            |    personals.  The floor is carpeted with a yellowish-white colored rug.
+|                            |
+|                            |
+|       ###^#####            |
+|       #*##.##*#            |
+|       #.##.##.#            |
+|       #.##.##.#            |
+|       #*......#            |
+|       #-##.##.#            |
+|          #.##.#            |
+|          #.##.#            |
+|          #.####            |
+| Servant's Bedroom in Hous  |
++----------------------------+
+You [19047]: 'end map 124'
+You [19047]: 'start examine 124'
+The mark of the head servant is here.
+It is made out of gold.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 124'
+You [19047]: 'start wear 124'
+You stop using a pair of Albino armbands.
+You wear the mark of the head servant on your arms.
+You [19047]: 'end wear 124'
+You [19047]: 'end dobril_id 124'13:T713,<2198/2221hp 2757/2972m 745/745mv [|The Tattoo Artists Shop|] 0tnl > You [19047]: 'start dobril_id 424'
+You [19047]: 'start identify 424'
+Name(s):      tattoo proud lion
+Short:        a tattoo of a proud lion
+Long:         The tattoo of a proud lion is here -- how it get off?
+Type:         trash
+Flags:        noremove no_uncurse
+Weight:       0 lbs
+Value:        10000
+Level to use: 5
+Materials:    ink/unknown material
+Affects hit roll by 3
+Affects damage roll by 4
+You [19047]: 'end identify 424'
+You [19047]: 'start map 424'
++----------------------------+
+| Southwest Palanthas        |
+|    #.#   ####-##-##-####   |
+|    #*#   #*........*...#   |      The shop is brightly lit by several sources of light -- ranging from torches to
+|    #.#   #.##-##.##-##.#   |    the light shining in the windows.  A table sits against one wall.  Upon it are several
+| ####.#####.#   #.#   #.#   |    needles and vials of different colors of ink.  The woman that owns the place sits in a
+| .*..$..*.#.#   #.#   #.#   |    chair and beckons you over to sit in the chair beside her.
+| ####.v####.#   #.#   #.#   |
+|    #.#   #.#####.#   #.#   |
+|    #*#   #*.#*##*#   .*#   |
+|    #.#   #.##.##.#   #.#   |
+|    #.#####.##.##.##-##.#   |
+|    #.........*........*#   |
+|    #.#####.##.########.#   |
+|    #.#   #.##.#      #.#   |
+|    #.#   #*#|.|      #.#   |
+|    #.#   #.####      ###   |
+| The Tattoo Artists Shop    |
++----------------------------+
+You [19047]: 'end map 424'
+You [19047]: 'start examine 424'
+The tattoo of a proud lion is here -- how it get off?
+It is made out of ink.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 424'
+You [19047]: 'start wear 424'
+You can't remove a pair of carved granite armguards..
+You [19047]: 'end wear 424'
+You [19047]: 'end dobril_id 424'14:T713,<2198/2221hp 2770/2972m 745/745mv [|The Tattoo Artists Shop|] 0tnl > You [19047]: 'start dobril_id 423'
+You [19047]: 'start identify 423'
+Name(s):      fierce tiger tattoo
+Short:        a tattoo of a fierce tiger
+Long:         The tattoo of a fierce tiger -- how it get off?
+Type:         trash
+Flags:        noremove no_uncurse
+Weight:       0 lbs
+Value:        7990
+Level to use: 5
+Materials:    ink/unknown material
+Affects hp by 30
+Affects mana by 30
+Affects moves by 30
+You [19047]: 'end identify 423'
+You [19047]: 'start map 423'
++----------------------------+
+| Southwest Palanthas        |
+|    #.#   ####-##-##-####   |
+|    #.#   #............*#   |      The shop is brightly lit by several sources of light -- ranging from torches to
+|    #.#   #.##-##.##-##.#   |    the light shining in the windows.  A table sits against one wall.  Upon it are several
+| ####.#####.#   #.#   #.#   |    needles and vials of different colors of ink.  The woman that owns the place sits in a
+| .*..$....#*#   #*#   #.#   |    chair and beckons you over to sit in the chair beside her.
+| ####.v####.#   #.#   #.#   |
+|    #.#   #.#####.#   #.#   |
+|    #.#   #*.#*##.#   .*#   |
+|    #.#   #.##.##.#   #.#   |
+|    #.#####.##.##.##-##.#   |
+|    #.........*.....*..*#   |
+|    #.#####.##.########.#   |
+|    #.#   #.##.#      #.#   |
+|    #.#   #*#|*|      #*#   |
+|    #.#   #.####      ###   |
+| The Tattoo Artists Shop    |
++----------------------------+
+You [19047]: 'end map 423'
+You [19047]: 'start examine 423'
+The tattoo of a fierce tiger -- how it get off?
+It is made out of ink.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 423'
+You [19047]: 'start wear 423'
+You can't remove a pair of carved granite armguards..
+You [19047]: 'end wear 423'
+You [19047]: 'end dobril_id 423'15:T765,<2198/2221hp 2783/2972m 745/745mv [|The Tattoo Artists Shop|] 0tnl > You [19047]: 'start dobril_id 422'
+You [19047]: 'start identify 422'
+Name(s):      tattoo fiery ghost ship
+Short:        a tattoo of a fiery ghost ship
+Long:         The tattoo of a fiery ghost ship is here -- how it get off?
+Type:         trash
+Flags:        noremove no_uncurse
+Weight:       0 lbs
+Value:        16180
+Level to use: 15
+Materials:    ink/unknown material
+Affects hit roll by 2
+Affects damage roll by 2
+Affects hp by 25
+Affects mana by 5
+Affects strength by 2
+You [19047]: 'end identify 422'
+You [19047]: 'start map 422'
++----------------------------+
+| Southwest Palanthas        |
+|    #.#   ####-##-##-####   |
+|    #*#   #*............#   |      The shop is brightly lit by several sources of light -- ranging from torches to
+|    #.#   #.##-##.##-##.#   |    the light shining in the windows.  A table sits against one wall.  Upon it are several
+| ####.#####.#   #.#   #.#   |    needles and vials of different colors of ink.  The woman that owns the place sits in a
+| ....$..*.#*#   #*#   #.#   |    chair and beckons you over to sit in the chair beside her.
+| ####.v####.#   #.#   #.#   |
+|    #.#   #.#####.#   #.#   |
+|    #.#   #..#*##*#   .*#   |
+|    #.#   #.##.##.#   #.#   |
+|    #.#####.##.##.##-##.#   |
+|    #*.....*..*.....*..*#   |
+|    #.#####.##.########.#   |
+|    #.#   #.##.#      #.#   |
+|    #*#   #.#|*|      #.#   |
+|    #.#   #.####      ###   |
+| The Tattoo Artists Shop    |
++----------------------------+
+You [19047]: 'end map 422'
+You [19047]: 'start examine 422'
+The tattoo of a fiery ghost ship is here -- how it get off?
+It is made out of ink.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 422'
+You [19047]: 'start wear 422'
+You can't remove a pair of carved granite armguards..
+You [19047]: 'end wear 422'
+You [19047]: 'end dobril_id 422'16:T784,<2295/2295hp 2874/2946m 849/849mv [|Master Bedroom of House Tabiek|] 0tnl > You [19047]: 'start dobril_id 136'
+You [19047]: 'start identify 136'
+Name(s):      albino sleeves armor
+Short:        a pair of Albino Sleeves
+Long:         A pair of pure-white sleeves is here.
+Type:         armor
+Flags:        glow magic bless
+Weight:       1 lbs, 8 oz
+Value:        10000
+Level to use: 15
+Materials:    bone/adamantite
+Armor Type:   magic
+Armor class:  5 pierce, 5 bash, 5 slash, 5 magic
+Affects mana by 50
+Affects dexterity by 2
+Affects hit roll by 1
+Affects damage roll by 2
+You [19047]: 'end identify 136'
+You [19047]: 'start map 136'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The master bedroom is well furnished with about every type of furniture you can
+|                            |    imagine a noble to have within their home.  From bed to mirror to dressers to
+|                ###         |    cupboards.  The door out is to the east and it looks like it's an intrusion of the
+|                #.#         |    Lord and Lady's time by coming in here.
+|                #.v         |
+|             ####.####      |
+|             #*......#      |
+|             ####.####      |
+|                #.#         |
+|                #.#         |
+|                ###         |
+|                            |
+|                            |
+|                            |
+| Master Bedroom of House T  |
++----------------------------+
+You [19047]: 'end map 136'
+You [19047]: 'start examine 136'
+A pair of pure-white sleeves is here.
+It is made out of bone and some adamantite.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 136'
+You [19047]: 'start wear 136'
+You stop using a pair of Albino armbands.
+You wear a pair of Albino Sleeves on your arms.
+You [19047]: 'end wear 136'
+You [19047]: 'end dobril_id 136'17:T708,<2223/2225hp 2181/2976m 849/849mv [|Inside a cage|] 0tnl > You [19047]: 'start dobril_id 188'
+You [19047]: 'start identify 188'
+Name(s):      black steel armbands
+Short:        a set of black steel armbands
+Long:         A pair of armbands lies here, almost seeming to absorb the light.
+Type:         armor
+Flags:        dark anti-good
+Weight:       5 lbs
+Value:        2600
+Level to use: 40
+Materials:    steel/unknown material
+Armor Type:   magic
+Armor class:  10 pierce, 10 bash, 30 slash, 5 magic
+Affects hp by 13
+Affects strength by 1
+Affects damage roll by 3
+Affects hit roll by 3
+You [19047]: 'end identify 188'
+You [19047]: 'start map 188'
++----------------------------+
+| Sanction                   |
+|                      #.#   |
+|                      |.|   |      The inside of this cage is slick with a liquid of some sort, in the darkness it is
+|                      #.#   |    hard to tell.  The stench is nearly unbearable, you hope that whatever is confined
+|                      #.#   |    here, doesn't notice you.
+|                      |.|   |
+|                      #.#   |
+|             ######   #.#   |
+|             |*...#   |.|   |
+|             ####.#   #.#   |
+|             ####.#####.####|
+|             |....##......*#|
+|             ####.#####.####|
+|          ######^.#####.#   |
+|          #.............|   |
+|          #######.v####.v   |
+| Inside a cage              |
++----------------------------+
+You [19047]: 'end map 188'
+You [19047]: 'start examine 188'
+A pair of armbands lies here, almost seeming to absorb the light.
+It is made out of steel.
+It is in almost perfect condition.
+It weighs about 5 pounds.
+You [19047]: 'end examine 188'
+You [19047]: 'start wear 188'
+You do not have that item.
+You [19047]: 'end wear 188'
+You [19047]: 'end dobril_id 188'18:T7da,<2026/2222hp 1809/2837m 838/881mv [|A Guardhouse in the Eastern Warrens|] 957tnl > You [19047]: 'start dobril_id 97'
+You [19047]: 'start identify 97'
+Name(s):      armor albino armbands
+Short:        a pair of Albino armbands
+Long:         There is a pair of armbands made of a white-like material here.
+Type:         armor
+Flags:        glow bless
+Weight:       4 lbs
+Value:        1000
+Level to use: 75
+Materials:    bone/adamantite
+Armor Type:   magic
+Armor class:  15 pierce, 20 bash, 20 slash, 15 magic
+Affects hp by 15
+Affects damage roll by 6
+Affects mana by 20
+Affects moves by 50
+Affects hit roll by 5
+You [19047]: 'end identify 97'
+You [19047]: 'start map 97'
++----------------------------+
+| The Eastern Warrens        |
+|                            |
+|                            |      The guardhouse is fairly plain: bunks to one side for the guards to sleep in; a
+|                            |    few tables, to arrange their drinks and games on; cabinets, to keep their apparel in;
+|                            |    and much to that liken.  The door back to the streets is to the south.  There are
+|                            |    several guards around.
+|                            |
+|             ###            |
+|             #*#            |
+|             #.#            |
+| #############.#""""""""""""|
+| .......*......."*"""""*""*"|
+| #.##.########.#""""""""""""|
+| #.##.#      """      """"""|
+| #*##.#      "*"      "*""*"|
+| ####.#      """      """"""|
+| A Guardhouse in the Easte  |
++----------------------------+
+You [19047]: 'end map 97'
+You [19047]: 'start examine 97'
+There is a pair of armbands made of a white-like material here.
+It is made out of bone and some adamantite.
+It is pretty beat up.
+You should have it repaired soon.
+It weighs about 4 pounds.
+You [19047]: 'end examine 97'
+You [19047]: 'start wear 97'
+You stop using a pair of polished steel vambrances.
+You wear a pair of Albino armbands on your arms.
+You [19047]: 'end wear 97'
+You [19047]: 'end dobril_id 97'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":383,"stats":{"Name(s)":["sleeves","goblin","scale","mail"],"Short":"a pair of goblin scale mail sleeves","Long":"A pair of goblin scale mail sleeves is lying on the ground.","Type":"armor","Flags":["none"],"Weight":"6 lbs","Value":400,"Level to use":1,"Materials":["leather","steel"],"Armor Type":"magic","Armor class":[3,4,4,0]},"name":"a pair of goblin scale mail sleeves","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The goblin barracks","map":"+----------------------------+\n| Goblin Stronghold          |\n|       ####^#               |\n|       #^^^^#               |\n|       #^####               |\n|       #.#                  |\n|       #.#                  |\n|       #.#                  |\n|       #.#   ###            |\n|       #.#   #*#            |\n|       #.#   #.#            |\n| #######.#####.#            |\n| #*........*..*#            |\n| #.v#.##.##.####            |\n| #.##.##.##.####            |\n| #.##.||.||....#            |\n| #######.#######            |\n| The goblin barracks        |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"goblin guard"},"slug":"a-pair-of-goblin-scale-mail-sleeves_383"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":391,"stats":{"Name(s)":["arm","guards","granite"],"Short":"a pair of carved granite armguards.","Long":"You see a large hollow tube carved of granite.","Type":"armor","Flags":["magic","noremove"],"Weight":"25 lbs, 1 oz","Value":1900,"Level to use":1,"Materials":["rock","unknown material"],"Armor Type":"magic","Armor class":[6,6,9,2],"Affects":[["constitution","1"]]},"name":"a pair of carved granite armguards.","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The training room","map":"+----------------------------+\n| Goblin Stronghold          |\n|                #.#   ###   |\n|                #.#   #*#   |\n|                #.#   #.#   |\n|          #######.#####.#   |\n|          #...*.....*...#   |\n|          #.v#.##.##.####   |\n|          #.##.##.##.####   |\n|          #*##*..*.....*#   |\n|          #######.#######   |\n|                #.#         |\n|                #*#         |\n|                #.#         |\n|                #.#         |\n|                |*|         |\n|                ###         |\n| The training room          |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"Knarl"},"slug":"a-pair-of-carved-granite-armguards_391"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":403,"stats":{"Name(s)":["sleeves","goblin","chain","mail"],"Short":"a pair of goblin chain mail sleeves","Long":"A pair of goblin chain mail sleeves is lying on the ground.","Type":"armor","Flags":["none"],"Weight":"8 lbs","Value":390,"Level to use":1,"Materials":["steel","leather"],"Armor Type":"magic","Armor class":[5,4,5,0]},"name":"a pair of goblin chain mail sleeves","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Throne Room","map":"+----------------------------+\n| Goblin Stronghold          |\n|       #.##.##.##.####      |\n|       #*##*..*..*...#      |\n|       #######.#######      |\n|             #.#            |\n|             #*#            |\n|             #.#            |\n|          ####.####         |\n|          #...*...#         |\n|          #########         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Throne Room            |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"Grumm"},"slug":"a-pair-of-goblin-chain-mail-sleeves_403"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_26.txt","type":"item","id":430,"stats":{"Name(s)":["gnomish","wings"],"Short":"a pair of ingenius gnomish wings","Long":"A pair of clever gnomish wings seem to be about to fall apart at any moment.","Type":"armor","Flags":["rot_death"],"Weight":"6 lbs","Value":1000,"Level to use":1,"Materials":["wood","clay"],"Armor Type":"magic","Armor class":[10,10,10,10],"Affects":[["moves","200"]]},"name":"a pair of ingenius gnomish wings","map":{"area":{"name":"Travelling Faire!","slug":"travelling-faire"},"roomName":"Hugowhohaslistsofthingsto","map":"+----------------------------+\n| Travelling Faire!          |\n|       #.#   #.......#      |\n|       #.#   #$.....$#      |\n|       ###   #.......#      |\n|          ####.......####   |\n|          #$.....$..$..$#   |\n|          ####.......####   |\n|             #.......#      |\n|             #*..*...#      |\n|             ####.####      |\n|                #.#         |\n|                #B#         |\n|                #.#         |\n|                #.#         |\n|                #*#         |\n|                ###         |\n| Hugowhohaslistsofthingsto  |\n+----------------------------+"},"wear":"arms","source":{"type":"bought","location":"Hugowhohaslistsofthingsto"},"slug":"a-pair-of-ingenius-gnomish-wings_430"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":124,"stats":{"Name(s)":["mark","head","servant"],"Short":"the mark of the head servant","Long":"The mark of the head servant is here.","Type":"jewelry","Flags":["none"],"Weight":"0 lbs, 8 oz","Value":50,"Level to use":3,"Materials":["gold","unknown material"],"Affects":[["strength","4"]]},"name":"the mark of the head servant","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Servant's Bedroom in Hous","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|       ###^#####            |\n|       #*##.##*#            |\n|       #.##.##.#            |\n|       #.##.##.#            |\n|       #*......#            |\n|       #-##.##.#            |\n|          #.##.#            |\n|          #.##.#            |\n|          #.####            |\n| Servant's Bedroom in Hous  |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"the head servant"},"slug":"the-mark-of-the-head-servant_124"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":424,"stats":{"Name(s)":["tattoo","proud","lion"],"Short":"a tattoo of a proud lion","Long":"The tattoo of a proud lion is here -- how it get off?","Type":"trash","Flags":["noremove","no_uncurse"],"Weight":"0 lbs","Value":10000,"Level to use":5,"Materials":["ink","unknown material"],"Affects":[["hit roll","3"],["damage roll","4"]]},"name":"a tattoo of a proud lion","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Tattoo Artists Shop","map":"+----------------------------+\n| Southwest Palanthas        |\n|    #.#   ####-##-##-####   |\n|    #*#   #*........*...#   |\n|    #.#   #.##-##.##-##.#   |\n| ####.#####.#   #.#   #.#   |\n| .*..$..*.#.#   #.#   #.#   |\n| ####.v####.#   #.#   #.#   |\n|    #.#   #.#####.#   #.#   |\n|    #*#   #*.#*##*#   .*#   |\n|    #.#   #.##.##.#   #.#   |\n|    #.#####.##.##.##-##.#   |\n|    #.........*........*#   |\n|    #.#####.##.########.#   |\n|    #.#   #.##.#      #.#   |\n|    #.#   #*#|.|      #.#   |\n|    #.#   #.####      ###   |\n| The Tattoo Artists Shop    |\n+----------------------------+"},"wear":"arms","source":{"type":"bought","location":"The Tattoo Artists Shop"},"slug":"a-tattoo-of-a-proud-lion_424"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":423,"stats":{"Name(s)":["fierce","tiger","tattoo"],"Short":"a tattoo of a fierce tiger","Long":"The tattoo of a fierce tiger -- how it get off?","Type":"trash","Flags":["noremove","no_uncurse"],"Weight":"0 lbs","Value":7990,"Level to use":5,"Materials":["ink","unknown material"],"Affects":[["hp","30"],["mana","30"],["moves","30"]]},"name":"a tattoo of a fierce tiger","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Tattoo Artists Shop","map":"+----------------------------+\n| Southwest Palanthas        |\n|    #.#   ####-##-##-####   |\n|    #.#   #............*#   |\n|    #.#   #.##-##.##-##.#   |\n| ####.#####.#   #.#   #.#   |\n| .*..$....#*#   #*#   #.#   |\n| ####.v####.#   #.#   #.#   |\n|    #.#   #.#####.#   #.#   |\n|    #.#   #*.#*##.#   .*#   |\n|    #.#   #.##.##.#   #.#   |\n|    #.#####.##.##.##-##.#   |\n|    #.........*.....*..*#   |\n|    #.#####.##.########.#   |\n|    #.#   #.##.#      #.#   |\n|    #.#   #*#|*|      #*#   |\n|    #.#   #.####      ###   |\n| The Tattoo Artists Shop    |\n+----------------------------+"},"wear":"arms","source":{"type":"bought","location":"The Tattoo Artists Shop"},"slug":"a-tattoo-of-a-fierce-tiger_423"},{"raw":"$15","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":422,"stats":{"Name(s)":["tattoo","fiery","ghost","ship"],"Short":"a tattoo of a fiery ghost ship","Long":"The tattoo of a fiery ghost ship is here -- how it get off?","Type":"trash","Flags":["noremove","no_uncurse"],"Weight":"0 lbs","Value":16180,"Level to use":15,"Materials":["ink","unknown material"],"Affects":[["hit roll","2"],["damage roll","2"],["hp","25"],["mana","5"],["strength","2"]]},"name":"a tattoo of a fiery ghost ship","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Tattoo Artists Shop","map":"+----------------------------+\n| Southwest Palanthas        |\n|    #.#   ####-##-##-####   |\n|    #*#   #*............#   |\n|    #.#   #.##-##.##-##.#   |\n| ####.#####.#   #.#   #.#   |\n| ....$..*.#*#   #*#   #.#   |\n| ####.v####.#   #.#   #.#   |\n|    #.#   #.#####.#   #.#   |\n|    #.#   #..#*##*#   .*#   |\n|    #.#   #.##.##.#   #.#   |\n|    #.#####.##.##.##-##.#   |\n|    #*.....*..*.....*..*#   |\n|    #.#####.##.########.#   |\n|    #.#   #.##.#      #.#   |\n|    #*#   #.#|*|      #.#   |\n|    #.#   #.####      ###   |\n| The Tattoo Artists Shop    |\n+----------------------------+"},"wear":"arms","source":{"type":"bought","location":"The Tattoo Artists Shop"},"slug":"a-tattoo-of-a-fiery-ghost-ship_422"},{"raw":"$16","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":136,"stats":{"Name(s)":["albino","sleeves","armor"],"Short":"a pair of Albino Sleeves","Long":"A pair of pure-white sleeves is here.","Type":"armor","Flags":["glow","magic","bless"],"Weight":"1 lbs, 8 oz","Value":10000,"Level to use":15,"Materials":["bone","adamantite"],"Armor Type":"magic","Armor class":[5,5,5,5],"Affects":[["mana","50"],["dexterity","2"],["hit roll","1"],["damage roll","2"]]},"name":"a pair of Albino Sleeves","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Master Bedroom of House T","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                ###         |\n|                #.#         |\n|                #.v         |\n|             ####.####      |\n|             #*......#      |\n|             ####.####      |\n|                #.#         |\n|                #.#         |\n|                ###         |\n|                            |\n|                            |\n|                            |\n| Master Bedroom of House T  |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"Lady Tabiek"},"slug":"a-pair-of-albino-sleeves_136"},{"raw":"$17","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_23.txt","type":"item","id":188,"stats":{"Name(s)":["black","steel","armbands"],"Short":"a set of black steel armbands","Long":"A pair of armbands lies here, almost seeming to absorb the light.","Type":"armor","Flags":["dark","anti-good"],"Weight":"5 lbs","Value":2600,"Level to use":40,"Materials":["steel","unknown material"],"Armor Type":"magic","Armor class":[10,10,30,5],"Affects":[["hp","13"],["strength","1"],["damage roll","3"],["hit roll","3"]]},"name":"a set of black steel armbands","map":{"area":{"name":"Sanction","slug":"sanction"},"roomName":"Inside a cage","map":"+----------------------------+\n| Sanction                   |\n|                      #.#   |\n|                      |.|   |\n|                      #.#   |\n|                      #.#   |\n|                      |.|   |\n|                      #.#   |\n|             ######   #.#   |\n|             |*...#   |.|   |\n|             ####.#   #.#   |\n|             ####.#####.####|\n|             |....##......*#|\n|             ####.#####.####|\n|          ######^.#####.#   |\n|          #.............|   |\n|          #######.v####.v   |\n| Inside a cage              |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"The dark naga"},"slug":"a-set-of-black-steel-armbands_188"},{"raw":"$18","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":97,"stats":{"Name(s)":["armor","albino","armbands"],"Short":"a pair of Albino armbands","Long":"There is a pair of armbands made of a white-like material here.","Type":"armor","Flags":["glow","bless"],"Weight":"4 lbs","Value":1000,"Level to use":75,"Materials":["bone","adamantite"],"Armor Type":"magic","Armor class":[15,20,20,15],"Affects":[["hp","15"],["damage roll","6"],["mana","20"],["moves","50"],["hit roll","5"]]},"name":"a pair of Albino armbands","map":{"area":{"name":"The Eastern Warrens","slug":"the-eastern-warrens"},"roomName":"A Guardhouse in the Easte","map":"+----------------------------+\n| The Eastern Warrens        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             #.#            |\n| #############.#\"\"\"\"\"\"\"\"\"\"\"\"|\n| .......*.......\"*\"\"\"\"\"*\"\"*\"|\n| #.##.########.#\"\"\"\"\"\"\"\"\"\"\"\"|\n| #.##.#      \"\"\"      \"\"\"\"\"\"|\n| #*##.#      \"*\"      \"*\"\"*\"|\n| ####.#      \"\"\"      \"\"\"\"\"\"|\n| A Guardhouse in the Easte  |\n+----------------------------+"},"wear":"arms","source":{"type":"looted","mob":"The Head of the Guards"},"slug":"a-pair-of-albino-armbands_97"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all equipment worn in the arms slot"}],["$","meta","2",{"name":"description","content":"a list of all of the equipment worn in the arms slot"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null

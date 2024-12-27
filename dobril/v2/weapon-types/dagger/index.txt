@@ -1,15 +1,409 @@
 1:"$Sreact.fragment"
 2:I[5244,[],""]
 3:I[3866,[],""]
-4:I[8173,["173","static/chunks/173-767e48b05c5f9370.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-39511c8965e7f13e.js"],""]
+4:I[8173,["173","static/chunks/173-91be8d59e7b6b129.js","372","static/chunks/app/dobril/v2/page-e9c5c7c12ae6a844.js"],""]
 6:I[6213,[],"OutletBoundary"]
 8:I[6213,[],"MetadataBoundary"]
 a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4f511f3b363f2fa1.css","style"]
-0:{"P":null,"b":"AJoHXo-6v0yNBmkYRCIlV","p":"","c":["","dobril","v2","weapon-types","dagger",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","dagger","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f511f3b363f2fa1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","dagger","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","yKe9PXjP_L1f741tge3A_",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
-5:["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"className":"px-3 py-2","children":"Name"}],["$","th",null,{"className":"px-3 py-2","children":"2H"}],["$","th",null,{"className":"px-3 py-2","children":"Noun"}],["$","th",null,{"className":"px-3 py-2","children":"Damage"}],["$","th",null,{"className":"px-3 py-2","children":"Hit/Dam"}],["$","th",null,{"className":"px-3 py-2","children":"Level"}],["$","th",null,{"className":"px-3 py-2","children":"Zone"}]]}]}],["$","tbody",null,{"children":[["$","tr","143",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-training-dagger_143","title":"a training dagger","children":"a training dagger"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pierce"}],["$","td",null,{"className":"px-3 py-2 text-right","children":2}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/southwest-palanthas","title":"Southwest Palanthas","children":"Southwest Palanthas"}]}]]}],["$","tr","237",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/the-stirges-bite_237","title":"the stirges bite","children":"the stirges bite"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pierce"}],["$","td",null,{"className":"px-3 py-2 text-right","children":12}],["$","td",null,{"className":"px-3 py-2 text-right","children":"2/2"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-sewers","title":"Palanthas Sewers","children":"Palanthas Sewers"}]}]]}],["$","tr","244",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-sharpened-stick_244","title":"a sharpened stick","children":"a sharpened stick"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pierce"}],["$","td",null,{"className":"px-3 py-2 text-right","children":22}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-sewers","title":"Palanthas Sewers","children":"Palanthas Sewers"}]}]]}],["$","tr","249",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-sharp-dagger_249","title":"a sharp dagger","children":"a sharp dagger"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pierce"}],["$","td",null,{"className":"px-3 py-2 text-right","children":10}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-sewers","title":"Palanthas Sewers","children":"Palanthas Sewers"}]}]]}],["$","tr","262",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-cheap-throwing-dagger_262","title":"a cheap throwing dagger","children":"a cheap throwing dagger"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"pierce"}],["$","td",null,{"className":"px-3 py-2 text-right","children":15}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/0"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas-thieves-guild","title":"Palanthas Thieves Guild","children":"Palanthas Thieves Guild"}]}]]}],["$","tr","394",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-stone-shard_394","title":"a stone shard","children":"a stone shard"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"stab"}],["$","td",null,{"className":"px-3 py-2 text-right","children":17}],["$","td",null,{"className":"px-3 py-2 text-right","children":"0/3"}],["$","td",null,{"className":"px-3 py-2 text-right","children":1}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/goblin-stronghold","title":"Goblin Stronghold","children":"Goblin Stronghold"}]}]]}],["$","tr","81",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/a-nightmares-fang_81","title":"a nightmares fang","children":"a nightmares fang"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"slash"}],["$","td",null,{"className":"px-3 py-2 text-right","children":56}],["$","td",null,{"className":"px-3 py-2 text-right","children":"8/8"}],["$","td",null,{"className":"px-3 py-2 text-right","children":73}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/temple-of-the-undead","title":"Temple of the Undead","children":"Temple of the Undead"}]}]]}],["$","tr","107",{"children":[["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/items/guidonious-dagger-of-vengeance_107","title":"Guidonious' dagger of vengeance","children":"Guidonious' dagger of vengeance"}]}],["$","td",null,{"className":"px-3 py-2 text-center","children":" "}],["$","td",null,{"className":"px-3 py-2","children":"slime"}],["$","td",null,{"className":"px-3 py-2 text-right","children":84}],["$","td",null,{"className":"px-3 py-2 text-right","children":"18/18"}],["$","td",null,{"className":"px-3 py-2 text-right","children":100}],["$","td",null,{"className":"px-3 py-2","children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/areas/palanthas","title":"Palanthas","children":"Palanthas"}]}]]}]]}]]}]
+:HL["/_next/static/css/22925715cd1ffe01.css","style"]
+0:{"P":null,"b":"pIQ4abHHTwNWoB2SKJwIt","p":"","c":["","dobril","v2","weapon-types","dagger",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","dagger","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/22925715cd1ffe01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-4 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","dagger","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","zxd9MOmArJna60CvgaRR9",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[2123,["173","static/chunks/173-91be8d59e7b6b129.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-0a89b064ce631510.js"],"default"]
+e:T73a,<2230/2230hp 2447/2992m 811/811mv [|In the sewers|] 0tnl > You [19047]: 'start dobril_id 244'
+You [19047]: 'start identify 244'
+An apprentice's training staff flares.
+A sharpened stick's resistance is overcome by your staff!
+Name(s):      stick sharp
+Short:        a sharpened stick
+Long:         A sharpened stick lies in the dirt here.
+Type:         weapon: dagger
+Flags:        no_ident indestructible
+Weight:       1 lbs, 9 oz
+Value:        750
+Level to use: 1
+Materials:    wood/unknown material
+Damage:       4d10 (average 22)
+Weapon flags: throwable
+You [19047]: 'end identify 244'
+You [19047]: 'start map 244'
++----------------------------+
+| Palanthas Sewers           |
+| ############               |
+| .*.....*..*#               |      A dark and gloomy tunnel with a terrible smell coming from all around.  Murky
+| ####.#####.#               |    waters flow around your feet, with revolting things floating here and there.  The
+|    #.#   #.####            |    constant dripping and rank odors accost your senses.
+|    #*#   #*...#            |
+|    #.#   ####.#            |
+| ####.####   #.####         |
+| #.......#   #*...#         |
+| #.##.##.#   ####.#         |
+| #.##.##.####   #.####      |
+| ..##.##*..*#   #*...#      |
+| ####.#####.#   ####.#      |
+| ####.#   #.#      #.#      |
+| #*..*#   #*.      #.#      |
+| #.####   ###      #.#      |
+| In the sewers              |
++----------------------------+
+You [19047]: 'end map 244'
+You [19047]: 'start examine 244'
+A sharpened stick lies in the dirt here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 244'
+You [19047]: 'start wear 244'
+You stop using an apprentice's training staff.
+You wield a sharpened stick.
+A sharpened stick feels like a part of you!
+You [19047]: 'end wear 244'
+You [19047]: 'end dobril_id 244'f:T734,<2265/2265hp 2388/2972m 761/761mv [|The Mage's quarters|] 0tnl > You [19047]: 'start dobril_id 394'
+You [19047]: 'start identify 394'
+Name(s):      dagger shard stone
+Short:        a stone shard
+Long:         A sharp pointed rock lies here.
+Type:         weapon: dagger
+Flags:        glow magic
+Weight:       1 lbs
+Value:        1100
+Level to use: 1
+Materials:    rock/unknown material
+Damage:       5d6 (average 17)
+Weapon flags: sharp
+Affects damage roll by 3
+You [19047]: 'end identify 394'
+You [19047]: 'start map 394'
++----------------------------+
+| Goblin Stronghold          |
+|    #.##.##.##.####         |
+|    #.##...*..*..*#         |      A very heavy mist hovers above the floor here.  It's not enough to obscure your
+|    #######.#######         |    vision though, and when you look closer, you can see an inlaid pentagram has been
+|          #.#               |    added to the granite stonework.  The room is otherwise spartan, though you can see a
+|          #*#               |    small cot and a desk.  Otherwise the room is barren.
+|          #.#               |
+|       ####.####            |
+|       #...*..*#            |
+|       #########            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Mage's quarters        |
++----------------------------+
+You [19047]: 'end map 394'
+You [19047]: 'start examine 394'
+Looks like it would make a good weapon.
+It is made out of rock.
+It is in almost perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 394'
+You [19047]: 'start wear 394'
+You stop using Guidonious' dagger of vengeance.
+You wield a stone shard.
+A stone shard feels like a part of you!
+You [19047]: 'end wear 394'
+You [19047]: 'end dobril_id 394'10:T707,<2230/2230hp 2261/2992m 811/811mv [|Tools of the Trade|] 0tnl > You [19047]: 'start dobril_id 262'
+You [19047]: 'start identify 262'
+Name(s):      dagger throwing cheap
+Short:        a cheap throwing dagger
+Long:         A cheaply made brass dagger lies here.
+Type:         weapon: dagger
+Flags:        none
+Weight:       0 lbs, 3 oz
+Value:        60
+Level to use: 1
+Materials:    brass/leather
+Damage:       5d5 (average 15)
+Weapon flags: throwable
+You [19047]: 'end identify 262'
+You [19047]: 'start map 262'
++----------------------------+
+| Palanthas Thieves Guild    |
+|                            |
+|                            |      This room is filled with tools of the trade.  The walls are covered with small
+|                            |    pegs, upon which hang many tools and various gadgets.  A large counter with a locked
+|          ###               |    box rests in front of the north wall.
+|          #.#               |
+|          #.#               |
+| """   ####.#######         |
+| "B"   #G##$##*##B#         |
+| """   #.##.##.##.#         |
+| #.#####.##.##.##.#         |
+| #...*...........*#         |
+| #######..........#         |
+|       #..........#""""""   |
+|       #..........."*""""   |
+|       #..........#""""""   |
+| Tools of the Trade         |
++----------------------------+
+You [19047]: 'end map 262'
+You [19047]: 'start examine 262'
+This dagger is cheap, but balanced for throwing.
+It is made out of brass and some leather.
+It is pretty beat up.
+You should have it repaired soon.
+It weighs about 1 pound.
+You [19047]: 'end examine 262'
+You [19047]: 'start wear 262'
+You stop using Guidonious' dagger of vengeance.
+You wield a cheap throwing dagger.
+A cheap throwing dagger feels like a part of you!
+You [19047]: 'end wear 262'
+You [19047]: 'end dobril_id 262'11:T770,<2230/2230hp 2596/2992m 811/811mv [|A Circular Chamber|] 0tnl > You [19047]: 'start dobril_id 237'
+You [19047]: 'start identify 237'
+Name(s):      stirge beak bite
+Short:        the stirges bite
+Long:         The beak of a dreaded stirge lies here.
+Type:         weapon: dagger
+Flags:        none
+Weight:       1 lbs, 1 oz
+Value:        20
+Level to use: 1
+Materials:    bone/blood
+Damage:       4d5 (average 12)
+Weapon flags: vampiric
+Affects hit roll by 2
+Affects damage roll by 2
+You [19047]: 'end identify 237'
+You [19047]: 'start map 237'
++----------------------------+
+| Palanthas Sewers           |
+| #.#   ####.##.##.####   #.#|
+| #*#   #...*##*##*...#   #*#|      The room is a circular chamber, easily fourty feet across.  A mound of coal is
+| #.#   #.#####.#####.#   #.#|    piled next to a still glowing brazier.  A cluttered table extends nearly halfway
+| #.#####.#####.#####.#####.#|    around the periphery of the circular chamber.  There are many items on the bench, and
+| .*##*...##*..*##.##*..*##*.|    lining the shelves on the wall above.
+| ####.#####.#####.#####.####|
+| ####.#####.#####.#####.####|
+| .*..*....#.##*.....*..*....|
+| ####.###########.#####.####|
+| ####.####   ###^."####.####|
+| ..##....#   #*#"."#...*##*.|
+| #.#######   #.#""v#.#####.#|
+| #.#   #######.#####.#   #.#|
+| #.#   #*..*##*##*..*#   #.#|
+| #.#   ####.##.##.####   #.#|
+| A Circular Chamber         |
++----------------------------+
+You [19047]: 'end map 237'
+You [19047]: 'start examine 237'
+The beak of a dreaded stirge lies here.
+It is made out of bone and some blood.
+It is in very bad condition.
+You should have it repaired immediately.
+It weighs about 0 pound.
+You [19047]: 'end examine 237'
+You [19047]: 'start wear 237'
+You stop using Guidonious' dagger of vengeance.
+You wield the stirges bite.
+The stirges bite feels like a part of you!
+You [19047]: 'end wear 237'
+You [19047]: 'end dobril_id 237'12:T730,<2223/2230hp 2413/2992m 811/811mv [|In the sewers|] 0tnl > You [19047]: 'start dobril_id 249'
+You [19047]: 'start identify 249'
+Name(s):      dagger sharp
+Short:        a sharp dagger
+Long:         A very sharp dagger is sticking in the dirt here.
+Type:         weapon: dagger
+Flags:        none
+Weight:       0 lbs, 1 oz
+Value:        10
+Level to use: 1
+Materials:    iron/steel
+Damage:       4d4 (average 10)
+Weapon flags: throwable
+<2223/2230hp 2403/2992m 811/811mv [|In the sewers|] 0tnl >
+A small rat quickly leaves south.
+You [19047]: 'end identify 249'
+You [19047]: 'start map 249'
++----------------------------+
+| Palanthas Sewers           |
+|    ###############         |
+|    #*..*..*..*...#         |      A dark and gloomy tunnel with a terrible smell coming from all around.  Murky
+|    #.#####.#####.#         |    waters flow around your feet, with revolting things floating here and there.  The
+| ####.#   #.#   #.####      |    constant dripping and rank odors accost your senses.
+| #....#   #*#   #*..*#      |
+| #.####   #.#   ####.#      |
+| #.#   ####.####   #.####   |
+| .*#   #*..*..*#   #...*#   |
+| ###   #.##.##.#   ####.#   |
+|    ####.##.##.####   #.####|
+|    #*...##*##*..*#   #....#|
+|    #.#####.#####.#   ####.#|
+| ####.#####.#####.#####.####|
+| #....##....##*##*...##*...#|
+| #.#####.#####.#####.#####.#|
+| In the sewers              |
++----------------------------+
+You [19047]: 'end map 249'
+You [19047]: 'start examine 249'
+A very sharp dagger is sticking in the dirt here.
+It is made out of iron and some steel.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 249'
+You [19047]: 'start wear 249'
+You stop using Guidonious' dagger of vengeance.
+You wield a sharp dagger.
+A sharp dagger feels like a part of you!
+You [19047]: 'end wear 249'
+You [19047]: 'end dobril_id 249'13:T6fb,<2295/2295hp 2865/2946m 849/849mv [|The Training Weapon's Shop|] 0tnl > You [19047]: 'start dobril_id 143'
+You [19047]: 'start identify 143'
+Name(s):      dagger training
+Short:        a training dagger
+Long:         A training dagger is here.
+Type:         weapon: dagger
+Flags:        none
+Weight:       1 lbs, 8 oz
+Value:        854
+Level to use: 1
+Materials:    wood/unknown material
+Damage:       1d4 (average 2)
+You [19047]: 'end identify 143'
+You [19047]: 'start map 143'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The weapons which assort the walls, racks and tables in this shop are all made of
+|                            |    wood and are sold to people to train with.  There are many weapons, of many types sold
+|                            |    here.  The room is dimly lit and smells like sweat.  The exit lies to the north.
+|                            |
+|                            |
+|             #-#            |
+|             #*#            |
+|             ###            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Training Weapon's Sho  |
++----------------------------+
+You [19047]: 'end map 143'
+You [19047]: 'start examine 143'
+A training dagger is here.
+It is made out of wood.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 143'
+You [19047]: 'start wear 143'
+A sprinkling of ash blows away with a gust of wind.
+You stop using Guidonious' dagger of vengeance.
+You wield a training dagger.
+A training dagger feels like a part of you!
+You [19047]: 'end wear 143'
+You [19047]: 'end dobril_id 143'14:T687,<2182/2182hp 2125/2717m 881/881mv [|Arena|] 1035tnl > You [19047]: 'start dobril_id 81'
+You [19047]: 'start identify 81'
+Name(s):      dark fang nightmare
+Short:        a nightmares fang
+Long:         A nightmares fang glows with a red hue.
+Type:         weapon: dagger
+Flags:        glow dark magic
+Weight:       9 lbs, 6 oz
+Value:        5595
+Level to use: 73
+Materials:    bone/unknown material
+Damage:       16d6 (average 56)
+Weapon flags: flaming
+Affects damage roll by 8
+Affects hit roll by 8
+You [19047]: 'end identify 81'
+You [19047]: 'start map 81'
++----------------------------+
+| Temple of the Undead       |
+|          #.....            |
+|          ......            |      The arena floor is covered with blood soaked sand.  A thick blanket of mist
+|          ......            |    radiating from the ground makes seeing beyond a few yards impossible.  The sound of
+|          ......   ...      |    battle is deafening.
+|          ......   ...      |
+|          ......   ...      |
+|       ...............      |
+|       .......*.......      |
+|       ...............      |
+| .....................      |
+| ................*....      |
+| .........#...........      |
+|          #..........#      |
+|          #......*....      |
+|          #..........#      |
+| Arena                      |
++----------------------------+
+You [19047]: 'end map 81'
+You [19047]: 'start examine 81'
+A nightmares fang glows with a red hue.
+It is made out of bone.
+It is in perfect condition.
+It weighs about 9 pounds.
+You [19047]: 'end examine 81'
+You [19047]: 'start wear 81'
+You can't remove a dagger of piercing.
+You [19047]: 'end wear 81'
+You [19047]: 'end dobril_id 81'15:Tb64,<2315/2315hp 2906/2918m 938/938mv [|Royal Advisors Office|] 0tnl > You [19047]: 'start dobril_id 107'
+You [19047]: 'start identify 107'
+Name(s):      QMASTER guidonious dagger vengeance
+Short:        Guidonious' dagger of vengeance
+Long:         The evil dagger of vengeance sits on the floor pointing its tip at you.
+Type:         weapon: dagger
+Flags:        returner magic bless indestructible
+Weight:       1 lbs, 3 oz
+Value:        50
+Level to use: 100
+Materials:    silver/energy
+Damage:       13d12 (average 84)
+Weapon flags: vampiric poison acidic
+Affects wisdom by 2
+Affects dexterity by 2
+Affects saves by -1
+Affects damage roll by 18
+Affects hit roll by 18
+You [19047]: 'end identify 107'
+You [19047]: 'start map 107'
++----------------------------+
+| Palanthas                  |
+|                            |
+|                            |      You are standing in the office of the Royal Advisor.  He is musing over two stacks
+|                            |    of royal decrees.  One stack is labeled lost items and the other is labeled escaped
+|                            |    criminals.  He looks up at you and says smiling "Great to see you.  I have a job for
+|                            |    you if you will take it."  He glances at you then at the stacks of paper.
+|                            |
+|             ###            |
+|             #*#            |
+|             ##v            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| Royal Advisors Office      |
++----------------------------+
+You [19047]: 'end map 107'
+You [19047]: 'start examine 107'
+The dagger of vengeance has held many names since its mysterious
+crafting.  Likewise, it has also held many owners.  And by held, held can be
+taken literally, it is said that the dagger itself can possess its owner.
+Once possessed the owner is powerless to control his or her own actions.
+The history is deep, but it is believed the kender Twigpuckle originally
+discovered it.  It caused him to hate both friend and foe without little
+reguard.  Once relieved of the item, it quickly jumped hand to hand as its
+possessors would usually get killed after so many murders.  The last known
+possessor was an evil dwarf named Guidonious.  Stories still circle about
+his insatiable lust for cruelty and acts of evil.  No one knows how he lost
+the dagger or where he himself is, but fear still seeps in the hearts of
+those wandering dark, lonely alleyways.
+It is made out of silver and some energy.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 107'
+You [19047]: 'start wear 107'
+You stop using an enchanted sai.
+You wield Guidonious' dagger of vengeance.
+Guidonious' dagger of vengeance feels like a part of you!
+You [19047]: 'end wear 107'
+You [19047]: 'end dobril_id 107'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_24.txt","type":"item","id":244,"stats":{"Name(s)":["stick","sharp"],"Short":"a sharpened stick","Long":"A sharpened stick lies in the dirt here.","Type":"weapon","Flags":["no_ident","indestructible"],"Weight":"1 lbs, 9 oz","Value":750,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["4d10",22],"Weapon flags":["throwable"],"Weapon Type":"dagger","Noun":"pierce"},"name":"a sharpened stick","map":{"area":{"name":"Palanthas Sewers","slug":"palanthas-sewers"},"roomName":"In the sewers","map":"+----------------------------+\n| Palanthas Sewers           |\n| ############               |\n| .*.....*..*#               |\n| ####.#####.#               |\n|    #.#   #.####            |\n|    #*#   #*...#            |\n|    #.#   ####.#            |\n| ####.####   #.####         |\n| #.......#   #*...#         |\n| #.##.##.#   ####.#         |\n| #.##.##.####   #.####      |\n| ..##.##*..*#   #*...#      |\n| ####.#####.#   ####.#      |\n| ####.#   #.#      #.#      |\n| #*..*#   #*.      #.#      |\n| #.####   ###      #.#      |\n| In the sewers              |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"Xekrac"},"slug":"a-sharpened-stick_244"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":394,"stats":{"Name(s)":["dagger","shard","stone"],"Short":"a stone shard","Long":"A sharp pointed rock lies here.","Type":"weapon","Flags":["glow","magic"],"Weight":"1 lbs","Value":1100,"Level to use":1,"Materials":["rock","unknown material"],"Damage":["5d6",17],"Weapon flags":["sharp"],"Affects":[["damage roll","3"]],"Weapon Type":"dagger","Noun":"stab"},"name":"a stone shard","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Mage's quarters","map":"+----------------------------+\n| Goblin Stronghold          |\n|    #.##.##.##.####         |\n|    #.##...*..*..*#         |\n|    #######.#######         |\n|          #.#               |\n|          #*#               |\n|          #.#               |\n|       ####.####            |\n|       #...*..*#            |\n|       #########            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Mage's quarters        |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"Goblin Mage"},"slug":"a-stone-shard_394"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_24.txt","type":"item","id":262,"stats":{"Name(s)":["dagger","throwing","cheap"],"Short":"a cheap throwing dagger","Long":"A cheaply made brass dagger lies here.","Type":"weapon","Flags":["none"],"Weight":"0 lbs, 3 oz","Value":60,"Level to use":1,"Materials":["brass","leather"],"Damage":["5d5",15],"Weapon flags":["throwable"],"Weapon Type":"dagger","Noun":"pierce"},"name":"a cheap throwing dagger","map":{"area":{"name":"Palanthas Thieves Guild","slug":"palanthas-thieves-guild"},"roomName":"Tools of the Trade","map":"+----------------------------+\n| Palanthas Thieves Guild    |\n|                            |\n|                            |\n|                            |\n|          ###               |\n|          #.#               |\n|          #.#               |\n| \"\"\"   ####.#######         |\n| \"B\"   #G##$##*##B#         |\n| \"\"\"   #.##.##.##.#         |\n| #.#####.##.##.##.#         |\n| #...*...........*#         |\n| #######..........#         |\n|       #..........#\"\"\"\"\"\"   |\n|       #...........\"*\"\"\"\"   |\n|       #..........#\"\"\"\"\"\"   |\n| Tools of the Trade         |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"Tools of the Trade"},"slug":"a-cheap-throwing-dagger_262"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_24.txt","type":"item","id":237,"stats":{"Name(s)":["stirge","beak","bite"],"Short":"the stirges bite","Long":"The beak of a dreaded stirge lies here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 1 oz","Value":20,"Level to use":1,"Materials":["bone","blood"],"Damage":["4d5",12],"Weapon flags":["vampiric"],"Affects":[["hit roll","2"],["damage roll","2"]],"Weapon Type":"dagger","Noun":"pierce"},"name":"the stirges bite","map":{"area":{"name":"Palanthas Sewers","slug":"palanthas-sewers"},"roomName":"A Circular Chamber","map":"+----------------------------+\n| Palanthas Sewers           |\n| #.#   ####.##.##.####   #.#|\n| #*#   #...*##*##*...#   #*#|\n| #.#   #.#####.#####.#   #.#|\n| #.#####.#####.#####.#####.#|\n| .*##*...##*..*##.##*..*##*.|\n| ####.#####.#####.#####.####|\n| ####.#####.#####.#####.####|\n| .*..*....#.##*.....*..*....|\n| ####.###########.#####.####|\n| ####.####   ###^.\"####.####|\n| ..##....#   #*#\".\"#...*##*.|\n| #.#######   #.#\"\"v#.#####.#|\n| #.#   #######.#####.#   #.#|\n| #.#   #*..*##*##*..*#   #.#|\n| #.#   ####.##.##.####   #.#|\n| A Circular Chamber         |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"the stirge"},"slug":"the-stirges-bite_237"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_24.txt","type":"item","id":249,"stats":{"Name(s)":["dagger","sharp"],"Short":"a sharp dagger","Long":"A very sharp dagger is sticking in the dirt here.","Type":"weapon","Flags":["none"],"Weight":"0 lbs, 1 oz","Value":10,"Level to use":1,"Materials":["iron","steel"],"Damage":["4d4",10],"Weapon flags":["throwable"],"Weapon Type":"dagger","Noun":"pierce"},"name":"a sharp dagger","map":{"area":{"name":"Palanthas Sewers","slug":"palanthas-sewers"},"roomName":"In the sewers","map":"+----------------------------+\n| Palanthas Sewers           |\n|    ###############         |\n|    #*..*..*..*...#         |\n|    #.#####.#####.#         |\n| ####.#   #.#   #.####      |\n| #....#   #*#   #*..*#      |\n| #.####   #.#   ####.#      |\n| #.#   ####.####   #.####   |\n| .*#   #*..*..*#   #...*#   |\n| ###   #.##.##.#   ####.#   |\n|    ####.##.##.####   #.####|\n|    #*...##*##*..*#   #....#|\n|    #.#####.#####.#   ####.#|\n| ####.#####.#####.#####.####|\n| #....##....##*##*...##*...#|\n| #.#####.#####.#####.#####.#|\n| In the sewers              |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a short thief"},"slug":"a-sharp-dagger_249"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":143,"stats":{"Name(s)":["dagger","training"],"Short":"a training dagger","Long":"A training dagger is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":854,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["1d4",2],"Weapon Type":"dagger","Noun":"pierce"},"name":"a training dagger","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"a-training-dagger_143"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":81,"stats":{"Name(s)":["dark","fang","nightmare"],"Short":"a nightmares fang","Long":"A nightmares fang glows with a red hue.","Type":"weapon","Flags":["glow","dark","magic"],"Weight":"9 lbs, 6 oz","Value":5595,"Level to use":73,"Materials":["bone","unknown material"],"Damage":["16d6",56],"Weapon flags":["flaming"],"Affects":[["damage roll","8"],["hit roll","8"]],"Weapon Type":"dagger","Noun":"slash"},"name":"a nightmares fang","map":{"area":{"name":"Temple of the Undead","slug":"temple-of-the-undead"},"roomName":"Arena","map":"+----------------------------+\n| Temple of the Undead       |\n|          #.....            |\n|          ......            |\n|          ......            |\n|          ......   ...      |\n|          ......   ...      |\n|          ......   ...      |\n|       ...............      |\n|       .......*.......      |\n|       ...............      |\n| .....................      |\n| ................*....      |\n| .........#...........      |\n|          #..........#      |\n|          #......*....      |\n|          #..........#      |\n| Arena                      |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a nightmare"},"slug":"a-nightmares-fang_81"},{"raw":"$15","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_15.txt","type":"item","id":107,"stats":{"Name(s)":["QMASTER","guidonious","dagger","vengeance"],"Short":"Guidonious' dagger of vengeance","Long":"The evil dagger of vengeance sits on the floor pointing its tip at you.","Type":"weapon","Flags":["returner","magic","bless","indestructible"],"Weight":"1 lbs, 3 oz","Value":50,"Level to use":100,"Materials":["silver","energy"],"Damage":["13d12",84],"Weapon flags":["vampiric","poison","acidic"],"Affects":[["wisdom","2"],["dexterity","2"],["saves","-1"],["damage roll","18"],["hit roll","18"]],"Weapon Type":"dagger","Noun":"slime"},"name":"Guidonious' dagger of vengeance","map":{"area":{"name":"Palanthas","slug":"palanthas"},"roomName":"Royal Advisors Office","map":"+----------------------------+\n| Palanthas                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Royal Advisors Office      |\n+----------------------------+"},"wear":"wielded","source":{"type":"qitem"},"slug":"guidonious-dagger-of-vengeance_107"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all weapons of type dagger"}],["$","meta","2",{"name":"description","content":"a list of all of the weapons of type dagger"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null
