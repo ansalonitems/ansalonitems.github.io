@@ -1,0 +1,399 @@
+1:"$Sreact.fragment"
+2:I[5244,[],""]
+3:I[3866,[],""]
+4:I[8173,["173","static/chunks/173-c72f956e0e7ca46c.js","372","static/chunks/app/dobril/v2/page-8668223cfd1803a9.js"],""]
+6:I[6213,[],"OutletBoundary"]
+8:I[6213,[],"MetadataBoundary"]
+a:I[6213,[],"ViewportBoundary"]
+c:I[4835,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/ebb95a798c5452e3.css","style"]
+0:{"P":null,"b":"E0UEO4IASXlSMY-E_gjWs","p":"","c":["","dobril","v2","wearable-items","body",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","body","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ebb95a798c5452e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-10 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}],["$","div",null,{"children":["View the"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/changelog","title":"Changelog","children":"changelog"}]]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","body","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","vVIb_E220_59anPTBkvNc",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[633,["173","static/chunks/173-c72f956e0e7ca46c.js","589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-0973d6173f2140e4.js"],"default"]
+e:T778,<2265/2265hp 2375/2972m 761/761mv [|The Mage's quarters|] 0tnl > You [19047]: 'start dobril_id 395'
+You [19047]: 'start identify 395'
+Name(s):      cape green filthy
+Short:        a filthy green cape
+Long:         You see a pile of green rags on the floor
+Type:         armor
+Flags:        magic
+Weight:       3 lbs
+Value:        1650
+Level to use: 1
+Materials:    cloth/earth
+Armor Type:   magic
+Armor class:  1 pierce, 2 bash, 1 slash, 1 magic
+Affects mana by 28
+Affects intelligence by 1
+You [19047]: 'end identify 395'
+You [19047]: 'start map 395'
++----------------------------+
+| Goblin Stronghold          |
+|    #.##.##.##.####         |
+|    #*##*..*......#         |      A very heavy mist hovers above the floor here.  It's not enough to obscure your
+|    #######.#######         |    vision though, and when you look closer, you can see an inlaid pentagram has been
+|          #.#               |    added to the granite stonework.  The room is otherwise spartan, though you can see a
+|          #*#               |    small cot and a desk.  Otherwise the room is barren.
+|          #.#               |
+|       ####.####            |
+|       #*..*..*#            |
+|       #########            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| The Mage's quarters        |
++----------------------------+
+You [19047]: 'end map 395'
+You [19047]: 'start examine 395'
+You see a cape ridden with filth and vermin. You're not going to WEAR it are
+you?
+It is made out of cloth and some earth.
+It is in perfect condition.
+It weighs about 3 pounds.
+You [19047]: 'end examine 395'
+You [19047]: 'start wear 395'
+You stop using an Aesthetic's red velvet robe.
+You wear a filthy green cape about your entire body.
+You [19047]: 'end wear 395'
+You [19047]: 'end dobril_id 395'f:T66e,<288/288hp 295/377m 234/234mv 948tnl> You [19047]: 'start dobril_id 645'
+You [19047]: 'start identify 645'
+Name(s):      flowing cape
+Short:        a flowing cape
+Long:         A pile of cloth lies in a heap here.
+Type:         armor
+Flags:        none
+Weight:       1 lbs, 8 oz
+Value:        72
+Level to use: 1
+Materials:    cloth/silk
+Armor Type:   magic
+Armor class:  10 pierce, 10 bash, 20 slash, 10 magic
+Affects moves by 20
+You [19047]: 'end identify 645'
+You [19047]: 'start map 645'
++----------------------------+
+| Mud School                 |
+|                #.#         |
+|                #.#         |      You are in the arena.  Remember, if you
+|                #.#         |    wish to get out of this arena, just go up.
+|             ###^.####      |    Ceilings can barely be seen in this huge
+|             #...$...#      |    arena.  You feel as if you are being watched
+|             ####.v###      |    by some divine being.
+|       ###^##^##^.#^##^##   |
+|       #......*.........#   |
+|       ####.............#   |
+|          ^..^..^..^..^.#   |
+|          #.............#   |
+|          #.............#   |
+|          ^..^..^..^..^.#   |
+|          #.............#   |
+|          #.......v.....#   |
+| North Wall of the Arena    |
++----------------------------+
+You [19047]: 'end map 645'
+You [19047]: 'start examine 645'
+A pile of cloth lies in a heap here.
+It is made out of cloth and some silk.
+It is in perfect condition.
+It weighs about 0 pound.
+You [19047]: 'end examine 645'
+You [19047]: 'start wear 645'
+You wear a flowing cape about your entire body.
+You [19047]: 'end wear 645'
+You [19047]: 'end dobril_id 645'10:T9bb, You [19047]: 'start dobril_id 1058'
+<2365/2365hp 2262/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start identify 1058'
+<2365/2365hp 2262/2972m 787/823mv [|A tailor shop|] 0tnl >
+Name(s):      blue robe
+Short:        a blue robe
+Long:         A blue colored robe lies here.
+Type:         armor
+Flags:        none
+Weight:       3 lbs
+Value:        2310
+Level to use: 5
+Materials:    cloth/silk
+Armor Type:   magic
+Armor class:  7 pierce, 7 bash, 7 slash, 3 magic
+Affects hit roll by 2
+Affects damage roll by 2
+Affects hp by 10
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end identify 1058'
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start map 1058'
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
++----------------------------+
+| Central Thelgaard          |
+| ###   ####.##.#   ###      |
+| .$#   #*##.##H#   #$#      |      This small, but clean shop is the business of a dwarven female, who busily sews
+| ###   #.##.##.#   #.#      |    near the back.  Mannequins stand in a couple in the corners of the room, one wearing a
+| #######.##.##.#####.#      |    cape, and another a robe.  The road lies outside the door to the north.
+| ....*..*..*..*..*..*#      |
+| ####.########.#####.#      |
+|    #.#      #.#   #.#      |
+|    #$#      #*#   #.#      |
+|    ###      ###   #.#      |
+| ######^##   ^##"""""""""###|
+| ........#   #*."*"""""*"#*#|
+| ####....#   ###"""""""""#.#|
+| ####....#   """   """""""""|
+| #$##....#   "*"   "*""*""*"|
+| #.##....#   """   """""""""|
+| A tailor shop              |
++----------------------------+
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end map 1058'
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start examine 1058'
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+A blue colored robe lies here.
+It is made out of cloth and some silk.
+It is in perfect condition.
+It weighs about 3 pounds.
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end examine 1058'
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start wear 1058'
+<2365/2365hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You stop using an Aesthetic's red velvet robe.
+You wear a blue robe about your entire body.
+<2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end wear 1058'
+<2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end dobril_id 1058'11:T9b8, You [19047]: 'start dobril_id 1059'
+<2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start identify 1059'
+<2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
+Name(s):      silver robe
+Short:        a silver robe
+Long:         A silver colored robe lies here.
+Type:         armor
+Flags:        none
+Weight:       3 lbs
+Value:        2870
+Level to use: 5
+Materials:    silver/cloth
+Armor Type:   magic
+Armor class:  7 pierce, 7 bash, 7 slash, 3 magic
+Affects hit roll by 2
+Affects damage roll by 2
+Affects mana by 10
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end identify 1059'
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start map 1059'
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
++----------------------------+
+| Central Thelgaard          |
+| ###   ####.##.#   ###      |
+| .$#   #*##.##H#   #$#      |      This small, but clean shop is the business of a dwarven female, who busily sews
+| ###   #.##.##.#   #.#      |    near the back.  Mannequins stand in a couple in the corners of the room, one wearing a
+| #######.##.##.#####.#      |    cape, and another a robe.  The road lies outside the door to the north.
+| ....*..*..*..*..*..*#      |
+| ####.########.#####.#      |
+|    #.#      #.#   #.#      |
+|    #$#      #*#   #.#      |
+|    ###      ###   #.#      |
+| ######^##   ^##"""""""""###|
+| ........#   #*."*"""""*"#*#|
+| ####....#   ###"""""""""#.#|
+| ####....#   """   """""""""|
+| #$##....#   "*"   "*""*""*"|
+| #.##....#   """   """""""""|
+| A tailor shop              |
++----------------------------+
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end map 1059'
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start examine 1059'
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+A silver colored robe lies here.
+It is made out of silver and some cloth.
+It is in perfect condition.
+It weighs about 3 pounds.
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end examine 1059'
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'start wear 1059'
+<2365/2375hp 2238/2972m 787/823mv [|A tailor shop|] 0tnl >
+You stop using a blue robe.
+You wear a silver robe about your entire body.
+<2365/2365hp 2238/2982m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end wear 1059'
+<2365/2365hp 2238/2982m 787/823mv [|A tailor shop|] 0tnl >
+You [19047]: 'end dobril_id 1059'12:T9f4, You [19047]: 'start dobril_id 766'
+<2355/2355hp 2032/2992m 799/811mv [|Cell|] 0tnl >
+You [19047]: 'start identify 766'
+<2355/2355hp 2032/2992m 799/811mv [|Cell|] 0tnl >
+Name(s):      tattered red robes
+Short:        tattered red robes
+Long:         A smoldering and tattered robe rests here.
+Type:         container
+Flags:        magic
+Weight:       3 lbs
+Value:        1789
+Level to use: 7
+Materials:    cloth/unknown material
+Capacity:     600 items
+Max Item:     100 lbs
+Flags:        none
+Weighs:       70% of actual weight
+Affects damage roll by 2
+Affects hit roll by 2
+Affects wisdom by 2
+Affects armor class by -5
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
+You [19047]: 'end identify 766'
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
+You [19047]: 'start map 766'
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
++----------------------------+
+| Bandit Area                |
+|                      ~+~   |
+|                      ~*~   |      A large pentagram takes up most of the platform.  It appears to be a ward of
+|                      ~+~   |    holding.  To one edge of the platform is a small table containing flasks, herbs and
+|                      @.@   |    other mage tools.  The smell of brimstone is overwhelming.
+|                      @*@   |
+|                      @.@   |
+|             @@@~~~@@@#.#@@@|
+|             @*.+++.*..*..*.|
+|             @@@~~~@@@#.#@@@|
+|                      #.#   |
+|                      #*#   |
+|                      ##v   |
+|                            |
+|                            |
+|                            |
+| Cell                       |
++----------------------------+
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
+You [19047]: 'end map 766'
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
+You [19047]: 'start examine 766'
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
+A smoldering and tattered robe rests here.
+Tattered red robes holds:
+Nothing.
+It is made out of cloth.
+It is in perfect condition.
+It weighs about 2 pounds empty, but feels like 2 now.
+<2355/2355hp 2022/2992m 799/811mv [|Cell|] 0tnl >
+You [19047]: 'end examine 766'
+Lightning flashes in the sky.
+<2355/2355hp 2027/2992m 811/811mv [|Cell|] 0tnl >
+You [19047]: 'start wear 766'
+<2355/2355hp 2027/2992m 811/811mv [|Cell|] 0tnl >
+You stop using an Aesthetic's red velvet robe.
+You wear tattered red robes about your entire body.
+<2355/2355hp 2027/2992m 811/811mv [|Cell|] 0tnl >
+You [19047]: 'end wear 766'
+<2355/2355hp 2027/2992m 811/811mv [|Cell|] 0tnl >
+You [19047]: 'end dobril_id 766'13:T75e,<2295/2295hp 2097/2946m 849/849mv [|Kitchen of House Dairness|] 0tnl > You [19047]: 'start dobril_id 125'
+You [19047]: 'start identify 125'
+Name(s):      apron cooks cook
+Short:        the cook's apron
+Long:         The cook's apron is here, no stains!
+Type:         armor
+Flags:        none
+Weight:       0 lbs, 1 oz
+Value:        10
+Level to use: 10
+Materials:    cloth/silk
+Armor Type:   magic
+Armor class:  1 pierce, 1 bash, 1 slash, 1 magic
+Affects strength by 2
+Affects constitution by 2
+Affects dexterity by 2
+You [19047]: 'end identify 125'
+You [19047]: 'start map 125'
++----------------------------+
+| Southwest Palanthas        |
+|                            |
+|                            |      The kitchen is a nice sized one.  The floor is marble.  The walls are stone.
+|                            |    There is a large stone stove in one corner.  There are several mahogany cupboards, in
+|                            |    the middle of the room, as well as surrounding its walls.  There is a water pump as
+|                            |    well, which drips water into a bucket -- annoying.
+|                            |
+|             ###^#####      |
+|             #*##*##.#      |
+|             #.##.##.#      |
+|             #.##.##.#      |
+|             #.......#      |
+|             #.##.##.#      |
+|             #.##.##.#      |
+|             #.##.##.#      |
+|             ####.####      |
+| Kitchen of House Dairness  |
++----------------------------+
+You [19047]: 'end map 125'
+You [19047]: 'start examine 125'
+The cook's apron is here, no stains!
+It is made out of cloth and some silk.
+It is in perfect condition.
+It weighs about 1 pound.
+You [19047]: 'end examine 125'
+You [19047]: 'start wear 125'
+You stop using an Aesthetic's red velvet robe.
+You wear the cook's apron about your entire body.
+You [19047]: 'end wear 125'
+You [19047]: 'end dobril_id 125'14:Taf6,<2295/2295hp 1208/2946m 689/849mv [|Balcombe's Tower|] 0tnl > You [19047]: 'start dobril_id 179'
+You [19047]: 'start identify 179'
+Name(s):      shrouding cloak armor albino
+Short:        an Albino Shrouding Cloak
+Long:         A lacey cloak made of a white-like material is here.
+Type:         container
+Flags:        glow bless indestructible burn_proof
+Weight:       5 lbs
+Value:        7500
+Level to use: 20
+Materials:    bone/silver
+Capacity:     250 items
+Max Item:     100 lbs
+Flags:        closable closed
+Weighs:       45% of actual weight
+Affects hp by 20
+Affects damage roll by 2
+Affects hit roll by 2
+Affects mana by 10
+You [19047]: 'end identify 179'
+You [19047]: 'start map 179'
++----------------------------+
+| Tantallon                  |
+|                            |
+|                            |      Balcombe keeps his section of the castle shrouded in darkening light, although it
+|                            |    is bright enough to see, it is hard to see things at most.  The aromas of herbs,
+|                            |    spices and potions of every liken surrounds the tower, from the many things Balcombe
+|                            |    uses.  There is a large workshop in the northern part of the tower, and most of the
+|                            |    southern is his personal bedding area.  There is a bed, table, cupboard and the like
+|             ###            |    in the south.  But in the workshop there is much, much more, everything from the
+|             #*#            |    parchment covered wall, to the glyph etchings in the floor, to the desk with many
+|             ##v            |    ingredients and components.  There is a bookshelf along one wall which includes his
+|                            |    own writings as well as the writings of many others; especially of the magic workings.
+|                            |    There is a medallion on one of the tables with a two-sided coin as its medal, one side
+|                            |    shows a joker grinning, the other shows a bloodied dagger, mark of Hiddukel perhaps?
+|                            |    There seems to be an awful large abundance of rubies on Balcombe's desk.
+|                            |
+|                            |
+| Balcombe's Tower           |
++----------------------------+
+You [19047]: 'end map 179'
+You [19047]: 'start examine 179'
+A lacey cloak made of a white-like material is here.
+It is CLOSED.
+It is closed.
+It is made out of bone and some silver.
+It is in perfect condition.
+It weighs about 5 pounds empty, but feels like 5 now.
+You [19047]: 'end examine 179'
+You [19047]: 'start wear 179'
+You stop using an Aesthetic's red velvet robe.
+You wear an Albino Shrouding Cloak about your entire body.
+You [19047]: 'end wear 179'
+You [19047]: 'end dobril_id 179'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":395,"stats":{"Name(s)":["cape","green","filthy"],"Short":"a filthy green cape","Long":"You see a pile of green rags on the floor","Type":"armor","Flags":["magic"],"Weight":"3 lbs","Value":1650,"Level to use":1,"Materials":["cloth","earth"],"Armor Type":"magic","Armor class":[1,2,1,1],"Affects":[["mana","28"],["intelligence","1"]]},"name":"a filthy green cape","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Mage's quarters","map":"+----------------------------+\n| Goblin Stronghold          |\n|    #.##.##.##.####         |\n|    #*##*..*......#         |\n|    #######.#######         |\n|          #.#               |\n|          #*#               |\n|          #.#               |\n|       ####.####            |\n|       #*..*..*#            |\n|       #########            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Mage's quarters        |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Goblin Mage"},"slug":"a-filthy-green-cape_395"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_27.txt","type":"item","id":645,"stats":{"Name(s)":["flowing","cape"],"Short":"a flowing cape","Long":"A pile of cloth lies in a heap here.","Type":"armor","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":72,"Level to use":1,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[10,10,20,10],"Affects":[["moves","20"]]},"name":"a flowing cape","map":{"area":{"name":"Mud School","slug":"mud-school"},"roomName":"North Wall of the Arena","map":"+----------------------------+\n| Mud School                 |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ###^.####      |\n|             #...$...#      |\n|             ####.v###      |\n|       ###^##^##^.#^##^##   |\n|       #......*.........#   |\n|       ####.............#   |\n|          ^..^..^..^..^.#   |\n|          #.............#   |\n|          #.............#   |\n|          ^..^..^..^..^.#   |\n|          #.............#   |\n|          #.......v.....#   |\n| North Wall of the Arena    |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"an elven warrior"},"slug":"a-flowing-cape_645"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1058,"stats":{"Name(s)":["blue","robe"],"Short":"a blue robe","Long":"A blue colored robe lies here.","Type":"armor","Flags":["none"],"Weight":"3 lbs","Value":2310,"Level to use":5,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[7,7,7,3],"Affects":[["hit roll","2"],["damage roll","2"],["hp","10"]]},"name":"a blue robe","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"A tailor shop","map":"+----------------------------+\n| Central Thelgaard          |\n| ###   ####.##.#   ###      |\n| .$#   #*##.##H#   #$#      |\n| ###   #.##.##.#   #.#      |\n| #######.##.##.#####.#      |\n| ....*..*..*..*..*..*#      |\n| ####.########.#####.#      |\n|    #.#      #.#   #.#      |\n|    #$#      #*#   #.#      |\n|    ###      ###   #.#      |\n| ######^##   ^##\"\"\"\"\"\"\"\"\"###|\n| ........#   #*.\"*\"\"\"\"\"*\"#*#|\n| ####....#   ###\"\"\"\"\"\"\"\"\"#.#|\n| ####....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| #$##....#   \"*\"   \"*\"\"*\"\"*\"|\n| #.##....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| A tailor shop              |\n+----------------------------+"},"wear":"body","source":{"type":"bought","location":"A tailor shop"},"slug":"a-blue-robe_1058"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1059,"stats":{"Name(s)":["silver","robe"],"Short":"a silver robe","Long":"A silver colored robe lies here.","Type":"armor","Flags":["none"],"Weight":"3 lbs","Value":2870,"Level to use":5,"Materials":["silver","cloth"],"Armor Type":"magic","Armor class":[7,7,7,3],"Affects":[["hit roll","2"],["damage roll","2"],["mana","10"]]},"name":"a silver robe","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"A tailor shop","map":"+----------------------------+\n| Central Thelgaard          |\n| ###   ####.##.#   ###      |\n| .$#   #*##.##H#   #$#      |\n| ###   #.##.##.#   #.#      |\n| #######.##.##.#####.#      |\n| ....*..*..*..*..*..*#      |\n| ####.########.#####.#      |\n|    #.#      #.#   #.#      |\n|    #$#      #*#   #.#      |\n|    ###      ###   #.#      |\n| ######^##   ^##\"\"\"\"\"\"\"\"\"###|\n| ........#   #*.\"*\"\"\"\"\"*\"#*#|\n| ####....#   ###\"\"\"\"\"\"\"\"\"#.#|\n| ####....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| #$##....#   \"*\"   \"*\"\"*\"\"*\"|\n| #.##....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| A tailor shop              |\n+----------------------------+"},"wear":"body","source":{"type":"bought","location":"A tailor shop"},"slug":"a-silver-robe_1059"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_30.txt","type":"item","id":766,"stats":{"Name(s)":["tattered","red","robes"],"Short":"tattered red robes","Long":"A smoldering and tattered robe rests here.","Type":"container","Flags":["none"],"Weight":"3 lbs","Value":1789,"Level to use":7,"Materials":["cloth","unknown material"],"Capacity":600,"Max Item":100,"Weighs":70,"Affects":[["damage roll","2"],["hit roll","2"],["wisdom","2"],["armor class","-5"]]},"name":"tattered red robes","map":{"area":{"name":"Bandit Area","slug":"bandit-area"},"roomName":"Cell","map":"+----------------------------+\n| Bandit Area                |\n|                      ~+~   |\n|                      ~*~   |\n|                      ~+~   |\n|                      @.@   |\n|                      @*@   |\n|                      @.@   |\n|             @@@~~~@@@#.#@@@|\n|             @*.+++.*..*..*.|\n|             @@@~~~@@@#.#@@@|\n|                      #.#   |\n|                      #*#   |\n|                      ##v   |\n|                            |\n|                            |\n|                            |\n| Cell                       |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"an elven mage"},"slug":"tattered-red-robes_766"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":125,"stats":{"Name(s)":["apron","cooks","cook"],"Short":"the cook's apron","Long":"The cook's apron is here, no stains!","Type":"armor","Flags":["none"],"Weight":"0 lbs, 1 oz","Value":10,"Level to use":10,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[1,1,1,1],"Affects":[["strength","2"],["constitution","2"],["dexterity","2"]]},"name":"the cook's apron","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Kitchen of House Dairness","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##*##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             ####.####      |\n| Kitchen of House Dairness  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"The cook of house dairness"},"slug":"the-cooks-apron_125"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_23.txt","type":"item","id":179,"stats":{"Name(s)":["shrouding","cloak","armor","albino"],"Short":"an Albino Shrouding Cloak","Long":"A lacey cloak made of a white-like material is here.","Type":"container","Flags":["closable","closed"],"Weight":"5 lbs","Value":7500,"Level to use":20,"Materials":["bone","silver"],"Capacity":250,"Max Item":100,"Weighs":45,"Affects":[["hp","20"],["damage roll","2"],["hit roll","2"],["mana","10"]]},"name":"an Albino Shrouding Cloak","map":{"area":{"name":"Tantallon","slug":"tantallon"},"roomName":"Balcombe's Tower","map":"+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Balcombe's Tower           |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Balcombe, the wizard"},"slug":"an-albino-shrouding-cloak_179"}]}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all equipment worn in the body slot"}],["$","meta","2",{"name":"description","content":"a list of all of the equipment worn in the body slot"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+7:null
