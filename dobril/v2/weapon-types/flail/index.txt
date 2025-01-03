@@ -8,7 +8,7 @@ a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/ebb95a798c5452e3.css","style"]
-0:{"P":null,"b":"8tyDGSfDBhy9nKEdLCNQI","p":"","c":["","dobril","v2","weapon-types","flail",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","flail","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ebb95a798c5452e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-10 text-center","children":[["$","div",null,{"children":["©2024 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}],["$","div",null,{"children":["View the"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/changelog","title":"Changelog","children":"changelog"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","flail","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","gaMgVJbfYF_aUh8RbOJ5V",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"kBkWZdOJl0EhtTo0fxHLu","p":"","c":["","dobril","v2","weapon-types","flail",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["weapon-types",{"children":[["slug","flail","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ebb95a798c5452e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-10 text-center","children":[["$","div",null,{"children":["©2025 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"children":["Check out active development and make requests on this site's"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]]}],["$","div",null,{"children":["View the"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/changelog","title":"Changelog","children":"changelog"}]]}]]}]]}]}]]}],{"children":["weapon-types",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","flail","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","weapon-types","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ie73oxR-AzIoXGTraYow5",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
 d:I[2123,["173","static/chunks/173-c72f956e0e7ca46c.js","463","static/chunks/app/dobril/v2/weapon-types/%5Bslug%5D/page-52fb6f6f5c28507e.js"],"default"]
 e:T6cd,<288/288hp 191/377m 234/234mv 946tnl> You [19047]: 'start dobril_id 664'
 You [19047]: 'start identify 664'
@@ -162,7 +162,129 @@ You don't even know which end is up on an iron headed flail.
 <2365/2365hp 2476/2972m 823/823mv [|William's Weapons|] 0tnl >
 You [19047]: 'end wear 1028'
 <2365/2365hp 2476/2972m 823/823mv [|William's Weapons|] 0tnl >
-You [19047]: 'end dobril_id 1028'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_27.txt","type":"item","id":664,"stats":{"Name(s)":["bronze-shafted","flail","long"],"Short":"a long bronze-shafted flail","Long":"A nice bronze-shafted flail lies here.","Type":"weapon","Flags":["none"],"Weight":"5 lbs","Value":450,"Level to use":1,"Materials":["bronze","wood"],"Damage":["4d10",22],"Weapon flags":["two-handed"],"Weapon Type":"flail","Noun":"crush"},"name":"a long bronze-shafted flail","map":{"area":{"name":"Mud School","slug":"mud-school"},"roomName":"Northwest Corner of the A","map":"+----------------------------+\n| Mud School                 |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                ###^.####   |\n|                #...$...#   |\n|                ####.v###   |\n|          ###^##^##^.#^##^##|\n|          #...*............#|\n|          ####.............#|\n|             ^..^..^..^..^.#|\n|             #.............#|\n|             #.............#|\n|             ^..^..^..^..^.#|\n|             #.............#|\n|             #.......v.....#|\n| Northwest Corner of the A  |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a half-crazed klar warrior"},"slug":"a-long-bronze-shafted-flail_664"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":148,"stats":{"Name(s)":["flail","training"],"Short":"a training flail","Long":"A training flail is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":761,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["1d6",3],"Weapon Type":"flail","Noun":"crush"},"name":"a training flail","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"a-training-flail_148"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1028,"stats":{"Name(s)":["iron","head","flail"],"Short":"an iron headed flail","Long":"A flail with a heavy iron head lies here.","Type":"weapon","Flags":["none"],"Weight":"4 lbs","Value":2800,"Level to use":4,"Materials":["iron","wood"],"Damage":["3d11",18],"Affects":[["hit roll","2"],["damage roll","2"],["dexterity","-1"]],"Weapon Type":"flail","Noun":"crush"},"name":"an iron headed flail","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"William's Weapons","map":"+----------------------------+\n| Central Thelgaard          |\n| ###\"\"\"                     |\n| ...\"\"\"                     |\n| #.#\"\"\"                     |\n|    #.####                  |\n|    #*##.#                  |\n|    #.##.#                  |\n| ####.##.#   ###            |\n| #*##.##H#   #*#            |\n| #.##.##.#   #.#            |\n| #.##.##.#####.#            |\n| .......*..*..*#            |\n| #######.#####.#            |\n|       #.#   #.#            |\n|       #$#   #.#            |\n|       ###   #.#            |\n| William's Weapons          |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"William's Weapons"},"slug":"an-iron-headed-flail_1028"}]}]
+You [19047]: 'end dobril_id 1028'11:Ta6c, You [19047]: 'start dobril_id 1363'
+<2340/2340hp 2834/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'start identify 1363'
+<2340/2340hp 2834/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+Name(s):      steel flail
+Short:        a well balanced flail
+Long:         A well balanced steel flail
+Type:         weapon: flail
+Flags:        none
+Weight:       5 lbs
+Value:        3717
+Level to use: 10
+Materials:    steel/wood
+Damage:       5d5 (average 15)
+Affects hit roll by 3
+Affects damage roll by 3
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'end identify 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'start map 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
++----------------------------+
+| City of Vingaard           |
+|       #.#      #.####   #.#|
+|       #$#      #*..$#   #*#|      The ringing sound of steel striking steel resonates through this brick building as
+|       #.#      #.####   #.#|    you enter.  A great deal of heat eminates from the forge, where a thick dwarf is busy
+|       #.#      #.#      #.#|    pounding away on a piece of work.  From the looks of things, he likes to collect bits
+|       #.#      #*#      #*#|    of armor and weapons, repair them and sell them again.  He looks up and greets you as
+|       #.#      #.#      #.#|    you enter.
+|       #.#   ####.#      #.#|
+|       #.#   #*...#      #*.|
+|       #.#   ####.#      #.#|
+|       #.#      #.####^###.#|
+|       #.#      #*.....*##*#|
+|       #.#      #.########.#|
+|    ^###.########.########.#|
+|    |...*..$..*..*..*..*...||
+|    #-##.########.########.#|
+| A blacksmith shop          |
++----------------------------+
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'end map 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'start examine 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+A well balanced steel flail
+It is made out of steel and some wood.
+It is in perfect condition.
+It weighs about 4 pounds.
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'end examine 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'start wear 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You stop using a double-headed battle axe.
+You wield a well balanced flail.
+You don't even know which end is up on a well balanced flail.
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'end wear 1363'
+<2340/2340hp 2824/2972m 773/823mv [|A blacksmith shop|] 0tnl >
+You [19047]: 'end dobril_id 1363'12:Tade, You [19047]: 'start dobril_id 1369'
+<890/2340hp 1109/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'start identify 1369'
+<890/2340hp 1109/2972m 823/823mv [|Guardhouse|] 0tnl >
+Name(s):      blessed flail paladine
+Short:        the blessed flail of Paladine
+Long:         A large heavy flail lies here with the chains gleaming.
+Type:         weapon: flail
+Flags:        magic anti-evil
+Weight:       10 lbs
+Value:        8000
+Level to use: 95
+Materials:    wood/iron
+Damage:       12d12 (average 78)
+Affects hit roll by 12
+Affects damage roll by 12
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'end identify 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'start map 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
++----------------------------+
+| City of Vingaard           |
+|                #.#      #.#|
+|                #*#      #*||      This room is where those who are unwilling to abide by Solamnic laws are brought
+|                #.#      #.#|    to first, the room is filled with organized forms dealing with people whom have been
+|    #-#   """^###.########.#|    arrested and thrown in the dungeon.  A large iron reinforced door blocks the southern
+|    #.#   """....*..$..*..*.|    exit and, to the best of your knowledge, leads to the armory.
+|    ###   """#.##.########.#|
+|    """""""""#.##.#      #.#|
+|    "*"""""""#*##*#      #*#|
+|    """""""""#.##.#      #.#|
+| ######""""""#.##.#   ####.#|
+| ^^^^^^""""""#*##*#   #*..*#|
+| #^####"""""v####.#   ####.#|
+| #^#            #.#      #.#|
+| #^#            #*#      #*#|
+| #^#            #.#      #.#|
+| Guardhouse                 |
++----------------------------+
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'end map 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'start examine 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+The gleaming chains end in spiked balls of a dark black metal.  On the
+handle the symbol of Paladine is etched in gold filigre, it shows little
+wear.  It appears this flail is blessed by Paladine himself.
+It is made out of wood and some iron.
+It is in perfect condition.
+It weighs about 9 pounds.
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'end examine 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'start wear 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You stop using Guidonious' dagger of vengeance.
+You wield the blessed flail of Paladine.
+You don't even know which end is up on the blessed flail of Paladine.
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'end wear 1369'
+<890/2340hp 1099/2972m 823/823mv [|Guardhouse|] 0tnl >
+You [19047]: 'end dobril_id 1369'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_27.txt","type":"item","id":664,"stats":{"Name(s)":["bronze-shafted","flail","long"],"Short":"a long bronze-shafted flail","Long":"A nice bronze-shafted flail lies here.","Type":"weapon","Flags":["none"],"Weight":"5 lbs","Value":450,"Level to use":1,"Materials":["bronze","wood"],"Damage":["4d10",22],"Weapon flags":["two-handed"],"Weapon Type":"flail","Noun":"crush"},"name":"a long bronze-shafted flail","map":{"area":{"name":"Mud School","slug":"mud-school"},"roomName":"Northwest Corner of the A","map":"+----------------------------+\n| Mud School                 |\n|                   #.#      |\n|                   #.#      |\n|                   #.#      |\n|                ###^.####   |\n|                #...$...#   |\n|                ####.v###   |\n|          ###^##^##^.#^##^##|\n|          #...*............#|\n|          ####.............#|\n|             ^..^..^..^..^.#|\n|             #.............#|\n|             #.............#|\n|             ^..^..^..^..^.#|\n|             #.............#|\n|             #.......v.....#|\n| Northwest Corner of the A  |\n+----------------------------+"},"wear":"wielded","source":{"type":"looted","mob":"a half-crazed klar warrior"},"slug":"a-long-bronze-shafted-flail_664"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":148,"stats":{"Name(s)":["flail","training"],"Short":"a training flail","Long":"A training flail is here.","Type":"weapon","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":761,"Level to use":1,"Materials":["wood","unknown material"],"Damage":["1d6",3],"Weapon Type":"flail","Noun":"crush"},"name":"a training flail","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"The Training Weapon's Sho","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             #-#            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Training Weapon's Sho  |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"The Training Weapon's Sho"},"slug":"a-training-flail_148"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1028,"stats":{"Name(s)":["iron","head","flail"],"Short":"an iron headed flail","Long":"A flail with a heavy iron head lies here.","Type":"weapon","Flags":["none"],"Weight":"4 lbs","Value":2800,"Level to use":4,"Materials":["iron","wood"],"Damage":["3d11",18],"Affects":[["hit roll","2"],["damage roll","2"],["dexterity","-1"]],"Weapon Type":"flail","Noun":"crush"},"name":"an iron headed flail","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"William's Weapons","map":"+----------------------------+\n| Central Thelgaard          |\n| ###\"\"\"                     |\n| ...\"\"\"                     |\n| #.#\"\"\"                     |\n|    #.####                  |\n|    #*##.#                  |\n|    #.##.#                  |\n| ####.##.#   ###            |\n| #*##.##H#   #*#            |\n| #.##.##.#   #.#            |\n| #.##.##.#####.#            |\n| .......*..*..*#            |\n| #######.#####.#            |\n|       #.#   #.#            |\n|       #$#   #.#            |\n|       ###   #.#            |\n| William's Weapons          |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"William's Weapons"},"slug":"an-iron-headed-flail_1028"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_02.txt","type":"item","id":1363,"stats":{"Name(s)":["steel","flail"],"Short":"a well balanced flail","Long":"A well balanced steel flail","Type":"weapon","Flags":["none"],"Weight":"5 lbs","Value":3717,"Level to use":10,"Materials":["steel","wood"],"Damage":["5d5",15],"Affects":[["hit roll","3"],["damage roll","3"]],"Weapon Type":"flail","Noun":"crush"},"name":"a well balanced flail","map":{"area":{"name":"City of Vingaard","slug":"city-of-vingaard"},"roomName":"A blacksmith shop","map":"+----------------------------+\n| City of Vingaard           |\n|       #.#      #.####   #.#|\n|       #$#      #*..$#   #*#|\n|       #.#      #.####   #.#|\n|       #.#      #.#      #.#|\n|       #.#      #*#      #*#|\n|       #.#      #.#      #.#|\n|       #.#   ####.#      #.#|\n|       #.#   #*...#      #*.|\n|       #.#   ####.#      #.#|\n|       #.#      #.####^###.#|\n|       #.#      #*.....*##*#|\n|       #.#      #.########.#|\n|    ^###.########.########.#|\n|    |...*..$..*..*..*..*...||\n|    #-##.########.########.#|\n| A blacksmith shop          |\n+----------------------------+"},"wear":"wielded","source":{"type":"bought","location":"A blacksmith shop"},"slug":"a-well-balanced-flail_1363"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_02.txt","type":"item","id":1369,"stats":{"Name(s)":["blessed","flail","paladine"],"Short":"the blessed flail of Paladine","Long":"A large heavy flail lies here with the chains gleaming.","Type":"weapon","Flags":["magic","anti-evil"],"Weight":"10 lbs","Value":8000,"Level to use":95,"Materials":["wood","iron"],"Damage":["12d12",78],"Affects":[["hit roll","12"],["damage roll","12"]],"Weapon Type":"flail","Noun":"pound"},"name":"the blessed flail of Paladine","map":{"area":{"name":"City of Vingaard","slug":"city-of-vingaard"},"roomName":"Guardhouse","map":"+----------------------------+\n| City of Vingaard           |\n|                #.#      #.#|\n|                #*#      #*||\n|                #.#      #.#|\n|    #-#   \"\"\"^###.########.#|\n|    #.#   \"\"\"....*..$..*..*.|\n|    ###   \"\"\"#.##.########.#|\n|    \"\"\"\"\"\"\"\"\"#.##.#      #.#|\n|    \"*\"\"\"\"\"\"\"#*##*#      #*#|\n|    \"\"\"\"\"\"\"\"\"#.##.#      #.#|\n| ######\"\"\"\"\"\"#.##.#   ####.#|\n| ^^^^^^\"\"\"\"\"\"#*##*#   #*..*#|\n| #^####\"\"\"\"\"v####.#   ####.#|\n| #^#            #.#      #.#|\n| #^#            #*#      #*#|\n| #^#            #.#      #.#|\n| Guardhouse                 |\n+----------------------------+"},"wear":"wielded","source":{"type":"floor"},"slug":"the-blessed-flail-of-paladine_1369"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all weapons of type flail"}],["$","meta","2",{"name":"description","content":"a list of all of the weapons of type flail"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null
