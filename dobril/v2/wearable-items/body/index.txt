@@ -8,7 +8,7 @@ a:I[6213,[],"ViewportBoundary"]
 c:I[4835,[],""]
 :HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/f24de32c9b079804.css","style"]
-0:{"P":null,"b":"JupdAh9YF_UX2w6rYA40R","p":"","c":["","dobril","v2","wearable-items","body",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","body","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f24de32c9b079804.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-10 text-center","children":[["$","div",null,{"children":["©2025 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"className":"my-4 flex flex-row justify-center","children":["$","ul",null,{"className":"flex flex-row gap-4","children":[["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/search","title":"Search","children":"Search"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/changelog","title":"Changelog","children":"Changelog"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/credits","title":"Credits","children":"Credits"}]}]]}]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","body","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","g9xFLUlqNURnHiNKoMDV9",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"FURyh_xhjND0tykOWiHYL","p":"","c":["","dobril","v2","wearable-items","body",""],"i":false,"f":[[["",{"children":["dobril",{"children":["v2",{"children":["wearable-items",{"children":[["slug","body","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}]}],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["dobril",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["v2",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f24de32c9b079804.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_4d318d m-auto w-full max-w-screen-lg px-4 antialiased","children":[["$","header",null,{"className":"py-10","children":["$","$L4",null,{"href":"/dobril/v2/","className":"text-4xl","children":"Dobril"}]}],["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-10 text-center","children":[["$","div",null,{"children":["©2025 Doan of Palanthas. All game content is from"," ",["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"http://ansalon.net","title":"MUD","children":"AnsalonMUD"}]]}],["$","div",null,{"className":"my-4 flex flex-row justify-center","children":["$","ul",null,{"className":"flex flex-row gap-4","children":[["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/search","title":"Search","children":"Search"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"https://trello.com/b/w7X8TMCT/dobril","title":"Trello board","children":"Trello board"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/changelog","title":"Changelog","children":"Changelog"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"text-blue-600 hover:underline","href":"/dobril/v2/credits","title":"Credits","children":"Credits"}]}]]}]}]]}]]}]}]]}],{"children":["wearable-items",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","body","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","dobril","children","v2","children","wearable-items","children","$0:f:0:1:2:children:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":"$L7"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","apmzxmsJPw7eaVOS3FDLR",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
 d:I[633,["8173","static/chunks/8173-324883f347952a3d.js","9589","static/chunks/app/dobril/v2/wearable-items/%5Bslug%5D/page-8e5ee6804c71e5f8.js"],"default"]
 e:T778,<2265/2265hp 2375/2972m 761/761mv [|The Mage's quarters|] 0tnl > You [19047]: 'start dobril_id 395'
 You [19047]: 'start identify 395'
@@ -222,7 +222,67 @@ You wear a tower guard's cloak about your entire body.
 <2315/2315hp 1379/2972m 823/823mv [|The staircase shaft|] 0tnl >
 You [19047]: 'end wear 2087'
 <2315/2315hp 1379/2972m 823/823mv [|The staircase shaft|] 0tnl >
-You [19047]: 'end dobril_id 2087'12:T9bb, You [19047]: 'start dobril_id 1058'
+You [19047]: 'end dobril_id 2087'12:T9c5, You [19047]: 'start dobril_id 2254'
+<1377/2365hp 779/2972m 822/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'start identify 2254'
+<1377/2365hp 779/2972m 822/823mv [|In the Savage Camp|] 0tnl >
+Name(s):      robe feather
+Short:        a feather robe
+Long:         A robe maid of brilliant tropical bird plumage is here.
+Type:         armor
+Flags:        none
+Weight:       0 lbs, 12 oz
+Value:        1000
+Level to use: 3
+Materials:    cloth/unknown material
+Armor Type:   magic
+Armor class:  5 pierce, 8 bash, 6 slash, 5 magic
+<1377/2365hp 767/2972m 822/823mv [|In the Savage Camp|] 0tnl >
+The clouds disappear.
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'end identify 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'start map 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
++----------------------------+
+| Isles of the Pirate Lords  |
+|                         ~~~|
+|                         ~~~|      You have blundered into the camp of several savages.  Rude huts and lean-to's are
+|                         ~~~|    erected in a circular clearing.  Fish is being dried over a smoky pit.
+|             """@@@@@@   ~~~|
+|             "nn.....@   ~~~|
+|             "nn..@@.@   ~~~|
+|             @....@@.@^@@~~~|
+|             @*..*@@....@~~~|
+|             @@@@@@@.@@@@~~~|
+|             @@@@@@@.@~~~~~~|
+|             @.......@~~~~~~|
+|             @@@@....@~~~~~v|
+|                @.."""~~~~~~|
+|                @.."$"~~~~*~|
+|                @@@"""~~~~~~|
+| In the Savage Camp         |
++----------------------------+
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'end map 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'start examine 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+It sure is pretty.
+It is made out of cloth.
+It is in perfect condition.
+It weighs about 1 pound.
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'end examine 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'start wear 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You stop using an Aesthetic's red velvet robe.
+You wear a feather robe about your entire body.
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'end wear 2254'
+<1379/2365hp 771/2972m 823/823mv [|In the Savage Camp|] 0tnl >
+You [19047]: 'end dobril_id 2254'13:T9bb, You [19047]: 'start dobril_id 1058'
 <2365/2365hp 2262/2972m 787/823mv [|A tailor shop|] 0tnl >
 You [19047]: 'start identify 1058'
 <2365/2365hp 2262/2972m 787/823mv [|A tailor shop|] 0tnl >
@@ -283,7 +343,7 @@ You wear a blue robe about your entire body.
 <2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
 You [19047]: 'end wear 1058'
 <2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
-You [19047]: 'end dobril_id 1058'13:T9b8, You [19047]: 'start dobril_id 1059'
+You [19047]: 'end dobril_id 1058'14:T9b8, You [19047]: 'start dobril_id 1059'
 <2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
 You [19047]: 'start identify 1059'
 <2365/2375hp 2250/2972m 787/823mv [|A tailor shop|] 0tnl >
@@ -344,7 +404,7 @@ You wear a silver robe about your entire body.
 <2365/2365hp 2238/2982m 787/823mv [|A tailor shop|] 0tnl >
 You [19047]: 'end wear 1059'
 <2365/2365hp 2238/2982m 787/823mv [|A tailor shop|] 0tnl >
-You [19047]: 'end dobril_id 1059'14:T9f4, You [19047]: 'start dobril_id 766'
+You [19047]: 'end dobril_id 1059'15:T9f4, You [19047]: 'start dobril_id 766'
 <2355/2355hp 2032/2992m 799/811mv [|Cell|] 0tnl >
 You [19047]: 'start identify 766'
 <2355/2355hp 2032/2992m 799/811mv [|Cell|] 0tnl >
@@ -411,7 +471,7 @@ You wear tattered red robes about your entire body.
 <2355/2355hp 2027/2992m 811/811mv [|Cell|] 0tnl >
 You [19047]: 'end wear 766'
 <2355/2355hp 2027/2992m 811/811mv [|Cell|] 0tnl >
-You [19047]: 'end dobril_id 766'15:T75e,<2295/2295hp 2097/2946m 849/849mv [|Kitchen of House Dairness|] 0tnl > You [19047]: 'start dobril_id 125'
+You [19047]: 'end dobril_id 766'16:T75e,<2295/2295hp 2097/2946m 849/849mv [|Kitchen of House Dairness|] 0tnl > You [19047]: 'start dobril_id 125'
 You [19047]: 'start identify 125'
 Name(s):      apron cooks cook
 Short:        the cook's apron
@@ -459,7 +519,68 @@ You [19047]: 'start wear 125'
 You stop using an Aesthetic's red velvet robe.
 You wear the cook's apron about your entire body.
 You [19047]: 'end wear 125'
-You [19047]: 'end dobril_id 125'16:Ta2f, You [19047]: 'start dobril_id 2112'
+You [19047]: 'end dobril_id 125'17:Tb8b, You [19047]: 'start dobril_id 2233'
+<2298/2347hp 2216/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'start identify 2233'
+<2298/2347hp 2216/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+Name(s):      cloak looting
+Short:        the cloak of looting
+Long:         You see a suspicious looking cloak here. Hmmm.
+Type:         armor
+Flags:        invis magic
+Weight:       0 lbs, 6 oz
+Value:        3000
+Level to use: 11
+Materials:    cloth/unknown material
+Armor Type:   magic
+Armor class:  9 pierce, 9 bash, 9 slash, 0 magic
+Affects armor class by -10
+Affects moves by 50
+Affects dexterity by 2
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'end identify 2233'
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'start map 2233'
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
++----------------------------+
+| Isles of the Pirate Lords  |
+|          #.#               |
+|          #*#               |      You stand in the hall of the pirate lord.  Above on a dias is a desk and a chair.
+|          #.#               |    Where you are is a table with 9 chairs around it.  On the walls are charts of the
+|          #.####            |    seas, and various mounted fish.  To the east is a barracks area, and to the west is an
+|          #....#            |    iron gate.  Stairs wind upwards into a shaft from which hot air emanates.  It is up
+|          ####.#            |    these stairs that most of the pirates scurry when you enter the room.
+|             ^.####         |
+|             |*...#         |
+|             ######         |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+|                            |
+| In the Hall of the Pirate  |
++----------------------------+
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'end map 2233'
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'start examine 2233'
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You see a suspicious looking cloak here. Hmmm.
+It is made out of cloth.
+It is in perfect condition.
+It weighs about 1 pound.
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'end examine 2233'
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'start wear 2233'
+<2298/2347hp 2204/2923m 823/811mv [|In the Hall of the Pirate Lord|] 0tnl >
+You stop using an Aesthetic's red velvet robe.
+You wear the cloak of looting about your entire body.
+<2298/2347hp 2204/2923m 823/861mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'end wear 2233'
+<2298/2347hp 2204/2923m 823/861mv [|In the Hall of the Pirate Lord|] 0tnl >
+You [19047]: 'end dobril_id 2233'18:Ta2f, You [19047]: 'start dobril_id 2112'
 <2189/2365hp 737/2932m 823/823mv [|A secret passage|] 0tnl >
 You [19047]: 'start identify 2112'
 <2189/2365hp 737/2932m 823/823mv [|A secret passage|] 0tnl >
@@ -519,7 +640,71 @@ You wear sacramental robes about your entire body.
 <2189/2365hp 724/2932m 823/823mv [|A secret passage|] 0tnl >
 You [19047]: 'end wear 2112'
 <2189/2365hp 724/2932m 823/823mv [|A secret passage|] 0tnl >
-You [19047]: 'end dobril_id 2112'17:T972, You [19047]: 'start dobril_id 1589'
+You [19047]: 'end dobril_id 2112'19:Tbc2, You [19047]: 'start dobril_id 2289'
+<2361/2365hp 2361/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'start identify 2289'
+<2361/2365hp 2361/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+Name(s):      robe hawklord hawk lord
+Short:        the robe of the Hawklord
+Long:         A vest made of a bright blue fine chain mesh hovers here.
+Type:         container
+Flags:        magic
+Weight:       0 lbs, 8 oz
+Value:        2500
+Level to use: 16
+Materials:    cloth/steel
+Capacity:     100 items
+Max Item:     25 lbs
+Flags:        none
+Affects armor class by -10
+Affects damage roll by 3
+Affects hit roll by 3
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'end identify 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'start map 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
++----------------------------+
+| Isles of the Pirate Lords  |
+|                            |
+|                            |      You soar effortlessly in the calm air beneath the flying mountain.  Below you
+|                            |    through the turbulent winds lies the sea.  You notice a strange inscription on the
+|                            |    rock.
+|                            |
+|                            |
+|             ~~~^~~         |
+|             ~*+++~         |
+|             ~++++~         |
+|             ~++++~         |
+|             ~++++~         |
+|             ~~v~~~         |
+|                            |
+|                            |
+|                            |
+| In the Calm Air Beneath t  |
++----------------------------+
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'end map 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'start examine 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+A vest made of a bright blue fine chain mesh hovers here.
+The robe of the Hawklord holds:
+(Magical) a throwing dagger
+It is made out of cloth and some steel.
+It is in perfect condition.
+It weighs about 1 pounds empty, but feels like 0 now.
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'end examine 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'start wear 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You stop using an Aesthetic's red velvet robe.
+You wear the robe of the Hawklord about your entire body.
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'end wear 2289'
+<2361/2365hp 2349/2972m 598/823mv [|In the Calm Air Beneath the Flying Mountain|] 0tnl >
+You [19047]: 'end dobril_id 2289'1a:T972, You [19047]: 'start dobril_id 1589'
 <2365/2340hp 2284/2972m 823/823mv [|Upper Mountian|] 0tnl >
 You [19047]: 'start identify 1589'
 <2365/2340hp 2284/2972m 823/823mv [|Upper Mountian|] 0tnl >
@@ -577,7 +762,7 @@ You wear a Dwarven cape about your entire body.
 <2365/2340hp 2273/2972m 823/823mv [|Upper Mountian|] 0tnl >
 You [19047]: 'end wear 1589'
 <2365/2340hp 2273/2972m 823/823mv [|Upper Mountian|] 0tnl >
-You [19047]: 'end dobril_id 1589'18:Taf6,<2295/2295hp 1208/2946m 689/849mv [|Balcombe's Tower|] 0tnl > You [19047]: 'start dobril_id 179'
+You [19047]: 'end dobril_id 1589'1b:Taf6,<2295/2295hp 1208/2946m 689/849mv [|Balcombe's Tower|] 0tnl > You [19047]: 'start dobril_id 179'
 You [19047]: 'start identify 179'
 Name(s):      shrouding cloak armor albino
 Short:        an Albino Shrouding Cloak
@@ -630,7 +815,65 @@ You [19047]: 'start wear 179'
 You stop using an Aesthetic's red velvet robe.
 You wear an Albino Shrouding Cloak about your entire body.
 You [19047]: 'end wear 179'
-You [19047]: 'end dobril_id 179'19:Tb3e, You [19047]: 'start dobril_id 1417'
+You [19047]: 'end dobril_id 179'1c:T9e3, You [19047]: 'start dobril_id 2325'
+<2365/2365hp 1667/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'start identify 2325'
+<2365/2365hp 1667/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+Name(s):      cloak fur skin
+Short:        a fur skin cloak
+Long:         A white fur skin cloak is here.
+Type:         armor
+Flags:        none
+Weight:       0 lbs, 11 oz
+Value:        800
+Level to use: 21
+Materials:    leather/hair
+Armor Type:   magic
+Armor class:  8 pierce, 11 bash, 13 slash, 5 magic
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'end identify 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'start map 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
++----------------------------+
+| Isles of the Pirate Lords  |
+|                            |
+|                            |      WHEEEEEEEEE!  You are sliding head over heels down an icy shoot, which winds
+|                            |    downward in a counterclockwise spiral.  There is no stopping and no turning around.
+|                            |
+|                            |
+|                            |
+|          ######            |
+|          #*##*#            |
+|          ######            |
+|          ######            |
+|          #*##*#            |
+|          #####v            |
+|                            |
+|                            |
+|                            |
+| Sliding Down an Icy Shoot  |
++----------------------------+
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'end map 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'start examine 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+A white fur skin cloak is here.
+It is made out of leather and some hair.
+It is in perfect condition.
+It weighs about 1 pound.
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'end examine 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'start wear 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You stop using an Aesthetic's red velvet robe.
+You wear a fur skin cloak about your entire body.
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'end wear 2325'
+<2365/2365hp 1655/2972m 823/823mv [|Sliding Down an Icy Shoot|] 0tnl >
+You [19047]: 'end dobril_id 2325'1d:Tb3e, You [19047]: 'start dobril_id 1417'
 <2330/2365hp 2143/2972m 823/823mv [|Within the tomb of the dead|] 0tnl >
 You [19047]: 'start identify 1417'
 <2330/2365hp 2143/2972m 823/823mv [|Within the tomb of the dead|] 0tnl >
@@ -688,7 +931,7 @@ You wear the emblem of Brashkal about your entire body.
 <2330/2365hp 2131/2972m 823/823mv [|Within the tomb of the dead|] 0tnl >
 You [19047]: 'end wear 1417'
 <2330/2365hp 2131/2972m 823/823mv [|Within the tomb of the dead|] 0tnl >
-You [19047]: 'end dobril_id 1417'1a:Ta06, You [19047]: 'start dobril_id 1736'
+You [19047]: 'end dobril_id 1417'1e:Ta06, You [19047]: 'start dobril_id 1736'
 <2099/2365hp 1896/2972m 813/823mv [|In a burning field|] 0tnl >
 You [19047]: 'start identify 1736'
 <2099/2365hp 1896/2972m 813/823mv [|In a burning field|] 0tnl >
@@ -750,7 +993,7 @@ You wear a broad, red sash about your entire body.
 <2121/2365hp 1906/2972m 823/823mv [|In a burning field|] 0tnl >
 You [19047]: 'end wear 1736'
 <2121/2365hp 1906/2972m 823/823mv [|In a burning field|] 0tnl >
-You [19047]: 'end dobril_id 1736'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":395,"stats":{"Name(s)":["cape","green","filthy"],"Short":"a filthy green cape","Long":"You see a pile of green rags on the floor","Type":"armor","Flags":["magic"],"Weight":"3 lbs","Value":1650,"Level to use":1,"Materials":["cloth","earth"],"Armor Type":"magic","Armor class":[1,2,1,1],"Affects":[["mana","28"],["intelligence","1"]]},"name":"a filthy green cape","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Mage's quarters","map":"+----------------------------+\n| Goblin Stronghold          |\n|    #.##.##.##.####         |\n|    #*##*..*......#         |\n|    #######.#######         |\n|          #.#               |\n|          #*#               |\n|          #.#               |\n|       ####.####            |\n|       #*..*..*#            |\n|       #########            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Mage's quarters        |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Goblin Mage"},"slug":"a-filthy-green-cape_395"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_27.txt","type":"item","id":645,"stats":{"Name(s)":["flowing","cape"],"Short":"a flowing cape","Long":"A pile of cloth lies in a heap here.","Type":"armor","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":72,"Level to use":1,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[10,10,20,10],"Affects":[["moves","20"]]},"name":"a flowing cape","map":{"area":{"name":"Mud School","slug":"mud-school"},"roomName":"North Wall of the Arena","map":"+----------------------------+\n| Mud School                 |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ###^.####      |\n|             #...$...#      |\n|             ####.v###      |\n|       ###^##^##^.#^##^##   |\n|       #......*.........#   |\n|       ####.............#   |\n|          ^..^..^..^..^.#   |\n|          #.............#   |\n|          #.............#   |\n|          ^..^..^..^..^.#   |\n|          #.............#   |\n|          #.......v.....#   |\n| North Wall of the Arena    |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"an elven warrior"},"slug":"a-flowing-cape_645"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_07.txt","type":"item","id":1901,"stats":{"Name(s)":["cape","deep","red"],"Short":"a deep red cape","Long":"A large cape laies bundled on the floor.","Type":"armor","Flags":["anti-neutral","noremove","indestructible"],"Weight":"2 lbs, 3 oz","Value":17,"Level to use":1,"Materials":["cloth","hair"],"Armor Type":"magic","Armor class":[8,8,8,7],"Affects":[["strength","1"]]},"name":"a deep red cape","map":{"area":{"name":"Goblin Caverns","slug":"goblin-caverns"},"roomName":"Feast Room","map":"+----------------------------+\n| Goblin Caverns             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Feast Room                 |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"A surveying hobgoblin"},"slug":"a-deep-red-cape_1901"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_08.txt","type":"item","id":2087,"stats":{"Name(s)":["tower","guard","cloak"],"Short":"a tower guard's cloak","Long":"A cloak embossed with the symbol of the high clerist!","Type":"armor","Flags":["magic"],"Weight":"0 lbs","Value":3000,"Level to use":2,"Materials":["cloth","silver"],"Armor Type":"magic","Armor class":[8,8,8,1]},"name":"a tower guard's cloak","map":{"area":{"name":"High Clerist Tower 1","slug":"high-clerist-tower-1"},"roomName":"The staircase shaft","map":"+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n| ###               ######   |\n| ..#               #....#   |\n| #.#               #.##.#   |\n| #.##########^######.#######|\n| #...*##......*#....*#.*..*#|\n| ####.#####.#####.########.#|\n| ####.#####.#####.####^###.#|\n| .*........*..*...........*.|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #*..*..*#|\n|          #.#      ####.####|\n| The staircase shaft        |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"a tower guard"},"slug":"a-tower-guards-cloak_2087"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1058,"stats":{"Name(s)":["blue","robe"],"Short":"a blue robe","Long":"A blue colored robe lies here.","Type":"armor","Flags":["none"],"Weight":"3 lbs","Value":2310,"Level to use":5,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[7,7,7,3],"Affects":[["hit roll","2"],["damage roll","2"],["hp","10"]]},"name":"a blue robe","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"A tailor shop","map":"+----------------------------+\n| Central Thelgaard          |\n| ###   ####.##.#   ###      |\n| .$#   #*##.##H#   #$#      |\n| ###   #.##.##.#   #.#      |\n| #######.##.##.#####.#      |\n| ....*..*..*..*..*..*#      |\n| ####.########.#####.#      |\n|    #.#      #.#   #.#      |\n|    #$#      #*#   #.#      |\n|    ###      ###   #.#      |\n| ######^##   ^##\"\"\"\"\"\"\"\"\"###|\n| ........#   #*.\"*\"\"\"\"\"*\"#*#|\n| ####....#   ###\"\"\"\"\"\"\"\"\"#.#|\n| ####....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| #$##....#   \"*\"   \"*\"\"*\"\"*\"|\n| #.##....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| A tailor shop              |\n+----------------------------+"},"wear":"body","source":{"type":"bought","location":"A tailor shop"},"slug":"a-blue-robe_1058"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1059,"stats":{"Name(s)":["silver","robe"],"Short":"a silver robe","Long":"A silver colored robe lies here.","Type":"armor","Flags":["none"],"Weight":"3 lbs","Value":2870,"Level to use":5,"Materials":["silver","cloth"],"Armor Type":"magic","Armor class":[7,7,7,3],"Affects":[["hit roll","2"],["damage roll","2"],["mana","10"]]},"name":"a silver robe","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"A tailor shop","map":"+----------------------------+\n| Central Thelgaard          |\n| ###   ####.##.#   ###      |\n| .$#   #*##.##H#   #$#      |\n| ###   #.##.##.#   #.#      |\n| #######.##.##.#####.#      |\n| ....*..*..*..*..*..*#      |\n| ####.########.#####.#      |\n|    #.#      #.#   #.#      |\n|    #$#      #*#   #.#      |\n|    ###      ###   #.#      |\n| ######^##   ^##\"\"\"\"\"\"\"\"\"###|\n| ........#   #*.\"*\"\"\"\"\"*\"#*#|\n| ####....#   ###\"\"\"\"\"\"\"\"\"#.#|\n| ####....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| #$##....#   \"*\"   \"*\"\"*\"\"*\"|\n| #.##....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| A tailor shop              |\n+----------------------------+"},"wear":"body","source":{"type":"bought","location":"A tailor shop"},"slug":"a-silver-robe_1059"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_30.txt","type":"item","id":766,"stats":{"Name(s)":["tattered","red","robes"],"Short":"tattered red robes","Long":"A smoldering and tattered robe rests here.","Type":"container","Flags":["none"],"Weight":"3 lbs","Value":1789,"Level to use":7,"Materials":["cloth","unknown material"],"Capacity":600,"Max Item":100,"Weighs":70,"Affects":[["damage roll","2"],["hit roll","2"],["wisdom","2"],["armor class","-5"]]},"name":"tattered red robes","map":{"area":{"name":"Bandit Area","slug":"bandit-area"},"roomName":"Cell","map":"+----------------------------+\n| Bandit Area                |\n|                      ~+~   |\n|                      ~*~   |\n|                      ~+~   |\n|                      @.@   |\n|                      @*@   |\n|                      @.@   |\n|             @@@~~~@@@#.#@@@|\n|             @*.+++.*..*..*.|\n|             @@@~~~@@@#.#@@@|\n|                      #.#   |\n|                      #*#   |\n|                      ##v   |\n|                            |\n|                            |\n|                            |\n| Cell                       |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"an elven mage"},"slug":"tattered-red-robes_766"},{"raw":"$15","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":125,"stats":{"Name(s)":["apron","cooks","cook"],"Short":"the cook's apron","Long":"The cook's apron is here, no stains!","Type":"armor","Flags":["none"],"Weight":"0 lbs, 1 oz","Value":10,"Level to use":10,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[1,1,1,1],"Affects":[["strength","2"],["constitution","2"],["dexterity","2"]]},"name":"the cook's apron","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Kitchen of House Dairness","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##*##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             ####.####      |\n| Kitchen of House Dairness  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"The cook of house dairness"},"slug":"the-cooks-apron_125"},{"raw":"$16","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_08.txt","type":"item","id":2112,"stats":{"Name(s)":["sacramental","robe"],"Short":"sacramental robes","Long":"A white sacramental robe catches your eye.","Type":"armor","Flags":["none"],"Weight":"2 lbs","Value":1000,"Level to use":15,"Materials":["cloth","unknown material"],"Armor Type":"magic","Armor class":[10,10,10,5],"Affects":[["hit roll","2"],["damage roll","2"]]},"name":"sacramental robes","map":{"area":{"name":"High Clerist Tower 2","slug":"high-clerist-tower-2"},"roomName":"A secret passage","map":"+----------------------------+\n| High Clerist Tower 2       |\n|    #.##.####               |\n|    |.|#....|               |\n|    #######.#               |\n|    #######.####            |\n|    #*....#...*#            |\n|    #.#####.####            |\n| ####.#####.####            |\n| #...*.....*..*#            |\n| ##v#.#####.##.#            |\n|    ^..#.##.##.#   ###      |\n|    #.....#..#*#   #.#      |\n|    ####.#####.#   #.#      |\n|       #.#   #.#####.#      |\n|       #.#   #...*..*#      |\n|       ##v   ####-####      |\n| A secret passage           |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"a priest"},"slug":"sacramental-robes_2112"},{"raw":"$17","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_04.txt","type":"item","id":1589,"stats":{"Name(s)":["cape","dwarven"],"Short":"a Dwarven cape","Long":"A heavy cloth cape lies in a heap here.","Type":"armor","Flags":["none"],"Weight":"3 lbs, 8 oz","Value":250,"Level to use":16,"Materials":["cloth","leather"],"Armor Type":"magic","Armor class":[10,10,10,0]},"name":"a Dwarven cape","map":{"area":{"name":"Dwarven Mine","slug":"dwarven-mine"},"roomName":"Upper Mountian","map":"+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #.#            |\n|             #.v            |\n|          ####.#            |\n|          #*..*#            |\n|          ######            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Upper Mountian             |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"a dwarf guard"},"slug":"a-dwarven-cape_1589"},{"raw":"$18","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_23.txt","type":"item","id":179,"stats":{"Name(s)":["shrouding","cloak","armor","albino"],"Short":"an Albino Shrouding Cloak","Long":"A lacey cloak made of a white-like material is here.","Type":"container","Flags":["closable","closed"],"Weight":"5 lbs","Value":7500,"Level to use":20,"Materials":["bone","silver"],"Capacity":250,"Max Item":100,"Weighs":45,"Affects":[["hp","20"],["damage roll","2"],["hit roll","2"],["mana","10"]]},"name":"an Albino Shrouding Cloak","map":{"area":{"name":"Tantallon","slug":"tantallon"},"roomName":"Balcombe's Tower","map":"+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Balcombe's Tower           |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Balcombe, the wizard"},"slug":"an-albino-shrouding-cloak_179"},{"raw":"$19","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_03.txt","type":"item","id":1417,"stats":{"Name(s)":["brashkal","emblem"],"Short":"the emblem of Brashkal","Long":"The emblem of Brashkal covered in dirt is here.","Type":"treasure","Flags":["glow","indestructible"],"Weight":"0 lbs, 8 oz","Value":450,"Level to use":31,"Materials":["steel","iron"],"Affects":[["damage roll","6"],["hit roll","1"],["dexterity","1"],["constitution","1"]]},"name":"the emblem of Brashkal","map":{"area":{"name":"Daemon's Ground, Graveyard","slug":"daemons-ground-graveyard"},"roomName":"Within the tomb of the de","map":"+----------------------------+\n| Daemon's Ground, Graveyard |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ######         |\n|             #*##*#         |\n|             #.##.#         |\n|             #.##.#         |\n|             #*..*#         |\n|             #####v         |\n|                            |\n|                            |\n|                            |\n| Within the tomb of the de  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"The spirit of Brashkal"},"slug":"the-emblem-of-brashkal_1417"},{"raw":"$1a","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_06.txt","type":"item","id":1736,"stats":{"Name(s)":["broad","red","sash"],"Short":"a broad, red sash","Long":"A broad, red sash lies here.","Type":"armor","Flags":["none"],"Weight":"1 lbs","Value":100,"Level to use":32,"Materials":["silk","cloth"],"Armor Type":"magic","Armor class":[9,9,9,9],"Affects":[["hit roll","4"],["damage roll","4"],["strength","2"],["dexterity","-1"]]},"name":"a broad, red sash","map":{"area":{"name":"Estwilde","slug":"estwilde"},"roomName":"In a burning field","map":"+----------------------------+\n| Estwilde                   |\n|                            |\n|                            |\n|                            |\n|                \"\"\"\"\"\"      |\n|                \"\"\"\"\"\"      |\n|                \"\"\"\"\"\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|             \"*\"\"\"\"\"*\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"\"\"            |\n| \"\"\"###\"\"\"\"\"\"               |\n| \"\"\"...\"\"\"\"\"\"               |\n| \"\"\"###\"\"\"\"\"\"               |\n| In a burning field         |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Gomja"},"slug":"a-broad-red-sash_1736"}]}]
+You [19047]: 'end dobril_id 1736'5:["$","$Ld",null,{"entries":[{"raw":"$e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_25.txt","type":"item","id":395,"stats":{"Name(s)":["cape","green","filthy"],"Short":"a filthy green cape","Long":"You see a pile of green rags on the floor","Type":"armor","Flags":["magic"],"Weight":"3 lbs","Value":1650,"Level to use":1,"Materials":["cloth","earth"],"Armor Type":"magic","Armor class":[1,2,1,1],"Affects":[["mana","28"],["intelligence","1"]]},"name":"a filthy green cape","map":{"area":{"name":"Goblin Stronghold","slug":"goblin-stronghold"},"roomName":"The Mage's quarters","map":"+----------------------------+\n| Goblin Stronghold          |\n|    #.##.##.##.####         |\n|    #*##*..*......#         |\n|    #######.#######         |\n|          #.#               |\n|          #*#               |\n|          #.#               |\n|       ####.####            |\n|       #*..*..*#            |\n|       #########            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| The Mage's quarters        |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Goblin Mage"},"slug":"a-filthy-green-cape_395"},{"raw":"$f","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_27.txt","type":"item","id":645,"stats":{"Name(s)":["flowing","cape"],"Short":"a flowing cape","Long":"A pile of cloth lies in a heap here.","Type":"armor","Flags":["none"],"Weight":"1 lbs, 8 oz","Value":72,"Level to use":1,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[10,10,20,10],"Affects":[["moves","20"]]},"name":"a flowing cape","map":{"area":{"name":"Mud School","slug":"mud-school"},"roomName":"North Wall of the Arena","map":"+----------------------------+\n| Mud School                 |\n|                #.#         |\n|                #.#         |\n|                #.#         |\n|             ###^.####      |\n|             #...$...#      |\n|             ####.v###      |\n|       ###^##^##^.#^##^##   |\n|       #......*.........#   |\n|       ####.............#   |\n|          ^..^..^..^..^.#   |\n|          #.............#   |\n|          #.............#   |\n|          ^..^..^..^..^.#   |\n|          #.............#   |\n|          #.......v.....#   |\n| North Wall of the Arena    |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"an elven warrior"},"slug":"a-flowing-cape_645"},{"raw":"$10","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_07.txt","type":"item","id":1901,"stats":{"Name(s)":["cape","deep","red"],"Short":"a deep red cape","Long":"A large cape laies bundled on the floor.","Type":"armor","Flags":["anti-neutral","noremove","indestructible"],"Weight":"2 lbs, 3 oz","Value":17,"Level to use":1,"Materials":["cloth","hair"],"Armor Type":"magic","Armor class":[8,8,8,7],"Affects":[["strength","1"]]},"name":"a deep red cape","map":{"area":{"name":"Goblin Caverns","slug":"goblin-caverns"},"roomName":"Feast Room","map":"+----------------------------+\n| Goblin Caverns             |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ###            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Feast Room                 |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"A surveying hobgoblin"},"slug":"a-deep-red-cape_1901"},{"raw":"$11","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_08.txt","type":"item","id":2087,"stats":{"Name(s)":["tower","guard","cloak"],"Short":"a tower guard's cloak","Long":"A cloak embossed with the symbol of the high clerist!","Type":"armor","Flags":["magic"],"Weight":"0 lbs","Value":3000,"Level to use":2,"Materials":["cloth","silver"],"Armor Type":"magic","Armor class":[8,8,8,1]},"name":"a tower guard's cloak","map":{"area":{"name":"High Clerist Tower 1","slug":"high-clerist-tower-1"},"roomName":"The staircase shaft","map":"+----------------------------+\n| High Clerist Tower 1       |\n|                            |\n|                            |\n|                            |\n| ###               ######   |\n| ..#               #....#   |\n| #.#               #.##.#   |\n| #.##########^######.#######|\n| #...*##......*#....*#.*..*#|\n| ####.#####.#####.########.#|\n| ####.#####.#####.####^###.#|\n| .*........*..*...........*.|\n| ##########.##############.#|\n|          #.#      #..#.#..#|\n|          #.#      #*..*..*#|\n|          #.#      ####.####|\n| The staircase shaft        |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"a tower guard"},"slug":"a-tower-guards-cloak_2087"},{"raw":"$12","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_10.txt","type":"item","id":2254,"stats":{"Name(s)":["robe","feather"],"Short":"a feather robe","Long":"A robe maid of brilliant tropical bird plumage is here.","Type":"armor","Flags":["none"],"Weight":"0 lbs, 12 oz","Value":1000,"Level to use":3,"Materials":["cloth","unknown material"],"Armor Type":"magic","Armor class":[5,8,6,5]},"name":"a feather robe","map":{"area":{"name":"Isles of the Pirate Lords","slug":"isles-of-the-pirate-lords"},"roomName":"In the Savage Camp","map":"+----------------------------+\n| Isles of the Pirate Lords  |\n|                         ~~~|\n|                         ~~~|\n|                         ~~~|\n|             \"\"\"@@@@@@   ~~~|\n|             \"nn.....@   ~~~|\n|             \"nn..@@.@   ~~~|\n|             @....@@.@^@@~~~|\n|             @*..*@@....@~~~|\n|             @@@@@@@.@@@@~~~|\n|             @@@@@@@.@~~~~~~|\n|             @.......@~~~~~~|\n|             @@@@....@~~~~~v|\n|                @..\"\"\"~~~~~~|\n|                @..\"$\"~~~~*~|\n|                @@@\"\"\"~~~~~~|\n| In the Savage Camp         |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Chief Unga-Bunga"},"slug":"a-feather-robe_2254"},{"raw":"$13","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1058,"stats":{"Name(s)":["blue","robe"],"Short":"a blue robe","Long":"A blue colored robe lies here.","Type":"armor","Flags":["none"],"Weight":"3 lbs","Value":2310,"Level to use":5,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[7,7,7,3],"Affects":[["hit roll","2"],["damage roll","2"],["hp","10"]]},"name":"a blue robe","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"A tailor shop","map":"+----------------------------+\n| Central Thelgaard          |\n| ###   ####.##.#   ###      |\n| .$#   #*##.##H#   #$#      |\n| ###   #.##.##.#   #.#      |\n| #######.##.##.#####.#      |\n| ....*..*..*..*..*..*#      |\n| ####.########.#####.#      |\n|    #.#      #.#   #.#      |\n|    #$#      #*#   #.#      |\n|    ###      ###   #.#      |\n| ######^##   ^##\"\"\"\"\"\"\"\"\"###|\n| ........#   #*.\"*\"\"\"\"\"*\"#*#|\n| ####....#   ###\"\"\"\"\"\"\"\"\"#.#|\n| ####....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| #$##....#   \"*\"   \"*\"\"*\"\"*\"|\n| #.##....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| A tailor shop              |\n+----------------------------+"},"wear":"body","source":{"type":"bought","location":"A tailor shop"},"slug":"a-blue-robe_1058"},{"raw":"$14","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_01.txt","type":"item","id":1059,"stats":{"Name(s)":["silver","robe"],"Short":"a silver robe","Long":"A silver colored robe lies here.","Type":"armor","Flags":["none"],"Weight":"3 lbs","Value":2870,"Level to use":5,"Materials":["silver","cloth"],"Armor Type":"magic","Armor class":[7,7,7,3],"Affects":[["hit roll","2"],["damage roll","2"],["mana","10"]]},"name":"a silver robe","map":{"area":{"name":"Central Thelgaard","slug":"central-thelgaard"},"roomName":"A tailor shop","map":"+----------------------------+\n| Central Thelgaard          |\n| ###   ####.##.#   ###      |\n| .$#   #*##.##H#   #$#      |\n| ###   #.##.##.#   #.#      |\n| #######.##.##.#####.#      |\n| ....*..*..*..*..*..*#      |\n| ####.########.#####.#      |\n|    #.#      #.#   #.#      |\n|    #$#      #*#   #.#      |\n|    ###      ###   #.#      |\n| ######^##   ^##\"\"\"\"\"\"\"\"\"###|\n| ........#   #*.\"*\"\"\"\"\"*\"#*#|\n| ####....#   ###\"\"\"\"\"\"\"\"\"#.#|\n| ####....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| #$##....#   \"*\"   \"*\"\"*\"\"*\"|\n| #.##....#   \"\"\"   \"\"\"\"\"\"\"\"\"|\n| A tailor shop              |\n+----------------------------+"},"wear":"body","source":{"type":"bought","location":"A tailor shop"},"slug":"a-silver-robe_1059"},{"raw":"$15","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_30.txt","type":"item","id":766,"stats":{"Name(s)":["tattered","red","robes"],"Short":"tattered red robes","Long":"A smoldering and tattered robe rests here.","Type":"container","Flags":["none"],"Weight":"3 lbs","Value":1789,"Level to use":7,"Materials":["cloth","unknown material"],"Capacity":600,"Max Item":100,"Weighs":70,"Affects":[["damage roll","2"],["hit roll","2"],["wisdom","2"],["armor class","-5"]]},"name":"tattered red robes","map":{"area":{"name":"Bandit Area","slug":"bandit-area"},"roomName":"Cell","map":"+----------------------------+\n| Bandit Area                |\n|                      ~+~   |\n|                      ~*~   |\n|                      ~+~   |\n|                      @.@   |\n|                      @*@   |\n|                      @.@   |\n|             @@@~~~@@@#.#@@@|\n|             @*.+++.*..*..*.|\n|             @@@~~~@@@#.#@@@|\n|                      #.#   |\n|                      #*#   |\n|                      ##v   |\n|                            |\n|                            |\n|                            |\n| Cell                       |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"an elven mage"},"slug":"tattered-red-robes_766"},{"raw":"$16","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_22.txt","type":"item","id":125,"stats":{"Name(s)":["apron","cooks","cook"],"Short":"the cook's apron","Long":"The cook's apron is here, no stains!","Type":"armor","Flags":["none"],"Weight":"0 lbs, 1 oz","Value":10,"Level to use":10,"Materials":["cloth","silk"],"Armor Type":"magic","Armor class":[1,1,1,1],"Affects":[["strength","2"],["constitution","2"],["dexterity","2"]]},"name":"the cook's apron","map":{"area":{"name":"Southwest Palanthas","slug":"southwest-palanthas"},"roomName":"Kitchen of House Dairness","map":"+----------------------------+\n| Southwest Palanthas        |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###^#####      |\n|             #*##*##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.......#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             #.##.##.#      |\n|             ####.####      |\n| Kitchen of House Dairness  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"The cook of house dairness"},"slug":"the-cooks-apron_125"},{"raw":"$17","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_10.txt","type":"item","id":2233,"stats":{"Name(s)":["cloak","looting"],"Short":"the cloak of looting","Long":"You see a suspicious looking cloak here. Hmmm.","Type":"armor","Flags":["invis","magic"],"Weight":"0 lbs, 6 oz","Value":3000,"Level to use":11,"Materials":["cloth","unknown material"],"Armor Type":"magic","Armor class":[9,9,9,0],"Affects":[["armor class","-10"],["moves","50"],["dexterity","2"]]},"name":"the cloak of looting","map":{"area":{"name":"Isles of the Pirate Lords","slug":"isles-of-the-pirate-lords"},"roomName":"In the Hall of the Pirate","map":"+----------------------------+\n| Isles of the Pirate Lords  |\n|          #.#               |\n|          #*#               |\n|          #.#               |\n|          #.####            |\n|          #....#            |\n|          ####.#            |\n|             ^.####         |\n|             |*...#         |\n|             ######         |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| In the Hall of the Pirate  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Redbeard"},"slug":"the-cloak-of-looting_2233"},{"raw":"$18","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_08.txt","type":"item","id":2112,"stats":{"Name(s)":["sacramental","robe"],"Short":"sacramental robes","Long":"A white sacramental robe catches your eye.","Type":"armor","Flags":["none"],"Weight":"2 lbs","Value":1000,"Level to use":15,"Materials":["cloth","unknown material"],"Armor Type":"magic","Armor class":[10,10,10,5],"Affects":[["hit roll","2"],["damage roll","2"]]},"name":"sacramental robes","map":{"area":{"name":"High Clerist Tower 2","slug":"high-clerist-tower-2"},"roomName":"A secret passage","map":"+----------------------------+\n| High Clerist Tower 2       |\n|    #.##.####               |\n|    |.|#....|               |\n|    #######.#               |\n|    #######.####            |\n|    #*....#...*#            |\n|    #.#####.####            |\n| ####.#####.####            |\n| #...*.....*..*#            |\n| ##v#.#####.##.#            |\n|    ^..#.##.##.#   ###      |\n|    #.....#..#*#   #.#      |\n|    ####.#####.#   #.#      |\n|       #.#   #.#####.#      |\n|       #.#   #...*..*#      |\n|       ##v   ####-####      |\n| A secret passage           |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"a priest"},"slug":"sacramental-robes_2112"},{"raw":"$19","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_10.txt","type":"item","id":2289,"stats":{"Name(s)":["robe","hawklord","hawk","lord"],"Short":"the robe of the Hawklord","Long":"A vest made of a bright blue fine chain mesh hovers here.","Type":"container","Flags":["none"],"Weight":"0 lbs, 8 oz","Value":2500,"Level to use":16,"Materials":["cloth","steel"],"Capacity":100,"Max Item":25,"Affects":[["armor class","-10"],["damage roll","3"],["hit roll","3"]],"Weighs":100},"name":"the robe of the Hawklord","map":{"area":{"name":"Isles of the Pirate Lords","slug":"isles-of-the-pirate-lords"},"roomName":"In the Calm Air Beneath t","map":"+----------------------------+\n| Isles of the Pirate Lords  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ~~~^~~         |\n|             ~*+++~         |\n|             ~++++~         |\n|             ~++++~         |\n|             ~++++~         |\n|             ~~v~~~         |\n|                            |\n|                            |\n|                            |\n| In the Calm Air Beneath t  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"the hawklord"},"slug":"the-robe-of-the-hawklord_2289"},{"raw":"$1a","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_04.txt","type":"item","id":1589,"stats":{"Name(s)":["cape","dwarven"],"Short":"a Dwarven cape","Long":"A heavy cloth cape lies in a heap here.","Type":"armor","Flags":["none"],"Weight":"3 lbs, 8 oz","Value":250,"Level to use":16,"Materials":["cloth","leather"],"Armor Type":"magic","Armor class":[10,10,10,0]},"name":"a Dwarven cape","map":{"area":{"name":"Dwarven Mine","slug":"dwarven-mine"},"roomName":"Upper Mountian","map":"+----------------------------+\n| Dwarven Mine               |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #.#            |\n|             #.v            |\n|          ####.#            |\n|          #*..*#            |\n|          ######            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Upper Mountian             |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"a dwarf guard"},"slug":"a-dwarven-cape_1589"},{"raw":"$1b","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2024_12_23.txt","type":"item","id":179,"stats":{"Name(s)":["shrouding","cloak","armor","albino"],"Short":"an Albino Shrouding Cloak","Long":"A lacey cloak made of a white-like material is here.","Type":"container","Flags":["closable","closed"],"Weight":"5 lbs","Value":7500,"Level to use":20,"Materials":["bone","silver"],"Capacity":250,"Max Item":100,"Weighs":45,"Affects":[["hp","20"],["damage roll","2"],["hit roll","2"],["mana","10"]]},"name":"an Albino Shrouding Cloak","map":{"area":{"name":"Tantallon","slug":"tantallon"},"roomName":"Balcombe's Tower","map":"+----------------------------+\n| Tantallon                  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ###            |\n|             #*#            |\n|             ##v            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n| Balcombe's Tower           |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Balcombe, the wizard"},"slug":"an-albino-shrouding-cloak_179"},{"raw":"$1c","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_10.txt","type":"item","id":2325,"stats":{"Name(s)":["cloak","fur","skin"],"Short":"a fur skin cloak","Long":"A white fur skin cloak is here.","Type":"armor","Flags":["none"],"Weight":"0 lbs, 11 oz","Value":800,"Level to use":21,"Materials":["leather","hair"],"Armor Type":"magic","Armor class":[8,11,13,5]},"name":"a fur skin cloak","map":{"area":{"name":"Isles of the Pirate Lords","slug":"isles-of-the-pirate-lords"},"roomName":"Sliding Down an Icy Shoot","map":"+----------------------------+\n| Isles of the Pirate Lords  |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|          ######            |\n|          #*##*#            |\n|          ######            |\n|          ######            |\n|          #*##*#            |\n|          #####v            |\n|                            |\n|                            |\n|                            |\n| Sliding Down an Icy Shoot  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"the pirate in fur skins"},"slug":"a-fur-skin-cloak_2325"},{"raw":"$1d","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_03.txt","type":"item","id":1417,"stats":{"Name(s)":["brashkal","emblem"],"Short":"the emblem of Brashkal","Long":"The emblem of Brashkal covered in dirt is here.","Type":"treasure","Flags":["glow","indestructible"],"Weight":"0 lbs, 8 oz","Value":450,"Level to use":31,"Materials":["steel","iron"],"Affects":[["damage roll","6"],["hit roll","1"],["dexterity","1"],["constitution","1"]]},"name":"the emblem of Brashkal","map":{"area":{"name":"Daemon's Ground, Graveyard","slug":"daemons-ground-graveyard"},"roomName":"Within the tomb of the de","map":"+----------------------------+\n| Daemon's Ground, Graveyard |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|                            |\n|             ######         |\n|             #*##*#         |\n|             #.##.#         |\n|             #.##.#         |\n|             #*..*#         |\n|             #####v         |\n|                            |\n|                            |\n|                            |\n| Within the tomb of the de  |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"The spirit of Brashkal"},"slug":"the-emblem-of-brashkal_1417"},{"raw":"$1e","filename":"/mnt/c/Users/jason/Documents/mushclient/log_2025_01_06.txt","type":"item","id":1736,"stats":{"Name(s)":["broad","red","sash"],"Short":"a broad, red sash","Long":"A broad, red sash lies here.","Type":"armor","Flags":["none"],"Weight":"1 lbs","Value":100,"Level to use":32,"Materials":["silk","cloth"],"Armor Type":"magic","Armor class":[9,9,9,9],"Affects":[["hit roll","4"],["damage roll","4"],["strength","2"],["dexterity","-1"]]},"name":"a broad, red sash","map":{"area":{"name":"Estwilde","slug":"estwilde"},"roomName":"In a burning field","map":"+----------------------------+\n| Estwilde                   |\n|                            |\n|                            |\n|                            |\n|                \"\"\"\"\"\"      |\n|                \"\"\"\"\"\"      |\n|                \"\"\"\"\"\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|             \"*\"\"\"\"\"*\"      |\n|             \"\"\"\"\"\"\"\"\"      |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"\"\"            |\n|          \"\"\"\"\"\"            |\n| \"\"\"###\"\"\"\"\"\"               |\n| \"\"\"...\"\"\"\"\"\"               |\n| \"\"\"###\"\"\"\"\"\"               |\n| In a burning field         |\n+----------------------------+"},"wear":"body","source":{"type":"looted","mob":"Gomja"},"slug":"a-broad-red-sash_1736"}]}]
 b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dobril | all equipment worn in the body slot"}],["$","meta","2",{"name":"description","content":"a list of all of the equipment worn in the body slot"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 7:null
